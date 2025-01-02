@@ -1,0 +1,1 @@
+Bangla VQA with *Manually* Annotated dataset. 

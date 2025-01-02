@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "vqa-next"
+version = "0.1.0"
+description = ""
+authors = ["Sourove <souroveskb@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+streamlit = "^1.41.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

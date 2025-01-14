@@ -3,7 +3,7 @@ import json
 import csv
 
 
-IMAGE_DIR = r'/mnt/c/Users/User/Desktop/images/images'
+IMAGE_DIR = r'/mnt/c/Users/User/Desktop/images/'
 
 
 image_filenames = [f for f in os.listdir(IMAGE_DIR) if os.path.isfile(os.path.join(IMAGE_DIR, f))]

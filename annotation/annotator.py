@@ -7,6 +7,9 @@ import json
 st.set_page_config(page_title="Image Viewer", layout="centered")
 
 
+CATEGORIES = ['Food', 'Festivals: Weddings and so on', 'Religion', 'Nature', 'Clothing and Fashion', 'Sports', 'Daily Social Life', 'Arts', 'Incident based'] 
+
+
 
 if "current_folder" not in st.session_state:
     st.session_state.current_folder = ""
@@ -31,13 +34,13 @@ folder_path = st.sidebar.text_input(
 )
 
 json_progress_file = st.sidebar.file_uploader(
-    "Upload the JSON file", 
+    "Upload the progress JSON file to resume annotation", 
     type=['json'],
     help="Select the JSON file containing progress info."
 )
 
 relevant_json_file = st.sidebar.file_uploader(
-    "Upload the JSON file", 
+    "Upload the Relevant JSON file", 
     type=['json'],
     help="Select the JSON file containing relevant and annotated data."
 )
@@ -46,7 +49,7 @@ relevant_json_file = st.sidebar.file_uploader(
 # json_progress_file = st.sidebar.file_uploader("Upload the JSON file", type=['json'])
 
 if relevant_json_file is not None:
-    st.session_state.relevant_data = json.load(json_progress_file)    
+    st.session_state.relevant_data = json.load(relevant_json_file)    
     
 if json_progress_file is not None:
     st.session_state.json_progress = json.load(json_progress_file)    
@@ -108,18 +111,29 @@ else:
               
         json_data = {}        
         questions = st.text_input(label="Insert Question", value="")
-        answers = st.text_input(label="Insert Answer", value="")
-        category = st.selectbox(label="Category", options=['Nature', 'Food and Cooking', 'Festival', 'Clothing'])
+        option_a = st.text_input(label="Option A", value="")
+        option_b = st.text_input(label="Option B", value="")
+        option_c = st.text_input(label="Option C", value="")
+        option_d = st.text_input(label="Option D", value="")
+        
+
+        # answer = st.text_input(label="Insert Answer", value="")
+        category = st.selectbox(label="Category", options=CATEGORIES)
+        
+        answer = ""
+        if option_a != "" and option_b != "" and option_c != "" and option_d != "":
+            answer = st.selectbox(label="Answer", options=[option_a, option_b, option_c, option_d])        
         
         json_data ={
             "filename": image_name,
             "question": questions,
-            "answer": answers,
+            "options": [option_a, option_b, option_c, option_d],
+            "answer": answer,
             "category": category
         }
         
         
-        if questions != "" and answers != "":
+        if questions != "" and answer != "":
             if st.button("Save"):
                 st.session_state.relevant_data.append(json_data)   
                                 
@@ -134,7 +148,7 @@ else:
             else:
                 pass
  
-    st.write(f"Image {st.session_state.current_index} of {len(st.session_state.images)}")
+    st.write(f"Image {st.session_state.current_index+1} of {len(st.session_state.images)}")
     
 
 

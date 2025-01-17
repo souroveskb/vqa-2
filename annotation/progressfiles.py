@@ -3,8 +3,8 @@ import json
 import csv
 
 
-IMAGE_DIR = r'/mnt/c/Users/User/Desktop/images/'
-
+IMAGE_DIR = r'/mnt/c/Users/User/Pictures/sample images'
+JSON_NAME = IMAGE_DIR.split('/')[-1] + '.json'
 
 image_filenames = [f for f in os.listdir(IMAGE_DIR) if os.path.isfile(os.path.join(IMAGE_DIR, f))]
 
@@ -17,15 +17,15 @@ for filename in image_filenames:
         'relevance': None
     })
 
-
-with open('resource/progress.json', 'w') as json_file:
+# print(JSON_NAME)
+with open(f'resource/{JSON_NAME}', 'w') as json_file:
     json.dump(json_data, json_file, indent=4)
 
 
-with open('resource/progress.csv', 'w', newline='') as csv_file:
-    csv_writer = csv.writer(csv_file)
+# with open(f'resource/{JSON_NAME}', 'w', newline='') as csv_file:
+#     csv_writer = csv.writer(csv_file)
     
-    csv_writer.writerow(['filename', 'progress', 'relevance'])
+#     csv_writer.writerow(['filename', 'progress', 'relevance'])
     
-    for filename in image_filenames:
-        csv_writer.writerow([filename, 0, None])
+#     for filename in image_filenames:
+#         csv_writer.writerow([filename, 0, None])

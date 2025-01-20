@@ -1,14 +1,11 @@
 import streamlit as st
 import os
 import json
-# from streamlit_keydown import keydown
-# from relevant_generator import append_to_json
 
 st.set_page_config(page_title="Image Viewer", layout="centered")
 
 
-CATEGORIES = ['Food', 'Festivals: Weddings and so on', 'Religion', 'Nature', 'Clothing and Fashion', 'Sports', 'Daily Social Life', 'Arts', 'Incident based'] 
-
+CATEGORIES = ['Food', 'Cultural Festivals', 'Religious Events', 'Nature', 'Clothing & Fashion', 'Sports', 'Social Life', 'Arts & History', 'Incidents'] 
 
 
 if "current_folder" not in st.session_state:
@@ -23,6 +20,10 @@ if "relevant_data" not in st.session_state:
     st.session_state.relevant_data = []
 if "show_relevant_form" not in st.session_state:
     st.session_state.show_relevant_form = False
+if "progress_uploaded" not in st.session_state:
+    st.session_state.progress_uploaded = False
+if "relevant_uploaded" not in st.session_state:
+    st.session_state.relevant_uploaded = False
 
 
 st.sidebar.title("Image Viewer Controls")
@@ -45,15 +46,13 @@ relevant_json_file = st.sidebar.file_uploader(
     help="Select the JSON file containing relevant and annotated data."
 )
 
-# csv_progress = st.sidebar.file_uploader("Upload the CSV file", type=['csv'])
-# json_progress_file = st.sidebar.file_uploader("Upload the JSON file", type=['json'])
-
-if relevant_json_file is not None:
+if relevant_json_file is not None and st.session_state.relevant_uploaded == False:
     st.session_state.relevant_data = json.load(relevant_json_file)    
+    st.session_state.relevant_uploaded = True
     
-if json_progress_file is not None:
+if json_progress_file is not None and st.session_state.progress_uploaded == False:
     st.session_state.json_progress = json.load(json_progress_file)    
-    # st.sidebar.write(st.session_state.json_progress)
+    st.session_state.progress_uploaded = True
   
 
 if folder_path != st.session_state.current_folder and json_progress_file is not None:
@@ -64,7 +63,6 @@ if folder_path != st.session_state.current_folder and json_progress_file is not 
     if os.path.isdir(folder_path):
         images_list = [item["filename"] for item in st.session_state.json_progress if item["progress"] == 0]
         st.session_state.images = images_list
-        # print(images_list)
     else:
         st.session_state.images = []
         
@@ -78,14 +76,14 @@ if not st.session_state.images:
 else:    
     total_images = len(st.session_state.images)
     
+    image_name = ""
     if st.session_state.current_index < total_images:
         image_name = st.session_state.images[st.session_state.current_index]
         image_path = os.path.join(st.session_state.current_folder, image_name)
     
     else:
         st.session_state.images = []
-        # image_name = st.session_state.images[st.session_state.current_index % total_images]
-        # image_path = os.path.join("") #st.session_state.current_folder, image_name
+        
         st.subheader("No more images available.")
         st.rerun()
         
@@ -101,10 +99,21 @@ else:
     
         if relevant_btn:
             st.session_state.show_relevant_form = True
+            for item in st.session_state.json_progress:
+                if item["filename"] == image_name:
+                    item["progress"] = 1
+                    item["relevance"] = 1
+                    break
+                
             st.rerun()
         
         elif irrelevant_btn:
             st.session_state.current_index = st.session_state.current_index + 1
+            for item in st.session_state.json_progress:
+                if item["filename"] == image_name:
+                    item["progress"] = 1
+                    item["relevance"] = 0
+                    break
             st.rerun()
     
     if st.session_state.show_relevant_form:
@@ -117,7 +126,6 @@ else:
         option_d = st.text_input(label="Option D", value="")
         
 
-        # answer = st.text_input(label="Insert Answer", value="")
         category = st.selectbox(label="Category", options=CATEGORIES)
         
         answer = ""
@@ -136,11 +144,7 @@ else:
         if questions != "" and answer != "":
             if st.button("Save"):
                 st.session_state.relevant_data.append(json_data)   
-                                
-                st.session_state.json_progress[:]["filename" == image_name]["progress"] = 1
-                st.session_state.json_progress[:]["filename" == image_name]["relevance"] = 1
-                print("saved current index: " , st.session_state.current_index)
-
+                # print(st.session_state.relevant_data)
                 st.session_state.current_index = st.session_state.current_index + 1
                 st.session_state.show_relevant_form = False
                 st.rerun()

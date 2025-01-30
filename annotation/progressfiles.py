@@ -3,7 +3,8 @@ import json
 import csv
 
 
-IMAGE_DIR = r'/mnt/c/Users/User/Pictures/sample images'
+# IMAGE_DIR = r'/mnt/c/Users/User/Pictures/sample images'
+IMAGE_DIR = r'/media/penta/1270D31B70D303FF/Split_images/chunk_11'
 JSON_NAME = IMAGE_DIR.split('/')[-1] + '.json'
 
 image_filenames = [f for f in os.listdir(IMAGE_DIR) if os.path.isfile(os.path.join(IMAGE_DIR, f))]

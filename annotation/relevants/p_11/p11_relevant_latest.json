@@ -1,0 +1,3470 @@
+[
+    {
+        "filename": "BNATURE_1.jpg",
+        "question": "বাংলাদেশের খড়কুটোর বাড়ির পাশে থাকা বাচ্চারা কী করছে?",
+        "options": [
+            "খেলছে",
+            "দাঁড়িয়ে আছে",
+            "দৌড়াচ্ছে",
+            "গান গাচ্ছে"
+        ],
+        "answer": "দাঁড়িয়ে আছে",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BORNON_1002.jpg",
+        "question": "পাহাড়ি এলাকায় এমন কী আছে যা শহরে দেখা যায় না?",
+        "options": [
+            " পাখি",
+            " বাড়ি",
+            "ঝরনা",
+            " গাড়ি"
+        ],
+        "answer": "ঝরনা",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_101.jpg",
+        "question": "বাংলাদেশের শহরের ব্যস্ত জীবন থেকে বের হয়ে বন্ধুরা কোথায় গল্প করছে?",
+        "options": [
+            "পার্কে",
+            "ট্রেন লাইনে",
+            "কফি শপে",
+            "খেলার মাঠে"
+        ],
+        "answer": "ট্রেন লাইনে",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BORNON_1010.jpg",
+        "question": " গ্রামের এলাকায় ছবিতে কোন ধরনের বাড়ি দেখা যাচ্ছে?",
+        "options": [
+            " টিনের বাড়ি",
+            "সেমি-কনক্রিট বাড়ি",
+            "খড়ের বাড়ি",
+            "পাকা বাড়ি"
+        ],
+        "answer": " টিনের বাড়ি",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BORNON_1013.jpg",
+        "question": " দুর্গা পূজা বাংলাদেশে কোন ধর্মের মানুষের অনুষ্ঠান?",
+        "options": [
+            " মুসলিম",
+            " হিন্দু",
+            "বৌদ্ধ",
+            "খ্রিষ্টান"
+        ],
+        "answer": " হিন্দু",
+        "category": "Religious Events"
+    },
+    {
+        "filename": "BORNON_1015.jpg",
+        "question": " হিন্দু ধর্মের সবচেয়ে বড় অনুষ্ঠান কোনটি?",
+        "options": [
+            " দুর্গা পূজা",
+            " লক্ষী পূজা",
+            "শিবরাত্রি",
+            "কালী পূজা"
+        ],
+        "answer": " দুর্গা পূজা",
+        "category": "Religious Events"
+    },
+    {
+        "filename": "BORNON_1016.jpg",
+        "question": "সাদ বাগানে সৌন্দর্য বৃদ্ধি করার জন্য গোলাপ ফুলের রঙ কী?",
+        "options": [
+            "সাদা",
+            "লাল",
+            "হলুদ",
+            "গোলাপি"
+        ],
+        "answer": "লাল",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_1017.jpg",
+        "question": " বাংলাদেশে ঝরনা কোথায় পাওয়া যায়?",
+        "options": [
+            "বরিশাল",
+            "ঢাকা",
+            "খুলনা",
+            "সিলেট"
+        ],
+        "answer": "সিলেট",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_1021.jpg",
+        "question": " ছবিতে দেখা যাচ্ছে বিখ্যাত একটি ওষুধ কোম্পানির নাম কী?",
+        "options": [
+            " ইনসেপ্টা",
+            "স্কয়ার",
+            "অ্যাকমে",
+            "রেনাটা"
+        ],
+        "answer": "অ্যাকমে",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BORNON_1027.jpg",
+        "question": "বাংলাদেশের ছোট-বড় সকলের প্রিয় এক খেলা ছবিতে দেখা যাচ্ছে, সেটি কী?",
+        "options": [
+            "ক্রিকেট",
+            "ফুটবল",
+            "ভলিবল",
+            "লুডু"
+        ],
+        "answer": "লুডু",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BORNON_1047.jpg",
+        "question": "ছবিতে দেখা যাচ্ছে এমন একটি গাছ, যা গ্রামীণ এলাকার প্রতিদিনের চিত্র হিসেবে পরিচিত, সেটি কী?",
+        "options": [
+            " আম গাছ",
+            "কাঁঠাল গাছ",
+            " কলা গাছ",
+            "লিচু গাছ"
+        ],
+        "answer": " কলা গাছ",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_1052.jpg",
+        "question": "বাংলাদেশে কোন রঙের জবা ফুল বেশি দেখা যায়?",
+        "options": [
+            "সাদা",
+            "হলুদ",
+            "লাল",
+            "নীল"
+        ],
+        "answer": "লাল",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_1063.jpg",
+        "question": " অনুষ্ঠানে দেশি পোশাক পরা মেয়েরা কী করছে?",
+        "options": [
+            "গান গাইছে",
+            "খাবার নিচ্ছে",
+            "ছবি তুলছে",
+            "বসে আছে"
+        ],
+        "answer": "খাবার নিচ্ছে",
+        "category": "Cultural Festivals"
+    },
+    {
+        "filename": "BORNON_1069.jpg",
+        "question": "বাংলাদেশে বিদ্যুতের পিলার সাধারণত কোথায় বেশি দেখা যায়?",
+        "options": [
+            "বাজারে",
+            "মাঠে",
+            "নদীর পারে",
+            "রাস্তা"
+        ],
+        "answer": "রাস্তা",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BORNON_1091.jpg",
+        "question": "শহরের পাশ দিয়ে কী চলে যাচ্ছে?",
+        "options": [
+            "ট্রেন",
+            "সাইকেল",
+            "বিমান",
+            "নদী"
+        ],
+        "answer": "নদী",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_1097.jpg",
+        "question": "শরৎকালের সৌন্দর্য কোন ফুল?",
+        "options": [
+            "গোলাপ",
+            "মল্লিকা",
+            "কাশফুল",
+            "জবা"
+        ],
+        "answer": "কাশফুল",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_1098.jpg",
+        "question": "বাংলার নারীদের ঐতিহ্যবাহী বাহি পোশাক কি?",
+        "options": [
+            "সালোয়ার কামিজ",
+            "শাড়ি",
+            "লেহেঙ্গা",
+            "টপ ও স্কার্ট"
+        ],
+        "answer": "শাড়ি",
+        "category": "Arts & History"
+    },
+    {
+        "filename": "BORNON_110.jpg",
+        "question": "গ্রামের  শিশুরা পুকুরে কী করছে?",
+        "options": [
+            " গোসল করছে",
+            " মাছ ধরছে",
+            "সাঁতার কাটছে",
+            "পাথর সংগ্রহ করছে"
+        ],
+        "answer": " গোসল করছে",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BORNON_1124.jpg",
+        "question": "পাখিটিকে বাংলাদেশে কী বলা হয়?",
+        "options": [
+            "ডানা মেলা",
+            "খোকা পাখি",
+            " চড়াই",
+            " ফিঙে রাজা"
+        ],
+        "answer": " ফিঙে রাজা",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_124.jpg",
+        "question": "মানুষটি বট গাছের নিচে কী করছে?",
+        "options": [
+            "বসে আছে",
+            "খাচ্ছে",
+            "নামাজ পড়ছে",
+            "বই পড়ছে"
+        ],
+        "answer": "নামাজ পড়ছে",
+        "category": "Religious Events"
+    },
+    {
+        "filename": "BORNON_1101.jpg",
+        "question": "ছবিতে দেখানো বাংলাদেশের গ্রামের পরিবেশে রাতে বৃদ্ধা মহিলা কী করছে?",
+        "options": [
+            "বাচ্চাদের গল্প শোনাচ্ছে",
+            "রান্না করছে",
+            "হাঁটছে",
+            "পুকুরে পানি আনছে"
+        ],
+        "answer": "রান্না করছে",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BORNON_1106.jpg",
+        "question": "ছবিতে দেখানো জুলাই মাসের আন্দোলনে ছেলেদের পরিচয় কী?",
+        "options": [
+            "ছাত্র",
+            "শিক্ষক",
+            "কর্মী",
+            "নেতা"
+        ],
+        "answer": "ছাত্র",
+        "category": "Incidents"
+    },
+    {
+        "filename": "BORNON_1107.jpg",
+        "question": "সবগুলো মাছ যা ছবিতে দেখানো হয়েছে, সেগুলো বাংলাদেশে কোথায় পাওয়া যায় না?",
+        "options": [
+            "সমুদ্র",
+            "পুকুর",
+            "নদী",
+            "বিল"
+        ],
+        "answer": "সমুদ্র",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_1112.jpg",
+        "question": " ছবিতে বোরখা ও শাড়ি পরা মহিলারা কোন দেশের প্রতিফলন?",
+        "options": [
+            "বাংলাদেশ",
+            "আরব দেশ",
+            "আফগানিস্তান",
+            "পাকিস্তান"
+        ],
+        "answer": "বাংলাদেশ",
+        "category": "Clothing & Fashion"
+    },
+    {
+        "filename": "BORNON_1117.jpg",
+        "question": " আন্দোলনে দেখা যাওয়া বাংলাদেশের পতাকার  রং কী?",
+        "options": [
+            "সবুজ ,লাল",
+            "লাল ,নীল",
+            "নীল, সাদা",
+            "সাদা , হলুদ"
+        ],
+        "answer": "সবুজ ,লাল",
+        "category": "Incidents"
+    },
+    {
+        "filename": "BORNON_1125.jpg",
+        "question": "লুঙ্গি এবং শাড়ি পরা মানুষদের মাথায় ধানের বোঝা দেখে কী মনে হয়?",
+        "options": [
+            "কৃষক",
+            "ব্যবসায়ী",
+            "পর্যটক",
+            "শিক্ষক"
+        ],
+        "answer": "কৃষক",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BORNON_1130.jpg",
+        "question": "ঝিঁঝি পোকার সাথে সম্পর্কিত কোন খেলা জনপ্রিয়?",
+        "options": [
+            "ফুটবল",
+            "ক্রিকেট",
+            "বাস্কেটবল",
+            "হকি"
+        ],
+        "answer": "ক্রিকেট",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_1132.jpg",
+        "question": " নদীর পাশে বসে পাঞ্জাবি ও টুপি পরা মানুষটি কি করছে?",
+        "options": [
+            "খেলাধুলা করছে",
+            "প্রার্থনা করছে",
+            " গান গাইছে",
+            "ছবি তুলছে"
+        ],
+        "answer": "প্রার্থনা করছে",
+        "category": "Religious Events"
+    },
+    {
+        "filename": "BORNON_1135.jpg",
+        "question": "নদীর উপরে ব্রিজের সামনে কি দেখা যায়?",
+        "options": [
+            "গাড়ি",
+            "মাছ",
+            "ফুল",
+            "পাখি"
+        ],
+        "answer": "গাড়ি",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_1136.jpg",
+        "question": "ভিক্ষুক বয়স কেমন?",
+        "options": [
+            "যুবক",
+            "বাচ্চা",
+            "তরুণ",
+            "বৃদ্ধ বয়স"
+        ],
+        "answer": "বৃদ্ধ বয়স",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BORNON_1139.jpg",
+        "question": "নদীর পাশে কোন ধরনের নৌকা দেখা যায়?",
+        "options": [
+            "বড় নৌকা",
+            "ডিঙি নৌকা",
+            "সারি নৌকা",
+            "খালি নৌকা"
+        ],
+        "answer": "ডিঙি নৌকা",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_1145.jpg",
+        "question": "ছবিতে মোট কতো  ছাগল মাঠে বাধা ছিল?",
+        "options": [
+            "১",
+            "২",
+            "৩",
+            "৪"
+        ],
+        "answer": "২",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_116.jpg",
+        "question": "  কতজন বাংলাদেশি পুলিশ দেখা যাচ্ছে?",
+        "options": [
+            " ১",
+            "২",
+            "৩",
+            "৪"
+        ],
+        "answer": " ১",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BORNON_1169.jpg",
+        "question": " লুঙ্গি   পরা কৃষকের হাতে কী ?",
+        "options": [
+            "ধান",
+            "দা",
+            "পাখি",
+            "ছাগল"
+        ],
+        "answer": "ছাগল",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BORNON_117.jpg",
+        "question": "বট গাছটির বয়স কেমন হবে?",
+        "options": [
+            "২৫ বছর",
+            "৫ বছর",
+            "৫০ বছর",
+            " ১০০+ বছর"
+        ],
+        "answer": " ১০০+ বছর",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_1183.jpg",
+        "question": "গ্রাম বাংলার ছোট বাচ্চার কপালে কোন রঙের টিপ দেওয়া হয়?",
+        "options": [
+            "লাল",
+            "কালো",
+            "সবুজ",
+            "নীল"
+        ],
+        "answer": "কালো",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BORNON_119.jpg",
+        "question": "লাল শাড়ি পরা কে বসে আছে?",
+        "options": [
+            "শিক্ষক",
+            "যুবক",
+            "কৃষক",
+            "বধূ"
+        ],
+        "answer": "বধূ",
+        "category": "Clothing & Fashion"
+    },
+    {
+        "filename": "BORNON_1194.jpg",
+        "question": " প্রকৃতির মাঝে ট্রেন লাইনের উপরে কে দাঁড়িয়ে আছে?",
+        "options": [
+            "কৃষক",
+            "নারী",
+            "পুরুষ",
+            "বাচ্চা"
+        ],
+        "answer": "বাচ্চা",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_1198.jpg",
+        "question": "বর্ষি দিয়ে কী ধরা হয়?",
+        "options": [
+            "মাছ",
+            " পাখি",
+            "পিপঁড়ে",
+            "পাথর"
+        ],
+        "answer": "মাছ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BORNON_1203.jpg",
+        "question": "মানুষটি কোন রঙের বেলুন বিক্রি করছে?",
+        "options": [
+            "লাল",
+            "নীল",
+            "সবুজ",
+            "নানান রকম"
+        ],
+        "answer": "নানান রকম",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BORNON_128.jpg",
+        "question": "জুলাই আন্দোলনের সাথে সম্পর্কিত দেশ কোনটি?",
+        "options": [
+            "ভারত",
+            "বাংলাদেশ",
+            "পাকিস্তান",
+            "শ্রীলঙ্কা"
+        ],
+        "answer": "বাংলাদেশ",
+        "category": "Incidents"
+    },
+    {
+        "filename": "BORNON_129.jpg",
+        "question": "জুলাই আন্দোলনে ATN TV কার সাক্ষাৎকার নিচ্ছে?",
+        "options": [
+            "ছাত্র",
+            "শিক্ষক",
+            "মুক্তিযোদ্ধা",
+            "রাজনীতিবিদ"
+        ],
+        "answer": "ছাত্র",
+        "category": "Incidents"
+    },
+    {
+        "filename": "BORNON_131.jpg",
+        "question": "ভ্যানে  বসে লোকটি কোথায় যাচ্ছে?",
+        "options": [
+            "বাজার",
+            "হাসপাতালে",
+            "মন্দির",
+            "অফিস"
+        ],
+        "answer": "অফিস",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BORNON_133.jpg",
+        "question": "উপদেষ্টা আসিফ বক্তৃতা দিচ্ছেন কাদের উদ্দেশ্যে?",
+        "options": [
+            "ছাত্রদের",
+            "শিক্ষকদের",
+            "সমাজকর্মীদের",
+            "অভিভাবকদের"
+        ],
+        "answer": "ছাত্রদের",
+        "category": "Incidents"
+    },
+    {
+        "filename": "BORNON_1332.jpg",
+        "question": "গাধা ফুলটির রং কী?",
+        "options": [
+            "হলুদ",
+            "লাল",
+            "সাদা",
+            "নীল"
+        ],
+        "answer": "হলুদ",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_1344.jpg",
+        "question": "প্রজাপতি কী থেকে মধু সংগ্রহ করে?",
+        "options": [
+            "ফুল",
+            "মাটি",
+            "ফল",
+            "শিকড়"
+        ],
+        "answer": "ফুল",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_135.jpg",
+        "question": "কক্সবাজার সমুদ্র সৈকতে কে দাঁড়িয়ে আছে?",
+        "options": [
+            "জেলে",
+            "পর্যটক",
+            "বৃদ্ধ",
+            "শিশু"
+        ],
+        "answer": "শিশু",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_1436.jpg",
+        "question": "শিশুরা পুকুরে কী করছে?",
+        "options": [
+            "মাছ ধরছে",
+            "কাপড় কাচছে",
+            "খেলাধুলা করছে",
+            "গোসল করছে"
+        ],
+        "answer": "গোসল করছে",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BORNON_146.jpg",
+        "question": "বিশাল বড় বটগাছের নিচে দাঁড়িয়ে পরবর্তী কী করছে?",
+        "options": [
+            " বই পড়ছে",
+            "গান গাইছে",
+            "খেলা করছে",
+            "ফটোগ্রাফি করছে"
+        ],
+        "answer": "ফটোগ্রাফি করছে",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BORNON_1522.jpg",
+        "question": "ছবিটি কোন খেলার সাথে সম্পর্কিত?",
+        "options": [
+            "ক্রিকেট",
+            "ফুটবল",
+            "বাস্কেটবল",
+            "ব্যাডমিন্টন"
+        ],
+        "answer": "বাস্কেটবল",
+        "category": "Sports"
+    },
+    {
+        "filename": "BORNON_1548.jpg",
+        "question": "কক্সবাজার সমুদ্র সৈকতে কতজন মানুষ দেখা যাচ্ছে?",
+        "options": [
+            "একজন",
+            "দুজন",
+            "পাঁচজন",
+            "একজনও না"
+        ],
+        "answer": "একজনও না",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_155.jpg",
+        "question": "লুঙ্গি, পাঞ্জাবি ও শাড়ি পরা বৃদ্ধরা কিসে বসে আছে?",
+        "options": [
+            " নৌকা",
+            " ট্রেন",
+            "বাস",
+            "রিকশা"
+        ],
+        "answer": " ট্রেন",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BORNON_1553.jpg",
+        "question": "পানিতে কী দেখা যায়?",
+        "options": [
+            "নৌকা",
+            "গাড়ি",
+            "গাছ",
+            "সেতু"
+        ],
+        "answer": "নৌকা",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_1554.jpg",
+        "question": " নদীতে ডিঙি নৌকায় কতজন মানুষ বসে আছেন?",
+        "options": [
+            "একজন",
+            "দুইজন",
+            "তিনজন",
+            "কেউ নেই"
+        ],
+        "answer": "একজন",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_1555.jpg",
+        "question": "ফেরির উপর বসে কী করা হচ্ছে?",
+        "options": [
+            "গল্প করা",
+            "খাওয়া",
+            "নামাজ পড়া",
+            "ছবি তোলা"
+        ],
+        "answer": "নামাজ পড়া",
+        "category": "Religious Events"
+    },
+    {
+        "filename": "BORNON_1563.jpg",
+        "question": "গ্রাম বাংলার ভেতর দিয়ে কী চলে গেছে?",
+        "options": [
+            "নদী",
+            "সেতু",
+            "গলি",
+            "ট্রেন লাইন"
+        ],
+        "answer": "ট্রেন লাইন",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_1564.jpg",
+        "question": "টিনের বাড়ি কোথায় বেশি দেখা যায়?",
+        "options": [
+            "শহর",
+            "গ্রাম",
+            "পাহাড়",
+            "বাজার"
+        ],
+        "answer": "গ্রাম",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BORNON_1566.jpg",
+        "question": "মাছিটি কোথায় বসে আছে?",
+        "options": [
+            "মাটিতে",
+            "পানিতে",
+            "দেয়ালে",
+            "পাতা"
+        ],
+        "answer": "পাতা",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_1572.jpg",
+        "question": "লুঙ্গি পরা ব্যক্তি কী চালাচ্ছে?",
+        "options": [
+            "সাইকেল",
+            "গাড়ি",
+            "বাস",
+            "ট্রেন"
+        ],
+        "answer": "সাইকেল",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BORNON_1573.jpg",
+        "question": "বাচ্চাটি কোথা থেকে বাড়ি ফিরছে?",
+        "options": [
+            "স্কুল",
+            "পার্ক",
+            "দোকান",
+            "মেলার মাঠ"
+        ],
+        "answer": "স্কুল",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BORNON_1583.jpg",
+        "question": "সুপারী বাগানে কতোটি গাছ আছে?",
+        "options": [
+            "১ টি",
+            "২ টি",
+            "৫ টি",
+            " ১০টি+"
+        ],
+        "answer": " ১০টি+",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_1584.jpg",
+        "question": "নদীর পাশে কোন ফুলটি দেখা যায়?",
+        "options": [
+            "কাশফুল",
+            "জুঁই",
+            "বেলিফুল",
+            "চন্দ্রমল্লিকা"
+        ],
+        "answer": "কাশফুল",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_1585.jpg",
+        "question": "মেঘের রং কেমন?",
+        "options": [
+            "সাদা",
+            "কালো",
+            "নীল",
+            "সবুজ"
+        ],
+        "answer": "সাদা",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_1586.jpg",
+        "question": "ফুল বিক্রেতার বয়স কেমন?",
+        "options": [
+            "যুবক",
+            "বাচ্চা",
+            "মধ্যবয়সী",
+            "বৃদ্ধ"
+        ],
+        "answer": "বাচ্চা",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BORNON_1588.jpg",
+        "question": "রাতের শহর কেমন দেখা যাচ্ছে?",
+        "options": [
+            "বিপদজনক",
+            "ভিজে",
+            "ঝলমলে",
+            "আলো-আঁধারি"
+        ],
+        "answer": "আলো-আঁধারি",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BORNON_1589.jpg",
+        "question": "ডিঙি নৌকা কোথায়?",
+        "options": [
+            "নদী",
+            "জলাশয়",
+            "সমুদ্র",
+            " পুকুর"
+        ],
+        "answer": "নদী",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_1590.jpg",
+        "question": " জলাশয়ে কী রঙের কাকড়া দেখা যাচ্ছে?",
+        "options": [
+            "হলুদ",
+            "কালো",
+            "লাল",
+            "হলুদ"
+        ],
+        "answer": "লাল",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_1593.jpg",
+        "question": "প্রজাপতি কোথা থেকে মধু সংগ্রহ করে?",
+        "options": [
+            "ফুল",
+            "জল",
+            "বালি",
+            "মাটি"
+        ],
+        "answer": "ফুল",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_1595.jpg",
+        "question": "শালিক পাখি কোথায় কম দেখা যায়?",
+        "options": [
+            "শহর",
+            "বাগান",
+            "পাহাড়",
+            "জঙ্গল"
+        ],
+        "answer": "শহর",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_1598.jpg",
+        "question": " লোকগীতি কোথায় শোনা যায়?",
+        "options": [
+            "নদী",
+            "পাহাড়",
+            "বাগান",
+            "গ্রাম"
+        ],
+        "answer": "গ্রাম",
+        "category": "Cultural Festivals"
+    },
+    {
+        "filename": "BORNON_1599.jpg",
+        "question": "নদীতে কেমন পানি দেখা যায়?",
+        "options": [
+            "স্বচ্ছ",
+            "ঘোলাটে",
+            "নীল",
+            "সাদা"
+        ],
+        "answer": "ঘোলাটে",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_1604.jpg",
+        "question": "কোন উৎসব পালিত হচ্ছে?",
+        "options": [
+            "দুর্গা পূজা",
+            "ঈদুল ফিতর",
+            "পহেলা বৈশাখ",
+            "কল্যাণ মেলা"
+        ],
+        "answer": "পহেলা বৈশাখ",
+        "category": "Cultural Festivals"
+    },
+    {
+        "filename": "BORNON_1622.jpg",
+        "question": "কয়টি সাদা শিউলি ফুল দেখা যাচ্ছে?",
+        "options": [
+            "১",
+            "২",
+            "৩",
+            "৪"
+        ],
+        "answer": "২",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_1625.jpg",
+        "question": "গোলাপি রঙের কী দেখা যাচ্ছে?",
+        "options": [
+            "ফুল",
+            "সাপ",
+            "মাছ",
+            "পাথর"
+        ],
+        "answer": "ফুল",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_1629.jpg",
+        "question": "কাঠবিড়ালি কোথায় দেখা যাচ্ছে?",
+        "options": [
+            "গাছ",
+            "পাহাড়",
+            "মাঠ",
+            "আকাশ"
+        ],
+        "answer": "গাছ",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_1635.jpg",
+        "question": "নদীতে নৌকায় কতোজন মানুষ বসে আছে?",
+        "options": [
+            "২",
+            "৬",
+            "৪",
+            "৫"
+        ],
+        "answer": "২",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_1637.jpg",
+        "question": " ঝিঁঝি পোকা কী করছে?",
+        "options": [
+            "খাবার খাচ্ছে",
+            "গর্তে ঢুকছে",
+            " উড়ে যাচ্ছে",
+            "বসে আছে"
+        ],
+        "answer": "বসে আছে",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_1639.jpg",
+        "question": "ভাই-বোন কোথায় হাঁটছে?",
+        "options": [
+            "রাস্তা",
+            "বনাঞ্চলে",
+            "মাঠে",
+            "পানি"
+        ],
+        "answer": "পানি",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BORNON_1650.jpg",
+        "question": "গ্রাম্য শিশু কোথায় দাঁড়িয়ে আছে?",
+        "options": [
+            "মাঠে",
+            "পুকুরের ধারে",
+            "জানালায়",
+            "গাছের নিচে"
+        ],
+        "answer": "জানালায়",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BORNON_1655.jpg",
+        "question": "মেলায় কি দেখা যাচ্ছে?",
+        "options": [
+            "খেলা",
+            "দোকান",
+            "পশু",
+            "রথ"
+        ],
+        "answer": "দোকান",
+        "category": "Cultural Festivals"
+    },
+    {
+        "filename": "BORNON_1660.jpg",
+        "question": "বিড়ালটি কিসের মধ্যে দাঁড়িয়ে আছে?",
+        "options": [
+            "ফুল",
+            "পাথর",
+            "বালু",
+            "ঘাস"
+        ],
+        "answer": "ফুল",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_1661.jpg",
+        "question": "টিনের বাড়ির পাশে কোন ধরনের গাড়ি দাঁড়িয়ে আছে?",
+        "options": [
+            "ট্রাক গাড়ি",
+            "বাস",
+            "সাইকেল",
+            "মটর সাইকেল"
+        ],
+        "answer": "ট্রাক গাড়ি",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BORNON_1664.jpg",
+        "question": " তেতুল গাছের পাতা কোন রঙের?",
+        "options": [
+            "হলুদ",
+            "লাল",
+            "সবুজ",
+            "সাদা"
+        ],
+        "answer": "সবুজ",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_1665.jpg",
+        "question": " বিড়াল কোথায় খেলা করেছে?",
+        "options": [
+            "বাগানে",
+            "মাঠে",
+            "গাছের নিচে",
+            "ঘরে"
+        ],
+        "answer": "ঘরে",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BORNON_167.jpg",
+        "question": "নদীর পাশে দুইজন মানুষ কি করছে?",
+        "options": [
+            "হাঁটছে",
+            "ঘুমাচ্ছে",
+            "খাচ্ছে",
+            "গল্প করছে"
+        ],
+        "answer": "গল্প করছে",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BORNON_1671.jpg",
+        "question": " করই গাছের ফুল কটি দেখা যায়?",
+        "options": [
+            "১",
+            "২",
+            "৩",
+            "৪"
+        ],
+        "answer": "২",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_1674.jpg",
+        "question": "মেহেদি সাধারণত কারা হাতে দেয়?",
+        "options": [
+            "ছেলেরা",
+            "মেয়েরা",
+            "বাচ্চারা",
+            "সবাই"
+        ],
+        "answer": "মেয়েরা",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BORNON_1675.jpg",
+        "question": "গ্রাম্য পরিবেশে কী দেখা যায়?",
+        "options": [
+            "গাছ",
+            "ছাগল",
+            "কুকুর",
+            "হাঁস"
+        ],
+        "answer": "ছাগল",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BORNON_168.jpg",
+        "question": " লুঙ্গি পরা মানুষটির সামনে কী শুয়ে আছে?",
+        "options": [
+            "কুকুর",
+            "ছাগল",
+            "হাঁস",
+            "মাছ"
+        ],
+        "answer": "কুকুর",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BORNON_1711.jpg",
+        "question": " চায়ের দোকানে কোন ফল?",
+        "options": [
+            "আম",
+            "পেঁপে",
+            "আঙ্গুর",
+            "কলা"
+        ],
+        "answer": "কলা",
+        "category": "Food"
+    },
+    {
+        "filename": "BORNON_1722.jpg",
+        "question": " শিশুপার্ক কাদের জন্য?",
+        "options": [
+            "বৃদ্ধ",
+            "নারী",
+            "পুরুষ",
+            "শিশু"
+        ],
+        "answer": "শিশু",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BORNON_1724.jpg",
+        "question": " ব্যাগ নিয়ে পথে চলে?",
+        "options": [
+            "বৃদ্ধরা",
+            "মহিলারা",
+            "যুবক",
+            "বাচ্চারা"
+        ],
+        "answer": "বাচ্চারা",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BORNON_1725.jpg",
+        "question": "রাস্তায় বসা কুকুরটি কি করছে?",
+        "options": [
+            "খেলছে",
+            "খাচ্ছে",
+            "ঘুরছে",
+            "বিরাম নিচ্ছে"
+        ],
+        "answer": "বিরাম নিচ্ছে",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BORNON_1727.jpg",
+        "question": "কুকুর গুলো কি করছে?",
+        "options": [
+            "দৌড়াচ্ছে",
+            "খাচ্ছে",
+            "খেলা করছে",
+            "বিশ্রাম নিচ্ছে"
+        ],
+        "answer": "খাচ্ছে",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BORNON_1733.jpg",
+        "question": "গিরগিটি কোথায় আছে?",
+        "options": [
+            "রাস্তায়",
+            "পানিতে",
+            "মাটিতে",
+            "গাছে"
+        ],
+        "answer": "গাছে",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_1739.jpg",
+        "question": "প্যাকেট হাতে কাকে দেখা যাচ্ছে?",
+        "options": [
+            "যুবক",
+            "শিশু",
+            "বৃদ্ধ",
+            "মহিলা"
+        ],
+        "answer": "বৃদ্ধ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BORNON_1744.jpg",
+        "question": "কতটি মাকরসা দেখা যাচ্ছে?",
+        "options": [
+            "১",
+            "২",
+            "৩",
+            "৪"
+        ],
+        "answer": "১",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_1745.jpg",
+        "question": " খিচুড়ি কী দিয়ে তৈরি করা হয়?",
+        "options": [
+            " চাল-ডাল",
+            "মাছ-ধনিয়া",
+            "আটা-চিনি",
+            "দুধ-চিড়া"
+        ],
+        "answer": " চাল-ডাল",
+        "category": "Food"
+    },
+    {
+        "filename": "BORNON_175.jpg",
+        "question": "বৃদ্ধ মানুষগুলোর পাশে কী দেখা যায়?",
+        "options": [
+            "খাতা",
+            "বই",
+            "হুইলচেয়ার",
+            "নৌকা"
+        ],
+        "answer": "নৌকা",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_1752.jpg",
+        "question": "চাকা কিসে ব্যবহার হয়?",
+        "options": [
+            "খাতা",
+            "বই",
+            "হুইলচেয়ার",
+            "নৌকা"
+        ],
+        "answer": "হুইলচেয়ার",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BORNON_1753.jpg",
+        "question": " বাদরটি কিসের ওপর বসে আছে?",
+        "options": [
+            "গাছ",
+            "মাটিতে",
+            "ছাদের ওপর",
+            "ঘরের মধ্যে"
+        ],
+        "answer": "ছাদের ওপর",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_1756.jpg",
+        "question": " মেয়েরা চুড়ি কোথায় পরে?",
+        "options": [
+            "কানে",
+            "গলায়",
+            "হাতে",
+            "পায়ে"
+        ],
+        "answer": "হাতে",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BORNON_1763.jpg",
+        "question": " মাছ ধরার জন্য যে জিনিসটি ব্যবহার করা হয়, সেটি কী?",
+        "options": [
+            "বাঁশ",
+            "চামচ",
+            "জাল",
+            "ডালা"
+        ],
+        "answer": "জাল",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BORNON_1770.jpg",
+        "question": "পাল তোলা নৌকা কোন দেশে দেখা যায়?",
+        "options": [
+            "আমেরিকা",
+            "কানাডা",
+            "ব্রাজিল",
+            "বাংলাদেশ"
+        ],
+        "answer": "বাংলাদেশ",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_1783.jpg",
+        "question": "শিশুটি কোথায় আছে?",
+        "options": [
+            "রাস্তায়",
+            "বাড়ির ছাদে",
+            " গাছের নিচে",
+            "মায়ের কোলে"
+        ],
+        "answer": "মায়ের কোলে",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BORNON_179.jpg",
+        "question": " সবাই কোথায় নামাজ পড়ছে?",
+        "options": [
+            "মসজিদে",
+            "স্কুলে",
+            "বাসায়",
+            "রাস্তায়"
+        ],
+        "answer": "মসজিদে",
+        "category": "Religious Events"
+    },
+    {
+        "filename": "BORNON_1793.jpg",
+        "question": "নদীর তীরে কি ?",
+        "options": [
+            "কচুরিপানা",
+            "পাথর",
+            "গাছ",
+            "নৌকা"
+        ],
+        "answer": "নৌকা",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_1795.jpg",
+        "question": "শিশুরা কিসের পাশে বসে আছে?",
+        "options": [
+            "খেলনা",
+            "গাছ",
+            "বই",
+            "সাইকেল"
+        ],
+        "answer": "সাইকেল",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BORNON_1796.jpg",
+        "question": " কেমন রঙের ফুল ছড়ানো আছে?",
+        "options": [
+            "সাদা",
+            "লাল",
+            "হলুদ",
+            "গোলাপি"
+        ],
+        "answer": "সাদা",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_1797.jpg",
+        "question": "বাজারের পরিবেশ কেমন?",
+        "options": [
+            "শান্ত ",
+            "শোরগোলপূর্ণ",
+            "অস্বস্তিকর",
+            "নিরিবিলি"
+        ],
+        "answer": "শোরগোলপূর্ণ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BORNON_1799.jpg",
+        "question": " ধান খেতের পাশে কী গাছ দেখা যায়?",
+        "options": [
+            "আম গাছ",
+            "কাঁঠাল গাছ",
+            "খেজুর গাছ",
+            "পেঁপে গাছ"
+        ],
+        "answer": "খেজুর গাছ",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_180.jpg",
+        "question": "পাঞ্জাবি পরা শিশুটি কী করছে?",
+        "options": [
+            "খেলছে",
+            "চিন্তা করছে",
+            "ঘুমাচ্ছে",
+            "হাসছে"
+        ],
+        "answer": "চিন্তা করছে",
+        "category": "Religious Events"
+    },
+    {
+        "filename": "BORNON_1806.jpg",
+        "question": "নৌকার উপরের আকাশ কেমন?",
+        "options": [
+            "বৃষ্টি ঝরছে",
+            "কুয়াশাচ্ছন্ন",
+            "ধূসর ",
+            "পরিষ্কার ও নীল"
+        ],
+        "answer": "পরিষ্কার ও নীল",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_1809.jpg",
+        "question": "সমুদ্রের সৈকতে কোন গাছ দেখা যাচ্ছে?",
+        "options": [
+            "আম গাছ",
+            "বট গাছ",
+            "পেঁপে গাছ",
+            "নারকেল গাছ"
+        ],
+        "answer": "নারকেল গাছ",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_1815.jpg",
+        "question": "কয়টা কুকুরের বাচ্চা আছে?",
+        "options": [
+            "১",
+            "২",
+            "৩",
+            "৪"
+        ],
+        "answer": "৩",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BORNON_183.jpg",
+        "question": "টিভি কোথায় রাখা আছে?",
+        "options": [
+            "টেবিলের উপর",
+            "মেঝেতে",
+            "ফ্লোরে",
+            "দেওয়াল"
+        ],
+        "answer": "দেওয়াল",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BORNON_1841.jpg",
+        "question": " কী দেখা যায় সমুদ্র সৈকতে?",
+        "options": [
+            "গাছপালা",
+            "মাছ ",
+            "সাঁতারু",
+            "নৌকা "
+        ],
+        "answer": "নৌকা ",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_1842.jpg",
+        "question": "হাতে কী নিয়ে দাঁড়িয়ে আছে?",
+        "options": [
+            "পান",
+            "বিড়ি",
+            "টিফিন",
+            "বই"
+        ],
+        "answer": "বিড়ি",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BORNON_185.jpg",
+        "question": " বাজারে কী দেখা যাচ্ছে?",
+        "options": [
+            "আলু",
+            "গাজর",
+            "পটল",
+            "কলা"
+        ],
+        "answer": "কলা",
+        "category": "Food"
+    },
+    {
+        "filename": "BORNON_1850.jpg",
+        "question": "নদীর পাশে কোন ধরনের ক্ষেত দেখা যায়?",
+        "options": [
+            "আলু",
+            "গম",
+            "মটর",
+            "ধান"
+        ],
+        "answer": "ধান",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_1851.jpg",
+        "question": " রাস্তায় অনেক গুলো কী পড়ে আছে?",
+        "options": [
+            "পাতা",
+            "ব্যাগ",
+            "কাগজ",
+            "ফুল"
+        ],
+        "answer": "ফুল",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_1854.jpg",
+        "question": " লাঠি হাতে লুঙ্গি পাঞ্জাবি পরা কী করছে?",
+        "options": [
+            "হাঁটছে",
+            "বসে আছে",
+            "ঘুমাচ্ছে",
+            "চাষ করছে"
+        ],
+        "answer": "হাঁটছে",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BORNON_1859.jpg",
+        "question": "নদী ও নৌকার উপরের আকাশের রং কী?",
+        "options": [
+            "নীল",
+            "লাল",
+            "কালো",
+            "হলুদ"
+        ],
+        "answer": "লাল",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_186.jpg",
+        "question": " নদীতে কী দেখা যায়?",
+        "options": [
+            "পাখি",
+            "মাছ",
+            "নৌকা",
+            "গাছ"
+        ],
+        "answer": "নৌকা",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_1860.jpg",
+        "question": " নীল রঙের পানির উপরে নৌকার পাশে কে স্নান করছে?",
+        "options": [
+            "শিশুটি",
+            "যুবক",
+            "বৃদ্ধ",
+            "পুরুষ"
+        ],
+        "answer": "শিশুটি",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BORNON_1865.jpg",
+        "question": "২ চাকার সাইকেলে কতজন বসে আছে?",
+        "options": [
+            "১ জন",
+            "২ জন",
+            "৩ জন",
+            "৪ জন"
+        ],
+        "answer": "১ জন",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BORNON_1868.jpg",
+        "question": "মাছি কোথায় বসে আছে?",
+        "options": [
+            "পাথরে",
+            "পানিতে",
+            "পাতায়",
+            "মাটিতে"
+        ],
+        "answer": "পাতায়",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_1877.jpg",
+        "question": "কৃষ্ণচূড়ার রং কী?",
+        "options": [
+            "নীল",
+            "সাদা",
+            "লাল",
+            "হলুদ"
+        ],
+        "answer": "লাল",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_1881.jpg",
+        "question": "কী ফুল দেখা যায়?",
+        "options": [
+            "কৃষ্ণচূড়া",
+            "গোলাপ",
+            "দোলনচাঁপা",
+            "চন্দ্রমল্লিকা"
+        ],
+        "answer": "কৃষ্ণচূড়া",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_1900.jpg",
+        "question": "ট্রেন লাইনের পাশে কী দেখা যাচ্ছে?",
+        "options": [
+            "নদী",
+            "পাখি",
+            "বাস স্ট্যান্ড",
+            "বাজার"
+        ],
+        "answer": "বাজার",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BORNON_1907.jpg",
+        "question": "সাদা রঙের কী ফুল দেখা যাচ্ছে?",
+        "options": [
+            "গোলাপ",
+            "জবা",
+            "চামেলি",
+            "মাধবী"
+        ],
+        "answer": "গোলাপ",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_1908.jpg",
+        "question": "লাল রঙের গোলাপ কোথায় আছে?",
+        "options": [
+            "রাস্তার ধারে",
+            "মাঠে",
+            "বাগানে",
+            "বাড়ির ছাদে"
+        ],
+        "answer": "বাগানে",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_194.jpg",
+        "question": "২ বন্ধুর কাছে কী দেখা যাচ্ছে?",
+        "options": [
+            "ব্যাগ",
+            "মোবাইল",
+            "টিফিন",
+            "সাইকেল"
+        ],
+        "answer": "ব্যাগ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BORNON_195.jpg",
+        "question": "ছাত্ররা কোথায় আছে?",
+        "options": [
+            "মাঠে",
+            "রাস্তায়",
+            "পার্কে",
+            "স্কুলে"
+        ],
+        "answer": "স্কুলে",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BORNON_198.jpg",
+        "question": " মুক্তিযুদ্ধ সম্পর্কিত কী দেখা যাচ্ছে ?",
+        "options": [
+            "ভাস্কর্য",
+            "বই",
+            "পতাকা",
+            "সিনেমা"
+        ],
+        "answer": "ভাস্কর্য",
+        "category": "Arts & History"
+    },
+    {
+        "filename": "BORNON_1982.jpg",
+        "question": "৩টা কী দেখা যায়?",
+        "options": [
+            "পাখি",
+            "ফুল",
+            "ছাগল",
+            "খরগোশ"
+        ],
+        "answer": "খরগোশ",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_2002.jpg",
+        "question": "কীসের বাড়ি দেখা যায়?",
+        "options": [
+            "মাটির বাড়ি",
+            "পাকা বাড়ি",
+            "টিনশেড বাড়ি",
+            "কাঠের বাড়ি"
+        ],
+        "answer": "টিনশেড বাড়ি",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BORNON_208.jpg",
+        "question": "গ্রামের কোন ফুলটি দেখা যাচ্ছে?",
+        "options": [
+            "গোলাপ",
+            "কৃষ্ণচূড়া",
+            "জবা",
+            "বেলি"
+        ],
+        "answer": "বেলি",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_2161.jpg",
+        "question": "চায়ের বাগান কোথায় বেশি দেখা যায়?",
+        "options": [
+            "কক্সবাজার",
+            "খুলনা",
+            "সিলেট",
+            "বরিশাল"
+        ],
+        "answer": "সিলেট",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_2162.jpg",
+        "question": " নদীতে থাকা সাপলা ফুল কোন দেশের জাতীয় ফুল?",
+        "options": [
+            "বাংলাদেশ",
+            "ভারত",
+            "শ্রীলঙ্কা",
+            "থাইল্যান্ড"
+        ],
+        "answer": "বাংলাদেশ",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_2168.jpg",
+        "question": " ট্রেন লাইনে কারা দাঁড়িয়ে আছে?",
+        "options": [
+            "গরু",
+            "মানুষ",
+            "কুকুর",
+            "বিড়াল"
+        ],
+        "answer": "মানুষ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BORNON_2180.jpg",
+        "question": "প্রত্নতাত্ত্বিক মসজিদটি কী রঙের?",
+        "options": [
+            "সাদা",
+            "কালো",
+            "লাল",
+            "হলুদ"
+        ],
+        "answer": "লাল",
+        "category": "Cultural Festivals"
+    },
+    {
+        "filename": "BORNON_2183.jpg",
+        "question": "সাদা কবুতরটি কী করছে?",
+        "options": [
+            "উড়ছে",
+            "বসে আছে",
+            "খাচ্ছে",
+            "ডাকছে"
+        ],
+        "answer": "উড়ছে",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_2188.jpg",
+        "question": "আকাশে কী উড়ে যাচ্ছে?",
+        "options": [
+            "পতঙ্গ",
+            "ড্রোন",
+            "বিমান",
+            "ঘুড়ি"
+        ],
+        "answer": "বিমান",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BORNON_2190.jpg",
+        "question": " বাংলাদেশের কোন গ্রামীণ ঐতিহ্য ফুটে উঠেছে?",
+        "options": [
+            "নকশিকাঁথা",
+            "টেরাকোটা",
+            "কাঠের নকশা",
+            "পাটের শিল্প"
+        ],
+        "answer": "টেরাকোটা",
+        "category": "Cultural Festivals"
+    },
+    {
+        "filename": "BORNON_2191.jpg",
+        "question": "নদীতে কী  চলছে?",
+        "options": [
+            "পালতোলা নৌকা",
+            "জাহাজ",
+            "স্টিমার",
+            "ভেলা"
+        ],
+        "answer": "পালতোলা নৌকা",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_2215.jpg",
+        "question": "রাস্তার অবস্থা কেমন ছিল?",
+        "options": [
+            "শুকনো",
+            "কর্দমাক্ত",
+            "পিচঢালা",
+            "ধুলোময়"
+        ],
+        "answer": "কর্দমাক্ত",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BORNON_2218.jpg",
+        "question": "গাছপালার ভেতর কী দেখা যায়?",
+        "options": [
+            "কুঁড়েঘর",
+            "টিনের বাড়ি",
+            "বাঁশের কুটির",
+            "মাটির ঘর"
+        ],
+        "answer": "টিনের বাড়ি",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_2228.jpg",
+        "question": "মাটির পাত্রে কী রাখা হয়েছে?",
+        "options": [
+            "দুধ",
+            "চা",
+            "পানি",
+            "সরবত"
+        ],
+        "answer": "চা",
+        "category": "Food"
+    },
+    {
+        "filename": "BORNON_2233.jpg",
+        "question": "কোন প্রাকৃতিক সৌন্দর্য দেখা যাচ্ছে?",
+        "options": [
+            "ঝর্ণা",
+            "নদী",
+            "সমুদ্র",
+            "বাগান"
+        ],
+        "answer": "ঝর্ণা",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_2236.jpg",
+        "question": "মেঘলা আকাশের নিচে রাস্তার পাশে কোন গাছটি দেখা যাচ্ছে?",
+        "options": [
+            "নারকেল",
+            "আম",
+            "কাঁঠাল",
+            "পেঁপে "
+        ],
+        "answer": "পেঁপে ",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_2300.jpg",
+        "question": "বাঙালিদের কোন প্রিয় ফাস্ট ফুডটি দেখা যাচ্ছে?",
+        "options": [
+            "পিজ্জা",
+            "মোমো",
+            "রোল",
+            "ভেলপুরি "
+        ],
+        "answer": "ভেলপুরি ",
+        "category": "Food"
+    },
+    {
+        "filename": "BORNON_2303.jpg",
+        "question": "ফেব্রুয়ারি মাসে রাস্তার পাশে কোন লাল ফুলটি দেখা যায়?",
+        "options": [
+            "গোলাপ ",
+            "টিউলিপ ",
+            "পলাশ ",
+            "কৃষ্ণচূড়া "
+        ],
+        "answer": "কৃষ্ণচূড়া ",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_2305.jpg",
+        "question": "লুঙ্গি-গেঞ্জি কোন দেশের সঙ্গে সম্পর্কিত?",
+        "options": [
+            "কানাডা",
+            "মেক্সিকো",
+            "আমেরিকা",
+            "বাংলাদেশ "
+        ],
+        "answer": "বাংলাদেশ ",
+        "category": "Cultural Festivals"
+    },
+    {
+        "filename": "BORNON_2306.jpg",
+        "question": "বাঙালিদের একটি প্রিয় ফাস্ট ফুড, ফুচকা, কী দিয়ে খাওয়া হয়?",
+        "options": [
+            "দই",
+            "মিষ্টি",
+            "মাংস",
+            "টক "
+        ],
+        "answer": "টক ",
+        "category": "Food"
+    },
+    {
+        "filename": "BORNON_2329.jpg",
+        "question": " ভাপা পিঠা কী দিয়ে বানানো হয়?",
+        "options": [
+            "কলা",
+            "ডাল",
+            "তেল",
+            "আটা"
+        ],
+        "answer": "আটা",
+        "category": "Food"
+    },
+    {
+        "filename": "BORNON_2343.jpg",
+        "question": "বাড়িতে তৈরি কেক কী দিয়ে বানানো হয়?",
+        "options": [
+            "কাঠবাদাম ",
+            "বেদানা ",
+            "পেঁয়াজ ",
+            "ডিম "
+        ],
+        "answer": "ডিম ",
+        "category": "Food"
+    },
+    {
+        "filename": "BORNON_2367.jpg",
+        "question": "ফ্রাইড রাইসে মাংস, ও সবজির সাথে কোনটি ভাজা হয়?",
+        "options": [
+            "চকলেট ",
+            "বেগুন",
+            "কাঁঠাল",
+            "ডিম "
+        ],
+        "answer": "ডিম ",
+        "category": "Food"
+    },
+    {
+        "filename": "BORNON_1837.jpg",
+        "question": "মেহগনি গাছটি কোথায় ?",
+        "options": [
+            " পাহাড়ে",
+            "সমুদ্র উপকূলে",
+            "পার্কে",
+            "গ্রামে "
+        ],
+        "answer": "গ্রামে ",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_1876.jpg",
+        "question": "কোন ফুলটি সৌন্দর্য্য সৃষ্টি করছে?",
+        "options": [
+            "শাপলা",
+            "কুমুদিনী",
+            "গন্ধরাজ",
+            "কাঠগোলাপ "
+        ],
+        "answer": "কাঠগোলাপ ",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_2153.jpg",
+        "question": " ঘন জঙ্গলের মধ্যে দিয়ে কি চলে গেছে?",
+        "options": [
+            "সড়ক",
+            "নদী",
+            "সেতু",
+            " ট্রেন লাইন"
+        ],
+        "answer": " ট্রেন লাইন",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_2423.jpg",
+        "question": "মুরগির মাংস ও নান রুটি কোথায় পাওয়া যায়?",
+        "options": [
+            "মেক্সিকান রেস্টুরেন্ট",
+            "চাইনিজ রেস্টুরেন্ট",
+            "বাঙালি হোটেল",
+            "আমেরিকান ডিনার"
+        ],
+        "answer": "বাঙালি হোটেল",
+        "category": "Food"
+    },
+    {
+        "filename": "BORNON_2468.jpg",
+        "question": " লুচি কী দিয়ে খাওয়া হয়?",
+        "options": [
+            "মিষ্টি",
+            "মাছের তরকারি",
+            "মাংসের রোস্ট",
+            "আলুর দম"
+        ],
+        "answer": "আলুর দম",
+        "category": "Food"
+    },
+    {
+        "filename": "BORNON_2485.jpg",
+        "question": "মোমো কোন রঙের হয়?",
+        "options": [
+            "হলুদ",
+            "সবুজ",
+            "লাল",
+            "সাদা "
+        ],
+        "answer": "সাদা ",
+        "category": "Food"
+    },
+    {
+        "filename": "BORNON_250.jpg",
+        "question": "হলুদ রঙের কোন ফুলটি দেখা যাচ্ছে?",
+        "options": [
+            "গাঁদা",
+            "টিউলিপ",
+            "গোলাপ",
+            "সূর্যমুখী "
+        ],
+        "answer": "সূর্যমুখী ",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_2506.jpg",
+        "question": " ফ্রাইড রাইস কী দিয়ে করা হয়?",
+        "options": [
+            "মাছ",
+            "মাংস",
+            "চিংড়ি",
+            "ডিম"
+        ],
+        "answer": "ডিম",
+        "category": "Food"
+    },
+    {
+        "filename": "BORNON_254.jpg",
+        "question": " গ্রাম বাংলার কোন ফসলটি দেখা যাচ্ছে?",
+        "options": [
+            "ধান ক্ষেত ",
+            " পাট ক্ষেত",
+            " তামাক ক্ষেত",
+            "গম ক্ষেত"
+        ],
+        "answer": "ধান ক্ষেত ",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_2544.jpg",
+        "question": " জেলাপি কোন দেশের মিষ্টি?",
+        "options": [
+            "বাংলাদেশ ",
+            "শ্রীলঙ্কা",
+            "মিশর",
+            "আমেরিকা"
+        ],
+        "answer": "বাংলাদেশ ",
+        "category": "Food"
+    },
+    {
+        "filename": "BORNON_2568.jpg",
+        "question": "বিরিয়ানি ভাত কোন দেশের মানুষের প্রিয় খাবার?",
+        "options": [
+            "শ্রীলঙ্কা",
+            "মিশর",
+            "বাংলাদেশ ",
+            "আমেরিকা"
+        ],
+        "answer": "বাংলাদেশ ",
+        "category": "Food"
+    },
+    {
+        "filename": "BORNON_2607.jpg",
+        "question": "টক দিয়ে কোনটি খাওয়া হয়?",
+        "options": [
+            "ফুচকা ",
+            "পাঁপড়",
+            "দই",
+            "মাখন"
+        ],
+        "answer": "ফুচকা ",
+        "category": "Food"
+    },
+    {
+        "filename": "BORNON_2614.jpg",
+        "question": " মাংসের ঝোলের সাথে কোন তরকারি রয়েেছে?",
+        "options": [
+            "কুমড়া",
+            "কচুরি",
+            "শাক",
+            "ডাল "
+        ],
+        "answer": "ডাল ",
+        "category": "Food"
+    },
+    {
+        "filename": "BORNON_266.jpg",
+        "question": " লুচি পরাটা কোন তরকারি দিয়ে খাওয়া হয়?",
+        "options": [
+            "কুমড়া",
+            "শাক",
+            "বেগুন",
+            "ডাল "
+        ],
+        "answer": "ডাল ",
+        "category": "Food"
+    },
+    {
+        "filename": "BORNON_2675.jpg",
+        "question": " সজিনা গাছের উপরে কোন পাখিটি বসে আছে?",
+        "options": [
+            "শালিক",
+            "চড়ুই",
+            "পায়রা",
+            "ময়না"
+        ],
+        "answer": "পায়রা",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_2677.jpg",
+        "question": "টিনের চালের ওপর কোন প্রাণীটি মারামারি করছে?",
+        "options": [
+            "বিড়াল ",
+            "কুকুর",
+            "বাঁদর",
+            "শিয়াল"
+        ],
+        "answer": "বিড়াল ",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_274.jpg",
+        "question": "পাঞ্জাবি পরা মানুষটি কোন জিনিসের অপেক্ষা করছে?",
+        "options": [
+            "ট্রেন ",
+            "বাস",
+            "ফেরি",
+            "বিমান"
+        ],
+        "answer": "ট্রেন ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BORNON_276.jpg",
+        "question": " কাশফুল কোন মৌসুমের কথা মনে করিয়ে দিচ্ছে?",
+        "options": [
+            "শরৎকাল ",
+            "গ্রীষ্মকাল",
+            "শীতকাল",
+            "বর্ষাকাল"
+        ],
+        "answer": "শরৎকাল ",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_2779.jpg",
+        "question": " কোন ফুলটি হাতে নিয়ে আছে?",
+        "options": [
+            "শাপলা",
+            "গন্ধরাজ",
+            "গোলাপ",
+            "কদম ফুল "
+        ],
+        "answer": "কদম ফুল ",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_2789.jpg",
+        "question": "মাথায় গামছা বেঁধে কোথায় ভ্রমণ করছে?",
+        "options": [
+            "নদী ",
+            "মাঠ",
+            "পাহাড়",
+            "সমুদ্র"
+        ],
+        "answer": "নদী ",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_281.jpg",
+        "question": "কোন ফুলের সৌন্দর্যে পরিবেশ মোহিত হচ্ছে?",
+        "options": [
+            "কাশফুল ",
+            "শাপলা",
+            "রজনীগন্ধা",
+            "চামেলি"
+        ],
+        "answer": "কাশফুল ",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_2812.jpg",
+        "question": "ফুলের উপর বসে প্রজাপতি কী সংগ্রহ করছে?",
+        "options": [
+            "মধু ",
+            "রঙ",
+            "সুগন্ধ",
+            "পানি"
+        ],
+        "answer": "মধু ",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_2824.jpg",
+        "question": " কোন পাখিটি বসে ফল খাচ্ছে?",
+        "options": [
+            "কাক",
+            "শালিক",
+            "ময়না",
+            "টিয়া "
+        ],
+        "answer": "টিয়া ",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_2849.jpg",
+        "question": "পুকুর পাড়ে কোন গাছটি দেখা যাচ্ছে?",
+        "options": [
+            "পেঁপে ",
+            "নারকেল ",
+            "আম ",
+            "কাঁঠাল "
+        ],
+        "answer": "পেঁপে ",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_2864.jpg",
+        "question": "কোন ফলটি দেখা যাচ্ছে?",
+        "options": [
+            "বরই ",
+            "কাঁঠাল",
+            "পেঁপে",
+            "লিচু"
+        ],
+        "answer": "বরই ",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_287.jpg",
+        "question": "নদীর পাড়ে কোন নৌকা বেশি দেখা যাচ্ছে?",
+        "options": [
+            "ডিঙি নৌকা",
+            "ট্রলার",
+            "স্টিমার",
+            "পাল তোলা নৌকা"
+        ],
+        "answer": "ডিঙি নৌকা",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_2874.jpg",
+        "question": "হলুদ সন্ধ্যা কিসের উৎসব?",
+        "options": [
+            "বিয়ে",
+            "পূজা",
+            "নববর্ষ",
+            "দুর্গাপূজা"
+        ],
+        "answer": "বিয়ে",
+        "category": "Cultural Festivals"
+    },
+    {
+        "filename": "BORNON_2881.jpg",
+        "question": "কোন গাছের পাতা ঝরে পড়ে?",
+        "options": [
+            "মেহেগনি",
+            "বট",
+            "আম",
+            "কাঁঠাল"
+        ],
+        "answer": "মেহেগনি",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_290.jpg",
+        "question": "লুঙ্গি পরে মানুষটি কিসে বসে আছে?",
+        "options": [
+            "ঘোড়া",
+            "চেয়ার",
+            "বেঞ্চে",
+            "সিড়িতে"
+        ],
+        "answer": "ঘোড়া",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BORNON_2905.jpg",
+        "question": "বাচ্চারা কী পরেছে?",
+        "options": [
+            "পাঞ্জাবি",
+            "শার্ট",
+            "টিশার্ট",
+            "লুঙ্গি"
+        ],
+        "answer": "পাঞ্জাবি",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BORNON_2960.jpg",
+        "question": "সাদা লাল রঙের কোন ফলটি ঝুলে আছে?",
+        "options": [
+            "আপেল",
+            "পেয়ারা",
+            "কাঁঠাল",
+            "কামরুল"
+        ],
+        "answer": "কামরুল",
+        "category": "Food"
+    },
+    {
+        "filename": "BORNON_2968.jpg",
+        "question": "লুঙ্গি পরে মানুষগুলো কী করছে?",
+        "options": [
+            "খেলছে",
+            "হাঁটছে",
+            "খাচ্ছে",
+            "কাজ করছে"
+        ],
+        "answer": "কাজ করছে",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BORNON_2970.jpg",
+        "question": "হলুদ রঙের কোন ফুল দেখা যাচ্ছে, যা থেকে তেলও হয়?",
+        "options": [
+            "সরিষা ফুল",
+            "গোলাপ",
+            "তুলসী ফুল",
+            "জবা"
+        ],
+        "answer": "সরিষা ফুল",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_2976.jpg",
+        "question": "গোল সবজিটির নাম কী?",
+        "options": [
+            "বরবটি",
+            "শসা",
+            "মিষ্টি কুমড়া",
+            "পটল"
+        ],
+        "answer": "মিষ্টি কুমড়া",
+        "category": "Food"
+    },
+    {
+        "filename": "BORNON_2982.jpg",
+        "question": "বাংলাদেশের কোন ব্র্যান্ডের টিন দেখা যাচ্ছে?",
+        "options": [
+            "ঈগল ব্র্যান্ড",
+            "ওয়ালটন",
+            "সনি",
+            "সামসাং"
+        ],
+        "answer": "ঈগল ব্র্যান্ড",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BORNON_2991.jpg",
+        "question": "বাংলাদেশের জাতীয় বৃক্ষটি কোনটি?",
+        "options": [
+            "আম",
+            "কাঁঠাল",
+            "বট",
+            "শাল"
+        ],
+        "answer": "আম",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_2998.jpg",
+        "question": "লাউয়ের তরকারি কোন দেশের মানুষের প্রিয় খাবার?",
+        "options": [
+            "আমেরিকা",
+            "ইংল্যান্ড",
+            "কানাডা",
+            "বাংলাদেশ"
+        ],
+        "answer": "বাংলাদেশ",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_3000.jpg",
+        "question": "কলা গাছের পাশে কোন সবজি গাছ দেখা যাচ্ছে?",
+        "options": [
+            "মিষ্টি কুমড়া",
+            "শসা",
+            "টমেটো",
+            "পটল"
+        ],
+        "answer": "মিষ্টি কুমড়া",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_3002.jpg",
+        "question": "মিঠা পানির মাছ কোনটি?",
+        "options": [
+            "রুই",
+            "স্যালমন",
+            "কড",
+            "হেরিং"
+        ],
+        "answer": "রুই",
+        "category": "Food"
+    },
+    {
+        "filename": "BORNON_3006.jpg",
+        "question": "বিশাল জলরাশির মাঝে কি দেখা যাচ্ছে?",
+        "options": [
+            "জাহাজ",
+            "ট্রলার",
+            "সেলিং বোট",
+            "নৌকা"
+        ],
+        "answer": "নৌকা",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_3007.jpg",
+        "question": "সবুজ রঙের কোন পাখি ডানা মেলে আছে?",
+        "options": [
+            "দোয়েল",
+            "ময়না",
+            "কোকিল",
+            "তোতা"
+        ],
+        "answer": "তোতা",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_3010.jpg",
+        "question": "বাংলাদেশের কোন পরিবহন দেখা যাচ্ছে?",
+        "options": [
+            "রিকশা",
+            "টেম্পো",
+            "ভ্যান",
+            "বাস"
+        ],
+        "answer": "ভ্যান",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BORNON_3012.jpg",
+        "question": "কোন ধরনের উৎসব দেখা যাচ্ছে?",
+        "options": [
+            "ঈদ",
+            "ভ্যালেন্টাইনস ডে",
+            "নববর্ষ",
+            "দুর্গা পূজা"
+        ],
+        "answer": "দুর্গা পূজা",
+        "category": "Religious Events"
+    },
+    {
+        "filename": "BORNON_3067.jpg",
+        "question": "পেঁপে  গাছের পাশে কোন গাছ দাঁড়িয়ে আছে?",
+        "options": [
+            "আম গাছ",
+            "জাম গাছ",
+            "কলা গাছ",
+            "কাঁঠাল গাছ"
+        ],
+        "answer": "কলা গাছ",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_3085.jpg",
+        "question": "সাফারি পার্ক কোন দেশের পার্ক?",
+        "options": [
+            "ভারত",
+            "শ্রীলঙ্কা",
+            "বাংলাদেশ",
+            "আফ্রিকা"
+        ],
+        "answer": "বাংলাদেশ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BORNON_3094.jpg",
+        "question": "ফুলের উপর কে বসে মধু খাচ্ছে?",
+        "options": [
+            "মৌমাছি",
+            "পিপড়ে",
+            "মাকড়সা",
+            "প্রজাপতি"
+        ],
+        "answer": "প্রজাপতি",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_3132.jpg",
+        "question": "কোন দেশের জাতীয় সংসদ ভবন দেখা যায়?",
+        "options": [
+            "বাংলাদেশ",
+            "ভারত",
+            "পাকিস্তান",
+            "শ্রীলঙ্কা"
+        ],
+        "answer": "বাংলাদেশ",
+        "category": "Arts & History"
+    },
+    {
+        "filename": "BORNON_3142.jpg",
+        "question": "বাংলাদেশের কোন জেলায় বেশি চা উৎপন্ন হয়?",
+        "options": [
+            "রংপুর",
+            "বরিশাল",
+            "খুলনা",
+            "সিলেট"
+        ],
+        "answer": "সিলেট",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_3177.jpg",
+        "question": "বাংলাদেশের কোন জনপ্রিয় পানীয়টি দেখা যাচ্ছে?",
+        "options": [
+            "কোমল পানীয়",
+            "তাজা ফলের রস",
+            "চা",
+            "দুধ"
+        ],
+        "answer": "চা",
+        "category": "Food"
+    },
+    {
+        "filename": "BORNON_3360.jpg",
+        "question": "কমলা লেবুর রঙ কী?",
+        "options": [
+            "সাদা",
+            "নীল",
+            "কমলা",
+            "লাল"
+        ],
+        "answer": "কমলা",
+        "category": "Food"
+    },
+    {
+        "filename": "BORNON_3399.jpg",
+        "question": "বনের পাশে নদীর ধারে কী রাখা আছে?",
+        "options": [
+            "রিকশা",
+            "ট্রলার",
+            "স্টিমার",
+            "নৌকা"
+        ],
+        "answer": "নৌকা",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_3424.jpg",
+        "question": "বৃদ্ধ মানুষটি কী কাজ করছে?",
+        "options": [
+            "বসে আছে",
+            "জাল  বুনছে",
+            "খাচ্ছে",
+            "হাঁটছে"
+        ],
+        "answer": "জাল  বুনছে",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BORNON_3433.jpg",
+        "question": "কোন দেশের ট্রেন দেখা যাচ্ছে?",
+        "options": [
+            "ভারত",
+            "পাকিস্তান",
+            "বাংলাদেশ",
+            "মালদ্বীপ"
+        ],
+        "answer": "বাংলাদেশ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BORNON_3440.jpg",
+        "question": "বৃদ্ধ মহিলা কোন ফসলের পাশে বসে আছে?",
+        "options": [
+            "ধান",
+            "গম",
+            "পাট",
+            "আলু"
+        ],
+        "answer": "ধান",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_3441.jpg",
+        "question": "বাংলাদেশের কোন ঐতিহ্যবাহী পরিবহন দেখা যাচ্ছে?",
+        "options": [
+            "রিকশা",
+            "সিএনজি",
+            "বাস",
+            "ট্রেন"
+        ],
+        "answer": "রিকশা",
+        "category": "Arts & History"
+    },
+    {
+        "filename": "BORNON_3444.jpg",
+        "question": "লাল সবুজের শাড়ি কোন দেশকে নির্দেশ করে?",
+        "options": [
+            "বাংলাদেশ",
+            "ভারত",
+            "পাকিস্তান",
+            "শ্রীলঙ্কা"
+        ],
+        "answer": "বাংলাদেশ",
+        "category": "Clothing & Fashion"
+    },
+    {
+        "filename": "BORNON_3445.jpg",
+        "question": "পাল তোলা নৌকা কোন দেশের প্রাকৃতিক পরিবেশ নির্দেশ করে?",
+        "options": [
+            "আর্জেন্টিনা",
+            "ব্রাজিল",
+            "কানাডা",
+            "বাংলাদেশ"
+        ],
+        "answer": "বাংলাদেশ",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_3459.jpg",
+        "question": "শাড়ি পরা মা ও শিশু কোন দেশকে নির্দেশ করে?",
+        "options": [
+            "আর্জেন্টিনা",
+            "মেক্সিকো",
+            "আমেরিকা",
+            "বাংলাদেশ"
+        ],
+        "answer": "বাংলাদেশ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BORNON_3469.jpg",
+        "question": "বৃদ্ধ মানুষটি কোন ফসল রোপণ করছে?",
+        "options": [
+            "ধান",
+            "গম",
+            "পাট",
+            "আলু"
+        ],
+        "answer": "ধান",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_3746.jpg",
+        "question": "লুঙ্গি পরা মানুষটি কী পরিবহন চালাচ্ছে?",
+        "options": [
+            "রিকশা",
+            "সিএনজি",
+            "বাস",
+            "ট্রাক"
+        ],
+        "answer": "রিকশা",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BORNON_3749.jpg",
+        "question": "পথের পাশে কী পরিবহন রাখা আছে?",
+        "options": [
+            "বাস",
+            "সিএনজি",
+            "রিকশা",
+            "ভ্যান"
+        ],
+        "answer": "রিকশা",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BORNON_3764.jpg",
+        "question": "গোলাপি রঙের কোন ফুলটি দেখা যাচ্ছে?",
+        "options": [
+            "গোলাপ",
+            "শিউলি",
+            "জবা",
+            "চন্দ্রমল্লিকা"
+        ],
+        "answer": "গোলাপ",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_3802.jpg",
+        "question": "কোন পানীয়ের গাছ দেখা যায়?",
+        "options": [
+            "চা",
+            "কফি",
+            "সোডা",
+            "জুস"
+        ],
+        "answer": "চা",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_3816.jpg",
+        "question": "নারিকেল গাছের নিচে কোনটি দেখা যাচ্ছে?",
+        "options": [
+            "নৌকা",
+            "ভ্যান",
+            "ট্রলি",
+            "কুড়ে ঘর"
+        ],
+        "answer": "কুড়ে ঘর",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_3821.jpg",
+        "question": "বাংলাদেশের জাতীয় ফুলটি কোনটি?",
+        "options": [
+            "শাপলা",
+            "শিউলি",
+            "জবা",
+            "গোলাপ"
+        ],
+        "answer": "শাপলা",
+        "category": "Cultural Festivals"
+    },
+    {
+        "filename": "BORNON_3827.jpg",
+        "question": "ছবিটি কোন ঋতুকে নির্দেশ করছে?",
+        "options": [
+            "গ্রীষ্মকাল",
+            "বর্ষাকাল",
+            "শীতকাল",
+            "শরৎকাল"
+        ],
+        "answer": "শীতকাল",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BORNON_3842.jpg",
+        "question": "শিশু গুলো কোথায় আছে?",
+        "options": [
+            "স্কুল",
+            "বাড়ি",
+            "হাসপাতাল",
+            "চিড়িয়াখানা"
+        ],
+        "answer": "চিড়িয়াখানা",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BORNON_3847.jpg",
+        "question": "এখানে কোন প্রাণীটি দেখা যাচ্ছে?",
+        "options": [
+            "হাতি",
+            "বাঘ",
+            "সিংহ",
+            "হরিণ"
+        ],
+        "answer": "হরিণ",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_3876.jpg",
+        "question": "গাড়িতে কোন দেশের রাজধানীর নাম লেখা?",
+        "options": [
+            "বাংলাদেশ",
+            "ভারত",
+            "পাকিস্তান",
+            "শ্রীলঙ্কা"
+        ],
+        "answer": "বাংলাদেশ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BORNON_2499.jpg",
+        "question": "কোন ফলটি দেখা যাচ্ছে?",
+        "options": [
+            "ভুট্টা",
+            "আপেল",
+            "কমলা",
+            "পেয়ারা"
+        ],
+        "answer": "ভুট্টা",
+        "category": "Food"
+    },
+    {
+        "filename": "BORNON_2547.jpg",
+        "question": "কোন খাবারটি দেখতে পাচ্ছি?",
+        "options": [
+            "সিঙ্গারা",
+            "ফুচকা",
+            "স্যান্ডউইচ",
+            "জিলাপি"
+        ],
+        "answer": "সিঙ্গারা",
+        "category": "Food"
+    },
+    {
+        "filename": "BORNON_2673.jpg",
+        "question": "খিচুড়ি, মাংসের ঝোল এবং ডিম কোন দেশকে নির্দেশ করছে?",
+        "options": [
+            "বাংলাদেশ",
+            "আমেরিকা",
+            "কানাডা",
+            "ব্রাজিল"
+        ],
+        "answer": "বাংলাদেশ",
+        "category": "Food"
+    },
+    {
+        "filename": "BORNON_2986.jpg",
+        "question": "কোন সবজি গাছটি দেখা যায়? ",
+        "options": [
+            "গাজর",
+            "আলু",
+            "মিষ্টি কুমড়া",
+            "পেঁপে"
+        ],
+        "answer": "মিষ্টি কুমড়া",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_3919.jpg",
+        "question": "শাড়ি পাঞ্জাবি পরা ছেলে মেয়ে কোন দেশকে নির্দেশ করছে?",
+        "options": [
+            "অস্ট্রেলিয়া",
+            "জার্মানি",
+            "কানাডা",
+            "বাংলাদেশ"
+        ],
+        "answer": "বাংলাদেশ",
+        "category": "Clothing & Fashion"
+    },
+    {
+        "filename": "BORNON_3965.jpg",
+        "question": "মিষ্টি গুলোকে বাংলাদেশে কি বলা হয়?",
+        "options": [
+            "সন্দেশ",
+            "সোনামুখী",
+            "রোসোগোল্লা",
+            "চমচম"
+        ],
+        "answer": "চমচম",
+        "category": "Food"
+    },
+    {
+        "filename": "BORNON_4037.jpg",
+        "question": "ডিম ও মাংস কোন খাবারের সাথে দেওয়া ? ",
+        "options": [
+            "হালিম",
+            "পোলাও",
+            "বিরিয়ানি",
+            "খিচুরি"
+        ],
+        "answer": "খিচুরি",
+        "category": "Food"
+    },
+    {
+        "filename": "BORNON_646.jpg",
+        "question": "মানুষেরা  জাল দিয়ে কি ধরছে?",
+        "options": [
+            "বাঘ",
+            "ব্যাঙ",
+            "সাপ",
+            "মাছ"
+        ],
+        "answer": "মাছ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BORNON_648.jpg",
+        "question": "খাবার সাজানোর ধরন কোন দেশকে নির্দেশ করে? ",
+        "options": [
+            "বাংলাদেশ",
+            "আমেরিকা",
+            "কানাডা",
+            "যুক্তরাজ্য"
+        ],
+        "answer": "বাংলাদেশ",
+        "category": "Food"
+    },
+    {
+        "filename": "BORNON_939.jpg",
+        "question": "পাখির নাম কি?",
+        "options": [
+            "পায়রা",
+            "ময়না",
+            "শালিক",
+            "টিয়া"
+        ],
+        "answer": "পায়রা",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_968.jpg",
+        "question": "পথের ধারে কোন গাছটি দেখা যায়?",
+        "options": [
+            "নারকেল গাছ",
+            "জাম গাছ",
+            "আম গাছ",
+            "পেপে গাছ"
+        ],
+        "answer": "পেপে গাছ",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_971.jpg",
+        "question": "কাশ ফুলের সামনে শাড়ি পরা মেয়ে টি কোন দেশকে নির্দেশ করে?",
+        "options": [
+            "বাংলাদেশ",
+            "আমেরিকা",
+            "কানাডা",
+            "যুক্তরাজ্য"
+        ],
+        "answer": "বাংলাদেশ",
+        "category": "Clothing & Fashion"
+    },
+    {
+        "filename": "CHITTRON_10.png",
+        "question": "মহিলা টি বাংলাদেশের কোন ধর্মের অনুসারী? ",
+        "options": [
+            "হিন্দু",
+            "মুসলিম",
+            "বৌদ্ধ",
+            "খ্রিস্টান"
+        ],
+        "answer": "হিন্দু",
+        "category": "Clothing & Fashion"
+    },
+    {
+        "filename": "CHITTRON_100.png",
+        "question": "শ্রমিক নারীর পোষাক কোন দেশকে নির্দেশ করে?",
+        "options": [
+            "অস্ট্রেলিয়া",
+            "যুক্তরাজ্য",
+            "কানাডা",
+            "বাংলাদেশ"
+        ],
+        "answer": "বাংলাদেশ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_3717.png",
+        "question": "মহিলারা কি পোষাক পরে কাজ করছে? ",
+        "options": [
+            "শাড়ি",
+            "জিন্স",
+            "লেহেঙ্গা",
+            "সালোয়ার কামিজ"
+        ],
+        "answer": "শাড়ি",
+        "category": "Clothing & Fashion"
+    },
+    {
+        "filename": "CHITTRON_3724.png",
+        "question": "ছোট বাচ্চারা পানিতে কোন কাজটি করছে?",
+        "options": [
+            "গোসল করছে",
+            " নৌকা চালাচ্ছে",
+            "মাছ ধরছে",
+            "খেলাধুলা করছে"
+        ],
+        "answer": "মাছ ধরছে",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_373.png",
+        "question": "গ্রাম বাংলার ভেতরে কিসের তৈরি ঘর দেখা যাচ্ছে?",
+        "options": [
+            "কাঠের",
+            "মাটির",
+            "টিনের",
+            "ইটের"
+        ],
+        "answer": "টিনের",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_3733.png",
+        "question": "এখানে কোন ধরনের সম্পর্ক দেখা যাচ্ছে?",
+        "options": [
+            "বন্ধুত্ব",
+            "শত্রুতা",
+            "প্রেম",
+            "পরিচিতি"
+        ],
+        "answer": "বন্ধুত্ব",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_3734.png",
+        "question": "কোন গৃহপালিত জীব দেখা যাচ্ছে?",
+        "options": [
+            "কবুতর",
+            "মুরগি",
+            "গরু",
+            "ছাগল"
+        ],
+        "answer": "মুরগি",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_3740.png",
+        "question": "কোন ফসলটি নাড়াচাড়া করা হচ্ছে?",
+        "options": [
+            "গম",
+            "ভুট্টা",
+            "ধান",
+            "পাট"
+        ],
+        "answer": "ধান",
+        "category": "Food"
+    },
+    {
+        "filename": "CHITTRON_3742.png",
+        "question": "মহিলাটি কোথা দিয়ে হেঁটে যাচ্ছে?",
+        "options": [
+            "সেতুর উপর দিয়ে",
+            "বাজারের রাস্তা",
+            "পাকা রাস্তা",
+            " গ্রামীণ মেঠো পথ"
+        ],
+        "answer": " গ্রামীণ মেঠো পথ",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_3747.png",
+        "question": " শিশুটি কি পরেছে?",
+        "options": [
+            "শার্ট প্যান্ট",
+            " ফতুয়া লুঙ্গি",
+            "টুপি পাঞ্জাবি",
+            "ফ্রক"
+        ],
+        "answer": "টুপি পাঞ্জাবি",
+        "category": "Clothing & Fashion"
+    },
+    {
+        "filename": "CHITTRON_3750.png",
+        "question": "নারী-পুরুষ কোন ফসলের উপর কাজ করছে?",
+        "options": [
+            "ধান",
+            "পাট",
+            "ভুট্টা",
+            "গম"
+        ],
+        "answer": "ধান",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_3751.png",
+        "question": "লুঙ্গি পরা মানুষগুলো মাঠে বসে কি কাজ করছে?",
+        "options": [
+            "খাবার খাচ্ছে",
+            "বিশ্রাম নিচ্ছে",
+            " গল্প করছে",
+            "ধান মাড়াই করছে"
+        ],
+        "answer": "খাবার খাচ্ছে",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_3752.png",
+        "question": "কোমরে টায়র ঘুরিয়ে খেলা করছে কে?",
+        "options": [
+            "যুবক",
+            "বৃদ্ধ",
+            "শিশু",
+            "নারী"
+        ],
+        "answer": "শিশু",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_3754.png",
+        "question": "কে সমুদ্রে মাছ ধরছে?",
+        "options": [
+            "শিক্ষক",
+            "কৃষক",
+            "শ্রমিক",
+            "জেলেরা"
+        ],
+        "answer": "জেলেরা",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_3756.png",
+        "question": "বাংলাদেশের কোন পরিবহন দৃশ্যমান?",
+        "options": [
+            "বাস",
+            "ট্রেন",
+            "নৌকা",
+            "বিমান"
+        ],
+        "answer": "ট্রেন",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_376.png",
+        "question": " শিশুটির মা কি পরিধান করে আছে?",
+        "options": [
+            "লেহেঙ্গা",
+            "বোরকা",
+            "শাড়ি",
+            "সালোয়ার কামিজ"
+        ],
+        "answer": "শাড়ি",
+        "category": "Clothing & Fashion"
+    },
+    {
+        "filename": "CHITTRON_3761.png",
+        "question": "রাস্তার পাশে লুঙ্গি ফতুয়া পরা মানুষটি কোন দেশকে নির্দেশ করছে?",
+        "options": [
+            "আর্জেন্টিনা",
+            "চিলি",
+            "কানাডা",
+            "বাংলাদেশ"
+        ],
+        "answer": "বাংলাদেশ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_3762.png",
+        "question": "গ্রামের শিশুটি কোন গৃহপালিত পশু মাঠে নিয়ে যাচ্ছে?",
+        "options": [
+            "গরু",
+            "ছাগল",
+            "হাঁস",
+            "মুরগি"
+        ],
+        "answer": "ছাগল",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_3766.png",
+        "question": "লুঙ্গি পরে খরের গাড়ি নিয়ে কে চলেছে?",
+        "options": [
+            "যুবক",
+            "বৃদ্ধ",
+            "শিশু",
+            "মাঝি"
+        ],
+        "answer": "বৃদ্ধ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_3769.png",
+        "question": "এখানে মানুষটি কাঁধে করে কি বহন করছে?",
+        "options": [
+            "কাঠ",
+            "ইট",
+            "খড়",
+            "পানি"
+        ],
+        "answer": "ইট",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_377.png",
+        "question": "এখানে কোন ধর্মের দম্পতি দেখা যাচ্ছে?",
+        "options": [
+            "ইসলাম",
+            "হিন্দু",
+            "বৌদ্ধ",
+            "খ্রিস্টান"
+        ],
+        "answer": "হিন্দু",
+        "category": "Religious Events"
+    },
+    {
+        "filename": "CHITTRON_3773.png",
+        "question": "প্রায় অস্ত যাওয়া সূর্যের সামনে পাখির ছায়া কি নির্দেশ করছে?",
+        "options": [
+            "নীরবতা",
+            "শান্ত পরিবেশ",
+            "প্রকৃতির বৈচিত্র্য",
+            "প্রাকৃতিক সৌন্দর্য"
+        ],
+        "answer": "প্রাকৃতিক সৌন্দর্য",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_3775.png",
+        "question": "বাংলাদেশের কোন শহরের রেল স্টেশন দেখা যাচ্ছে?",
+        "options": [
+            "ঢাকা",
+            "চট্টগ্রাম",
+            "রাজশাহী",
+            "বগুড়া"
+        ],
+        "answer": "বগুড়া",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_3776.png",
+        "question": "বৃদ্ধা মহিলা কোথায় বসে জিনিস বিক্রি করছে?",
+        "options": [
+            "দোকানে",
+            "বাজারে",
+            " কাঠের গাড়ি",
+            "বাসে"
+        ],
+        "answer": " কাঠের গাড়ি",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_3778.png",
+        "question": "ধানক্ষেতের মাঝ দিয়ে কী গাড়ি যাচ্ছে?",
+        "options": [
+            "ট্রাক",
+            "সাইকেল",
+            "মোটর সাইকেল",
+            "গরুর গাড়ি"
+        ],
+        "answer": "গরুর গাড়ি",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_38.png",
+        "question": "এখানে কী দেখা যাচ্ছে?",
+        "options": [
+            "দোকান",
+            "সেলুন",
+            "হাসপাতাল",
+            "মেলা"
+        ],
+        "answer": "সেলুন",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_3802.png",
+        "question": "লুঙ্গি গামছা পরা কে নৌকা চালাচ্ছে?",
+        "options": [
+            "কৃষক",
+            "মাঝি",
+            "বৃদ্ধ",
+            "শ্রমিক"
+        ],
+        "answer": "মাঝি",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_3804.png",
+        "question": "ছোট বাচ্চাটির পরিহিত পোশাক কী?",
+        "options": [
+            "লেহেঙ্গা",
+            "স্কার্ট-টপ",
+            "প্যান্ট শার্ট",
+            " সেলোয়ার কামিজ"
+        ],
+        "answer": " সেলোয়ার কামিজ",
+        "category": "Clothing & Fashion"
+    },
+    {
+        "filename": "CHITTRON_3808.png",
+        "question": "বৃদ্ধ মানুষটি কোথায় বোরই বিক্রি করছে?",
+        "options": [
+            "বাসস্ট্যান্ডে",
+            "রাস্তায়",
+            "বাজারে",
+            "দোকানে"
+        ],
+        "answer": "বাজারে",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_381.png",
+        "question": "বাংলাদেশের নারীরা কোন ফসলের খেতে দাঁড়িয়ে আছে?",
+        "options": [
+            "ধান",
+            "গম",
+            "ভুট্টা",
+            "পাট"
+        ],
+        "answer": "ভুট্টা",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_3816.png",
+        "question": "মিছিলের সামনে কোন দেশের পতাকা হাতে নিয়ে যাচ্ছে?",
+        "options": [
+            "ভারত",
+            "পাকিস্তান",
+            "বাংলাদেশ",
+            "শ্রীলঙ্কা"
+        ],
+        "answer": "বাংলাদেশ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_3817.png",
+        "question": " কোন পানিয় দোকান দেখা যায়?",
+        "options": [
+            "কফি",
+            "স্যুপ",
+            "মিল্কশেক",
+            "চা"
+        ],
+        "answer": "চা",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_382.png",
+        "question": "কৃষকরা কোন ক্ষেতে কাজ করছে?",
+        "options": [
+            "ভুট্টা ক্ষেত",
+            "গম ক্ষেত",
+            "ধান ক্ষেত",
+            "পাট ক্ষেত"
+        ],
+        "answer": "ধান ক্ষেত",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_3823.png",
+        "question": "মানুষটি কী দিয়ে মাছ ধরছে?",
+        "options": [
+            "বরশি",
+            "কলসি",
+            "জাল",
+            "ফাঁদ"
+        ],
+        "answer": "জাল",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_3826.png",
+        "question": "ছেলে-মেয়েরা লাল-সবুজ জামা ও শাড়ি পরে নাটক করছে, এটি কোন দেশের সাথে সম্পর্কিত?",
+        "options": [
+            "ভারত",
+            "পাকিস্তান",
+            "বাংলাদেশ",
+            "নেপাল"
+        ],
+        "answer": "বাংলাদেশ",
+        "category": "Clothing & Fashion"
+    },
+    {
+        "filename": "CHITTRON_383.png",
+        "question": "বাড়িটি কী দিয়ে তৈরি?",
+        "options": [
+            "কাঠ",
+            "ইট",
+            "খড় ও টিন",
+            "সিমেন্ট"
+        ],
+        "answer": "খড় ও টিন",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_3834.png",
+        "question": "গ্রামের ছেলে গুলো পুকুরে কী করছে?",
+        "options": [
+            "মাছ ধরছে",
+            "স্নান করছে",
+            " নৌকা চালাচ্ছে",
+            " জামা কাপড় ধুচ্ছে"
+        ],
+        "answer": "স্নান করছে",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_3835.png",
+        "question": "কৃষক দম্পতি মাঠ থেকে কোন গৃহপালিত প্রাণী আনছে?",
+        "options": [
+            "ঘোড়া",
+            "ভেড়া",
+            "গরু",
+            "ছাগল"
+        ],
+        "answer": "গরু",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_3848.png",
+        "question": "কৃষকরা কোন ফসল কাঁধে করে বাড়ি ফিরছে?",
+        "options": [
+            "গম",
+            "ভুট্টা",
+            "ধান",
+            "পাট"
+        ],
+        "answer": "ধান",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_3853.png",
+        "question": "চিত্রটি কোন কাজের সাথে সম্পর্কিত?",
+        "options": [
+            "কৃষিকাজ",
+            "মাছ ধরা",
+            "বাড়ি নির্মাণ",
+            "বাজার করা"
+        ],
+        "answer": "মাছ ধরা",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_3854.png",
+        "question": "এখানে বাংলাদেশের কোন ধর্মের মানুষকে নির্দেশ করা হচ্ছে?",
+        "options": [
+            "ইসলাম",
+            "হিন্দু",
+            "বৌদ্ধ",
+            "খ্রিস্টান"
+        ],
+        "answer": "বৌদ্ধ",
+        "category": "Religious Events"
+    },
+    {
+        "filename": "CHITTRON_3855.png",
+        "question": " গাড়ির চাকার সামনে থাকা প্রাণীটির নাম কী?",
+        "options": [
+            "গরু",
+            "বিড়াল",
+            "কুকুর",
+            "ছাগল"
+        ],
+        "answer": "ছাগল",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_3867.png",
+        "question": "কোন উৎসবের আয়োজন বোঝা যাচ্ছে?",
+        "options": [
+            " ঈদ উৎসব",
+            " দুর্গা পূজা",
+            "বাংলা নববর্ষ",
+            " বিজয় দিবস"
+        ],
+        "answer": "বাংলা নববর্ষ",
+        "category": "Cultural Festivals"
+    },
+    {
+        "filename": "CHITTRON_3914.png",
+        "question": "বাংলাদেশের কোন বিশেষ দিবসে শহীদ মিনারে ফুল দেওয়া হয়?",
+        "options": [
+            "বিজয় দিবস",
+            " স্বাধীনতা দিবস",
+            "শহীদ দিবস",
+            "নববর্ষ"
+        ],
+        "answer": "শহীদ দিবস",
+        "category": "Cultural Festivals"
+    },
+    {
+        "filename": "CHITTRON_3763.png",
+        "question": " শাড়ি পরা মহিলা কোথায় নৌকা চালাচ্ছে?",
+        "options": [
+            "যমুনা",
+            "মেঘনা",
+            "পদ্মা",
+            "সুন্দরবন"
+        ],
+        "answer": "সুন্দরবন",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_3915.png",
+        "question": "শাড়ি ও চুড়ি পরে বসে থাকা মেয়েটি কোন দেশের সাথে সম্পর্কিত?",
+        "options": [
+            "শ্রীলঙ্কা",
+            "নেপাল",
+            "মিয়ানমার",
+            "বাংলাদেশ"
+        ],
+        "answer": "বাংলাদেশ",
+        "category": "Clothing & Fashion"
+    },
+    {
+        "filename": "CHITTRON_3927.png",
+        "question": " শিশুরা কী ক্ষেতে দাঁড়িয়ে আছে?",
+        "options": [
+            "গম ক্ষেত",
+            "সরিষা ক্ষেত",
+            "ভুট্টা ক্ষেত",
+            "পাট ক্ষেত"
+        ],
+        "answer": "সরিষা ক্ষেত",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_3932.png",
+        "question": "ধানের ক্ষেতের মাঝ বরাবর কী চলে গেছে?",
+        "options": [
+            "খাল",
+            "নদী",
+            "পাকা রাস্তা",
+            "মেঠো পথ"
+        ],
+        "answer": "মেঠো পথ",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_3949.png",
+        "question": "বৃদ্ধা মহিলা কী পড়ছে?",
+        "options": [
+            "গল্প",
+            "কবিতা",
+            "গীতিকা",
+            "কোরআন"
+        ],
+        "answer": "কোরআন",
+        "category": "Religious Events"
+    },
+    {
+        "filename": "CHITTRON_5439.png",
+        "question": "বাংলাদেশের কোন জেলার লাইব্রেরি দেখানো হয়েছে?",
+        "options": [
+            "ঢাকা",
+            "চট্টগ্রাম",
+            "ব্রাহ্মণবাড়িয়া",
+            "রাজশাহী"
+        ],
+        "answer": "ব্রাহ্মণবাড়িয়া",
+        "category": "Social Life"
+    }
+]

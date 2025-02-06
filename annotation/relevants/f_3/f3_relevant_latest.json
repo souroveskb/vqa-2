@@ -1,0 +1,3014 @@
+[
+    {
+        "filename": "BNATURE_1104.jpg",
+        "question": "নৌকায় বসা লোকটাকে দেখে কি মনে হচ্ছে?",
+        "options": [
+            "জেলে",
+            "মাঝি",
+            "বেদে",
+            "ভিক্ষুক"
+        ],
+        "answer": "মাঝি",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BNATURE_1105.jpg",
+        "question": "ছবিটি দেখে কোন পরিবেশ মনে হচ্ছে?",
+        "options": [
+            "গ্রামীণ",
+            "শহুরে",
+            "পার্বত্য",
+            "উপকূলীয়"
+        ],
+        "answer": "গ্রামীণ",
+        "category": "Nature"
+    },
+    {
+        "filename": "BNATURE_1106.jpg",
+        "question": "লোকটি কি মেরামত করছে?",
+        "options": [
+            "চাকা",
+            "বাড়ি",
+            "সেতু",
+            "স্কুল"
+        ],
+        "answer": "চাকা",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BNATURE_1107.jpg",
+        "question": "লোকটিকে আমরা কোথায় দেখতে পাই?",
+        "options": [
+            "মুদি দোকান",
+            "শপিং মল",
+            "নদী",
+            "সেতু"
+        ],
+        "answer": "মুদি দোকান",
+        "category": "Food"
+    },
+    {
+        "filename": "BNATURE_1109.jpg",
+        "question": "ছবির যন্ত্রগুলা কোন সম্পর্কিত?",
+        "options": [
+            "নৃত্য",
+            "সঙ্গীত",
+            "নাট্য",
+            "চারুকলা"
+        ],
+        "answer": "সঙ্গীত",
+        "category": "Arts & History"
+    },
+    {
+        "filename": "BNATURE_111.jpg",
+        "question": "চিত্রের মেঠোপথের পাশে কি গাছ দেখা যায়?",
+        "options": [
+            "তাল",
+            "নারকেল",
+            "খেঁজুর",
+            "ঝাঁউ"
+        ],
+        "answer": "খেঁজুর",
+        "category": "Nature"
+    },
+    {
+        "filename": "BNATURE_1110.jpg",
+        "question": "লোকটিকে আমরা কোথায় ঘুরতে দেখতে পাই?",
+        "options": [
+            "সমুদ্র",
+            "পাহাড়",
+            "নদী",
+            "জঙ্গল"
+        ],
+        "answer": "জঙ্গল",
+        "category": "Nature"
+    },
+    {
+        "filename": "BNATURE_1112.jpg",
+        "question": "শহরের রাস্তায় আমরা কোন ধরনের যানবাহন দেখতে পাই?",
+        "options": [
+            "ভ্যান",
+            "বাস",
+            "রিকশা",
+            "ট্রাক"
+        ],
+        "answer": "রিকশা",
+        "category": "Arts & History"
+    },
+    {
+        "filename": "BNATURE_1113.jpg",
+        "question": "চিত্রে আমরা কিসের বাজার দেখি?",
+        "options": [
+            "শাক-সবজি",
+            "কাপড়",
+            "বইপুস্তক",
+            "খাবার"
+        ],
+        "answer": "শাক-সবজি",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BNATURE_1114.jpg",
+        "question": "শিশুটির হাতে আমরা কি দেখি?",
+        "options": [
+            "বই",
+            "ফুল",
+            "খাবার",
+            "খাতা"
+        ],
+        "answer": "ফুল",
+        "category": "Arts & History"
+    },
+    {
+        "filename": "BNATURE_1116.jpg",
+        "question": "ছবিতে প্রদর্শিত খাবারটি কি?",
+        "options": [
+            "মিষ্টান্ন",
+            "ফুচকা",
+            "তরকারী",
+            "বিরিয়ানী"
+        ],
+        "answer": "মিষ্টান্ন",
+        "category": "Food"
+    },
+    {
+        "filename": "BNATURE_1117.jpg",
+        "question": "সাদা বোর্ডে যিনি লিখছেন তাকে দেখে কি মনে হয়?",
+        "options": [
+            "আমলা",
+            "রাজনীতিবিদ",
+            "শিক্ষক",
+            "ডাক্তার"
+        ],
+        "answer": "শিক্ষক",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BNATURE_1118.jpg",
+        "question": "মেয়েটি যে আসবাবটিতে বসে আছে সেটি কিসের তৈরী?",
+        "options": [
+            "বেত",
+            "কাঠ",
+            "প্লাস্টিক",
+            "স্টিল"
+        ],
+        "answer": "বেত",
+        "category": "Arts & History"
+    },
+    {
+        "filename": "BNATURE_1119.jpg",
+        "question": "চিত্রে পীড়াদায়ক কোন দিকটি তুলে ধরা হয়েছে?",
+        "options": [
+            "বেকারত্ব",
+            "শিশুশ্রম",
+            "দারিদ্রতা",
+            "দূর্নীতি"
+        ],
+        "answer": "শিশুশ্রম",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BNATURE_112.jpg",
+        "question": "ছবির প্রকৃতি কেমন?",
+        "options": [
+            "কুয়াশাচ্ছন্ন",
+            "রোদ ঝলমলে",
+            "বর্ষণ্মুখর",
+            "খরাপ্রবণ"
+        ],
+        "answer": "কুয়াশাচ্ছন্ন",
+        "category": "Nature"
+    },
+    {
+        "filename": "BNATURE_1121.jpg",
+        "question": "মাঠে কি চাষ করা হচ্ছে?",
+        "options": [
+            "গম",
+            "সবজি",
+            "ধান",
+            "সরিষা"
+        ],
+        "answer": "ধান",
+        "category": "Nature"
+    },
+    {
+        "filename": "BNATURE_1122.jpg",
+        "question": "ছবির ক্ষেতটি কিসের?",
+        "options": [
+            "সরিষা",
+            "ধান",
+            "গম",
+            "সবজি"
+        ],
+        "answer": "সরিষা",
+        "category": "Nature"
+    },
+    {
+        "filename": "BNATURE_1123.jpg",
+        "question": "ছবির মানচিত্র কিসের ইঙ্গিত করে?",
+        "options": [
+            "ভুটান",
+            "স্বাধীন বাংলাদেশ",
+            "মায়ানমার",
+            "নেপাল"
+        ],
+        "answer": "স্বাধীন বাংলাদেশ",
+        "category": "Incidents"
+    },
+    {
+        "filename": "BNATURE_1124.jpg",
+        "question": "নদীতে আমরা কোন যানবাহন দেখতে পাই?",
+        "options": [
+            "লঞ্চ",
+            "বাস",
+            "ডিঙ্গি",
+            "সাম্পান"
+        ],
+        "answer": "লঞ্চ",
+        "category": "Nature"
+    },
+    {
+        "filename": "BNATURE_1125.jpg",
+        "question": "গাছের অংশটি কোথায় পড়ে আছে?",
+        "options": [
+            "নদীর পাড়ে",
+            "পাহাড়ে",
+            "সমুদ্র উপকূলে",
+            "জঙ্গলে"
+        ],
+        "answer": "সমুদ্র উপকূলে",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_7560.png",
+        "question": "লোকটি কোথায় দাঁড়িয়ে আছে?",
+        "options": [
+            "পাহাড়ে",
+            "বাঁধানো ঘাটে",
+            "সিঁড়িতে",
+            "বাড়িতে"
+        ],
+        "answer": "বাঁধানো ঘাটে",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_7561.png",
+        "question": "লোকটিকে দেখে লোকটির পেশা কি অনুমান করা যায়?",
+        "options": [
+            "মাঝি",
+            "কৃষক",
+            "ডাক্তার",
+            "জেলে"
+        ],
+        "answer": "জেলে",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_7562.png",
+        "question": "মেয়েটির হাতে কিসের মালা দেখা যায়?",
+        "options": [
+            "ফুল",
+            "পুতি",
+            "শামুক-ঝিনুক",
+            "মুক্তা"
+        ],
+        "answer": "শামুক-ঝিনুক",
+        "category": "Arts & History"
+    },
+    {
+        "filename": "CHITTRON_7563.png",
+        "question": "মা শিশুকে কি বই পড়াচ্ছে?",
+        "options": [
+            "উপন্যাস",
+            "বর্ণমালা",
+            "কম্পিউটার শিক্ষা",
+            "প্রবন্ধ"
+        ],
+        "answer": "বর্ণমালা",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_7564.png",
+        "question": "ছেলেটি কিসের ছবি তুলছে?",
+        "options": [
+            "পাখি",
+            "বাঘ",
+            "বিড়াল",
+            "খরগোশ"
+        ],
+        "answer": "বিড়াল",
+        "category": "Arts & History"
+    },
+    {
+        "filename": "CHITTRON_7565.png",
+        "question": "ছবিতে যে বাজারটি দেখা যাচ্ছে, সেখানে কী ফল বিক্রি হচ্ছে এবং পরিবহনের জন্য কী কী যানবাহন ব্যবহার করা হয়েছে?",
+        "options": [
+            "আম এবং রিকশা, ট্রলি, হাতি",
+            "জাম এবং ট্রাক, গাড়ি, সাইকেল",
+            " কাঁঠাল এবং নৌকা, ঘোড়া, রিকশা",
+            "পেয়ারা এবং  ভ্যান,হাতি"
+        ],
+        "answer": "পেয়ারা এবং  ভ্যান,হাতি",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_7566.png",
+        "question": "ছবিতে মানুষগুলোর মুখে যে রঙগুলো দেখা যাচ্ছে, এটি কোন উৎসবের সঙ্গে সম্পর্কিত?",
+        "options": [
+            "হোলি উৎসব",
+            "বাংলা নববর্ষ",
+            "দুর্গা পূজা",
+            "ঈদ"
+        ],
+        "answer": "হোলি উৎসব",
+        "category": "Religious Events"
+    },
+    {
+        "filename": "CHITTRON_7567.png",
+        "question": "ছবিতে যে সরিষার ক্ষেতটি দেখা যাচ্ছে, এটি বাংলাদেশের কোন ঋতুর সঙ্গে সম্পর্কিত?",
+        "options": [
+            "বসন্তকাল",
+            "শীতকাল",
+            "গ্রীষ্মকাল",
+            "বর্ষাকাল"
+        ],
+        "answer": "শীতকাল",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_7568.png",
+        "question": "লোকটি কিসের বেড়া বুনন করছে?",
+        "options": [
+            "কাঠ",
+            "বেত",
+            "বাঁশ",
+            "প্লাস্টিক"
+        ],
+        "answer": "বাঁশ",
+        "category": "Arts & History"
+    },
+    {
+        "filename": "CHITTRON_7569.png",
+        "question": "লোকটির দোকানে কোন উপকরণের জিনিস দেখা যায়?",
+        "options": [
+            "টিন , স্টিল ",
+            "বাঁশ , বেত ও ফুলঝাড়ু",
+            "কাঠ , মাটি",
+            "টেকনোলজি"
+        ],
+        "answer": "বাঁশ , বেত ও ফুলঝাড়ু",
+        "category": "Clothing & Fashion"
+    },
+    {
+        "filename": "CHITTRON_757.png",
+        "question": "চিত্রের লোকজন যেসব পাত্র ব্যবহার করছে সেগুলোকেন ব্যবহার করছে?",
+        "options": [
+            "খাবার সংগ্রহের জন্য",
+            "পানি বহনের জন্য",
+            "ত্রাণ নেওয়ার জন্য",
+            "ক্ষেতে কামলা দেওয়ার জন্য"
+        ],
+        "answer": "পানি বহনের জন্য",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_7570.png",
+        "question": "লোকটি এবং শিশুটির পরনের পোশাকটির নাম কি?",
+        "options": [
+            "শাড়ি",
+            "শার্ট",
+            "স্যুট",
+            "পাঞ্জাবী"
+        ],
+        "answer": "পাঞ্জাবী",
+        "category": "Clothing & Fashion"
+    },
+    {
+        "filename": "CHITTRON_7571.png",
+        "question": "ছবির নারী, পুরুষ এবং শিশুটিকে দেখে কি বোঝা যায়?",
+        "options": [
+            "পারিবারিক বন্ধন",
+            "শিক্ষার হার",
+            "উন্নয়ন",
+            "যান্ত্রিক জীবন"
+        ],
+        "answer": "পারিবারিক বন্ধন",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_7572.png",
+        "question": "ছেলেটি এবং তার পেছনের বৈয়ামগুলো দেখে আমরা কি বুঝতে পারি?",
+        "options": [
+            "ছেলেটি দরিদ্র এবং সে একতি মুদি দোকানে আছে",
+            "ছেলেটি বড়লোক",
+            "ছেলেটির বাবা মা তাকে বাসা থেকে বের করে দিয়েছে",
+            "ছেলেটি বৈয়ামগুলা চুরি করতে এসেছে"
+        ],
+        "answer": "ছেলেটি দরিদ্র এবং সে একতি মুদি দোকানে আছে",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_7573.png",
+        "question": "লোকটি জলাশয়ের মধ্যে কি মাড়াই করছে?",
+        "options": [
+            "মাছ",
+            "কাপড়",
+            "পাট",
+            "বাঁশ"
+        ],
+        "answer": "পাট",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_7574.png",
+        "question": "লোকটি হাঁড়ি দুটি কিভাবে বহন করছে?",
+        "options": [
+            "বাখারির মাধ্যমে",
+            "ঠেলাগাড়ি করে",
+            "ভ্যানে",
+            "রিকশায়"
+        ],
+        "answer": "বাখারির মাধ্যমে",
+        "category": "Arts & History"
+    },
+    {
+        "filename": "CHITTRON_7575.png",
+        "question": "ছবির শিশুর পোশাক দেখে আমরা কোন উৎসব অনুমান করতে পারি?",
+        "options": [
+            "ঈদ",
+            "দুর্গাপূজা",
+            "পহেলা বৈশাখ",
+            "বসন্ত উৎসব"
+        ],
+        "answer": "পহেলা বৈশাখ",
+        "category": "Cultural Festivals"
+    },
+    {
+        "filename": "CHITTRON_7576.png",
+        "question": "লোকগুলো কি চরাচ্ছে?",
+        "options": [
+            "বিড়াল",
+            "ছাগল",
+            "ভেড়া",
+            "গরু"
+        ],
+        "answer": "গরু",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_7577.png",
+        "question": "লোকটিকে দেখে কি বিক্রেতা বলে মনে হয়?",
+        "options": [
+            "আম",
+            "কলা",
+            "আঙ্গুর",
+            "আপেল"
+        ],
+        "answer": "কলা",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_7578.png",
+        "question": "লোকগুলো কিসের উপর দিয়ে হেটে যাচ্ছে?",
+        "options": [
+            "রাস্তা",
+            "মেঠোপথ",
+            "রেললাইন",
+            "সেতু"
+        ],
+        "answer": "রেললাইন",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_7579.png",
+        "question": "নৌকাটির মানুষদের দেখে বাংলাদেশের কোন দিকটি মনে পড়ে যায়?",
+        "options": [
+            "মরনফাঁদ",
+            "অধিক জনবসতি",
+            "হুজুগ",
+            "শিশুশ্রম"
+        ],
+        "answer": "অধিক জনবসতি",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_758.png",
+        "question": "ছবিটি বাংলাদেশের কোন ধরনের সমস্যার কথা তুলে ধরে?",
+        "options": [
+            "জুলাই আন্দোলন",
+            "কিশোর গ্যাং ও বুলিং",
+            "চাঁদাবাজি",
+            "সন্ত্রাস"
+        ],
+        "answer": "কিশোর গ্যাং ও বুলিং",
+        "category": "Incidents"
+    },
+    {
+        "filename": "CHITTRON_7581.png",
+        "question": "লোকটি প্রকৃতির  কোলে দাঁড়িয়ে কি অপভোগ করছে?",
+        "options": [
+            "কুয়াশা",
+            "বৃষ্টি",
+            "রৌদ্রস্নান",
+            "হাওয়া"
+        ],
+        "answer": "রৌদ্রস্নান",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_7583.png",
+        "question": "নদীর চর থেকে আমরা নদীর কোন রূপ দেখতে পাই?",
+        "options": [
+            "কীর্তিনাশা",
+            "রৌদ্রস্নাত",
+            "কুয়াশাস্নাত",
+            "বর্ষণ্মুখর"
+        ],
+        "answer": "কুয়াশাস্নাত",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_7585.png",
+        "question": "লোকটি কাঁধে করে কি বহন করছে?",
+        "options": [
+            "বিচালি",
+            "হাঁড়ি",
+            "কলসি",
+            "ঝুড়ি"
+        ],
+        "answer": "বিচালি",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_7586.png",
+        "question": "কোন সময়ে এতো মানুষ ট্রেইন এ এভাবে বাসায় যায়?",
+        "options": [
+            "রবিবার",
+            "দিনে",
+            "বড় সরকারী ছুটি",
+            "রাতে"
+        ],
+        "answer": "বড় সরকারী ছুটি",
+        "category": "Incidents"
+    },
+    {
+        "filename": "CHITTRON_7588.png",
+        "question": "ছেলেগুলো রেললাইনের পাশে কি খেলছে?",
+        "options": [
+            "ফুটবল",
+            "ভলিবল",
+            "কাবাডি",
+            "ক্রিকেট"
+        ],
+        "answer": "ক্রিকেট",
+        "category": "Sports"
+    },
+    {
+        "filename": "CHITTRON_7589.png",
+        "question": "লোকটি মাছ ধরছে কিসের সাহায্যে?",
+        "options": [
+            "কুলা",
+            "জাল",
+            "বড়শি",
+            "চাই"
+        ],
+        "answer": "বড়শি",
+        "category": "Arts & History"
+    },
+    {
+        "filename": "CHITTRON_759.png",
+        "question": "নৌকায় করে লোকগুলো কি বহন করে?",
+        "options": [
+            "কাঁঠাল",
+            "আম",
+            "কলা",
+            "লিচু"
+        ],
+        "answer": "কলা",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_7590.png",
+        "question": "ছেলেটি কি বই পড়ছে?",
+        "options": [
+            "উপন্যাস",
+            "প্রবন্ধ",
+            "কুরআন",
+            "বেদ"
+        ],
+        "answer": "কুরআন",
+        "category": "Religious Events"
+    },
+    {
+        "filename": "CHITTRON_7591.png",
+        "question": "ছেলেটি কোন ধরনের দোকানে আছে?",
+        "options": [
+            "টুপি",
+            "কাপড়",
+            "আতর",
+            "জায়নামাজ"
+        ],
+        "answer": "টুপি",
+        "category": "Clothing & Fashion"
+    },
+    {
+        "filename": "CHITTRON_7592.png",
+        "question": "লোকটি কোথায় বসে নদীর প্রাকৃতিক সৌন্দর্য উপভোগ করছে?",
+        "options": [
+            "নদীর পাড়ে",
+            "ঘাটে",
+            "নৌকার পাটাতনে",
+            "গাছের ডালে"
+        ],
+        "answer": "নৌকার পাটাতনে",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_7600.png",
+        "question": "চিত্রের লোকটি কি পার হচ্ছে?",
+        "options": [
+            "রেললাইন",
+            "দুটি নৌযানের মাঝামাঝি",
+            "সেতু",
+            "জঙ্গল"
+        ],
+        "answer": "দুটি নৌযানের মাঝামাঝি",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_7601.png",
+        "question": "গ্রামের মেঠোপথটিতে আমরা মানুষ ছাড়া আর কোন ধনের প্রাণীর উপস্থিতি দেখতে পাই?",
+        "options": [
+            "গরু",
+            "ভেড়া",
+            "ছাগল",
+            "বিড়াল"
+        ],
+        "answer": "ছাগল",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_7602.png",
+        "question": "বহুতল দালানের ছাদে দাঁড়ানো সমাজের কোন প্রান্তিক শ্রেণীর মানুষদের প্রতিনিধিত্ব করে?",
+        "options": [
+            "কাঠমিস্ত্রী",
+            "কৃষক",
+            "রাজমিস্ত্রী",
+            "রিকশাওয়ালা"
+        ],
+        "answer": "রাজমিস্ত্রী",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_7603.png",
+        "question": "শিশুটির হাতে কোন ধরনের অলংকার পরিহিত?",
+        "options": [
+            "ব্রেসলেট",
+            "বাজু",
+            "চুড়ি",
+            "ঘড়ি"
+        ],
+        "answer": "চুড়ি",
+        "category": "Clothing & Fashion"
+    },
+    {
+        "filename": "CHITTRON_7604.png",
+        "question": "চিত্রের দম্পতি কিসের পাশে দাঁড়িয়ে সূর্যাস্ত উপভোগ করছে?",
+        "options": [
+            "পাহাড়ে",
+            "বন",
+            "সমুদ্রে",
+            "নদী"
+        ],
+        "answer": "সমুদ্রে",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_7605.png",
+        "question": "ছেলেটি কি নিয়ে খেলছে?",
+        "options": [
+            "বল",
+            "কাদা",
+            "টায়ার",
+            "কাঠ"
+        ],
+        "answer": "টায়ার",
+        "category": "Sports"
+    },
+    {
+        "filename": "CHITTRON_7606.png",
+        "question": "ছবির লোকজন একত্রে কি করছে?",
+        "options": [
+            "কুরআন তিলাওয়াত",
+            "নামায আদায়",
+            "যাকাত",
+            "হজ্জ"
+        ],
+        "answer": "নামায আদায়",
+        "category": "Religious Events"
+    },
+    {
+        "filename": "CHITTRON_7607.png",
+        "question": "লোকটি সাইকেলে কি বহন করছে?",
+        "options": [
+            "খড়",
+            "বস্তা",
+            "কাঠ",
+            "বাঁশ"
+        ],
+        "answer": "বস্তা",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_7608.png",
+        "question": "লোকটি নদীর পাড়ে কোন সময়ে দাঁড়িয়া আছে?",
+        "options": [
+            "পূর্ণিমা রাতে",
+            "অমাবস্যার রাতে",
+            "ভর দুপুরে",
+            "সকালবেলা"
+        ],
+        "answer": "পূর্ণিমা রাতে",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_7609.png",
+        "question": "ছেলেটি কোন পশুকে চরাচ্ছে?",
+        "options": [
+            "গরু",
+            "ছাগল",
+            "ভেড়া",
+            "ঘোড়া"
+        ],
+        "answer": "ঘোড়া",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_761.png",
+        "question": "ছবিতে কোন ধরনের কাজকে ইঙ্গিত করা হচ্ছে?",
+        "options": [
+            "শিক্ষা",
+            "সমাজসেবা",
+            "পুনর্বাসন",
+            "বৃক্ষরোপণ"
+        ],
+        "answer": "সমাজসেবা",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_7610.png",
+        "question": "লোকটি ধান থেকে চাল বানানোর কোন কাজটি করছে?",
+        "options": [
+            "ধান মাড়াই",
+            "ধান শুকানো",
+            "ধান ভানা",
+            "ধান চাষ"
+        ],
+        "answer": "ধান শুকানো",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_7611.png",
+        "question": "চিত্রে মুড়ির সাথে কোন খাবার রাখা আছে?",
+        "options": [
+            "জিলাপি",
+            "ছোলা",
+            "নাড়ু",
+            "গুড়"
+        ],
+        "answer": "ছোলা",
+        "category": "Food"
+    },
+    {
+        "filename": "CHITTRON_7613.png",
+        "question": "চিত্রের বাড়িটি কোন উপাদানে তৈরী?",
+        "options": [
+            "ছন",
+            "খড়",
+            "মাটি",
+            "টিন"
+        ],
+        "answer": "ছন",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_7616.png",
+        "question": "লোকটির হেটে যাওয়া পথটি কেমন?",
+        "options": [
+            "খালের উপর বাঁশের সেতু",
+            "জঙ্গলের মধ্যে মেঠো পথ",
+            "শহরের ব্যস্ততম সড়ক",
+            "পার্বত্য দুর্গম রাস্তা"
+        ],
+        "answer": "জঙ্গলের মধ্যে মেঠো পথ",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_7617.png",
+        "question": "মানুষ কোন দিন শহিদ মিনারে ফুল দেয়? ",
+        "options": [
+            "১৬ ডিসেম্বর",
+            "৫ জুলাই",
+            "২১ ফেব্রুয়ারী",
+            "২৬ মার্চ"
+        ],
+        "answer": "২১ ফেব্রুয়ারী",
+        "category": "Incidents"
+    },
+    {
+        "filename": "CHITTRON_7618.png",
+        "question": "ছেলেটি ব্যাট দিয়ে কি খেলছে?",
+        "options": [
+            "হকি",
+            "ক্রিকেট",
+            "রাগবি",
+            "ব্যাডমিন্টন"
+        ],
+        "answer": "ক্রিকেট",
+        "category": "Sports"
+    },
+    {
+        "filename": "CHITTRON_7619.png",
+        "question": "ছেলেটি পানির মধ্যে কি করছে?",
+        "options": [
+            "সাঁতার কাটছে",
+            "সার্ফিং ",
+            "বোটিং",
+            "স্কুবা ডাইভিং"
+        ],
+        "answer": "সাঁতার কাটছে",
+        "category": "Sports"
+    },
+    {
+        "filename": "CHITTRON_7621.png",
+        "question": "বাংলাদেশের গ্রামীণ সমাজে বাঁশের তৈরি পাত্র সাধারণত কোন কাজে বেশি ব্যবহার করা হয়?",
+        "options": [
+            "মাছ ধরার জন্য",
+            "পানি সংরক্ষণের জন্য",
+            "খাবার সংরক্ষণের জন্য",
+            "পোশাক রাখার জন্য"
+        ],
+        "answer": "খাবার সংরক্ষণের জন্য",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_7622.png",
+        "question": "চিত্রের লোকটির হাতে আমরা কি দেখতে পাই?",
+        "options": [
+            "বল",
+            "লাটিম",
+            "লাটাই",
+            "কাপড়"
+        ],
+        "answer": "লাটাই",
+        "category": "Sports"
+    },
+    {
+        "filename": "CHITTRON_7623.png",
+        "question": "চিত্রের শিশু এবং তাদের পাশের নোংরা দেখে আমরা তাদের পেশা কি ধারণা করতে পারি?",
+        "options": [
+            "ভিক্ষুক",
+            "হকার",
+            "টোকাই",
+            "বেকার"
+        ],
+        "answer": "টোকাই",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_7625.png",
+        "question": "শিশুটির পোশাক এবং বেশভুষা দেখে আমাদের কোন ঐতিহাসিক ঘটনার কথা মনে পড়ে?",
+        "options": [
+            "বুদ্ধিজীবি দিবস",
+            "কালরাত্রি",
+            "বিজয় দিবস",
+            "শহিদ দিবস"
+        ],
+        "answer": "বিজয় দিবস",
+        "category": "Incidents"
+    },
+    {
+        "filename": "CHITTRON_7626.png",
+        "question": "মাঠের যে স্থানে গরু চরছে সেখানে আমরা কোন গাছ দেখতে পাই?",
+        "options": [
+            "তাল",
+            "খেঁজুর",
+            "নারকেল",
+            "আম"
+        ],
+        "answer": "তাল",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_7627.png",
+        "question": "লোকটি কিসের পাত্র সুন্দর করে সাজাচ্ছে?",
+        "options": [
+            "বাঁশ",
+            "কাঠ",
+            "মাটি",
+            "চট"
+        ],
+        "answer": "মাটি",
+        "category": "Arts & History"
+    },
+    {
+        "filename": "CHITTRON_7628.png",
+        "question": "শিশুটি কোথায় খেলা করছে?",
+        "options": [
+            "নদীর কূলে",
+            "রাস্তার পাশে",
+            "পানির মধ্যে",
+            "সমুদ্র সৈকতে"
+        ],
+        "answer": "সমুদ্র সৈকতে",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_763.png",
+        "question": "চিত্রের কাপড়ের পোস্টারগুলো কোন ঘটনার ইঙ্গিত করে?",
+        "options": [
+            "ভাষা আন্দোলন",
+            "বাংলা নববর্ষ",
+            "বসন্ত উৎসব",
+            "বিজয় দিবস"
+        ],
+        "answer": "ভাষা আন্দোলন",
+        "category": "Incidents"
+    },
+    {
+        "filename": "CHITTRON_7630.png",
+        "question": "চিত্রের মানুষগুলো সমাজের কোন শ্রেণীর মানুষের প্রতিনিধিত্ব করে?",
+        "options": [
+            "মধ্যবিত্ত",
+            "বেদে",
+            "ধনী",
+            "ভাসমান"
+        ],
+        "answer": "ভাসমান",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_7632.png",
+        "question": "ছবিতে শিশুরা কোন উতসবে আনন্দ করছে?",
+        "options": [
+            "দোল",
+            "জলকেলি",
+            "দীপাবলি",
+            "ক্রিসমাস"
+        ],
+        "answer": "জলকেলি",
+        "category": "Cultural Festivals"
+    },
+    {
+        "filename": "CHITTRON_7633.png",
+        "question": "লোকগুলো কেমন পরিবেশে কাজ করছে?",
+        "options": [
+            "রোদে পুড়ে",
+            "কুয়াশার শীতে",
+            "বৃষ্টিতে ভিজে",
+            "ঝড়ের মধ্যে"
+        ],
+        "answer": "কুয়াশার শীতে",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_7634.png",
+        "question": "ছেলেগুলো সমুদ্রের পাশে কখন হাটছে?",
+        "options": [
+            "ভর দুপুরে",
+            "পড়ন্ত বিকেলে",
+            "পুর্ণিমার রাতে",
+            "সন্ধ্যায়"
+        ],
+        "answer": "পড়ন্ত বিকেলে",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_7635.png",
+        "question": "ছবির লোকটির ব্যবহৃত সরঞ্জাম দেখে তার পেশা সম্পর্কে আমরা কি অনুমান করতে পারি?",
+        "options": [
+            "মাঝি",
+            "বেদে",
+            "জেলে",
+            "হকার"
+        ],
+        "answer": "জেলে",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_7636.png",
+        "question": "ছবিতে সমুদ্র সৈকতের কোন সময়ের সৌন্দর্য মানুষ্কে উপভোগ করতে দেখি?",
+        "options": [
+            "সকাল",
+            "উষা",
+            "গোধুলি",
+            "পুর্ণিমা"
+        ],
+        "answer": "গোধুলি",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_7637.png",
+        "question": "মেয়েটি মোম রঙ দিয়ে কি করছে?",
+        "options": [
+            "ছবি আঁকছে",
+            "লিখালিখি করছে",
+            "বই দাগাচ্ছে",
+            "অন্যদের পড়াচ্ছে"
+        ],
+        "answer": "ছবি আঁকছে",
+        "category": "Arts & History"
+    },
+    {
+        "filename": "CHITTRON_7638.png",
+        "question": "ছবির মানুষ এবং তাদের বেশভুষা আমাদেরকে কোন ঋতুর কথা মনে করিয়ে দেয়?",
+        "options": [
+            "বসন্ত",
+            "গ্রীষ্ম",
+            "বর্ষা",
+            "শীত"
+        ],
+        "answer": "শীত",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_764.png",
+        "question": "লোকটি নৌকা বেয়ে কখন যাচ্ছে?",
+        "options": [
+            "পড়ন্ত বিকেলে",
+            "ভোরবেলা",
+            "রাতে",
+            "সকালে"
+        ],
+        "answer": "পড়ন্ত বিকেলে",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_7641.png",
+        "question": "লোকটি শীতের সকালে হাতে করে কি নিয়ে যাচ্ছে?",
+        "options": [
+            "বই",
+            "বাজার",
+            "খাবার",
+            "ব্যাগ"
+        ],
+        "answer": "ব্যাগ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_7645.png",
+        "question": "শিশুটির হাতে উৎসর্গ  করার জন্য কোন ধরনের ফুল দেখা যায়?",
+        "options": [
+            "গাঁদা",
+            "ডালিয়া",
+            "গোলাপ",
+            "বেলি"
+        ],
+        "answer": "গোলাপ",
+        "category": "Incidents"
+    },
+    {
+        "filename": "CHITTRON_7647.png",
+        "question": "ময়দানে জমায়েত মানুষেরা কোন ধর্মের?",
+        "options": [
+            "মুসলিম",
+            "হিন্দু",
+            "বৌদ্ধ",
+            "খ্রিস্টান"
+        ],
+        "answer": "মুসলিম",
+        "category": "Religious Events"
+    },
+    {
+        "filename": "CHITTRON_7648.png",
+        "question": "চিত্রের জায়গাটি বাংলাদেশের কোন জায়গার সাথে সাদৃশ্যপূর্ণ?",
+        "options": [
+            "বান্দরবান",
+            "খুলনা",
+            "সেন্ট মার্টিন",
+            "সিলেট"
+        ],
+        "answer": "সেন্ট মার্টিন",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_7650.png",
+        "question": "চিত্রটির মাধ্যমে কোন শিল্পকে রূপায়ন করা হয়েছে?",
+        "options": [
+            "তাঁত",
+            "পাট",
+            "কাঠ",
+            "পলিথিন"
+        ],
+        "answer": "পাট",
+        "category": "Arts & History"
+    },
+    {
+        "filename": "CHITTRON_7651.png",
+        "question": "লোকটি কি বিক্রি করছে?",
+        "options": [
+            "চুড়ি",
+            "কাপড়",
+            "পতাকা",
+            "ওষুধ"
+        ],
+        "answer": "পতাকা",
+        "category": "Incidents"
+    },
+    {
+        "filename": "CHITTRON_7652.png",
+        "question": "দোকানে বসা লোকতিকে দেখে তার পেশা কি বলতে পারি?",
+        "options": [
+            "রিকশাচালক",
+            "দোকানদার",
+            "মাঝি",
+            "জেলে"
+        ],
+        "answer": "দোকানদার",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_7653.png",
+        "question": "ছবিতে ছেলেরা কি খেলছে?",
+        "options": [
+            "ফুটবল",
+            "হকি",
+            "ক্রিকেট",
+            "গোল্লাছুট"
+        ],
+        "answer": "ফুটবল",
+        "category": "Sports"
+    },
+    {
+        "filename": "CHITTRON_7658.png",
+        "question": "চিত্রে মহিলারা উঠানে কি শুকাতে দিচ্ছে?",
+        "options": [
+            "ধান",
+            "মরিচ",
+            "গম",
+            "বালি"
+        ],
+        "answer": "মরিচ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_7659.png",
+        "question": "ছবির লোকজন ইটের ভাটা থেকে কি সংগ্রহ করছে?",
+        "options": [
+            "খাবার",
+            "ছাই",
+            "ইট",
+            "বালু"
+        ],
+        "answer": "ইট",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_7661.png",
+        "question": "এই ছবিটি বাংলাদেশের কোন ঐতিহ্যবাহী শিল্পের চিত্র তুলে ধরে?",
+        "options": [
+            "ঢাকাই মসলিন শিল্প",
+            "গুড় ও আখের মিল",
+            "নকশিকাঁথা তৈরি শিল্প",
+            "কাঠের কারুশিল্প"
+        ],
+        "answer": "গুড় ও আখের মিল",
+        "category": "Arts & History"
+    },
+    {
+        "filename": "CHITTRON_7663.png",
+        "question": "মহিলাটি উঠোনে কি পরিষ্কার করছে?",
+        "options": [
+            "ধান",
+            "সবজি",
+            "ময়লা",
+            "নারকোল"
+        ],
+        "answer": "ধান",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_7664.png",
+        "question": "ছবির লোকগুলো মাল বহন করছে কিভাবে?",
+        "options": [
+            "ট্রেন",
+            "নৌকা",
+            "বাস",
+            "ভ্যান"
+        ],
+        "answer": "নৌকা",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_767.png",
+        "question": "ছবির নারী কিসে তার শ্রম দিচ্ছেন?",
+        "options": [
+            "তাঁত",
+            "চা",
+            "ধান",
+            "সবজি"
+        ],
+        "answer": "চা",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_7670.png",
+        "question": "চিত্রটির মাধ্যমে বাংলাদেশের কোন সৌন্দর্য পরিলিক্ষিত হয়?",
+        "options": [
+            "নদীমাতৃক",
+            "সুজলা সুফলা",
+            "বরফে আবৃত",
+            "খরাপ্রবণ"
+        ],
+        "answer": "সুজলা সুফলা",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_7674.png",
+        "question": "শিশুরা দুজনে কি খেলছে?",
+        "options": [
+            "বল",
+            "ঘুড়ি",
+            "ঠেলাগাড়ি",
+            "দোলনা"
+        ],
+        "answer": "ঠেলাগাড়ি",
+        "category": "Sports"
+    },
+    {
+        "filename": "CHITTRON_7677.png",
+        "question": "চিত্রের মহিলাটি পুকুরে কি করছেন?",
+        "options": [
+            "গোসল করা",
+            "বাসন ধোয়া",
+            "কাপড় কাঁচা",
+            "পানি নেওয়া"
+        ],
+        "answer": "কাপড় কাঁচা",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_7678.png",
+        "question": "চিত্রের বহুরূপী লোকটি হিন্দু ধর্মের কোন দেবতার সাজে সেজেছেন?",
+        "options": [
+            "কালী",
+            "লক্ষী",
+            "পার্বতী",
+            "গ্ণেশ"
+        ],
+        "answer": "কালী",
+        "category": "Religious Events"
+    },
+    {
+        "filename": "CHITTRON_7679.png",
+        "question": "চিত্রের সকালটি কেমন?",
+        "options": [
+            "শীতের ",
+            "ভর দুপুর",
+            "বসন্ত",
+            "সন্ধ্যা"
+        ],
+        "answer": "শীতের ",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_768.png",
+        "question": "চিত্রের শিশুর আকৃতিসুলভ শিল্পটি কোন শিল্পের অন্তর্গত?",
+        "options": [
+            "চারুকলা",
+            "সংগীত",
+            "স্থাপত্য",
+            "নাট্য"
+        ],
+        "answer": "স্থাপত্য",
+        "category": "Arts & History"
+    },
+    {
+        "filename": "CHITTRON_7681.png",
+        "question": "চিত্রের লোকটি বাংলাদেশের কোন ঐতিহ্যবাহী খাবার তৈরী করছেন?",
+        "options": [
+            "পিঠা",
+            "বাকরখানি",
+            "মাঠা",
+            "বিরিয়ানী"
+        ],
+        "answer": "পিঠা",
+        "category": "Food"
+    },
+    {
+        "filename": "CHITTRON_7687.png",
+        "question": "চিত্রটিতে আমরা বাংলাদেশের কোন ঐতিহ্যবাহী যানবাহনটি দেখতে পাই?",
+        "options": [
+            "বাস",
+            "ট্রাক",
+            "রিকশা",
+            "নৌকা"
+        ],
+        "answer": "রিকশা",
+        "category": "Arts & History"
+    },
+    {
+        "filename": "CHITTRON_769.png",
+        "question": "চিত্রের যুদ্ধরত মানুষদের পরিচয় কি?",
+        "options": [
+            "সৈনিক",
+            "আনসার",
+            "পুলিশ",
+            "মাস্তান"
+        ],
+        "answer": "সৈনিক",
+        "category": "Incidents"
+    },
+    {
+        "filename": "CHITTRON_7690.png",
+        "question": "ছবির বহুতল ভবনে কর্মরত মানুষরা কোন পেশায় নিয়োজিত?",
+        "options": [
+            "রাজমিস্ত্রী",
+            "কামার",
+            "কুমোর",
+            "জেলে"
+        ],
+        "answer": "রাজমিস্ত্রী",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_7691.png",
+        "question": "লোকটির পরনে কি পরিধান করা?",
+        "options": [
+            "জামা",
+            "পাঞ্জাবী",
+            "গামছা",
+            "শার্ট"
+        ],
+        "answer": "গামছা",
+        "category": "Clothing & Fashion"
+    },
+    {
+        "filename": "CHITTRON_7692.png",
+        "question": "ছেলেরা স্কুল যাচ্ছে কোন পথ ধরে?",
+        "options": [
+            "শহুরে রাস্তা",
+            "গ্রামের মেঠোপথ",
+            "নদীপথ",
+            "পাহাড়ি পথ"
+        ],
+        "answer": "গ্রামের মেঠোপথ",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_7693.png",
+        "question": "মহিলারা কোথায় কাজ করছেন?",
+        "options": [
+            "মাঠ",
+            "বাসাবাড়ি",
+            "কারখানা",
+            "রাস্তা"
+        ],
+        "answer": "কারখানা",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_7694.png",
+        "question": "চিত্রে যে ফসলের স্তূপ দেখা যায় তার নাম কি?",
+        "options": [
+            "কলা",
+            "করলা",
+            "লাউ",
+            "আলু"
+        ],
+        "answer": "আলু",
+        "category": "Food"
+    },
+    {
+        "filename": "CHITTRON_7695.png",
+        "question": "চিত্রে আমরা কোন শিল্পকে খুঁজে পাই?",
+        "options": [
+            "চিত্র",
+            "লোকগান",
+            "নাচ",
+            "নাট্য"
+        ],
+        "answer": "চিত্র",
+        "category": "Arts & History"
+    },
+    {
+        "filename": "CHITTRON_7696.png",
+        "question": "চিত্রের ট্রলি হাতে লোকটির পেশা কি?",
+        "options": [
+            "মিস্ত্রী",
+            "কুলি",
+            "হকার",
+            "কামার"
+        ],
+        "answer": "কুলি",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_7697.png",
+        "question": "মানুষজন কোন যানবাহনে জলাশয় পারাপার হচ্ছে?",
+        "options": [
+            "নৌকা",
+            "ডিঙ্গি",
+            "সাবমেরিন",
+            "স্পিটবোট"
+        ],
+        "answer": "নৌকা",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_77.png",
+        "question": "শ্রমিকরা কিভাবে জাহাজ থেকে মালামাল পাড়ে নিয়ে আসছে?",
+        "options": [
+            "সাঁকো পার হয়ে",
+            "নৌকা করে",
+            "ড্রোনে করে",
+            "সাঁতার কেটে"
+        ],
+        "answer": "সাঁকো পার হয়ে",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_770.png",
+        "question": "চিত্রে আমরা মহিলাদের কোন এলাকা পার হতে দেখি?",
+        "options": [
+            "পাহাড়ি",
+            "শহুরে",
+            "বন্যাপ্রবণ",
+            "খরাকবলিত"
+        ],
+        "answer": "পাহাড়ি",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_7701.png",
+        "question": "লোকটি সমুদ্রে কি করছেন?",
+        "options": [
+            "জাল ঠিক করছেন",
+            "সাঁতার কাটছেন",
+            "লবণ সংগ্রহ ",
+            "সার্ফিং"
+        ],
+        "answer": "জাল ঠিক করছেন",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_7703.png",
+        "question": "যারা মাথায় করে ইট বহন করছেন তাদের পেশা কি?",
+        "options": [
+            "মজুর",
+            "কামার",
+            "হকার",
+            "কুমোর"
+        ],
+        "answer": "মজুর",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_7704.png",
+        "question": "ছবির লোকজন শহিদ মিনারে কি করছে? ",
+        "options": [
+            "ফুল দিচ্ছে",
+            "আলপনা দিচ্ছে",
+            "ভাষন দিচ্ছে",
+            "গান করছে?"
+        ],
+        "answer": "আলপনা দিচ্ছে",
+        "category": "Incidents"
+    },
+    {
+        "filename": "CHITTRON_771.png",
+        "question": "চিত্রের নারী পুরুষ মাথায় কি বহন করছে?",
+        "options": [
+            "লাকড়ি",
+            "কাঠ",
+            "পানি",
+            "হাড়ি"
+        ],
+        "answer": "লাকড়ি",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_7716.png",
+        "question": "চিত্রের নারীটির হাতে আমরা কোন ধরনের অলংকার দেখতে পাই?",
+        "options": [
+            "বাজু",
+            "চুড়ি",
+            "আংটি",
+            "ব্রেসলেট"
+        ],
+        "answer": "চুড়ি",
+        "category": "Clothing & Fashion"
+    },
+    {
+        "filename": "CHITTRON_7718.png",
+        "question": "চিত্রে আমরা গ্রামীণ কোন দৃশ্য দেখতে পাই?",
+        "options": [
+            "নদী ও নৌকা",
+            "কুড়েঘর",
+            "হস্তশিল্প",
+            "পিঠাপুলি"
+        ],
+        "answer": "নদী ও নৌকা",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_7721.png",
+        "question": "লোকটির সেলাই মেশিন দেখে লোকটির পেশা কি বলে মনে হয়?",
+        "options": [
+            "তাঁতি",
+            "দর্জি",
+            "জেলে",
+            "মাঝি"
+        ],
+        "answer": "দর্জি",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_7722.png",
+        "question": "চিত্রের রিকশায় আমরা কোন শিল্পের প্রতিফলন  দেখতে পাই?",
+        "options": [
+            "চিত্র",
+            "সংগীত",
+            "নাট্য",
+            "নৃত্য"
+        ],
+        "answer": "চিত্র",
+        "category": "Arts & History"
+    },
+    {
+        "filename": "CHITTRON_7726.png",
+        "question": "নদীর পাড়ে রোদে কি শুকাতে দেওয়া হয়েছে?",
+        "options": [
+            "জাল",
+            "শুটকি",
+            "বড়ি",
+            "আচার"
+        ],
+        "answer": "জাল",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_7729.png",
+        "question": "ছবিটিতে প্রদর্শিত বাঁশের তৈরি গম্বুজাকার কাঠামোগুলো সাধারণত কোন উদ্দেশ্যে ব্যবহৃত হয়?",
+        "options": [
+            "পিঠা বা খাবার শুকাতে",
+            "শস্য মজুদ করতে",
+            "পশু রাখার জন্য",
+            "পানির সংরক্ষণে"
+        ],
+        "answer": "পিঠা বা খাবার শুকাতে",
+        "category": "Arts & History"
+    },
+    {
+        "filename": "CHITTRON_7732.png",
+        "question": "নদীর তীরে আমরা কোন ধরনের জিনিসের স্তূপ দেখতে পাই?",
+        "options": [
+            "পাটখড়ি",
+            "পাটড়",
+            "মধু",
+            "বড়শি"
+        ],
+        "answer": "পাটখড়ি",
+        "category": "Arts & History"
+    },
+    {
+        "filename": "CHITTRON_7733.png",
+        "question": "শহিদদের প্রতি শ্রদ্ধা নিবেদন করি আমরা কোন তারিখে?",
+        "options": [
+            "১৬ ডিসেম্বর",
+            "২১ ফেব্রুয়ারী",
+            "৫ জানুয়ারী",
+            "৩০ মার্চ"
+        ],
+        "answer": "২১ ফেব্রুয়ারী",
+        "category": "Incidents"
+    },
+    {
+        "filename": "CHITTRON_7734.png",
+        "question": "শিশুরা কি খেলার মাধ্যমের বৃষ্টি উপভোগ করছে?",
+        "options": [
+            "ভলিবল",
+            "ফুটবল",
+            "গলফ",
+            "দাবা"
+        ],
+        "answer": "ফুটবল",
+        "category": "Sports"
+    },
+    {
+        "filename": "CHITTRON_7736.png",
+        "question": "চিত্রের ক্ষেতের মধ্যে লোকটি কি করছেন?",
+        "options": [
+            "ঘুম",
+            "খাওয়া",
+            "ধান চাষ",
+            "গান গাওয়া"
+        ],
+        "answer": "ধান চাষ",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_7737.png",
+        "question": "ঝাড়ু হাতে চিত্রের মহিলাটির পেশা কি?",
+        "options": [
+            "টোকাই",
+            "ঝাড়ুদার",
+            "হকার",
+            "ভিক্ষুক"
+        ],
+        "answer": "ঝাড়ুদার",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_7738.png",
+        "question": "আকাশে ভাসমান আলোর লন্ঠনগুলোর নাম কি?",
+        "options": [
+            "মোমবাতি",
+            "প্রদীপ",
+            "ফানুস",
+            "হারিকেন"
+        ],
+        "answer": "ফানুস",
+        "category": "Religious Events"
+    },
+    {
+        "filename": "CHITTRON_7742.png",
+        "question": "চিত্রের ছেলেটির হাতে থাকা বস্তুটি কি কাজে ব্যবহৃত হয়?",
+        "options": [
+            "ধান চাষ",
+            "মাছ ধরা",
+            "বাড়ি বানানো",
+            "খাবার রান্না"
+        ],
+        "answer": "মাছ ধরা",
+        "category": "Arts & History"
+    },
+    {
+        "filename": "CHITTRON_7743.png",
+        "question": "লোকটি কি পানীয় পান করছে?",
+        "options": [
+            "কফি",
+            "দুধ",
+            "চা",
+            "কোমল পানীয়"
+        ],
+        "answer": "চা",
+        "category": "Food"
+    },
+    {
+        "filename": "CHITTRON_7744.png",
+        "question": "চিত্রে আমরা কোন ধরনের ফুল সাজানো দেখতে পাই?",
+        "options": [
+            "গোলাপ",
+            "গাঁদা",
+            "কসমস",
+            "চেরী"
+        ],
+        "answer": "গাঁদা",
+        "category": "Cultural Festivals"
+    },
+    {
+        "filename": "CHITTRON_7745.png",
+        "question": "দিগন্তে আমরা কি দেখতে পাই?",
+        "options": [
+            "সূর্যাস্ত",
+            "পুর্ণিমা",
+            "অমাবস্যা",
+            "উষা"
+        ],
+        "answer": "সূর্যাস্ত",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_7746.png",
+        "question": "চিত্রের মতো মুসল্লিরা কখন কোলাকুলি করে?",
+        "options": [
+            "শবে বরাত",
+            "পুর্ণিমা",
+            "ঈদের দিন",
+            "শোকের দিন"
+        ],
+        "answer": "ঈদের দিন",
+        "category": "Religious Events"
+    },
+    {
+        "filename": "CHITTRON_7748.png",
+        "question": "শিশুদের হাতের আমরা কোন দেশের পতাকা দেখতে পাই?",
+        "options": [
+            "ভারত",
+            "ফিলিস্তিন",
+            "বাংলাদেশ",
+            "নেপাল"
+        ],
+        "answer": "বাংলাদেশ",
+        "category": "Incidents"
+    },
+    {
+        "filename": "CHITTRON_775.png",
+        "question": "চিত্রের লোকজনের বাসস্থান কেমন?",
+        "options": [
+            "ডুপ্লেক্স",
+            "এপার্ট্মেন্ট",
+            "কুঁড়েঘর",
+            "টিনের ঘর"
+        ],
+        "answer": "কুঁড়েঘর",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_7752.png",
+        "question": "চিত্রের লোকটি কোন ফুলের মধু সংগ্রহ করছে?",
+        "options": [
+            "বেলি",
+            "সরিষা",
+            "কলমি",
+            "গোলাপ"
+        ],
+        "answer": "সরিষা",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_7753.png",
+        "question": "চিত্রটির পরিবেশ বাংলাদেশের কোন ঋতুকে ইঙ্গিত করে?",
+        "options": [
+            "শীত",
+            "থেমন্ত",
+            "বসন্ত",
+            "বর্ষা"
+        ],
+        "answer": "বর্ষা",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_7754.png",
+        "question": "চিত্রের ছায়ামুর্তি দুজন বাংলাদেশের কোন ঘটনার ইঙ্গিতবাহী?",
+        "options": [
+            "নববর্ষ",
+            "ভাষা আন্দোলন",
+            "বিজয় দিবস",
+            "বর্ষাবরণ"
+        ],
+        "answer": "ভাষা আন্দোলন",
+        "category": "Incidents"
+    },
+    {
+        "filename": "CHITTRON_7756.png",
+        "question": "চিত্রে আমরা কিসের আড়ত দেখি?",
+        "options": [
+            "কলা",
+            "আলু",
+            "আম",
+            "লিচু"
+        ],
+        "answer": "কলা",
+        "category": "Food"
+    },
+    {
+        "filename": "CHITTRON_7757.png",
+        "question": "চিত্রের রঙ খেলার উৎসবটির নাম কি?",
+        "options": [
+            "দুর্গাপুজা",
+            "দোলযাত্রা",
+            "দীপাবলি",
+            "সন্ধ্যাআরতি"
+        ],
+        "answer": "দোলযাত্রা",
+        "category": "Religious Events"
+    },
+    {
+        "filename": "CHITTRON_7759.png",
+        "question": "চিত্রে প্রদর্শিত পাখিটির নাম কি?",
+        "options": [
+            "বুলবিলি",
+            "পায়রা",
+            "কোকিল",
+            "বাবুই"
+        ],
+        "answer": "পায়রা",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_776.png",
+        "question": "কোন সময়ে মানুষ এভাবে হুড়োহুড়ি করে ট্রেনে চড়ে?",
+        "options": [
+            "শনিবার",
+            "রবিবার",
+            "সোমবার",
+            "বড় সরকারী ছুটি"
+        ],
+        "answer": "বড় সরকারী ছুটি",
+        "category": "Incidents"
+    },
+    {
+        "filename": "CHITTRON_7760.png",
+        "question": "চিত্রের শ্রমিকটি কোদাল দিয়ে কি করছেন?",
+        "options": [
+            "মাটি কাটছেন",
+            "কাঠ কাটছেন",
+            "পাথর কাটছেন",
+            "নকশা বানাচ্ছেন"
+        ],
+        "answer": "মাটি কাটছেন",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_7763.png",
+        "question": "ছেলেরা গাছের নিচে কি করে?",
+        "options": [
+            "গল্প",
+            "খেলা",
+            "খাওয়া",
+            "ঘুম"
+        ],
+        "answer": "খেলা",
+        "category": "Sports"
+    },
+    {
+        "filename": "CHITTRON_7764.png",
+        "question": "চিত্রের মত যারা মানুষের চুল কাটে তাদের কি বলে?",
+        "options": [
+            "কামার",
+            "কুমোর",
+            "নাপিত",
+            "জেলে"
+        ],
+        "answer": "নাপিত",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_7766.png",
+        "question": "শিশুটির সামনে যে পাতার স্তূপ রয়েছে তাকে কি বলে?",
+        "options": [
+            "লেটুস",
+            "কপি",
+            "পান",
+            "টমেটি"
+        ],
+        "answer": "পান",
+        "category": "Food"
+    },
+    {
+        "filename": "CHITTRON_7767.png",
+        "question": "চিত্রের মতো জাতীয় পতাকা অর্ধনমিত রাখা হয় কখন?",
+        "options": [
+            "জাতীয় শোক প্রকাশে",
+            "বিজয় দিবস",
+            "আনন্দের দিনে",
+            "নববর্ষে"
+        ],
+        "answer": "জাতীয় শোক প্রকাশে",
+        "category": "Incidents"
+    },
+    {
+        "filename": "CHITTRON_777.png",
+        "question": "চিত্রের মত যারা নৌকার উপর বসবাস করে তাদেরকে কি বলা হয়?",
+        "options": [
+            "মাঝি",
+            "বেদে",
+            "মৎস",
+            "বানভাসী"
+        ],
+        "answer": "বেদে",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_7773.png",
+        "question": "নৌকার উপরে দাঁড়ানো লোকটি ঝুড়ি হাতে কি করছে?",
+        "options": [
+            "চাল বাছা",
+            "মাছ ধরা",
+            "গান গাওয়া",
+            "পাখি শিকার"
+        ],
+        "answer": "মাছ ধরা",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_7775.png",
+        "question": "ছবির মহিলাটি কোথায় শ্রমিক হিসেবে নিয়োজিত?",
+        "options": [
+            "ইটের ভাটা",
+            "চা বাগান",
+            "ক্ষেত",
+            "নির্মাণ"
+        ],
+        "answer": "চা বাগান",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_7779.png",
+        "question": "শিশুটি কোন দিবস উদযাপন করছে?",
+        "options": [
+            "২৬ মার্চ",
+            "বিজয় দিবস",
+            "নববর্ষ",
+            "কালরাত্রি"
+        ],
+        "answer": "বিজয় দিবস",
+        "category": "Incidents"
+    },
+    {
+        "filename": "CHITTRON_778.png",
+        "question": "চিত্রের দিনটি কেমন?",
+        "options": [
+            "কুয়াশাচ্ছন্ন",
+            "বর্ষণ্মুখর",
+            "রৌদ্রজ্জল",
+            "পড়ন্ত বিকেল"
+        ],
+        "answer": "বর্ষণ্মুখর",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_7780.png",
+        "question": "চিত্রের নারীদের বেশভুষা দেখে কি মনে হয়?",
+        "options": [
+            "বাঙ্গালী",
+            "আরব্য",
+            "পাশ্চাত্য",
+            "পারস্য"
+        ],
+        "answer": "বাঙ্গালী",
+        "category": "Clothing & Fashion"
+    },
+    {
+        "filename": "CHITTRON_7781.png",
+        "question": "দেয়ালে রঙ করছেন যিনি তার পেশা কি?",
+        "options": [
+            "রাজমিস্ত্রী",
+            "রংমিস্ত্রী",
+            "কৃষাণ",
+            "ছাত্র"
+        ],
+        "answer": "রংমিস্ত্রী",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_7780.png",
+        "question": "চিত্রের মহিলাটি নাকে যে অলংকার পরে আছেন তার নাম কি?",
+        "options": [
+            "নোলক",
+            "নথ",
+            "নাকছাবি",
+            "টিপ"
+        ],
+        "answer": "নথ",
+        "category": "Clothing & Fashion"
+    },
+    {
+        "filename": "CHITTRON_7781.png",
+        "question": "চিত্রের লোকটি দেয়ালে কি করছেন?",
+        "options": [
+            "আলপনা",
+            "আঁকিবুকি",
+            "নকশা",
+            "রং"
+        ],
+        "answer": "রং",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_7782.png",
+        "question": "চিত্রের লোকটি কি চরাচ্ছে?",
+        "options": [
+            "ভেড়া",
+            "গরু",
+            "মহিষ",
+            "ছাগল"
+        ],
+        "answer": "গরু",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_7784.png",
+        "question": "চিত্রের লোকটি কি কি বিক্রি করছেন?",
+        "options": [
+            "আলু ,পটল",
+            "আলু,পেঁয়াজ",
+            "আম, কলা",
+            "কলা,পেঁপে"
+        ],
+        "answer": "আলু,পেঁয়াজ",
+        "category": "Food"
+    },
+    {
+        "filename": "CHITTRON_7786.png",
+        "question": "শিশুরা কেন পানিতে ঝাঁপ দিচ্ছে?",
+        "options": [
+            "সাঁতারের জন্য",
+            "নৌকা চালানোর জন্য",
+            "মাছ ধরা",
+            "কাপড় কাঁচা"
+        ],
+        "answer": "সাঁতারের জন্য",
+        "category": "Sports"
+    },
+    {
+        "filename": "CHITTRON_7788.png",
+        "question": "মেয়েটার পাশে কোন ধরনের শিল্পকর্ম দেখতে পাই ?",
+        "options": [
+            "মাটির হাঁড়ি",
+            "আঁকিবুকি",
+            "কুলা",
+            "মুখোশ"
+        ],
+        "answer": "মুখোশ",
+        "category": "Cultural Festivals"
+    },
+    {
+        "filename": "CHITTRON_7789.png",
+        "question": "চিত্রের জলের মধ্যে আমরা কিসের প্রতিচ্ছবি দেখতে পাই?",
+        "options": [
+            "মানুষ",
+            "আকাশ",
+            "পাখি",
+            "হাঁস"
+        ],
+        "answer": "আকাশ",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_779.png",
+        "question": "চিত্রের লোকটি কিসে পরিমাপ করছেন?",
+        "options": [
+            "দাড়িপাল্লা",
+            "ক্যাল্কুলেটর",
+            "কম্পিউটার",
+            "মোবাইল"
+        ],
+        "answer": "দাড়িপাল্লা",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_7790.png",
+        "question": "ছবির পাখিদুটির নাম কি?",
+        "options": [
+            "কাক",
+            "পেঁচা",
+            "বক",
+            "মুরগী"
+        ],
+        "answer": "পেঁচা",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_7791.png",
+        "question": "চিত্রের নৌকার উপরে আমরা কোন ধরনের জিনিস দেখি?",
+        "options": [
+            "মাছ ধরার জিনিস",
+            "রান্নার সরঞ্জাম",
+            "আঁকার জিনিস",
+            "পড়ার জিনিস"
+        ],
+        "answer": "রান্নার সরঞ্জাম",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_7793.png",
+        "question": "চিত্রের লোকটিকে আমরা কি বিক্রি করতে দেখি?",
+        "options": [
+            "মুখোশ",
+            "হাল্খাতা",
+            "টেপা পুতুল",
+            "খাবার"
+        ],
+        "answer": "টেপা পুতুল",
+        "category": "Arts & History"
+    },
+    {
+        "filename": "CHITTRON_7794.png",
+        "question": "চিত্রের লোকটি কোন ধরনের কাহাব্র বিক্রি করছে?",
+        "options": [
+            "ফুচকা",
+            "ঝাল মুড়ি",
+            "মালাই",
+            "দই"
+        ],
+        "answer": "ঝাল মুড়ি",
+        "category": "Food"
+    },
+    {
+        "filename": "CHITTRON_780.png",
+        "question": "চিত্রে রাখা আলমারিটির সামনে খবার খাচ্ছে কোন প্রাণী?",
+        "options": [
+            "গরু",
+            "ছাগল",
+            "হাঁস",
+            "পায়রা"
+        ],
+        "answer": "হাঁস",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_7800.png",
+        "question": "চিত্রের বৃদ্ধ নারীটি চুলায় কি করছেন?",
+        "options": [
+            "খাবার রান্না",
+            "কাপড় শুকানো",
+            "চাল সেদ্ধ",
+            "চারুকলা"
+        ],
+        "answer": "খাবার রান্না",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_7802.png",
+        "question": "চিত্রের মহিলাটি মাথায় কি বহন করছেন?",
+        "options": [
+            "ইট",
+            "শুরকি",
+            "বালু",
+            "খাবার"
+        ],
+        "answer": "বালু",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_7804.png",
+        "question": "ছবির লোকটি কিসের মজুরি দিচ্ছেন?",
+        "options": [
+            "ইট",
+            "বালু",
+            "মাটি",
+            "বস্তা"
+        ],
+        "answer": "বালু",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_7805.png",
+        "question": "কাদামাটির ক্ষেতে আমরা কোন প্রাণীর বিচরণ দেখি?",
+        "options": [
+            "গরু",
+            "মহিষ",
+            "ঘোড়া",
+            "ঊট"
+        ],
+        "answer": "মহিষ",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_7806.png",
+        "question": "পড়ন্ত বিকেলে দুজন লোক কোন ধরনের নৌকা বাইছেন?",
+        "options": [
+            "সাম্পান",
+            "মটর",
+            "ডিঙ্গি",
+            "জাহাজ"
+        ],
+        "answer": "ডিঙ্গি",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_7808.png",
+        "question": "চিত্রের নারীর পরনে আমরা যে পোশাকটি দেখতে পাই তার নাম কি?",
+        "options": [
+            "শাড়ি",
+            "সালোয়ার কামিজ",
+            "কুর্তি",
+            "বোরকা"
+        ],
+        "answer": "বোরকা",
+        "category": "Clothing & Fashion"
+    },
+    {
+        "filename": "CHITTRON_781.png",
+        "question": "ছেলেটির হাতে আমরা কোন ধরনের খেলার সামগ্রী দেখতে পাই?",
+        "options": [
+            "ঝুনঝুনি",
+            "ঠেলাগাড়ি",
+            "বেলুন",
+            "গাড়ি"
+        ],
+        "answer": "বেলুন",
+        "category": "Arts & History"
+    },
+    {
+        "filename": "CHITTRON_7810.png",
+        "question": "সরিষাক্ষেতের মধ্য দিয়ে দৌড়ানো ছেলেটির পরনের কাপড়ের টুকরাটি কি?",
+        "options": [
+            "দেশের পতাকা",
+            "চাদর",
+            "শাল",
+            "কোট"
+        ],
+        "answer": "দেশের পতাকা",
+        "category": "Incidents"
+    },
+    {
+        "filename": "CHITTRON_7811.png",
+        "question": "চিত্রের লোকগুলোর পেশা কি?",
+        "options": [
+            "নির্মাণশ্রমিক",
+            "কৃষক",
+            "জেলে",
+            "মাঝি"
+        ],
+        "answer": "নির্মাণশ্রমিক",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_7812.png",
+        "question": "ছবিতে লোকজন কোন ধরনের ফসল বাছাই করছেন?",
+        "options": [
+            "মরিচ",
+            "রসুন",
+            "ধান",
+            "গম"
+        ],
+        "answer": "মরিচ",
+        "category": "Food"
+    },
+    {
+        "filename": "CHITTRON_7821.png",
+        "question": "চিত্রের মত নৌকা ভেড়ার জায়গাকে আমরা কি বলি?",
+        "options": [
+            "বাজার",
+            "ঘাট",
+            "সেতু",
+            "ঘর"
+        ],
+        "answer": "ঘাট",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_7822.png",
+        "question": "ছবির ছেলেটি হাঁড়িতে কি নিয়ে যাচ্ছে?",
+        "options": [
+            "মাছ",
+            "সবজি",
+            "ভাত",
+            "ডাল"
+        ],
+        "answer": "মাছ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_7825.png",
+        "question": "রিকশা তে আমরা কোন বৈশিষ্ট্য দেখি?",
+        "options": [
+            "চারুকলা",
+            "হাতে টানা",
+            "ঘোড়া চালিত",
+            "চাকাবিহীন"
+        ],
+        "answer": "চারুকলা",
+        "category": "Arts & History"
+    },
+    {
+        "filename": "CHITTRON_7827.png",
+        "question": "চিত্রের লোকদের কাজ দেখে কিসের কারখানা মনে হয়?",
+        "options": [
+            "তাঁত",
+            "গার্মেন্টস",
+            "জুতা",
+            "চাল"
+        ],
+        "answer": "তাঁত",
+        "category": "Arts & History"
+    },
+    {
+        "filename": "CHITTRON_7829.png",
+        "question": "চিত্রে নৌকায় কি বহন করে নিতে দেখি?",
+        "options": [
+            "কাপড়",
+            "বস্তা",
+            "গাছের গুড়ি",
+            "সবজি"
+        ],
+        "answer": "গাছের গুড়ি",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_7831.png",
+        "question": "চিত্রের লোকগুলো মালামাল বহন করছে কিভাবে?",
+        "options": [
+            "ভ্যানে",
+            "ঠেলাগাড়ি",
+            "কাঁধে",
+            "ক্রেনে"
+        ],
+        "answer": "কাঁধে",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_7834.png",
+        "question": "চিত্রের শিশুটি কোন ধরনের শিক্ষা গ্রহণ করছে?",
+        "options": [
+            "চারুকলা",
+            "গান",
+            "একাডেমিক",
+            "নৃত্য"
+        ],
+        "answer": "নৃত্য",
+        "category": "Arts & History"
+    },
+    {
+        "filename": "CHITTRON_7836.png",
+        "question": "চিত্রের মহিলাটি কি বিক্রি করছেন?",
+        "options": [
+            "খাবার",
+            "ফুল",
+            "গাছ",
+            "মাটি"
+        ],
+        "answer": "ফুল",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_784.png",
+        "question": "চিত্রের লোকজন জাল দিয়ে কি করে?",
+        "options": [
+            "মাছ ধরে",
+            "বল খেলা",
+            "চাষ করে",
+            "শিল্প"
+        ],
+        "answer": "মাছ ধরে",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_7841.png",
+        "question": "নারীটির মাথায় আমরা কিসের মুকুট দেখতে পাই?",
+        "options": [
+            "সোনা",
+            "রুপা",
+            "ফুল",
+            "পাতা"
+        ],
+        "answer": "ফুল",
+        "category": "Clothing & Fashion"
+    },
+    {
+        "filename": "CHITTRON_7846.png",
+        "question": "চিত্রের ছেলেটির হাতে আমরা কিসের ব্যাট দেখি?",
+        "options": [
+            "হকি",
+            "ক্রিকেট",
+            "র‍্যাকেট",
+            "পিংপং"
+        ],
+        "answer": "ক্রিকেট",
+        "category": "Sports"
+    },
+    {
+        "filename": "CHITTRON_7848.png",
+        "question": "শিশুরা কিসের মধ্যে খেলছে?",
+        "options": [
+            "পানি",
+            "কাদা",
+            "বৃষ্টি",
+            "বালি"
+        ],
+        "answer": "কাদা",
+        "category": "Sports"
+    },
+    {
+        "filename": "CHITTRON_7849.png",
+        "question": "শিশুরা পানিতে ঝাঁপ কেন দিচ্ছে?",
+        "options": [
+            "মারামারি করতে",
+            "সাঁতার কাটতে",
+            "পানি ধরতে",
+            "মাছ ধরতে"
+        ],
+        "answer": "সাঁতার কাটতে",
+        "category": "Sports"
+    },
+    {
+        "filename": "CHITTRON_7850.png",
+        "question": "মহিলাটি কোন ধরনের রাস্তা দিয়ে হাঁটছে?",
+        "options": [
+            "বালু",
+            "পিচ",
+            "মাটি",
+            "সেতু"
+        ],
+        "answer": "বালু",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_7851.png",
+        "question": "চিত্রের লোকগুলো কোন ধরনের নৌকা ব্যবহার করছে?",
+        "options": [
+            "পালতোলা",
+            "সাম্পান",
+            "দোতলা",
+            "ডিঙ্গি"
+        ],
+        "answer": "ডিঙ্গি",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_7853.png",
+        "question": "চিত্রের লোকটি মাথায় করে কি বহন করছে?",
+        "options": [
+            "ইট",
+            "বালু",
+            "লাকড়ি",
+            "রড"
+        ],
+        "answer": "লাকড়ি",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_7855.png",
+        "question": "চিত্রের মাঝি দিনের কোন সময়ে নৌকা বাইছেন?",
+        "options": [
+            "ভর দুপুর",
+            "সন্ধ্যা",
+            "রাত",
+            "সূর্যাস্ত"
+        ],
+        "answer": "সূর্যাস্ত",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_7857.png",
+        "question": "ছবিতে আমরা ছেলেগুলোকে নৌকায় কি বহন করতে দেখি?",
+        "options": [
+            "ধান",
+            "গম",
+            "ঘাস",
+            "খাবার"
+        ],
+        "answer": "ঘাস",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_7858.png",
+        "question": "ছবির লোকটি বাতাসে কি তৈরী করছেন?",
+        "options": [
+            "হাওয়াই মিঠাই",
+            "সাবানের বুদবুদ",
+            "ঘুড়ি",
+            "রঙ"
+        ],
+        "answer": "সাবানের বুদবুদ",
+        "category": "Arts & History"
+    },
+    {
+        "filename": "CHITTRON_786.png",
+        "question": "ছবিতে লোকটির চারপাশের ঘরগুলো কি দিয়ে তৈরী?",
+        "options": [
+            "খড় ও বাঁশ",
+            "মাটি",
+            "টিন",
+            "ইট"
+        ],
+        "answer": "খড় ও বাঁশ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_7863.png",
+        "question": "চিত্রের মাধ্যমে বাংলাদেশের মানুষের কিসের উপর নির্ভরশীলতা ফুটে উঠেছে?",
+        "options": [
+            "মাটি",
+            "নদী",
+            "বন",
+            "গাছ"
+        ],
+        "answer": "নদী",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_7866.png",
+        "question": "লোকটি কন ধরনের যানবাহনের সাথে সংশ্লিষ্ট?",
+        "options": [
+            "ভ্যান",
+            "রিকশা",
+            "ঠেলাগাড়ি",
+            "বাস"
+        ],
+        "answer": "ঠেলাগাড়ি",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_7867.png",
+        "question": "শিশুরা খড় দিয়ে কি করে ?",
+        "options": [
+            "খেলছে",
+            "পড়ছে",
+            "খাবার দিচ্ছে গরুকে",
+            "ঘর বানাচ্ছে?"
+        ],
+        "answer": "খেলছে",
+        "category": "Sports"
+    },
+    {
+        "filename": "CHITTRON_7868.png",
+        "question": "লোকগুলা মালামাল বহন করতে কিসের সাহায্য নিচ্ছে?",
+        "options": [
+            "নৌকা",
+            "ঠেলাগাড়ি",
+            "ভ্যান",
+            "ট্রাক"
+        ],
+        "answer": "ঠেলাগাড়ি",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_787.png",
+        "question": "লোকটি মৃতদেহ নিয়ে এসেছে কেন?",
+        "options": [
+            "সৎকারের জন্য",
+            "কবর দেওয়ার জন্য",
+            "সংরক্ষণ করার জন্য",
+            "পুতে দেওয়ার জন্য"
+        ],
+        "answer": "সৎকারের জন্য",
+        "category": "Religious Events"
+    },
+    {
+        "filename": "CHITTRON_7873.png",
+        "question": "রাস্তার পাশে আমরা কি বিক্রি করতে দেখি?",
+        "options": [
+            "খাবার",
+            "পানি",
+            "পান",
+            "কাপড়"
+        ],
+        "answer": "কাপড়",
+        "category": "Clothing & Fashion"
+    },
+    {
+        "filename": "CHITTRON_7874.png",
+        "question": "শিশুরা কোন গাছে উঠছে?",
+        "options": [
+            "নারকেল",
+            "তাল",
+            "আম",
+            "বট"
+        ],
+        "answer": "বট",
+        "category": "Sports"
+    },
+    {
+        "filename": "CHITTRON_7876.png",
+        "question": "শিশুটির মতো রঙ খেলা হয় কোন উৎসবে?",
+        "options": [
+            "দীপাবলি",
+            "দোলযাত্রা",
+            "দুর্গাপুজা",
+            "নববর্ষ"
+        ],
+        "answer": "দোলযাত্রা",
+        "category": "Religious Events"
+    },
+    {
+        "filename": "CHITTRON_7877.png",
+        "question": "ছবির মেয়েটি কোন বাদ্যযন্ত্র বাজাচ্ছে?",
+        "options": [
+            "সেতার",
+            "বেহালা",
+            "গিটার",
+            "ঢোল"
+        ],
+        "answer": "বেহালা",
+        "category": "Arts & History"
+    },
+    {
+        "filename": "CHITTRON_7880.png",
+        "question": "লোকতি ছাঁকনি দিয়ে কি ছাঁকছে?",
+        "options": [
+            "ইট",
+            "পাথর",
+            "শুরকি",
+            "বালি"
+        ],
+        "answer": "শুরকি",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_7882.png",
+        "question": "চিত্রের শ্রমিকটি কি নির্মাণে ব্যস্ত?",
+        "options": [
+            "বাড়ি",
+            "নৌকা",
+            "দালান",
+            "জাহাজ"
+        ],
+        "answer": "জাহাজ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_7883.png",
+        "question": "চিত্রের ছেলেটি কোন ধরনের বাহন ব্যবহার করছে?",
+        "options": [
+            "রিকশা",
+            "গাড়ি",
+            "সাইকেল",
+            "বাইক"
+        ],
+        "answer": "সাইকেল",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_7884.png",
+        "question": "লোকটি কিসের মালা গাঁথছেন?",
+        "options": [
+            "ফুল",
+            "পুতি",
+            "ঝিনুক",
+            "পাথর"
+        ],
+        "answer": "ফুল",
+        "category": "Arts & History"
+    },
+    {
+        "filename": "CHITTRON_7887.png",
+        "question": "চিত্রের নৌকাটি কোন ধরনের?",
+        "options": [
+            "সাম্পান",
+            "জাহাজ",
+            "লঞ্চ",
+            "ডিঙ্গি"
+        ],
+        "answer": "ডিঙ্গি",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_7889.png",
+        "question": "ছবির মহিলাটি রাস্তার পাশে কি করছেন?",
+        "options": [
+            "চাল বাছা",
+            "ঝাড়ু দেওয়া",
+            "কাপড় শুকানো",
+            "গরু চরানো"
+        ],
+        "answer": "ঝাড়ু দেওয়া",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_789.png",
+        "question": "লোকটি কলসি বহন করছে কিভাবে?",
+        "options": [
+            "সাইকেলে",
+            "নৌকায়",
+            "রিকশায়",
+            "ঠেলাগাড়ি"
+        ],
+        "answer": "সাইকেলে",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_7890.png",
+        "question": "মহিলাটিকে দেখে তার পেশা কি বলে মনে হয়?",
+        "options": [
+            "নির্মাণশ্রমিক",
+            "সাহায্যকারী",
+            "পরিচ্ছন্নতাকর্মী",
+            "মালি"
+        ],
+        "answer": "পরিচ্ছন্নতাকর্মী",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_7891.png",
+        "question": "মহিলারা উঠোনে কি শুকাতে দিচ্ছেন?",
+        "options": [
+            "ধান",
+            "গম",
+            "মরিচ",
+            "চাল"
+        ],
+        "answer": "মরিচ",
+        "category": "Food"
+    },
+    {
+        "filename": "CHITTRON_7893.png",
+        "question": "চিত্রের মেয়েটির মাথার কাপড়কে কি বলা হয়?",
+        "options": [
+            "সালোয়ার",
+            "কামিজ",
+            "ওড়না",
+            "কুর্তি"
+        ],
+        "answer": "ওড়না",
+        "category": "Clothing & Fashion"
+    },
+    {
+        "filename": "CHITTRON_7895.png",
+        "question": "ছমির লোকটি কোন খাবার তৈরী করছেন?",
+        "options": [
+            "রুটি",
+            "পরোটা",
+            "লুচি",
+            "তান্দুরি"
+        ],
+        "answer": "পরোটা",
+        "category": "Food"
+    },
+    {
+        "filename": "CHITTRON_7896.png",
+        "question": "ছেলেটির মাথায় আমরা কোন ধরনের ফুল দেখি?",
+        "options": [
+            "গোলাপ",
+            "বেলি",
+            "ডালিয়া",
+            "সরিষা"
+        ],
+        "answer": "সরিষা",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_7898.png",
+        "question": "মেয়েটির পেছনের দেয়ালে আমরা কি অঙ্কিত দেখি?",
+        "options": [
+            "গাছ ",
+            "পাতা",
+            "বাংলাদেশের পতাকা",
+            "আকাশ"
+        ],
+        "answer": "বাংলাদেশের পতাকা",
+        "category": "Incidents"
+    },
+    {
+        "filename": "CHITTRON_79.png",
+        "question": "চিত্রের মাধ্যমে আমরা কেমন বাংলাদেশের পরিচয় পাই?",
+        "options": [
+            "নদীমাতৃক",
+            "কৃষিপ্রধান",
+            "উন্নয়নশীল",
+            "উন্নত"
+        ],
+        "answer": "কৃষিপ্রধান",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_790.png",
+        "question": "শিশুরা নৌকায় করে কি ফুল নিয়ে যাচ্ছে?",
+        "options": [
+            "শাপলা",
+            "কচুরিপানা",
+            "গাঁদা",
+            "গোলাপ"
+        ],
+        "answer": "শাপলা",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_7905.png",
+        "question": "চিত্রের লোকটি কি বুনছে?",
+        "options": [
+            "তাঁত",
+            "জাল",
+            "কাপড়",
+            "মশারি"
+        ],
+        "answer": "জাল",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_7906.png",
+        "question": "চিত্রের ছেলেমেয়েরা কিসের চর্চা করছে?",
+        "options": [
+            "সংগীত",
+            "নৃত্য",
+            "নাট্য",
+            "খেলা"
+        ],
+        "answer": "সংগীত",
+        "category": "Arts & History"
+    },
+    {
+        "filename": "CHITTRON_7907.png",
+        "question": "ছবির মহিলাটি কি দিয়ে বাসন মাজছেন?",
+        "options": [
+            "সাবান",
+            "শ্যাম্পু",
+            "কয়লা",
+            "ভিম"
+        ],
+        "answer": "কয়লা",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_7908.png",
+        "question": "চিত্রে ধান থেকে চাল তৈরির কোন প্রক্রিয়াটি দেখতে পাই?",
+        "options": [
+            "বীজ ছাড়ানো",
+            "ধান শুকানো",
+            "ধান সেদ্ধ",
+            "ধান মাড়াই"
+        ],
+        "answer": "ধান মাড়াই",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_7909.png",
+        "question": "চিত্রের ধানক্ষেতে আমরা কিসের গাদা দেখি?",
+        "options": [
+            "খড়",
+            "খোসা",
+            "ধান",
+            "গম"
+        ],
+        "answer": "খড়",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_7910.png",
+        "question": "চিত্রের মানুষজন কোথায় ঘুমাচ্ছে?",
+        "options": [
+            "বিছানা",
+            "পালঙ্ক",
+            "নৌকা",
+            "গাছের নিচে"
+        ],
+        "answer": "নৌকা",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_7912.png",
+        "question": "চিত্রের নারীটি পুরুষটিকে কি কাজে সাহায্য করে?",
+        "options": [
+            "মাল তোলা",
+            "ধান মাড়াই",
+            "চাল বোনা",
+            "তাঁত বোনা"
+        ],
+        "answer": "মাল তোলা",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_7913.png",
+        "question": "শিশুরা কি খেলছে?",
+        "options": [
+            "গোল্লাছুট",
+            "চু কিত কিত",
+            "বৌ চি",
+            "কাবাডি"
+        ],
+        "answer": "চু কিত কিত",
+        "category": "Sports"
+    },
+    {
+        "filename": "CHITTRON_7915.png",
+        "question": "লোকটি মাথায় করে কি বিক্রি করছে?",
+        "options": [
+            "ফল",
+            "কাপড়",
+            "পান",
+            "পিঠা"
+        ],
+        "answer": "পান",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_7917.png",
+        "question": "চিত্রের সমুদ্রসৈকতটি বাংলাদেশের কোথায় অবস্থিত?",
+        "options": [
+            "পতেঙ্গা",
+            "মংলা",
+            "সেন্ট মার্টিন",
+            "কক্সবাজার"
+        ],
+        "answer": "পতেঙ্গা",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_7921.png",
+        "question": "চিত্রের শ্রমিকরা কোথায় কাজ করছে? ",
+        "options": [
+            "ইটের ভাটা",
+            "দালান",
+            "ক্ষেত",
+            "জাহাজ"
+        ],
+        "answer": "ইটের ভাটা",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_7923.png",
+        "question": "লোকটি বস্তা বহন করছে কোন যানবাহনে?",
+        "options": [
+            "সাইকেল",
+            "রিকশা",
+            "ভ্যান",
+            "ট্রাক"
+        ],
+        "answer": "সাইকেল",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_7924.png",
+        "question": "চিত্রের জলাশয়ে আমরা কিসের প্রতিচ্ছবি দেখি?",
+        "options": [
+            "ঘর",
+            "পুতুল",
+            "বাঘ",
+            "আকাশ"
+        ],
+        "answer": "আকাশ",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_7925.png",
+        "question": "হুইলচেয়ারে বসা লোকতির পেশা কি?",
+        "options": [
+            "রিকশাচালক",
+            "ভিক্ষুক",
+            "শ্রমিক",
+            "হকার"
+        ],
+        "answer": "ভিক্ষুক",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_7926.png",
+        "question": "গাছের ফাঁকা দিয়ে কি দেখা যায়?",
+        "options": [
+            "নদী ও নৌকা",
+            "ফুলের বাগান",
+            "ঘরবাড়ি",
+            "দালানকোঠা"
+        ],
+        "answer": "নদী ও নৌকা",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_7927.png",
+        "question": "সরিষাক্ষেতে শিশুরা কি হাতে দাঁড়িয়ে আছে?",
+        "options": [
+            "ফুল",
+            "পতাকা",
+            "মাছ",
+            "খাবার"
+        ],
+        "answer": "পতাকা",
+        "category": "Food"
+    },
+    {
+        "filename": "CHITTRON_7928.png",
+        "question": "চিত্রের ঝুড়িতে আমরা কিসের গয়না দেখি?",
+        "options": [
+            "ফুল",
+            "পুতি",
+            "পাথর",
+            "ঝিনুক"
+        ],
+        "answer": "ফুল",
+        "category": "Cultural Festivals"
+    },
+    {
+        "filename": "CHITTRON_7929.png",
+        "question": "চিত্রের মেয়েরা যে খেলা খেলছে তার নাম কি?",
+        "options": [
+            "ডাংগুলি",
+            "বৌচি",
+            "এক্কা দোক্কা",
+            "কানামাছি"
+        ],
+        "answer": "বৌচি",
+        "category": "Sports"
+    },
+    {
+        "filename": "CHITTRON_7930.png",
+        "question": "চিত্রটিতে জলাশয়ে কোন প্রাণীকে দেখা যায়?",
+        "options": [
+            "ব্যাঙ",
+            "সাপ",
+            "বক",
+            "মাছ"
+        ],
+        "answer": "ব্যাঙ",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_7932.png",
+        "question": "চিত্রের লোকগুলো সমবেত হয়ে কি করছে?",
+        "options": [
+            "গল্প করে",
+            "নামায পড়ে",
+            "খাবার খায়",
+            "আম পাড়ে"
+        ],
+        "answer": "নামায পড়ে",
+        "category": "Religious Events"
+    },
+    {
+        "filename": "CHITTRON_7933.png",
+        "question": "মেয়েটি কি সংগ্রহ করছে?",
+        "options": [
+            "মরিচ",
+            "লবন",
+            "রসুন",
+            "শুটকি"
+        ],
+        "answer": "মরিচ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_7935.png",
+        "question": "লোকটি নৌকায় অনেকগুলো মাছ ধরার কোন সরঞ্জাম নিয়ে বসে আছে?",
+        "options": [
+            "জাল",
+            "ঝাঁপি",
+            "ছিপ",
+            "মালসা"
+        ],
+        "answer": "ছিপ",
+        "category": "Social Life"
+    }
+]

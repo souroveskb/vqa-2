@@ -1,0 +1,4646 @@
+[
+    {
+        "filename": "CHITTRON_576.png",
+        "question": "ছবিতে মানুষের কিসের অভাব? ",
+        "options": [
+            "খাবার",
+            "বাসা ",
+            "প্যান্ট ",
+            "লুঙ্গি "
+        ],
+        "answer": "খাবার",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5760.png",
+        "question": "ছবিতে দেখানো বাচ্চাদের কিসের চাহিদা? ",
+        "options": [
+            "খাবারের ",
+            "টাকার ",
+            "বাসার ",
+            "পানির "
+        ],
+        "answer": "খাবারের ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5761.png",
+        "question": "ছবিতে লাল কি দেখা যাচ্ছে? ",
+        "options": [
+            "বেগুন ",
+            "মরিচ ",
+            "রসুন ",
+            "আনারস "
+        ],
+        "answer": "মরিচ ",
+        "category": "Food"
+    },
+    {
+        "filename": "CHITTRON_5762.png",
+        "question": "ছবিতে দেখানো রাস্তাটিতে সাধানরত কি চলে? ",
+        "options": [
+            "ট্রেন ",
+            "বিমান ",
+            "অটো রিকশা ",
+            "ভ্যান "
+        ],
+        "answer": "ট্রেন ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5763.png",
+        "question": "ছবিতে দেখানো প্রাণীটির নাম কি? ",
+        "options": [
+            "পাতি জল মুরগি ",
+            "হাঁস ",
+            "কাঁকরা   ",
+            "মানুষ "
+        ],
+        "answer": "পাতি জল মুরগি ",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_5764.png",
+        "question": "ছবিতে দেখানো নদীর নাম কি? ",
+        "options": [
+            "পদ্মা ",
+            "মেঘনা ",
+            "যমুনা ",
+            "কুমার "
+        ],
+        "answer": "পদ্মা ",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_5765.png",
+        "question": "এই পাখিগুল বাংলাদেশে কোথা থেকে আসে?",
+        "options": [
+            "সাইবেরিয়া ",
+            "মিশর ",
+            "যশোর ",
+            "ইরান "
+        ],
+        "answer": "সাইবেরিয়া ",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_5766.png",
+        "question": "কোন মৌসুমে এটা দেখা যায়? ",
+        "options": [
+            "শীতকাল ",
+            "শরতকাল ",
+            "বর্ষাকাল ",
+            "হেমন্তকাল "
+        ],
+        "answer": "বর্ষাকাল ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5768.png",
+        "question": "মেয়েরা কখন পায়ে আলতা দেয়? ",
+        "options": [
+            "কেও মরে গেলে। ",
+            "বাবা আমরা গেলে ",
+            "মায়ের বিয়েতে ",
+            "কোনও অনুষ্ঠানে "
+        ],
+        "answer": "কোনও অনুষ্ঠানে ",
+        "category": "Cultural Festivals"
+    },
+    {
+        "filename": "CHITTRON_5769.png",
+        "question": "ছবিতে কি দেখা যায়? ",
+        "options": [
+            "গ্রামের হাট ",
+            "বাজার ",
+            "বাড়ি ",
+            "মসজিদ "
+        ],
+        "answer": "গ্রামের হাট ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5770.png",
+        "question": "ছবিতে মানুষের কাঁধে কি? ",
+        "options": [
+            "গিটার ",
+            "পিয়ানো ",
+            "পানি ",
+            "কিছু না "
+        ],
+        "answer": "গিটার ",
+        "category": "Incidents"
+    },
+    {
+        "filename": "CHITTRON_5771.png",
+        "question": "ছবিতে দেখানো সময়টা কখন? ",
+        "options": [
+            "ভোরবেলা ",
+            "সকালবেলা ",
+            "রাতে ",
+            "সন্ধ্যা "
+        ],
+        "answer": "ভোরবেলা ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5774.png",
+        "question": "ছবিতে দেখানো জায়গাটা কই?",
+        "options": [
+            "খুলনা ",
+            "নেত্রকোনা ",
+            "বরিশাল",
+            "রাজবাড়ি "
+        ],
+        "answer": "বরিশাল",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5776.png",
+        "question": "ছবি তে কি দেখা যায়? ",
+        "options": [
+            "একটি মানুষ  ",
+            "ভেড়া ",
+            "কেও নেই ",
+            "ভুত "
+        ],
+        "answer": "একটি মানুষ  ",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_578.png",
+        "question": "বয়স্ক মহিলা কি করছে? ",
+        "options": [
+            "স্বামীর সেবা ",
+            "মারামারি ",
+            "ঝগড়া ",
+            "বসে আছে "
+        ],
+        "answer": "স্বামীর সেবা ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5780.png",
+        "question": "লোকটি  কি  বিক্রি করে? ",
+        "options": [
+            "পেঁপে ",
+            "লেবু ",
+            "আম ",
+            "কলা "
+        ],
+        "answer": "কলা ",
+        "category": "Food"
+    },
+    {
+        "filename": "CHITTRON_5783.png",
+        "question": "এটি  কিসের ছবি? ",
+        "options": [
+            "মসজিদ ",
+            "মন্দির ",
+            "দরগা ",
+            "গির্জা "
+        ],
+        "answer": "মসজিদ ",
+        "category": "Religious Events"
+    },
+    {
+        "filename": "CHITTRON_5784.png",
+        "question": "লোকটির পেশা কি? ",
+        "options": [
+            "কৃষক ",
+            "কুমার ",
+            "কামার ",
+            "মুচি "
+        ],
+        "answer": "কৃষক ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5786.png",
+        "question": "তারা কি খেলছে? ",
+        "options": [
+            "লাটিম ",
+            "গুলি ",
+            "ক্রিকেট",
+            "হকি "
+        ],
+        "answer": "গুলি ",
+        "category": "Sports"
+    },
+    {
+        "filename": "CHITTRON_5787.png",
+        "question": "জায়গাটির নাম কি?",
+        "options": [
+            "সেন্ট  মারটিন",
+            "কক্সবাজার ",
+            "সিলেট ",
+            "নওগাঁ "
+        ],
+        "answer": "কক্সবাজার ",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_5788.png",
+        "question": "ছবিতে কি দেখা যাচ্ছে? ",
+        "options": [
+            "স্কুলের অনুষ্ঠান ",
+            "আন্দোলন",
+            "মারামারি ",
+            "খেলাধুলা "
+        ],
+        "answer": "স্কুলের অনুষ্ঠান ",
+        "category": "Incidents"
+    },
+    {
+        "filename": "CHITTRON_5789.png",
+        "question": "ছবিতে এটা কোন বিল? ",
+        "options": [
+            "চলন বিল ",
+            "গদাই বিল, সাতক্ষিরা ",
+            "ডাকাতিয়া বিল ",
+            "বাইক্কা বিল"
+        ],
+        "answer": "গদাই বিল, সাতক্ষিরা ",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_5790.png",
+        "question": "ছবিতে দেখানো জায়াগা কোথায়? ",
+        "options": [
+            "রুপদিয়া ",
+            "যশোর ",
+            "খুলনা ",
+            "রাতারগুল "
+        ],
+        "answer": "রাতারগুল ",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_5791.png",
+        "question": "লোকটির হাতে কি? ",
+        "options": [
+            "পানি ",
+            "সিগারেট",
+            "হাতুড়ি ",
+            "রস "
+        ],
+        "answer": "সিগারেট",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5793.png",
+        "question": "ছবিতে কি দেখা যাচ্ছে? ",
+        "options": [
+            "ছেলেটি  হতাশ ",
+            "ছেলেটি অনেক খুশি ",
+            "ছেলেটি খেলা করছে ",
+            "ছেলেটি নাচছে "
+        ],
+        "answer": "ছেলেটি  হতাশ ",
+        "category": "Incidents"
+    },
+    {
+        "filename": "CHITTRON_5794.png",
+        "question": "এটা কোন শিল্প? ",
+        "options": [
+            "মৃৎশিল্প ",
+            "বাশশিল্প ",
+            "হস্তশিল্প ",
+            "বুটিক্স "
+        ],
+        "answer": "বাশশিল্প ",
+        "category": "Arts & History"
+    },
+    {
+        "filename": "CHITTRON_5795.png",
+        "question": "এই ঝরনার নাম কি? ",
+        "options": [
+            "রূপসী ",
+            "মায়াবী ",
+            "আমিনি ",
+            "দেদানি "
+        ],
+        "answer": "রূপসী ",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_5797.png",
+        "question": "এই ঝরনা কোথায় অবস্থিত? ",
+        "options": [
+            "ঢাকা ",
+            "রাজশাহী ",
+            "বগুড়া  ",
+            "চট্টগ্রামের মিরসরাই "
+        ],
+        "answer": "চট্টগ্রামের মিরসরাই ",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_5799.png",
+        "question": "তাকে দেখে কোন ধর্মের অনুসারী মনে হয়? ",
+        "options": [
+            "হিন্দু ",
+            "সনাতনী ",
+            "বদ্ধ ",
+            "ইসলাম "
+        ],
+        "answer": "ইসলাম ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5801.png",
+        "question": "কি বুঝাছে ছবিতে? ",
+        "options": [
+            "একটি লোক সাইকেল চালাচ্ছে",
+            "লোকটি পানি খাচ্ছে ",
+            "লোকটি ক্লান্ত ",
+            "ফাকা রাস্তা "
+        ],
+        "answer": "একটি লোক সাইকেল চালাচ্ছে",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5804.png",
+        "question": "ছবিতে দেখানো মাইক কোম্পানির নাম কি? ",
+        "options": [
+            "তাহের ",
+            "বাবু ",
+            "শাহিন ",
+            "আযাল "
+        ],
+        "answer": "তাহের ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5805.png",
+        "question": "এটি কোন জায়গায় অবস্থিত? ",
+        "options": [
+            "রাঙ্গামাটি ",
+            "বান্দারবান ",
+            "সুন্দারবন ",
+            "সিলেট "
+        ],
+        "answer": "রাঙ্গামাটি ",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_5806.png",
+        "question": "চাচা কি মেরামত করছে? ",
+        "options": [
+            "রিকশা ",
+            "ভ্যান ",
+            "বাস ",
+            "ট্রাক "
+        ],
+        "answer": "রিকশা ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5807.png",
+        "question": "লোকটির পেশা কি? ",
+        "options": [
+            "চাকরিজীবী ",
+            "জেলে ",
+            "রিকশা  চালক ",
+            "আইনজীবী "
+        ],
+        "answer": "জেলে ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5808.png",
+        "question": "ছেলেটি কোন দলের জার্সি পরে আছেন? ",
+        "options": [
+            "বার্সেলনা",
+            "ব্রাজিল ",
+            "রিয়াল মাদ্রিদ ",
+            "বাংলাদেশ"
+        ],
+        "answer": "রিয়াল মাদ্রিদ ",
+        "category": "Sports"
+    },
+    {
+        "filename": "CHITTRON_5809.png",
+        "question": "ছবির লোকটি কোন বাংলাদেশের কোন দৃশ্যকে ফুটিয়ে তুলে? ",
+        "options": [
+            "শীতে গ্রামের রাস্তা দিয়ে হাঁটা ",
+            "উদ্বিগ্ন মনে পথ চলা ",
+            "বিয়ে করতে যাওয়া ",
+            "মারামারি করতে যাওয়া "
+        ],
+        "answer": "শীতে গ্রামের রাস্তা দিয়ে হাঁটা ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_581.png",
+        "question": "ছবিতে দেখানো কলসি দিয়ে  কি করা হয়?",
+        "options": [
+            "মাছ ধরা",
+            "পানি সংরক্ষণ ",
+            "ধান সংরক্ষণ",
+            "গম সংরক্ষণ"
+        ],
+        "answer": "পানি সংরক্ষণ ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5810.png",
+        "question": "ছবিতে দেখানো জিনিসটি আসলে কি কাজে ব্যবহৃত হয়? ",
+        "options": [
+            "ধর্মীয় উপাসনা ",
+            "গান গাইতে ",
+            "নাচতে ",
+            "বই পরতে "
+        ],
+        "answer": "ধর্মীয় উপাসনা ",
+        "category": "Religious Events"
+    },
+    {
+        "filename": "CHITTRON_5811.png",
+        "question": "ছবিতে দেখানো নাছটির নাম কি? ",
+        "options": [
+            "ধ্রুপদী নৃত্য",
+            "ছৌ নাচ",
+            "সালসা",
+            "ব্যালে"
+        ],
+        "answer": "ধ্রুপদী নৃত্য",
+        "category": "Arts & History"
+    },
+    {
+        "filename": "CHITTRON_5812.png",
+        "question": "ছবিতে মানুষদের হাতে কি? ",
+        "options": [
+            "কোদাল ",
+            "লাঠি",
+            "হাতুড়ি ",
+            "পানি "
+        ],
+        "answer": "কোদাল ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5813.png",
+        "question": "ছবিতে দেখানো বাজারে কি পাওয়া যায়? ",
+        "options": [
+            "চাল ",
+            "মুরগি ",
+            "সবজি ",
+            "মাছ "
+        ],
+        "answer": "মাছ ",
+        "category": "Food"
+    },
+    {
+        "filename": "CHITTRON_5814.png",
+        "question": "ছেলেটিকে দেখে কোথায় যাচ্ছে ? ",
+        "options": [
+            "ঘুরতে ",
+            "হাসপাতালে ",
+            "বাজারে ",
+            "পরীক্ষা দিতে "
+        ],
+        "answer": "পরীক্ষা দিতে ",
+        "category": "Incidents"
+    },
+    {
+        "filename": "CHITTRON_5815.png",
+        "question": "ছবির ছেলেটি কি করছে?",
+        "options": [
+            "কাঁদছে ",
+            "রাগ করছে ",
+            "হাসছে",
+            "আক্রমন করছে"
+        ],
+        "answer": "কাঁদছে ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5816.png",
+        "question": "লোকটি মূলত কিসের জন্য বিখ্যাত? ",
+        "options": [
+            "গান ",
+            "নাচ ",
+            "যুদ্ধ ",
+            "আন্দোলন "
+        ],
+        "answer": "গান ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5817.png",
+        "question": "ছবিতে কি মানুষের এই অবস্থার কারণ কি?  ",
+        "options": [
+            "দারিদ্রতা",
+            "বিলাসিতা ",
+            "প্রাচুর্যতা",
+            "অহংকার "
+        ],
+        "answer": "দারিদ্রতা",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5818.png",
+        "question": "ছবিতে মানুষের হাতে কি দেখা যাচ্ছে? ",
+        "options": [
+            "আগুন ",
+            "পানি ",
+            "লাঠি ",
+            "অস্ত্র "
+        ],
+        "answer": "আগুন ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5819.png",
+        "question": "ঘাসের মধ্যের প্রাণীটির নাম কি? ",
+        "options": [
+            "বিড়াল ",
+            "কুকুর",
+            "শিয়াল ",
+            "বাঘ "
+        ],
+        "answer": "বিড়াল ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_582.png",
+        "question": "ছবিতে মানুষেরা বসে কি করছে? ",
+        "options": [
+            "মারামারি ",
+            "ঠেলাঠেলি ",
+            "বৈঠক",
+            "খাচ্ছে "
+        ],
+        "answer": "বৈঠক",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5820.png",
+        "question": "ছবিতে মানুষ কি করছে? ",
+        "options": [
+            "খাবর খাচ্ছে ",
+            "মোমবাতি জ্বালাচ্ছে ",
+            "ঘুরতে যাচ্ছে ",
+            "বৈঠক করছে "
+        ],
+        "answer": "মোমবাতি জ্বালাচ্ছে ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5821.png",
+        "question": "ছবির জায়গাটি কোথায়? ",
+        "options": [
+            "বরিশাল ",
+            "নাটর ",
+            "চট্টগ্রাম ",
+            "সিলেট "
+        ],
+        "answer": "সিলেট ",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_5822.png",
+        "question": "ট্রেনে এমন ভিড় হয় কখন?",
+        "options": [
+            "বড় ছুটিতে ",
+            "রবিবার ",
+            "শীতকালে ",
+            "অফিসের দিনে "
+        ],
+        "answer": "বড় ছুটিতে ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5823.png",
+        "question": "ছবিতে কি দেখা যায়? ",
+        "options": [
+            "সমুদ্র ",
+            "নদী",
+            "ফুল বাগান",
+            "গাছ"
+        ],
+        "answer": "সমুদ্র ",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_5824.png",
+        "question": "ঢাকা শহরে রাস্তা এমন ফাকা থাকে কখন? ",
+        "options": [
+            "বড় ছুটির সময় ",
+            "অফিসের সময় ",
+            "শনিবার ",
+            "সকালবেলা "
+        ],
+        "answer": "বড় ছুটির সময় ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5825.png",
+        "question": "ছবিতে দেখেতে পাওয়া ফুলের নাম কি? ",
+        "options": [
+            "গোলাপ ",
+            "জবা ",
+            "শিউলি ",
+            "কাশফুল "
+        ],
+        "answer": "কাশফুল ",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_5826.png",
+        "question": "লোকটির পেশা কি? ",
+        "options": [
+            "ট্রাক চালক ",
+            "বাস  চালক",
+            "টুকাই",
+            "গাড়ি চালক"
+        ],
+        "answer": "টুকাই",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5827.png",
+        "question": "লোকটি কি করছে? ",
+        "options": [
+            "মাছ ধরছে ",
+            "পানি খাচ্ছে ",
+            "আম খাচ্ছে",
+            "মাছ খাচ্ছে "
+        ],
+        "answer": "মাছ ধরছে ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5828.png",
+        "question": "ছবির দেখানো মানুষেরা কি নিয়ে যাচ্ছে? ",
+        "options": [
+            "মাছ ",
+            "পানি ",
+            "বেগুন ",
+            "ফসল "
+        ],
+        "answer": "মাছ ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5829.png",
+        "question": "ছবির এই মাছটির নাম কি? ",
+        "options": [
+            "বোয়াল মাছ ",
+            "পুঁটি মাছ ",
+            "ইলিশ মাছ ",
+            "রুই মাছ "
+        ],
+        "answer": "পুঁটি মাছ ",
+        "category": "Food"
+    },
+    {
+        "filename": "CHITTRON_583.png",
+        "question": "ছবিতে তারা কি করছে ?",
+        "options": [
+            "নাচ ",
+            "গান ",
+            "কবিতা আবৃতি ",
+            "অভিনয় "
+        ],
+        "answer": "নাচ ",
+        "category": "Arts & History"
+    },
+    {
+        "filename": "CHITTRON_5830.png",
+        "question": "শিশুটি কোন ধরেনর স্কুলে পরে? ",
+        "options": [
+            "কেজি স্কুল ",
+            "হাই স্কুল ",
+            "মহাবিদ্যায়",
+            "বিশ্ববিদ্যালয় "
+        ],
+        "answer": "কেজি স্কুল ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5831.png",
+        "question": "নামাজ কোন ধর্মকে নির্দেশ করে? ",
+        "options": [
+            "হিন্দু ",
+            "খ্রিস্টান ",
+            "বৌদ্ধ",
+            "ইসলাম"
+        ],
+        "answer": "ইসলাম",
+        "category": "Religious Events"
+    },
+    {
+        "filename": "CHITTRON_5832.png",
+        "question": "শিশুরা কি দিয়ে খেলছে? ",
+        "options": [
+            "পানি",
+            "মাটি ",
+            "রস",
+            "ধুলা "
+        ],
+        "answer": "মাটি ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5834.png",
+        "question": "লোকটি সাথে কোন প্রাণী নিয়ে যাচ্ছে? ",
+        "options": [
+            "হাঁস ",
+            "গরু ",
+            "মহিষ ",
+            "বিড়াল"
+        ],
+        "answer": "গরু ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5835.png",
+        "question": "লোকটি কি চলাচ্ছে? ",
+        "options": [
+            "ভ্যান ",
+            "গাড়ি",
+            "নৌকা ",
+            "ট্রাক "
+        ],
+        "answer": "নৌকা ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5836.png",
+        "question": "মানুষ কাজ করছে  যেখানে এই   বড় জিনিস দুইটি কি? ",
+        "options": [
+            "ট্রাক ",
+            "বাস",
+            "ট্রেন ",
+            "জাহাজ"
+        ],
+        "answer": "জাহাজ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5837.png",
+        "question": "শিশুটি কোন জাতির অন্তর্ভুক্ত? ",
+        "options": [
+            "বাঙ্গালি ",
+            "স্প্যানিশ ",
+            "আদিবাসী ",
+            "ক্ষুদ্র নৃগোষ্ঠী "
+        ],
+        "answer": "ক্ষুদ্র নৃগোষ্ঠী ",
+        "category": "Clothing & Fashion"
+    },
+    {
+        "filename": "CHITTRON_5838.png",
+        "question": "ছবিতে লোকটি যেখানে দাড়িয়ে আছে সেখান থেকে  কুয়াকাটার দূরত্ব কত কিঃমিঃ?  ",
+        "options": [
+            "১০ ",
+            "১৪",
+            "০",
+            "১"
+        ],
+        "answer": "১০ ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5839.png",
+        "question": "ছবিতে গরুগুলো কিসের পাড়ে হাঁটছে? ",
+        "options": [
+            "নদী ",
+            "সমুদ্র ",
+            "পুকুর ",
+            "বিল "
+        ],
+        "answer": "সমুদ্র ",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_584.png",
+        "question": "এই ছবিতে আমরা কোন সামাজিক সমস্যা দেখতে পাই? ",
+        "options": [
+            "শিশুশ্রম ",
+            "বায়ু দূষণ ",
+            "পানি দূষণ ",
+            "বেকারত্ব "
+        ],
+        "answer": "শিশুশ্রম ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5840.png",
+        "question": "ছবিতে কোন নদী দেখতে পাই? ",
+        "options": [
+            "পদ্মা ",
+            "মেঘেনা ",
+            "বুড়িগঙ্গা ",
+            "যমুনা "
+        ],
+        "answer": "বুড়িগঙ্গা ",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_5841.png",
+        "question": "বানরটি কি খাচ্ছে? ",
+        "options": [
+            "আম ",
+            "জাম ",
+            "কলা ",
+            "কাঁঠাল"
+        ],
+        "answer": "কাঁঠাল",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5842.png",
+        "question": "মাথায় টুপি করে লোকটি কোথাই যাচ্ছে? ",
+        "options": [
+            "মসজিদ ",
+            "মন্দির ",
+            "বাজার ",
+            "ঢাকা "
+        ],
+        "answer": "মসজিদ ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5843.png",
+        "question": "দোকানটিতে কি ধরনের জিনিস যাওয়া যাচ্ছে? ",
+        "options": [
+            "সবজি ",
+            "শস্য",
+            "মাটির পাত্র",
+            "কাপড়"
+        ],
+        "answer": "সবজি ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5844.png",
+        "question": "বাাংলাদেশের কোন নিদর্শনীয় স্থানটি চিত্রে প্রকাশ পেয়েছে?",
+        "options": [
+            "পানাম নগর ",
+            "রাজবাড়ি ",
+            "ময়নামতি বৌদ্ধ বিহার",
+            "ষাট গম্বুজ মসজিদ "
+        ],
+        "answer": "পানাম নগর ",
+        "category": "Arts & History"
+    },
+    {
+        "filename": "CHITTRON_5845.png",
+        "question": "শ্রমিকেরা কি টেনে নিয়ে যাচ্ছে?",
+        "options": [
+            "রড ",
+            "পানি ",
+            "ফলমূল",
+            "রক্ত"
+        ],
+        "answer": "রড ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5846.png",
+        "question": "শ্রমিকেরা  লম্বা কি নিয়ে  যাচ্ছে?",
+        "options": [
+            "রড",
+            "রস ",
+            "কাঠ ",
+            "ডাল"
+        ],
+        "answer": "রড",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5847.png",
+        "question": "লোকটি কি মেরামত করে? ",
+        "options": [
+            "মোবাইল ",
+            "ঘড়ি ",
+            "সাইকেল ",
+            "রিকশা "
+        ],
+        "answer": "ঘড়ি ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5848.png",
+        "question": "পানিতে মানুষটি কি চালাচ্ছে? ",
+        "options": [
+            "গাড়ি ",
+            "নৌকা",
+            "ট্রাক",
+            "বাস "
+        ],
+        "answer": "গাড়ি ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_585.png",
+        "question": "ছবিতে মানুষ কি করছে? ",
+        "options": [
+            "হাসছে ",
+            "গান গাচ্ছে ",
+            "কান্না করে",
+            "রাগ করে "
+        ],
+        "answer": "হাসছে ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5851.png",
+        "question": "ছবিতে ভাসমান নৌকা  কোন ধরণের?",
+        "options": [
+            "ডিঙ্গি নৌকা",
+            "জাহাজ ",
+            "সাম্পান ",
+            "স্পিড বোর্ড"
+        ],
+        "answer": "ডিঙ্গি নৌকা",
+        "category": "Arts & History"
+    },
+    {
+        "filename": "CHITTRON_5852.png",
+        "question": "ছবিতে থাকা লোকটি কি করছে? ",
+        "options": [
+            "কাপড় সেলাই ",
+            "মুড়ি খাচ্ছে ",
+            "নকশা করছে ",
+            "ভাত খাচ্ছে "
+        ],
+        "answer": "কাপড় সেলাই ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5853.png",
+        "question": "লোকটি জাল নিয়ে পানিতে কি করছে? ",
+        "options": [
+            "গোসল করছে",
+            "পানি খাচ্ছে",
+            "মাছ ধরছে ",
+            "দাড়িয়ে আছে "
+        ],
+        "answer": "মাছ ধরছে ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5854.png",
+        "question": "ছবির মানুষগুলো কোন জাতির অন্তর্ভুক্ত?  ",
+        "options": [
+            "তেলেগু ",
+            "বাঙ্গালি",
+            "ক্ষুদ্র নৃগোষ্ঠী ",
+            "রাখাইন "
+        ],
+        "answer": "ক্ষুদ্র নৃগোষ্ঠী ",
+        "category": "Arts & History"
+    },
+    {
+        "filename": "CHITTRON_5855.png",
+        "question": "পিছের লোকটি কি করছে? ",
+        "options": [
+            "টাকা দিচ্ছে ",
+            "ভেঙ্গাচ্ছে ",
+            "পানি পান করছে ",
+            "কান্না করছে "
+        ],
+        "answer": "ভেঙ্গাচ্ছে ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5856.png",
+        "question": "ছবিতে দেখানো ব্যাস্ত জীবনে মানুষ কোন নদীতে যাতায়াত করে? ",
+        "options": [
+            "বুড়িগঙ্গা ",
+            "মেঘানা ",
+            "কুমার ",
+            "সুরমা "
+        ],
+        "answer": "বুড়িগঙ্গা ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5857.png",
+        "question": "রেল লাইনে বসে লোকগুলো কি করছে? ",
+        "options": [
+            "খাচ্ছে ",
+            "ঘুমাচ্ছে",
+            "ছবি তুলছে ",
+            "গান গাইছে "
+        ],
+        "answer": "খাচ্ছে ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5858.png",
+        "question": "লোকগুলো একসাথে ধরে হাতে কি নিয়ে যাচ্ছে? ",
+        "options": [
+            "পানি",
+            "কাচ ",
+            "কাঠ ",
+            "ডাল "
+        ],
+        "answer": "কাচ ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_586.png",
+        "question": "জাহাজ ভাঙ্গার কারখানায় কোন রঙের পতাকা দেখা যাচ্ছে? ",
+        "options": [
+            "নীল ",
+            "হলুদ ",
+            "সাদা ",
+            "কাল "
+        ],
+        "answer": "হলুদ ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5860.png",
+        "question": "ব্রিজে দাড়িয়ে টাকা নারী কি পরে আছেন? ",
+        "options": [
+            "থ্রি পিছ ",
+            "জামা ",
+            "বোরখা ",
+            "গেঞ্জি "
+        ],
+        "answer": "বোরখা ",
+        "category": "Clothing & Fashion"
+    },
+    {
+        "filename": "CHITTRON_5861.png",
+        "question": "পেইন্টিং হাতে লোকগুলো  একসাথে বসে এবং দাড়িয়ে কি করছে? ",
+        "options": [
+            "ছবি তুলছে ",
+            "মারামারি ",
+            "নাচানাচি ",
+            "ঘুমাচ্ছে "
+        ],
+        "answer": "ছবি তুলছে ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5862.png",
+        "question": "ছবির জায়গাটি কি নির্দেশ করছে? ",
+        "options": [
+            " রেল স্টেশন ",
+            "বাস স্ট্যান্ড",
+            "মাইক্রো স্ট্যান্ড ",
+            "কারখানা "
+        ],
+        "answer": " রেল স্টেশন ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5863.png",
+        "question": "ছবিতে লোকটি ফসল কেতে খুশি কেন? ",
+        "options": [
+            "হাত কেটে গেছে ",
+            "নতুন ফসল ঘরে তুলবে ",
+            "কেও মারা গেছে ",
+            "কারও বিয়ে হবে "
+        ],
+        "answer": "নতুন ফসল ঘরে তুলবে ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5864.png",
+        "question": "গ্রামীণ এই প্রাকিতিক দৃশে শিশুটির মাথায় আমরা কি দেখতে পাই? ",
+        "options": [
+            "খড়",
+            "পাতা ",
+            "ঘাস ",
+            "সবজি "
+        ],
+        "answer": "খড়",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_5865.png",
+        "question": "ছবিতে কুকুরের পিছে কি দেখা যাচ্ছে? ",
+        "options": [
+            "কলসি ",
+            "গাছ ",
+            "মানুষ ",
+            "গরু "
+        ],
+        "answer": "কলসি ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5866.png",
+        "question": "বাচ্চারা খেলা করছে কিসের ধারে? ",
+        "options": [
+            "বাস ",
+            "ব্রিজ ",
+            "দালান ",
+            "বাড়ি "
+        ],
+        "answer": "বাস ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5867.png",
+        "question": "খালি গায়ে বাচ্চাটি  কি করছে?",
+        "options": [
+            "খাচ্ছে ",
+            "তাকিয়ে আছে ",
+            "গান গাইছে ",
+            "ভিক্ষা করছে "
+        ],
+        "answer": "তাকিয়ে আছে ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5869.png",
+        "question": "পানিতে লোকটি কি করছে? ",
+        "options": [
+            "গোসল ",
+            "খাওয়া দাওয়া ",
+            "মারামারি ",
+            "হৈচৈ "
+        ],
+        "answer": "গোসল ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_587.png",
+        "question": "পার্কে ফ্যামিলি নিয়ে  বসে থাকা  একদম বাম পাশের লোকটির পোশাক কোন পেশার? ",
+        "options": [
+            "নাইট গার্ড ",
+            "পুলিশ ",
+            "চাকরিজীবী ",
+            "টুকাই "
+        ],
+        "answer": "পুলিশ ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5870.png",
+        "question": "ছবিতে কি দেখা যাচ্ছে? ",
+        "options": [
+            "নদী ",
+            "সমুদ্র ",
+            "পুকুর ",
+            "ক্ষেত "
+        ],
+        "answer": "সমুদ্র ",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_5873.png",
+        "question": "ছেলেটি সাদে বসে কি দেখছে? ",
+        "options": [
+            "পাখি ",
+            "গাছ  ",
+            "মাছ",
+            "নদী "
+        ],
+        "answer": "পাখি ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5874.png",
+        "question": "মেয়েটি হাঁসি মুখে কোন দিকে তাকিয়ে আছে? ",
+        "options": [
+            "আকাশের",
+            "পানির",
+            "নদীর ",
+            "জঙ্গলের"
+        ],
+        "answer": "আকাশের",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5875.png",
+        "question": "ছবিতে ছেলেটি কী কাজ করছে?",
+        "options": [
+            "পার্কে নাচছে",
+            "পানির গর্তে লাফ দিচ্ছে",
+            "সাইকেল চালাচ্ছে",
+            "দৌড় প্রতিযোগিতায় অংশ নিচ্ছে"
+        ],
+        "answer": "পানির গর্তে লাফ দিচ্ছে",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5876.png",
+        "question": "বিতে ছেলেটি কী করছে?",
+        "options": [
+            "নদীতে লাফ দিচ্ছে",
+            "গাছে উঠছে",
+            "বন্ধুদের সাথে খেলছে",
+            "সাইকেল চালাচ্ছে"
+        ],
+        "answer": "নদীতে লাফ দিচ্ছে",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5877.png",
+        "question": "ছবিতে ছেলেরা কী করছে?",
+        "options": [
+            "ঘুড়ি উড়াচ্ছে",
+            "গাছে চড়ছে",
+            "পানিতে সাঁতার কাটছে",
+            "দৌড় প্রতিযোগিতায় অংশ নিচ্ছে"
+        ],
+        "answer": "ঘুড়ি উড়াচ্ছে",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5878.png",
+        "question": "ছবিতে কোন সময়ের দৃশ্য দেখানো হয়েছে?",
+        "options": [
+            "ভোরবেলা",
+            "দুপুরবেলা",
+            "সন্ধ্যাবেলা",
+            "মধ্যরাত"
+        ],
+        "answer": "সন্ধ্যাবেলা",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_5879.png",
+        "question": "ছবিতে নৌকাটিতে কতজন মানুষ রয়েছে?",
+        "options": [
+            "২ জন",
+            "৩  জন ",
+            "৪ জন ",
+            "৫ জন "
+        ],
+        "answer": "৪ জন ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_588.png",
+        "question": "এটি কি পূজা? ",
+        "options": [
+            "কালী পূজা ",
+            "সরস্বতী পূজা ",
+            "দুর্গা পূজা ",
+            "শিব পূজা "
+        ],
+        "answer": "কালী পূজা ",
+        "category": "Religious Events"
+    },
+    {
+        "filename": "CHITTRON_5880.png",
+        "question": "লোকটি কোন ধর্মের? ",
+        "options": [
+            "হিন্দু ",
+            "মুসলিম ",
+            "খ্রিস্টান ",
+            "ইহুদি "
+        ],
+        "answer": "হিন্দু ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5881.png",
+        "question": "ছবির ছেলেটি কি বিক্রি করছে? ",
+        "options": [
+            "লেবু পানি ",
+            "আম ",
+            "সরবত ",
+            "লাচ্ছি "
+        ],
+        "answer": "লেবু পানি ",
+        "category": "Food"
+    },
+    {
+        "filename": "CHITTRON_5882.png",
+        "question": "দুইজন লোক কি পরে আছে? ",
+        "options": [
+            "শার্ট ",
+            "গেঞ্জি ",
+            "ফতুয়া ",
+            "পাঞ্জাবি "
+        ],
+        "answer": "পাঞ্জাবি ",
+        "category": "Clothing & Fashion"
+    },
+    {
+        "filename": "CHITTRON_5883.png",
+        "question": "ছবিতে কতটি নৌকা দেখা যাচ্ছে?",
+        "options": [
+            "১ টি ",
+            "২ টি ",
+            "৩ টি ",
+            "৪ টি "
+        ],
+        "answer": "৩ টি ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5884.png",
+        "question": "বাচ্চাটির হাতে  DREAM কাগজটি আসলে কি? ",
+        "options": [
+            "প্লেইন",
+            "গাড়ি",
+            "গরু ",
+            "নৌকা "
+        ],
+        "answer": "প্লেইন",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5885.png",
+        "question": "ছেলেটি কোথায় নামাজ পরছে? ",
+        "options": [
+            "মসজিদে ",
+            "মন্দিরে ",
+            "গির্জায় ",
+            "প্যাগোডায় "
+        ],
+        "answer": "মসজিদে ",
+        "category": "Religious Events"
+    },
+    {
+        "filename": "CHITTRON_5886.png",
+        "question": "ছবির দুইজন মানুষের মধ্যে সম্পর্ক কি? ",
+        "options": [
+            "গারলফ্রেন্ড-বয়ফ্রেন্ড ",
+            "স্বামি-স্ত্রি ",
+            "ভাইবোন ",
+            "কাজিন "
+        ],
+        "answer": "স্বামি-স্ত্রি ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5887.png",
+        "question": "ছেলেটি কোথায় দাড়িয়ে আছে? ",
+        "options": [
+            "দেয়ালে",
+            "পানিতে ",
+            "মাটিতে ",
+            "জাহাজে "
+        ],
+        "answer": "দেয়ালে",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5888.png",
+        "question": "ছবিতে হিন্দুদের কোন পূজা কে নির্দেশ করে? ",
+        "options": [
+            "দুর্গা পূজা ",
+            "স্বরসতি পূজা ",
+            "শিব পূজা ",
+            "হনুমান পূজা "
+        ],
+        "answer": "দুর্গা পূজা ",
+        "category": "Religious Events"
+    },
+    {
+        "filename": "CHITTRON_589.png",
+        "question": "ছবিতে কতজন মহিলা দেখা আছে? ",
+        "options": [
+            "১ ",
+            "২",
+            "৩",
+            "৪"
+        ],
+        "answer": "৩",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5890.png",
+        "question": "ছবিতে দুইজন লোক  কী করছে?",
+        "options": [
+            "সমুদ্র সৈকতে খেলা করছে",
+            "মাছ ধরছে",
+            "নৌকায় চড়ছে",
+            "ঘুড়ি উড়াচ্ছে"
+        ],
+        "answer": "মাছ ধরছে",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5892.png",
+        "question": "ছবিটির পেছনের পরিবেশটি কোন ধরণের আবহাওয়া বোঝায়?",
+        "options": [
+            "রৌদ্রজ্জ্বল",
+            "মেঘলা",
+            "ঝড়ো",
+            "বরফাচ্ছন্ন"
+        ],
+        "answer": "মেঘলা",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5893.png",
+        "question": "ছবিতে দাড়িয়ে থাকা মেয়েটি কি রঙের ড্রেস পরে আছে ? ",
+        "options": [
+            "সবুজ ",
+            "সাদা ",
+            "গোলাপি ",
+            "নীল "
+        ],
+        "answer": "সাদা ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5894.png",
+        "question": "মেয়েটির হাতে কি ফুল দেখা যাচ্ছে? ",
+        "options": [
+            "কচুরিফুল ",
+            "গোলাপ ",
+            "রজনীগন্ধা ",
+            "জবা "
+        ],
+        "answer": "কচুরিফুল ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5895.png",
+        "question": "ছবিতে  মানুষের সাথে কোন প্রাণীকে দেখানো হয়েছে?",
+        "options": [
+            "গরু ",
+            "ভেড়া ",
+            "ছাগল ",
+            "মহিষ"
+        ],
+        "answer": "গরু ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5896.png",
+        "question": "ছবিতে কোন সময়ে এবং কোথায় একজন মানুষ বসে আছে?",
+        "options": [
+            "সকালে নদীর ধারে",
+            "সন্ধ্যায় নদীর পাড়ে",
+            "দুপুরে পুকুরের পাশে",
+            "রাতে জঙ্গলে"
+        ],
+        "answer": "সন্ধ্যায় নদীর পাড়ে",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_5897.png",
+        "question": "ছবিতে কোন পণ্যটি  দেখানো  হয়েছে?",
+        "options": [
+            "তুলা ",
+            "পাট ",
+            "রেশম ",
+            "লিনেন "
+        ],
+        "answer": "পাট ",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_5898.png",
+        "question": "লেকটি ভ্যানে কোন গাছের পাতা নিয়ে যাচ্ছে? ",
+        "options": [
+            "কাঁঠাল ",
+            "আম ",
+            "লিচু ",
+            "জাম "
+        ],
+        "answer": "কাঁঠাল ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5899.png",
+        "question": "লোকটি যেখানে দাড়িয়ে আছে  সেখানে জায়গাটা কেমন? ",
+        "options": [
+            "নতুন বাড়ি ",
+            "পুরানো বাড়ি ",
+            "শ্মশান ",
+            "রাজবাড়ি "
+        ],
+        "answer": "পুরানো বাড়ি ",
+        "category": "Arts & History"
+    },
+    {
+        "filename": "CHITTRON_59.png",
+        "question": "মহিলাটি কি করছে? ",
+        "options": [
+            "ধান ভাংছে ",
+            "নাচ করছে ",
+            "খাবর খাচ্ছে",
+            "বসে আছে "
+        ],
+        "answer": "ধান ভাংছে ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_590.png",
+        "question": "ছবিতে দেখতে পাওয়া অনুষ্ঠানটি কোন ধরনের কি বিষয়ক প্রতিষ্ঠানের? ",
+        "options": [
+            "শিশু ",
+            "যুবক ",
+            "যুবতি ",
+            "কিশোর"
+        ],
+        "answer": "শিশু ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5900.png",
+        "question": "ছবিতে দেখানো  টিনের বেড়াতে লালের সাথে আর কি রঙ আছে? ",
+        "options": [
+            "নীল ",
+            "হলুদ",
+            "আকাশী ",
+            "বেগুনি "
+        ],
+        "answer": "হলুদ",
+        "category": "Arts & History"
+    },
+    {
+        "filename": "CHITTRON_5901.png",
+        "question": "ছবিতে লোকটিকে কোথায় বসে থাকতে দেখা যাচ্ছে?",
+        "options": [
+            "রাস্তার পাশে",
+            "দোকানের সামনে ",
+            "গাছের নিচে",
+            "ঘরের বারান্দায়"
+        ],
+        "answer": "দোকানের সামনে ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5902.png",
+        "question": "ডোবার চারপাশে কী দেখা যাচ্ছে?",
+        "options": [
+            "ঘরবাড়ি",
+            "গাছপালা ",
+            "দোকানপাট ",
+            "রাস্তা "
+        ],
+        "answer": "গাছপালা ",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_5903.png",
+        "question": "ছবিতে লোকটি কী করছেন?",
+        "options": [
+            "মাছ ধরছেন ",
+            "পানি খাচ্ছেন ",
+            "কাপড় ধুচ্ছেন",
+            "গোসল করছেন"
+        ],
+        "answer": "মাছ ধরছেন ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5904.png",
+        "question": "ছেলেটি কি খেলছে? ",
+        "options": [
+            "ক্রিকেট ",
+            "ফুটবল ",
+            "হকি ",
+            "কাবাডি "
+        ],
+        "answer": "ফুটবল ",
+        "category": "Sports"
+    },
+    {
+        "filename": "CHITTRON_5905.png",
+        "question": "লোকটির হাতে কী আছে?",
+        "options": [
+            "বৈঠা",
+            "জাল ",
+            "মাছ ",
+            "লাঠি "
+        ],
+        "answer": "জাল ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5906.png",
+        "question": "বাচ্চাটি কোথায় দাড়িয়ে আছে? ",
+        "options": [
+            "সাদে ",
+            "পানিতে ",
+            "মাটিতে ",
+            "নদীতে "
+        ],
+        "answer": "সাদে ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5907.png",
+        "question": "নৌকার পেছনের দৃশ্যটি কেমন?",
+        "options": [
+            "শহর ",
+            "গ্রাম",
+            "বন ",
+            "পাহাড় "
+        ],
+        "answer": "পাহাড় ",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_5908.png",
+        "question": "কোন ক্ষেতের মধ্যে ছেলেটি পানিতে ডুবে আছে ? ",
+        "options": [
+            "গম ",
+            "ধান ",
+            "পিয়াজ",
+            "মরিচ "
+        ],
+        "answer": "ধান ",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_5909.png",
+        "question": "ছবিতে মানুষটি কি চালাচ্ছে? ",
+        "options": [
+            "ট্রাক ",
+            "বাস ",
+            "ট্রেন ",
+            "রিকশা "
+        ],
+        "answer": "রিকশা ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_591.png",
+        "question": "ছবির দোকানে কি ধরনের জিনিস পাওয়া যায়?",
+        "options": [
+            "নিত্য প্রয়োজনীয় ",
+            "সবজি ",
+            "মাছ ",
+            "মুরগি "
+        ],
+        "answer": "নিত্য প্রয়োজনীয় ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5910.png",
+        "question": "ছবিতে কতজন শিশু দেখা যাচ্ছে? ",
+        "options": [
+            "৪ জন ",
+            "৫ জন ",
+            "৩ জন ",
+            "২ জন "
+        ],
+        "answer": "৪ জন ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5911.png",
+        "question": "ছবিতে মানুষ নদী পাড় হবে কিভাবে? ",
+        "options": [
+            "নৌকায় ",
+            "গাড়িতে ",
+            "ট্রেনে ",
+            "হেঁটে"
+        ],
+        "answer": "নৌকায় ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5912.png",
+        "question": "ছবিটি কোন মৌসুমকে নির্দেশ করে? ",
+        "options": [
+            "গ্রীষ্ম ",
+            "বর্ষা ",
+            "শরৎ ",
+            "শীত "
+        ],
+        "answer": "শীত ",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_5913.png",
+        "question": "ছনিতে বাচ্চাটি উকি দিয়ে কেমন এক্সপ্রেশন  করছে? ",
+        "options": [
+            "হাঁসি",
+            "কান্না ",
+            "রাগ ",
+            "অভিমান "
+        ],
+        "answer": "হাঁসি",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5914.png",
+        "question": "ছেলেটি মাথায় কি দেখা যাচ্ছে ? ",
+        "options": [
+            "প্লেট ",
+            "পানি ",
+            "জগ ",
+            "লোহা"
+        ],
+        "answer": "প্লেট ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5915.png",
+        "question": "রিকশার পিছে কিসের ছবি আঁকা হয়েছে? ",
+        "options": [
+            "মাছ ",
+            "ঘর ",
+            "গাছ ",
+            "হাঁস "
+        ],
+        "answer": "ঘর ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5916.png",
+        "question": "বাংলাদেশের কোন অঞ্চলে পাটখড়ি বেশি দেখা যায়? ",
+        "options": [
+            "বরিশাল ",
+            "মাদারীপুর ",
+            "যশোর ",
+            "ফরিদপুর "
+        ],
+        "answer": "ফরিদপুর ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5917.png",
+        "question": " ছবিতে কীসের প্রতিচ্ছবি দেখা যাচ্ছে?",
+        "options": [
+            "গাছের",
+            "মেঘের",
+            "সূর্যের",
+            "নৌকার"
+        ],
+        "answer": "সূর্যের",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_5918.png",
+        "question": "কোনও প্রোগ্রামে সবাই এভাবে বসে থাকে কখন? ",
+        "options": [
+            " কেও বক্তিতা দিলে ",
+            "কেও বকা দিলে ",
+            "কেও মারামারি কুরলে ",
+            "কেও ডাক দিলে"
+        ],
+        "answer": " কেও বক্তিতা দিলে ",
+        "category": "Cultural Festivals"
+    },
+    {
+        "filename": "CHITTRON_5919.png",
+        "question": "শিশুরা কোন ক্ষেতে দাড়িয়ে আছে? ",
+        "options": [
+            "আলু ",
+            "সরিষা ",
+            "বেগুন ",
+            "ভুট্টা "
+        ],
+        "answer": "সরিষা ",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_592.png",
+        "question": "নারীরা কখন এমন সাজগোজ করে ?",
+        "options": [
+            "নিজের বিয়েতে ",
+            "কেও মারা গেলে ",
+            "রাগ করলে",
+            "অন্যের বিয়েতে "
+        ],
+        "answer": "নিজের বিয়েতে ",
+        "category": "Clothing & Fashion"
+    },
+    {
+        "filename": "CHITTRON_5920.png",
+        "question": "লোকগুলো কিসের দিকে তাকিয়ে আছে?",
+        "options": [
+            "বিড়াল ",
+            "কুকুর ",
+            "ল্যাপটপ ",
+            "দেয়াল "
+        ],
+        "answer": "ল্যাপটপ ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5921.png",
+        "question": "পাঞ্জাবি টুপি পরে ছেলেটি কোন ধর্মাবলম্বী ? ",
+        "options": [
+            "ইহুদি ",
+            "খ্রিস্টান ",
+            "মুসলিম ",
+            "হিন্দু "
+        ],
+        "answer": "মুসলিম ",
+        "category": "Clothing & Fashion"
+    },
+    {
+        "filename": "CHITTRON_5922.png",
+        "question": "বাাংলাদেশের কোন নিদর্শনীয় স্থানটি চিত্রে প্রকাশ পেয়েছে?",
+        "options": [
+            "ষাট গম্বুজ মসজিদ",
+            "লালবাগ কেল্লা",
+            "আহসান মঞ্জিল",
+            "তারা মসজিদ"
+        ],
+        "answer": "ষাট গম্বুজ মসজিদ",
+        "category": "Religious Events"
+    },
+    {
+        "filename": "CHITTRON_5923.png",
+        "question": "লোকটি কোন জায়গায় আছে? ",
+        "options": [
+            "সুন্দরবন ",
+            "সিলেট ",
+            "বান্দারাবন ",
+            "শ্রীমঙ্গল "
+        ],
+        "answer": "সুন্দরবন ",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_5924.png",
+        "question": "লোকটি জঙ্গলের পানিতে কি করছে? ",
+        "options": [
+            "মাছ ধরছে ",
+            "পানি খাচ্ছে ",
+            "ঝগড়া করছে ",
+            "দাড়িয়ে আছে "
+        ],
+        "answer": "মাছ ধরছে ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5925.png",
+        "question": "তিন বন্ধুর মধ্যে কমন কি? ",
+        "options": [
+            "দাড়ি আছে ",
+            "ঘড়ি পরেছে ",
+            "চশমা পরেছে ",
+            "কান্না করছে "
+        ],
+        "answer": "চশমা পরেছে ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5926.png",
+        "question": "ছবিতে মেয়েটিকে দেখে কি মনে হচ্ছে? ",
+        "options": [
+            "অসহায় ",
+            "গরিব ",
+            "ধনী ",
+            "ভিক্ষুক "
+        ],
+        "answer": "অসহায় ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5927.png",
+        "question": "ছবিতে  মানুষগুলো কি দিয়ে খেলছে? ",
+        "options": [
+            "পানি ",
+            "দুধ ",
+            "রস ",
+            "সরবত "
+        ],
+        "answer": "পানি ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5928.png",
+        "question": "এমন বাদ্যযন্ত্র  কখন বাজানো হয়? ",
+        "options": [
+            "বিয়েতে ",
+            "মারা গেলে ",
+            "কষ্ট পেলে ",
+            "খুশিতে "
+        ],
+        "answer": "বিয়েতে ",
+        "category": "Cultural Festivals"
+    },
+    {
+        "filename": "CHITTRON_5929.png",
+        "question": "ছবিতে আমরা কোন পূজা দেখতে পাচ্ছি? ",
+        "options": [
+            "কালীপূজা ",
+            "দুর্গা পূজা ",
+            "শিব পূজা ",
+            "সরস্বতী পূজা "
+        ],
+        "answer": "দুর্গা পূজা ",
+        "category": "Religious Events"
+    },
+    {
+        "filename": "CHITTRON_593.png",
+        "question": "বাচ্ছাকে পাশে বসিয়ে মহিলা কি করছে? ",
+        "options": [
+            "রান্না ",
+            "ঝগড়া ",
+            "রাগ ",
+            "অভিমান "
+        ],
+        "answer": "রান্না ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5930.png",
+        "question": "ছবিতে বৃষ্টিতে ভিজে ছেলে মেয়ে কই যাচ্ছে? ",
+        "options": [
+            "বাসায় ",
+            "স্কুল ",
+            "ক্লাব ",
+            "শ্মশান"
+        ],
+        "answer": "স্কুল ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5931.png",
+        "question": "ছেলেটি কোথায় দাড়িয়ে আছে? ",
+        "options": [
+            "বারান্দা ",
+            "নদীতে ",
+            "নৌকাতে ",
+            "মাটিতে "
+        ],
+        "answer": "বারান্দা ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5932.png",
+        "question": "ছবিতে  দেখানো প্রোগ্রামটি কিসের? ",
+        "options": [
+            "বিয়ের ",
+            "র‍্যাগ ডে ",
+            "জন্মদিন ",
+            "কুলখানি "
+        ],
+        "answer": "র‍্যাগ ডে ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5933.png",
+        "question": "বাচ্চাটির পিছে কি গাছ দেখা যাচ্ছে?",
+        "options": [
+            "বাশ",
+            "কলা",
+            "নারিকেল",
+            "আম "
+        ],
+        "answer": "বাশ",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_5934.png",
+        "question": "লোকটি কোথায় দাড়িয়ে আছে? ",
+        "options": [
+            "নৌকায়",
+            "ভাঙ্গা বাড়িতে ",
+            "বাশবাগানে ",
+            "ফুলবাগানে "
+        ],
+        "answer": "ভাঙ্গা বাড়িতে ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5935.png",
+        "question": "লোকটি মাথায় কি নিয়ে যাচ্ছে? ",
+        "options": [
+            "পানি ",
+            "বালি ",
+            "মাটি ",
+            "রসুন "
+        ],
+        "answer": "বালি ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5936.png",
+        "question": "মেয়েটি কপালে কি পরেছে? ",
+        "options": [
+            "টিপ ",
+            "ক্যাপ ",
+            "টুপি ",
+            "মেকআপ "
+        ],
+        "answer": "টিপ ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5937.png",
+        "question": "মেয়েটি সামনে কি দেখে ভোয় পাচ্ছে? ",
+        "options": [
+            "পানি ",
+            "হাতি ",
+            "বাঘ ",
+            "ঘোড়া "
+        ],
+        "answer": "পানি ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5938.png",
+        "question": "ছবিতে গুদাম ঘরে কতজন  মানুষকে দেখা যাচ্ছে? ",
+        "options": [
+            "২ ",
+            "৪",
+            "৫",
+            "৬"
+        ],
+        "answer": "২ ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5939.png",
+        "question": "ছবির মেয়েরা কোথায় ঘুরতে গেছে? ",
+        "options": [
+            "জাফলং ",
+            "সীতাকুণ্ড ",
+            "হাতিরঝিল ",
+            "রংপুর "
+        ],
+        "answer": "জাফলং ",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_594.png",
+        "question": "রোদে ফাটা মাটিতে কি দেখা যাচ্ছে? ",
+        "options": [
+            "নৌকা ",
+            "বেলুন ",
+            "মাছ ",
+            "ঘাস"
+        ],
+        "answer": "নৌকা ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5940.png",
+        "question": "ছবিতে লোকগুলো কোন অনুষ্ঠানে এসেছে? ",
+        "options": [
+            "বিয়ে ",
+            "কুলখানি ",
+            "জন্মদিন ",
+            "সুন্নতে খাত্না"
+        ],
+        "answer": "বিয়ে ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5941.png",
+        "question": "ছেলেগুলো কি করছে? ",
+        "options": [
+            "মাছ ধরছে ",
+            "নাছ করছে ",
+            "মারামারি করছে ",
+            "তাকিয়ে আছে "
+        ],
+        "answer": "মাছ ধরছে ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5942.png",
+        "question": "ছবিতে ছেলে মেয়ে কোথায় বসে আছে? ",
+        "options": [
+            "প্লেনে ",
+            "ট্রেনে ",
+            "গাড়িতে ",
+            "বাসে "
+        ],
+        "answer": "ট্রেনে ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5943.png",
+        "question": "ছেলেটি ট্রেনের জানালা দিয়ে কি নিচ্ছে? ",
+        "options": [
+            "পানির বোতলে ",
+            "বড়ই ",
+            "বাদাম ",
+            "পিয়ারা "
+        ],
+        "answer": "পানির বোতলে ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5944.png",
+        "question": "লোকটি কি বানাচ্ছে? ",
+        "options": [
+            "মিষ্টি ",
+            "নাড়ু ",
+            "আচার ",
+            "দই "
+        ],
+        "answer": "মিষ্টি ",
+        "category": "Food"
+    },
+    {
+        "filename": "CHITTRON_5945.png",
+        "question": "ছবিতে দেখানো ঈদের  নামাজ কোন ধর্মের লোকরা পড়ে ?",
+        "options": [
+            "হিন্দু ",
+            "মুসলিম ",
+            "খ্রিস্টান ",
+            "ইহুদি "
+        ],
+        "answer": "মুসলিম ",
+        "category": "Religious Events"
+    },
+    {
+        "filename": "CHITTRON_5946.png",
+        "question": "ছবিতে কতজন বাচ্চা দেখা যাচ্ছে? ",
+        "options": [
+            "২",
+            "৩",
+            "5",
+            "1"
+        ],
+        "answer": "২",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5947.png",
+        "question": "লোকটি কিসের সাথে হেলান দিয়ে দাড়িয়ে আছে? ",
+        "options": [
+            "বৈদ্যুতিক খুঁটি ",
+            "দেয়াল ",
+            "বাস ",
+            "গরু "
+        ],
+        "answer": "বৈদ্যুতিক খুঁটি ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5948.png",
+        "question": "বাংলাদেশের সবচেয়ে বেশি পাট উৎপন্ন হয় কোন জেলায়?",
+        "options": [
+            "যশোর ",
+            "ঢাকা ",
+            "বরিশাল ",
+            "ফরিদপুর "
+        ],
+        "answer": "ফরিদপুর ",
+        "category": "Arts & History"
+    },
+    {
+        "filename": "CHITTRON_5949.png",
+        "question": "লোকেরা বসে এবং দাড়িয়ে ভাবে   কি করছে? ",
+        "options": [
+            "পানি খাচ্ছে",
+            "ছবি তুলছে ",
+            "গান গাচ্ছে ",
+            "ঘুমাচ্ছে "
+        ],
+        "answer": "পানি খাচ্ছে",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_595.png",
+        "question": "ছবিতে  শিশুরা কেমন প্রতিষ্ঠানে শিক্ষা নিতে দেখা যায়? ",
+        "options": [
+            "কোচিং ",
+            "গ্রামীণ স্কুল ",
+            "হাই স্কুল ",
+            "কিন্ডারগার্ডেন "
+        ],
+        "answer": "গ্রামীণ স্কুল ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5950.png",
+        "question": "ছবিতে দেখানো জায়গাটি কোথায়? ",
+        "options": [
+            "রেল স্টেশন ",
+            "বাস স্ট্যান্ড ",
+            "ট্রাক স্ট্যান্ড ",
+            "বিমান বন্দর "
+        ],
+        "answer": "রেল স্টেশন ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5951.png",
+        "question": "ছেলেটি একা কোথায় বসে আছে? ",
+        "options": [
+            "সাদে ",
+            "আকাশে ",
+            "টিলায় ",
+            "নৌকায় "
+        ],
+        "answer": "টিলায় ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5952.png",
+        "question": "ছবিতে নদীর পানির রঙ কেমন?",
+        "options": [
+            "নীল ",
+            "সবুজ ",
+            "লাল ",
+            "হলুদ "
+        ],
+        "answer": "নীল ",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_5953.png",
+        "question": "ছবিতে কুকুরটি কি করছে? ",
+        "options": [
+            "ঘুমাচ্ছে ",
+            "রান্না করছে ",
+            "খাচ্ছে ",
+            "গোসল করছে "
+        ],
+        "answer": "ঘুমাচ্ছে ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5954.png",
+        "question": "ছবিতে কী দেখানো হয়েছে?",
+        "options": [
+            "একটি পার্ক",
+            "একটি রাস্তা",
+            "একটি দোকান",
+            "একটি বাড়ি "
+        ],
+        "answer": "একটি দোকান",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5955.png",
+        "question": "ছবিতে মহিলা কোথায় বসবাস করেন? ",
+        "options": [
+            "মাটিতে ",
+            "পানিতে ",
+            "নৌকায় ",
+            "বাড়িতে "
+        ],
+        "answer": "নৌকায় ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5956.png",
+        "question": "পানিতে দেখানো প্রাণীটির নাম কি? ",
+        "options": [
+            "হাঁস ",
+            "মুরগি ",
+            "বিড়াল ",
+            "সিংহ"
+        ],
+        "answer": "হাঁস ",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_5957.png",
+        "question": "লোকটি কি কালারের গেঞ্জি পড়ে আছে? ",
+        "options": [
+            "সাদা ",
+            "লাল ",
+            "হলুদ ",
+            "নীল "
+        ],
+        "answer": "সাদা ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5958.png",
+        "question": "মহিলাটি কষ্ট করে হাতে কি নিয়ে যাচ্ছে? ",
+        "options": [
+            "কাপড় ",
+            "পানি ",
+            "ভাত ",
+            "দই "
+        ],
+        "answer": "কাপড় ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5959.png",
+        "question": "এত মানুষের এই খেলাটির নাম কি? ",
+        "options": [
+            "নৌকা বাইচ ",
+            "ক্রিকেট ",
+            "ফুটবল ",
+            "টেবিল টেনিস"
+        ],
+        "answer": "নৌকা বাইচ ",
+        "category": "Sports"
+    },
+    {
+        "filename": "CHITTRON_596.png",
+        "question": "লোকটি কোথায় অবস্থান করছে? ",
+        "options": [
+            "খনিতে ",
+            "পাহাড়ে ",
+            "শৈল্পিক এলাকা  ",
+            "জঙ্গলে "
+        ],
+        "answer": "শৈল্পিক এলাকা  ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5960.png",
+        "question": "লোকটি গরু নিয়ে কি করছে? ",
+        "options": [
+            "হাল চাষ ",
+            "ঘুরে বেরানো ",
+            "ঝগড়া ",
+            "মারামারি "
+        ],
+        "answer": "হাল চাষ ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5961.png",
+        "question": "লোকটি মূলত কোথাই ঘুমাচ্ছে?",
+        "options": [
+            "ট্রেনে ",
+            "বাসে",
+            "ট্রাকে ",
+            "বাসায় "
+        ],
+        "answer": "ট্রেনে ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5962.png",
+        "question": "ছবিতে লোকটি আসলে কি করছে? ",
+        "options": [
+            "হাসছে ",
+            "ঘুমাচ্ছে ",
+            "পড়তেছে ",
+            "খেলছে "
+        ],
+        "answer": "হাসছে ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5963.png",
+        "question": "বাজারটিতে কি বিক্রি হচ্ছে? ",
+        "options": [
+            " লোহার পাত্র ",
+            "মাটির জিনিস ",
+            "জামা ",
+            "সবজি "
+        ],
+        "answer": "সবজি ",
+        "category": "Food"
+    },
+    {
+        "filename": "CHITTRON_5964.png",
+        "question": "ছবিতে কোন বিষয়টি প্রধানভাবে দেখানো হয়েছে?",
+        "options": [
+            "গ্রাম",
+            "গাছ ",
+            "নদী ",
+            "মানুষ "
+        ],
+        "answer": "গাছ ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5965.png",
+        "question": "বাচ্চাটি কি রঙের জামা পড়ে আছে? ",
+        "options": [
+            "সাদা ",
+            "নীল ",
+            "আকাশী ",
+            "লাল "
+        ],
+        "answer": "সাদা ",
+        "category": "Clothing & Fashion"
+    },
+    {
+        "filename": "CHITTRON_5966.png",
+        "question": "মেয়েটির হাতে যেই জিনিসটায় নিজের মুখ দেখা যাচ্ছে সেটার নাম কি? ",
+        "options": [
+            "আয়না ",
+            "মোবাইল ",
+            "ঘড়ি ",
+            "ক্যামেরা "
+        ],
+        "answer": "আয়না ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5967.png",
+        "question": "ছবির প্রাণীটির নাম কি? ",
+        "options": [
+            "শালিক ",
+            "বগ ",
+            "মহিষ ",
+            "ছাগল "
+        ],
+        "answer": "বগ ",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_5968.png",
+        "question": "ছবিতে ব্যানারে কি নিয়ে ট্রিটমেন্ট দিচ্ছে? ",
+        "options": [
+            "চুল পড়া ",
+            "হাঁচি",
+            "কাশি ",
+            "মাথা ব্যাথা "
+        ],
+        "answer": "চুল পড়া ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5969.png",
+        "question": "ছবিতে প্রদর্শিত ঘরটি কী দিয়ে তৈরি বলে মনে হয়?",
+        "options": [
+            "বাঁশ ও কাঁদামাটি",
+            "ইট ও সিমেন্ট",
+            "কাঠ",
+            "টিন ও প্লাস্টিক"
+        ],
+        "answer": "বাঁশ ও কাঁদামাটি",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_597.png",
+        "question": "লোকটি কি বিক্রি করছে? ",
+        "options": [
+            "কলা ",
+            "আপেল ",
+            "পিয়ারা ",
+            "রসুন "
+        ],
+        "answer": "কলা ",
+        "category": "Food"
+    },
+    {
+        "filename": "CHITTRON_5970.png",
+        "question": "ছবিতে কি খলেছে লোকেরা? ",
+        "options": [
+            "ভলিবল ",
+            "হ্যান্ডবল ",
+            "ক্রিকেট ",
+            "ব্যাডমিন্টন "
+        ],
+        "answer": "হ্যান্ডবল ",
+        "category": "Sports"
+    },
+    {
+        "filename": "CHITTRON_5971.png",
+        "question": "লোকটি লুঙ্গি পড়ে কোথায় বসে আছে? ",
+        "options": [
+            "ভ্যানে ",
+            "রাস্তায় ",
+            "সড়কে ",
+            "গ্রামে "
+        ],
+        "answer": "ভ্যানে ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5972.png",
+        "question": "ছবিতে কোন দুটি প্রধান জিনিস দেখানো হয়েছে?",
+        "options": [
+            "সূর্য ও মেঘ",
+            "পাখি ও আকাশ ",
+            "আকাশ ও মাটি",
+            "মানুষ ও গাছ"
+        ],
+        "answer": "পাখি ও আকাশ ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5973.png",
+        "question": "বিছানায় বসে থাকা লোকটির হাতে কি? ",
+        "options": [
+            "পানি ",
+            "কেমেরা ",
+            "লেন্স ",
+            "চশমা "
+        ],
+        "answer": "লেন্স ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5974.png",
+        "question": "ছবিতে ছেলেরা মাঠে কি খেলছে? ",
+        "options": [
+            "ফুটবল ",
+            "ব্যাডমিন্টন ",
+            "হাডুডু ",
+            "হকি "
+        ],
+        "answer": "ফুটবল ",
+        "category": "Sports"
+    },
+    {
+        "filename": "CHITTRON_5975.png",
+        "question": "বাজারটিতে কি পাওয়া যায়? ",
+        "options": [
+            "বেতের জিনিস ",
+            "পোশাক ",
+            "গ্রামীণ পণ্য ",
+            "হাঁড়িপাতিল "
+        ],
+        "answer": "গ্রামীণ পণ্য ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5976.png",
+        "question": "লোকটি কোথা থেকে বোতলে পানি সংরক্ষণ করছে? ",
+        "options": [
+            "ওয়াসা ",
+            "নদী ",
+            "পুকুর ",
+            "খাল "
+        ],
+        "answer": "ওয়াসা ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5977.png",
+        "question": "ছবিতে মেয়েটি মাথায় কি পড়ে আছে? ",
+        "options": [
+            "কৃষকের টুপি ",
+            "নামাজের টুপি ",
+            "ফুলের তড়া ",
+            "ঝুরি "
+        ],
+        "answer": "কৃষকের টুপি ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5978.png",
+        "question": "ছবিতে ৩ জন ফোন চালাচ্ছে আরেকজন কি করছে? ",
+        "options": [
+            "খাচ্ছে ",
+            "বসে আছে ",
+            "গান গায় ",
+            "নাছে"
+        ],
+        "answer": "বসে আছে ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5979.png",
+        "question": "বাচ্চাগুলো বৃষ্টিতে কি করছে? ",
+        "options": [
+            "খেলছে ",
+            "কান্না করছে ",
+            "মারামারি করছে ",
+            "ঘুমাচ্ছে "
+        ],
+        "answer": "খেলছে ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_598.png",
+        "question": "ছবিতে প্রদর্শিত শিশুদের কাজটি কী নির্দেশ করে?",
+        "options": [
+            "শিশুশ্রম",
+            "শিক্ষামূলক কার্যক্রম",
+            "খেলার দৃশ্য",
+            "পারিবারিক সময়"
+        ],
+        "answer": "শিশুশ্রম",
+        "category": "Incidents"
+    },
+    {
+        "filename": "CHITTRON_5980.png",
+        "question": "লোকটি দরজার মধ্যে কি করছে? ",
+        "options": [
+            "মোনাজাত ",
+            "নামাজ পরছে ",
+            "পূজা করছে ",
+            "উপাসনা করছে "
+        ],
+        "answer": "মোনাজাত ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5981.png",
+        "question": "রেল স্টেশনে লোকটি বসে কি বিক্রি করছে? ",
+        "options": [
+            "ফল ",
+            "কাপড় ",
+            "সবজি ",
+            "বাঁশের জিনিস "
+        ],
+        "answer": "ফল ",
+        "category": "Food"
+    },
+    {
+        "filename": "CHITTRON_5982.png",
+        "question": "ছবিটিতে মানুষ কোথায় দাড়িয়ে আছে? ",
+        "options": [
+            "নদীর ধারে ",
+            "সমুদ্রের ধারে ",
+            "পাহারে ",
+            "পানিতে "
+        ],
+        "answer": "সমুদ্রের ধারে ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5983.png",
+        "question": "লোকটি পানিতে কি করছে? ",
+        "options": [
+            "কাপড় ধুচ্ছে ",
+            "গোসল করছে ",
+            "পানি খাচ্ছে  ",
+            "গোসল করছে "
+        ],
+        "answer": "কাপড় ধুচ্ছে ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5984.png",
+        "question": "মহিলাটি কোথায় মুখে হাত রেখে বসে আছে? ",
+        "options": [
+            "মসজিদে ",
+            "ফুটপাতে ",
+            "রাস্তায় ",
+            "নদীতে "
+        ],
+        "answer": "ফুটপাতে ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5985.png",
+        "question": "ছবির শিশুটি কী ধরনের কাজের সাথে জড়িত?",
+        "options": [
+            "রাস্তা পরিষ্কার",
+            "খেলাধুলা",
+            "ছবি আঁকা",
+            "বই পড়া"
+        ],
+        "answer": "রাস্তা পরিষ্কার",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5986.png",
+        "question": "ছবির দৃশ্যটি কোন কাজের সাথে সম্পর্কিত?",
+        "options": [
+            "মাছ ধরা",
+            "নৌকা বা জাহাজ পরিচালনা",
+            "সন্ধ্যায় ভ্রমণ",
+            "সমুদ্র তীরে হাঁটাহাঁটি"
+        ],
+        "answer": "নৌকা বা জাহাজ পরিচালনা",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5987.png",
+        "question": "ছবিটি কী প্রকাশ করছে?",
+        "options": [
+            "নদী ও নৌকা",
+            "শস্যক্ষেত্র",
+            "পাহাড়ি এলাকা",
+            "শহরের দৃশ্য"
+        ],
+        "answer": "নদী ও নৌকা",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_5988.png",
+        "question": "ছবিতে কিসের পোস্টার লাগানো হয়েছে? ",
+        "options": [
+            "ভোটের ",
+            "মারামারির ",
+            "যুদ্ধের ",
+            "সন্ত্রাসের "
+        ],
+        "answer": "ভোটের ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5989.png",
+        "question": "বৃদ্ধ লোকটির হাতে কি দেখা যাচ্ছে? ",
+        "options": [
+            "পানি ",
+            "সিগারেট ",
+            "লাঠি ",
+            "খাবার "
+        ],
+        "answer": "সিগারেট ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_599.png",
+        "question": "ছবির বিষয়বস্তু কী প্রকাশ করছে?",
+        "options": [
+            "গ্রামীণ জীবনে নারীদের গতিশীলতা",
+            "সাইকেল চালানোর প্রশিক্ষণ",
+            "শহরের রাস্তার দৃশ্য",
+            "রাস্তার সংস্কার কার্যক্রম"
+        ],
+        "answer": "গ্রামীণ জীবনে নারীদের গতিশীলতা",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5990.png",
+        "question": "ছবিটি কী চিত্রিত করছে?",
+        "options": [
+            "কৃষকের জমি চাষের দৃশ্য",
+            "গ্রামের হাট বাজার",
+            "বৃক্ষরোপণ কর্মসূচি",
+            "সমবায় সভা"
+        ],
+        "answer": "কৃষকের জমি চাষের দৃশ্য",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5991.png",
+        "question": "ছবিটি কী প্রকাশ করছে?",
+        "options": [
+            "শিশুর খেলা",
+            "শিশুর পিকনিক ভ্রমণ",
+            "শিশুর বেলুন নিয়ে হাঁটা",
+            "শিশুর বই পড়া"
+        ],
+        "answer": "শিশুর বেলুন নিয়ে হাঁটা",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5992.png",
+        "question": "বাচ্চাটির মুখে কোন দেশের পতাকা আঁকা হয়েছে? ",
+        "options": [
+            "বাংলাদেশ ",
+            "ইন্ডিয়া ",
+            "ভারত ",
+            "নেপাল "
+        ],
+        "answer": "বাংলাদেশ ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5993.png",
+        "question": "ছবির লোকদের দেখে কোন পেশার লোক মনে হচ্ছে? ",
+        "options": [
+            "ক্যামেরাম্যান ",
+            "মুচি ",
+            "কামার ",
+            "চাকরিজীবী "
+        ],
+        "answer": "ক্যামেরাম্যান ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5994.png",
+        "question": "ছবিতে রেললাইনের অবস্থা কেমন?",
+        "options": [
+            "পরিষ্কার ",
+            "নোংরা ",
+            " নতুন ",
+            "ভাঙা"
+        ],
+        "answer": "নোংরা ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5995.png",
+        "question": "লোকটি জাল দিয়ে  কি করছে? ",
+        "options": [
+            "মাছ ধরছে ",
+            "পানি খাচ্ছে ",
+            "মাজ করছে ",
+            "কান্না করছে "
+        ],
+        "answer": "মাছ ধরছে ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5996.png",
+        "question": "লোকগুলো কোথায় মজা করছে ?",
+        "options": [
+            "পাহাড়ে ",
+            "সমুদ্রে ",
+            "নদীতে ",
+            "পানিতে "
+        ],
+        "answer": "পাহাড়ে ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5997.png",
+        "question": "ছবির পিছের ছেলেটি কি টানছে? ",
+        "options": [
+            "দড়ি ",
+            "টাকা ",
+            "লাঠি ",
+            "জুতা "
+        ],
+        "answer": "দড়ি ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5998.png",
+        "question": "ছবিতে দেখানো বাংলাদেশের সবচেয়ে বড় সমুদ্রও সৈকতটি কি? ",
+        "options": [
+            "সেন্ট মারটিন",
+            "কুয়াকাটা ",
+            "কক্সবাজার ",
+            "পতেঙ্গা "
+        ],
+        "answer": "কুয়াকাটা ",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_5999.png",
+        "question": "ছবির চিত্রা হরিণগুলো বাংলাদেশের কোন অঞ্চলে দেখা যায়?",
+        "options": [
+            "সুন্দরবনে",
+            "দিনাজপুরে",
+            "সিলেটে",
+            "সমুদ্র সৈকত"
+        ],
+        "answer": "সুন্দরবনে",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_6.png",
+        "question": "ছবিতে কোন দুটি প্রধান জিনিস দেখানো হয়েছে?",
+        "options": [
+            "হলুদ এবং মরিচ",
+            "মহিলা এবং গাছ",
+            "মাটি এবং আকাশ",
+            "গ্রাম এবং রাস্তা"
+        ],
+        "answer": "হলুদ এবং মরিচ",
+        "category": "Food"
+    },
+    {
+        "filename": "CHITTRON_60.png",
+        "question": "বয়স্ক লোকটি হাতে নিয়ে কি পরছে? ",
+        "options": [
+            "খবরের কাগজ ",
+            "নোটবুক ",
+            "খাতা ",
+            "নোংরা কাগজ "
+        ],
+        "answer": "খবরের কাগজ ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_600.png",
+        "question": "রিকশাতে যেই নাম্বার লেখা সেটা মূলত কিসের নাম্বার? ",
+        "options": [
+            "মোবাইল নাম্বার ",
+            "বাসার নাম্বার ",
+            "দোকান নাম্বার ",
+            "লাইসেন্স  নাম্বার "
+        ],
+        "answer": "মোবাইল নাম্বার ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_6000.png",
+        "question": "বাচ্চাটি কোথায় শুয়ে আছে? ",
+        "options": [
+            "ঘাসে ",
+            "পানিতে ",
+            "মাটিতে ",
+            "বিছানায় "
+        ],
+        "answer": "ঘাসে ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_6001.png",
+        "question": "লোকটি মাছ ধরছে যেই পানিতে সেখানে সবুজ কি দেখা যাচ্ছে ",
+        "options": [
+            "গাছ ",
+            "পোকা ",
+            "মাছ ",
+            "কচুরিপানা "
+        ],
+        "answer": "কচুরিপানা ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_6002.png",
+        "question": "ছবিতে হাট দিয়ে কি ঢেকে রাখা হয়েছে? ",
+        "options": [
+            "মোমবাতি ",
+            "লাঠি ",
+            "বিড়াল ",
+            "গরু "
+        ],
+        "answer": "মোমবাতি ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_6003.png",
+        "question": "ছবিতে প্রদর্শিত পাখির নাম কি? ",
+        "options": [
+            "সাইবেরিয়ান স্টোনচ্যাট",
+            "শালিক ",
+            "চরুই ",
+            "টুনটুনি"
+        ],
+        "answer": "সাইবেরিয়ান স্টোনচ্যাট",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_6004.png",
+        "question": "ছবিতে কোন কাজটি করা হচ্ছে?",
+        "options": [
+            "ধান মাড়াই করা হচ্ছে",
+            "ধান শুকানো হচ্ছে",
+            "ধান ঝাড়া হচ্ছে",
+            "ধান সিদ্ধ করা হচ্ছে"
+        ],
+        "answer": "ধান শুকানো হচ্ছে",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_6005.png",
+        "question": "ছেলেটি  পাশে কি দেখা যাচ্ছে? ",
+        "options": [
+            "নৌকা",
+            "নদী",
+            "পাটখড়ি",
+            "ধান"
+        ],
+        "answer": "পাটখড়ি",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_6006.png",
+        "question": "বাচ্চারা দুপুরের সূর্যের আলোয় কি করছে? ",
+        "options": [
+            "হাঁটছে ",
+            "নাচছে ",
+            "মারামারি",
+            "ঝগড়া"
+        ],
+        "answer": "হাঁটছে ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_6007.png",
+        "question": "বাচ্চাটি ট্রেনের জানালা দিয়ে কোথায় তাকিয়ে আছে ? ",
+        "options": [
+            "নদীতে ",
+            "বাহিরে  ",
+            "ভিতরে ",
+            "পানিতে "
+        ],
+        "answer": "বাহিরে  ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_6008.png",
+        "question": "লোকটি  সমুদ্রের তীরে কি করছে? ",
+        "options": [
+            "মাছ বিক্রি ",
+            "পানি খাচ্ছে ",
+            "গোসল করছে ",
+            "ঘাস কাটছে "
+        ],
+        "answer": "মাছ বিক্রি ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_6009.png",
+        "question": "ছবির জায়গাটি কোথায় মনে হচ্ছে?",
+        "options": [
+            "সিলেট ",
+            "নোয়াখালী ",
+            "বরিশাল ",
+            "ফরিদপুর "
+        ],
+        "answer": "সিলেট ",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_6012.png",
+        "question": "লোকেরা যেই নৌকায় বসে আছে সাধারণত এটি কোন খেলার দেখা যায়? ",
+        "options": [
+            "ক্রিকেট ",
+            "নৌকা বাইচ ",
+            "ফুটবল ",
+            "হাডুডু "
+        ],
+        "answer": "নৌকা বাইচ ",
+        "category": "Sports"
+    },
+    {
+        "filename": "CHITTRON_6013.png",
+        "question": "ছবিতে লোকটি খাঁচায় কি বিক্রি  করছে? ",
+        "options": [
+            "কবুতর ",
+            "বাঘ ",
+            "শালিক পাখি ",
+            "বিড়াল "
+        ],
+        "answer": "কবুতর ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_6014.png",
+        "question": "ছবিতে মাছরাঙ্গা পাখির মুখে কি মাছ দেখা যাচ্ছে? ",
+        "options": [
+            "বোয়াল ",
+            "রুই ",
+            "পুঁটি",
+            "কাতলা "
+        ],
+        "answer": "পুঁটি",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_6016.png",
+        "question": "ছেলেগুলো যেই খেলাটি খেলছে সেটা বাংলাদেশের কোন জনপ্রিয়  খেলা?",
+        "options": [
+            "ক্রিকেট ",
+            " ফুটবল ",
+            "হকি  ",
+            "ভলিবল"
+        ],
+        "answer": "ক্রিকেট ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_6017.png",
+        "question": "ছবিতে বাংলাদেশের সব চেয়ে কোন সমুদ্রও সৈকত? ",
+        "options": [
+            "কক্সবাজার ",
+            "সিলেট ",
+            "পতেঙ্গা ",
+            "কুয়াকাটা "
+        ],
+        "answer": "কক্সবাজার ",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_6018.png",
+        "question": "বাচ্চাটি যে পানি খাচ্ছে সেটা কোথা থেকে সংগৃহীত? ",
+        "options": [
+            "নলকূপ ",
+            "ড্রেন ",
+            "পুকুর ",
+            "নদী "
+        ],
+        "answer": "নলকূপ ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_6020.png",
+        "question": "ছবিতে পুরুষ এবং মহিলা  কিসের পাড়ে হাঁটছে? ",
+        "options": [
+            "নদী ",
+            "সমুদ্র",
+            "পুকুর ",
+            "বিল "
+        ],
+        "answer": "সমুদ্র",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_6023.png",
+        "question": "ছবিতে যেই ইমেইল এর কথা বলা হয়েছে তা পাঠাতে মূলত কি লাগে? ",
+        "options": [
+            "ইন্টারনেট ",
+            "পানি ",
+            "বায়ু ",
+            "গ্যাস "
+        ],
+        "answer": "ইন্টারনেট ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_6028.png",
+        "question": "ছবিতে  প্রদর্শিত দোকানে কি পাওয়া যাচ্ছে? ",
+        "options": [
+            "গুর ",
+            "পিঠা ",
+            "পানি ",
+            "সন্দেশ"
+        ],
+        "answer": "পিঠা ",
+        "category": "Food"
+    },
+    {
+        "filename": "CHITTRON_6029.png",
+        "question": "ছবিতে নৌকায় বসে বাচ্চারা স্কুল ড্রেস পড়ে কই যাচ্ছে? ",
+        "options": [
+            "স্কুল ",
+            "বাজার ",
+            "হাট ",
+            "স্টেশন "
+        ],
+        "answer": "স্কুল ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_6030.png",
+        "question": "লোকটি হাতে যেই জিনিসটি নিয়ে দাড়িয়ে আছে সেটি কোন জেলায় বেশি উৎপন্ন হয়?",
+        "options": [
+            " যশোর ",
+            "বরিশাল",
+            "গোপালগঞ্জ ",
+            "মাদারীপুর "
+        ],
+        "answer": " যশোর ",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_6035.png",
+        "question": "বাচ্চাটি মাথায় যেই জিনিস  নিয়ে যাচ্ছে তা কি কাজে লাগে? ",
+        "options": [
+            "জ্বালানি ",
+            "খাবার ",
+            "পানীয় ",
+            "অস্ত্র "
+        ],
+        "answer": "জ্বালানি ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_6037.png",
+        "question": "ছবিতে বাংলাদেশের কোন প্রত্নতাত্ত্বিক এলাকা দেখা যাচ্ছে?",
+        "options": [
+            "লালবাগের দুর্গ",
+            "ময়নামতি বৌদ্ধ বিহার",
+            "সংসদ ভবন",
+            "পানাম নগর "
+        ],
+        "answer": "পানাম নগর ",
+        "category": "Arts & History"
+    },
+    {
+        "filename": "CHITTRON_6038.png",
+        "question": "ছবিতে প্রদর্শিত হলুদ ক্ষেত কোন ফসলকে নির্দেশ করে? ",
+        "options": [
+            "গম ",
+            "সরিষা ",
+            "মরিচ ",
+            "পেয়াজ "
+        ],
+        "answer": "সরিষা ",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_6040.png",
+        "question": "ছবিতে প্রদর্শিত দোকানে কি পাওয়া যায়? ",
+        "options": [
+            "খাবার ",
+            "সবজি ",
+            "আসবাবপত্র ",
+            "বাদ্যযন্ত্র "
+        ],
+        "answer": "বাদ্যযন্ত্র ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_6050.png",
+        "question": "একজন মহিলা অন্য মহিলার ছুলে  কি করে দিচ্ছে? ",
+        "options": [
+            "বেণি ",
+            "ফুল লাগিয়ে দিচ্ছে ",
+            "মুকুট পরিয়ে দিচ্ছে ",
+            "তেল দিয়ে দিচ্ছে"
+        ],
+        "answer": "বেণি ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_6051.png",
+        "question": "ছবিতে দেখানো হাত পাখা দিয়ে বাতাহ নেওয়া দেখা যায় কোন মৌসুমে?",
+        "options": [
+            "গ্রীষ্মকালে ",
+            "বর্ষাকালে ",
+            "শীতকালে ",
+            "হেমন্তকালে"
+        ],
+        "answer": "গ্রীষ্মকালে ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_6053.png",
+        "question": "ছবিতে দেখতে পাওয়া জায়গাটি কোথায়? ",
+        "options": [
+            "সুন্দরবন ",
+            "সিলেট ",
+            "বান্দরবান ",
+            "রাঙ্গামাটি "
+        ],
+        "answer": "সুন্দরবন ",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_6054.png",
+        "question": "বাচ্চারা দোলনায় দল খেয়ে খেয়ে কেমন অনুভব করছে? ",
+        "options": [
+            "খুশি ",
+            "কষ্ট ",
+            "দুঃখ ",
+            "অসহায় "
+        ],
+        "answer": "খুশি ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_6055.png",
+        "question": "প্রাকিতিক সুন্দর এই জায়গাটি কোথায়? ",
+        "options": [
+            "সিলেট ",
+            "যশোর ",
+            "নওগাঁ ",
+            "গায়বান্ধা "
+        ],
+        "answer": "সিলেট ",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_6056.png",
+        "question": "ছবিতে নৌকাগুলো নিয়ে লোকেরা কোথায় যাচ্ছে ? ",
+        "options": [
+            "মাছ ধরতে ",
+            "যুদ্ধ করতে ",
+            "খাইতে ",
+            "পানি আনতে "
+        ],
+        "answer": "মাছ ধরতে ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_606.png",
+        "question": "আকাশে মেঘ জমেছে ধানের ক্ষেতের উপরে, এমন দৃশ্য কোথায় দেখা  যায়? ",
+        "options": [
+            "গ্রামীণ পরিবেশে ",
+            "শহরে ",
+            "উপশহরে ",
+            "ছোট শহরে "
+        ],
+        "answer": "গ্রামীণ পরিবেশে ",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_6061.png",
+        "question": "ছবিতে দেখানো দৃশে আমরা কোন মৌসুমের আভাস পাই? ",
+        "options": [
+            "বর্ষা ",
+            "শীত ",
+            "বসন্ত ",
+            "হেমন্ত "
+        ],
+        "answer": "বর্ষা ",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_6065.png",
+        "question": "ছবিতে লোকটি  দেয়ালে ঝুলে ঝুলে কি করছে? ",
+        "options": [
+            "রঙ ",
+            "পরিষ্কার ",
+            "মারামারি ",
+            "যুদ্ধ "
+        ],
+        "answer": "রঙ ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_6066.png",
+        "question": "ছবিতে প্রদর্শিত হাওর এর নাম কি? ",
+        "options": [
+            "হাকালুকি হাওর ",
+            "তাঙ্গুর হাওর ",
+            "চলন বিল ",
+            "নিকলি হাওর "
+        ],
+        "answer": "তাঙ্গুর হাওর ",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_6069.png",
+        "question": "ছবিতে বাংলাদেশের কোন দুর্যোগকে নির্দেশ করে? ",
+        "options": [
+            "বন্যা ",
+            "সাইক্লোন ",
+            "ঝর ",
+            "দুর্ভিক্ষ "
+        ],
+        "answer": "বন্যা ",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_6070.png",
+        "question": "লোকেরা যেই কাজ করছে এটি কখন করা হয়? ",
+        "options": [
+            "মারামারির সময় ",
+            "রাস্তা মেরামত ",
+            "খেলার আগে ",
+            "ঘুমানোর আগে "
+        ],
+        "answer": "রাস্তা মেরামত ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_6072.png",
+        "question": "ছবির ঝর্নাটি বাংলাদেশের কোন বিখ্যাত ঝর্নাকে নির্দেশ করে? ",
+        "options": [
+            "মাধবকুন্ড ঝর্ণা",
+            "আমিয়াখুম ",
+            "মায়াবী ঝর্না ",
+            "বাকলাই ঝর্না "
+        ],
+        "answer": "মাধবকুন্ড ঝর্ণা",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_6074.png",
+        "question": "লোকেরা সমুদ্রের ধারে কি  কোন খেলা খেলছে ? ",
+        "options": [
+            "ফুটবল ",
+            "হকি ",
+            "ক্রিকেট ",
+            "ব্যাডমিন্টন "
+        ],
+        "answer": "ফুটবল ",
+        "category": "Sports"
+    },
+    {
+        "filename": "CHITTRON_6083.png",
+        "question": "ছবিতে দেখতে পাওয়া ঝর্নাটি কোথায় অবস্তিত? ",
+        "options": [
+            "মৌলভীবাজার ",
+            "সিলেট ",
+            "শ্রীমঙ্গল ",
+            "বেনাপোল"
+        ],
+        "answer": "মৌলভীবাজার ",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_6084.png",
+        "question": "লোকটির হাতের জাল দিয়ে কি করা হয়? ",
+        "options": [
+            "মাছ ধরা",
+            "মুরগি ধরা ",
+            "মারামারি ",
+            "ঝগড়া "
+        ],
+        "answer": "মাছ ধরা",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_6085.png",
+        "question": "লোকেরা রেল স্টেশনে বসে কিসের অপেক্ষা করছে? ",
+        "options": [
+            "ট্রেনের ",
+            "বাসের ",
+            "গাড়ির ",
+            "বন্ধুর জন্য"
+        ],
+        "answer": "ট্রেনের ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_6086.png",
+        "question": "ছবিতে দেখানো কাশফুল কোন মৌসুমে দেখা যায়? ",
+        "options": [
+            "শরৎকাল ",
+            "গ্রীষ্মকাল ",
+            "শীতকাল  ",
+            "বর্ষাকাল"
+        ],
+        "answer": "শরৎকাল ",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_6089.png",
+        "question": "লোকটি নৌকায় দাঁড়িয়ে জাল দিয়ে কি করছে? ",
+        "options": [
+            "মাছ ধরছে",
+            " মারামারি করছে ",
+            "ঘুষ খাচ্ছে ",
+            "ঝগড়া করছে "
+        ],
+        "answer": "মাছ ধরছে",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_609.png",
+        "question": "ছবিতে বাংলাদেশের কোন পরিবেশ দূষণ দেখতে পাওয়া যায়? ",
+        "options": [
+            "বায়ু ",
+            "পানি ",
+            "মাটি ",
+            "শব্দ "
+        ],
+        "answer": "পানি ",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_6090.png",
+        "question": "ছবির মত মেঘলা আকাশ কোন মৌসুমে দেখা যায়? ",
+        "options": [
+            "শরৎ ",
+            "শীত ",
+            "বসন্ত ",
+            "বর্ষা "
+        ],
+        "answer": "বর্ষা ",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_6092.png",
+        "question": "ছেলেটি বাংলাদেশের জনপ্রিয় কোন খেলাটি খেলছে? ",
+        "options": [
+            "ক্রিকেট ",
+            "ফুটবল ",
+            "হকি ",
+            "হাডুডু "
+        ],
+        "answer": "ক্রিকেট ",
+        "category": "Sports"
+    },
+    {
+        "filename": "CHITTRON_6096.png",
+        "question": "ছবিতে বাংলাদেশের কোন জনপ্রিয় অভিনেত্রীকে দেখা যাচ্ছে? ",
+        "options": [
+            "মিথিলা ",
+            "সাবনুর ",
+            "তাঞ্জিনা তিশা ",
+            "ফারিহা "
+        ],
+        "answer": "মিথিলা ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_610.png",
+        "question": "ছবির বাংলাদেশের একমাত্র প্রবাল দ্বীপটির নাম কি? ",
+        "options": [
+            "সেন্টমার্টিন ",
+            "ভোলা ",
+            "কক্সবাজার ",
+            "ফেনি "
+        ],
+        "answer": "সেন্টমার্টিন ",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_6100.png",
+        "question": "গ্রামীণ এই উপকরণটির নাম কি? ",
+        "options": [
+            "ঝুড়ি ",
+            "পাতিল ",
+            "প্লেট ",
+            "হাড়ি "
+        ],
+        "answer": "ঝুড়ি ",
+        "category": "Arts & History"
+    },
+    {
+        "filename": "CHITTRON_6101.png",
+        "question": "ছবিতে দেয়ালে আঁকা পতাকাটি কোন দেশের? ",
+        "options": [
+            "বাংলাদেশ ",
+            "ভারত ",
+            "ইরান ",
+            "কাতার "
+        ],
+        "answer": "বাংলাদেশ ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_6102.png",
+        "question": "মানুষেরা মুভি দেখছে কোন জায়গায়? ",
+        "options": [
+            "রেল স্টেশন ",
+            "বাস স্ট্যান্ড ",
+            "বাড়িতে ",
+            "অফিসে "
+        ],
+        "answer": "রেল স্টেশন ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_6103.png",
+        "question": "ছবিতে  লোকটি যেই নৌকার হাল টানতে  দেখা যাচ্ছে সেই  নৌকাগুলো কি ধরনের? ",
+        "options": [
+            "কোশা ",
+            "পানসি ",
+            "সাম্পান ",
+            "গয়ান "
+        ],
+        "answer": "সাম্পান ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_6104.png",
+        "question": "টুপি পড়া বয়স্ক লোকটি দেয়ালে কি পরছে? ",
+        "options": [
+            "খবরের কাগজ ",
+            "বই ",
+            "জার্নাল ",
+            "আর্টিকেল "
+        ],
+        "answer": "খবরের কাগজ ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_6109.png",
+        "question": "ছবির এই ভাসমান পিয়ারা বাজার কোন জায়গায় অবস্থিত ? ",
+        "options": [
+            "ঝালকাঠি ",
+            "বরিশাল ",
+            "ঢাকা ",
+            "নাটর "
+        ],
+        "answer": "ঝালকাঠি ",
+        "category": "Arts & History"
+    },
+    {
+        "filename": "CHITTRON_6110.png",
+        "question": "কোন মৌসুমে কৃষকেরা ধান শুকাতে ব্যাস্ত থাকে? ",
+        "options": [
+            "এপ্রিল- মে ",
+            "ফেব্রুয়ারি ",
+            "জুলাই ",
+            "ডিসেম্বর "
+        ],
+        "answer": "এপ্রিল- মে ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_6122.png",
+        "question": "ছবিতে দেখানো জায়গাটি কোথায় ",
+        "options": [
+            "নাইক্ষ্যং মুখ",
+            "সিলেট ",
+            "খাগড়াছড়ি ",
+            "নাটর "
+        ],
+        "answer": "নাইক্ষ্যং মুখ",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_6130.png",
+        "question": "ছবিতে দেখানো ঝর্নার নাম কি? ",
+        "options": [
+            "খৈয়াছড়া ঝর্ণা",
+            "মায়াবী ",
+            "নাফাখুম ",
+            "বাকলাই "
+        ],
+        "answer": "খৈয়াছড়া ঝর্ণা",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_6140.png",
+        "question": "তাহসিন খানের বর্তমান বৈবাহিক অবস্থা কি? ",
+        "options": [
+            "ডিভোর্স",
+            "সিঙ্গেল ",
+            "বিবাহিত ",
+            "অবিবাহিত "
+        ],
+        "answer": "ডিভোর্স",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_6141.png",
+        "question": "ছবিটি কোন সময়ে তোলা মনে হচ্ছে ? ",
+        "options": [
+            "সন্ধ্যা ",
+            "সকাল ",
+            "রাত ",
+            "দুপুর "
+        ],
+        "answer": "সন্ধ্যা ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_6144.png",
+        "question": "ছবিতে মেয়েটি শরতকালের কোন ফুলের মধ্য দিয়ে  দৌড়াচ্ছে?",
+        "options": [
+            "কাশফুল ",
+            "গোলাপ ",
+            "রজনীগন্ধা ",
+            "বেলি"
+        ],
+        "answer": "কাশফুল ",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_6146.png",
+        "question": "ছবির রেল স্টেশনটি কোথায়? ",
+        "options": [
+            "চট্টগ্রাম ",
+            "সিলেট ",
+            "চাঁপাইনবাবগঞ্জ ",
+            "ঢাকা "
+        ],
+        "answer": "চট্টগ্রাম ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_6148.png",
+        "question": "পানিতে কিসের প্রতিচ্ছবি দেখা যাচ্ছে? ",
+        "options": [
+            "আকাশ ",
+            "পাতাল ",
+            "অগুন ",
+            "গাছ "
+        ],
+        "answer": "আকাশ ",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_615.png",
+        "question": "নৌকাগুলতে মানুষের মাথার  উপরে  বিভিন্ন রঙের কি দেখা যাচ্ছে? ",
+        "options": [
+            "পাল ",
+            "গাছ ",
+            "কাপড় ",
+            "সুতা "
+        ],
+        "answer": "পাল ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_6151.png",
+        "question": "ছেলেটি মোবাইল দিয়ে কার ছবি তুলছে? ",
+        "options": [
+            "শেখ মুজব ",
+            "শেখ হাসিনা ",
+            "জিয়া ",
+            "এরশাদ "
+        ],
+        "answer": "শেখ মুজব ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_6157.png",
+        "question": "ছবির ঝর্নাটি কোন জেলায় অবস্থিত? ",
+        "options": [
+            "সিলেট ",
+            "ঢাকা ",
+            "শরিয়তপুর ",
+            "পিরোজপুর "
+        ],
+        "answer": "সিলেট ",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_6166.png",
+        "question": "কোন সময়ে এতো মানুষ ট্রেইন এর ছাদে করে বাসায় যায়?",
+        "options": [
+            "বড় সরকারি ছুটি",
+            "রবিবার",
+            "অফিস চলাকালীন",
+            "শীতকাল"
+        ],
+        "answer": "বড় সরকারি ছুটি",
+        "category": "Incidents"
+    },
+    {
+        "filename": "CHITTRON_6171.png",
+        "question": "ছবিটি বাংলাদেশের কোন দিকটিকে নির্দেশ করে? ",
+        "options": [
+            "শান্তি ",
+            "বিপ্লব ",
+            "মারামারি ",
+            "সন্ত্রাস "
+        ],
+        "answer": "বিপ্লব ",
+        "category": "Incidents"
+    },
+    {
+        "filename": "CHITTRON_6173.png",
+        "question": "ছবির সময়টি কোন মৌসুম নির্দেশ করে? ",
+        "options": [
+            "বর্ষা ",
+            "গ্রীষ্ম ",
+            "হেমন্ত ",
+            "শরৎ "
+        ],
+        "answer": "বর্ষা ",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_6176.png",
+        "question": "ছবিতে প্রদর্শিত বিচটি কোথায়? ",
+        "options": [
+            "কুয়াকাটা ",
+            "সেন্টমারটিন ",
+            "বরিশাল ",
+            "খুলনা "
+        ],
+        "answer": "কুয়াকাটা ",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_6177.png",
+        "question": "হাজাছড়া ঝর্নাটি কোন জেলায় অবস্থিত? ",
+        "options": [
+            "খুলনা ",
+            "খাগড়াছড়ি ",
+            "রাঙ্গামাটি ",
+            "বান্দারবান "
+        ],
+        "answer": "খাগড়াছড়ি ",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_6178.png",
+        "question": "ছবিতে প্রধানত কী দেখানো হয়েছে?",
+        "options": [
+            "একটি গ্রাম",
+            "একটি নদী",
+            "নৌকা ও মানুষ",
+            "আকাশ ও মেঘ"
+        ],
+        "answer": "একটি নদী",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_6179.png",
+        "question": "ছবিতে ছেলেরা কী করছে?",
+        "options": [
+            "ক্রিকেট খেলছে",
+            "ফুটবল খেলছে",
+            "বসে আছে",
+            "পিকনিক করছে"
+        ],
+        "answer": "ফুটবল খেলছে",
+        "category": "Sports"
+    },
+    {
+        "filename": "CHITTRON_618.png",
+        "question": "ছবিতে লোকেরা কী করছে?",
+        "options": [
+            "ধান কাটছে",
+            "মাছ ধরছে",
+            "বাজার করছে",
+            "গাছ কাটছে"
+        ],
+        "answer": "মাছ ধরছে",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_6180.png",
+        "question": "ছবিতে পিছনের গাছপালাগুলো কেমন দেখাচ্ছে?",
+        "options": [
+            "পরিষ্কার",
+            "ঝাপসা",
+            "শুকনো",
+            "সবুজ"
+        ],
+        "answer": "ঝাপসা",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_6181.png",
+        "question": "ছবিতে লোকটি জাল দিয়ে  কী করছে?",
+        "options": [
+            "নৌকা চালাচ্ছে",
+            "মাছ ধরছে",
+            "ধান কাটছে",
+            "গোসল করছে"
+        ],
+        "answer": "মাছ ধরছে",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_6184.png",
+        "question": "ছবিতে গাছের ডালপালাগুলো কেমন দেখাচ্ছে?",
+        "options": [
+            "ঘন সবুজ",
+            "শুকনো",
+            "ঝাপসা",
+            "হলুদ "
+        ],
+        "answer": "ঝাপসা",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_6197.png",
+        "question": "ছবিতে কী দেখানো হয়েছে?",
+        "options": [
+            "জেলে নৌকা",
+            "মাছ ধরার সরঞ্জাম",
+            "জেলে",
+            "উপরের সবগুলো"
+        ],
+        "answer": "উপরের সবগুলো",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_62.png",
+        "question": "ছবির চিত্রা হরিণগুলো বাংলাদেশের কোন অঞ্চলে দেখা যায়?",
+        "options": [
+            "সুন্দরবনে",
+            "সিলেটে",
+            "সমুদ্র সৈকত",
+            "দিনাজপুরে"
+        ],
+        "answer": "সুন্দরবনে",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_6201.png",
+        "question": "ছবিটি কোন জায়গার? ",
+        "options": [
+            "টেকনাফ  ",
+            "সিলেট ",
+            "বগুড়া  ",
+            "চট্টগ্রামের মিরসরাই "
+        ],
+        "answer": "টেকনাফ  ",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_6208.png",
+        "question": "ছবির ঝরনাটির নাম কি? ",
+        "options": [
+            "নাপিত্তাছড়া ঝর্না",
+            "মায়াবী ঝর্না ",
+            "কুমকুম ঝর্না  ",
+            "আফিয়াকুম "
+        ],
+        "answer": "নাপিত্তাছড়া ঝর্না",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_6210.png",
+        "question": "বিতে পাহাড়গুলো কেমন দেখাচ্ছে?",
+        "options": [
+            "সবুজ",
+            "নীল",
+            "সাদা",
+            "কালো"
+        ],
+        "answer": "সবুজ",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_6221.png",
+        "question": "ছবিতে দেখতে পাওয়া প্রাকিতিক সুন্দর দৃশ্যটি কোথায়? ",
+        "options": [
+            "সিলেট ",
+            "বান্দরবান ",
+            "খুলনা ",
+            "রংপুর "
+        ],
+        "answer": "সিলেট ",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_6222.png",
+        "question": "ছবির এই বন্যাটি কোন শহরে দেখা যায়?",
+        "options": [
+            "ফরিদপুর ",
+            "খুলনা ",
+            "ঢাকা ",
+            "নেত্রকোনা "
+        ],
+        "answer": "ঢাকা ",
+        "category": "Incidents"
+    },
+    {
+        "filename": "CHITTRON_6225.png",
+        "question": "মাছ শুকিয়ে কি বানানো হয়? ",
+        "options": [
+            "শুঁটকি ",
+            "তরকারি ",
+            "পানি ",
+            "জুস "
+        ],
+        "answer": "শুঁটকি ",
+        "category": "Arts & History"
+    },
+    {
+        "filename": "CHITTRON_623.png",
+        "question": "ছবিতে আমরা কিসের ক্ষেত দেখতে পাই? ",
+        "options": [
+            "ধান ",
+            "গম ",
+            "ভুট্টা ",
+            "যব "
+        ],
+        "answer": "ধান ",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_6232.png",
+        "question": "লোকটির মাথায় কোন প্রাণী দেখা যায়? ",
+        "options": [
+            "হাঁস ",
+            "মুরগি ",
+            "গরু ",
+            "ছাগল "
+        ],
+        "answer": "হাঁস ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_624.png",
+        "question": "লোকটি রিকশায় বসে মিকিং করছে কি হাতে? ",
+        "options": [
+            "মাইক ",
+            "পানি ",
+            "খাবর ",
+            "লাঠি "
+        ],
+        "answer": "মাইক ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_6242.png",
+        "question": "ব্যাস্ত রেইল স্টেশনের প্লাটফর্মে লোকটি বসে কি করছে? ",
+        "options": [
+            "ফোন চালাচ্ছে ",
+            "গান গাচ্ছে ",
+            "পানি খাচ্ছে ",
+            "গোসল করছে "
+        ],
+        "answer": "ফোন চালাচ্ছে ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_6243.png",
+        "question": "ছবিতে প্রাকৃতিক সুন্দরের কোন দৃষ্টান্ত দেখতে পাই? ",
+        "options": [
+            "নদী ",
+            "সমুদ্র",
+            "পুকুর ",
+            "বিল "
+        ],
+        "answer": "নদী ",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_6244.png",
+        "question": "নৌকায় এভাবে গরু নিয়ে যাওয়া হয় কোন সময়ে? ",
+        "options": [
+            "হাটের দিনে ",
+            "শুক্রবারে ",
+            "রাতের বেলা ",
+            "দুপুর বেলা "
+        ],
+        "answer": "হাটের দিনে ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_6245.png",
+        "question": "ছবিতে দেখানো  মেয়েদের দেখে কোন জিনিসকে নির্দেশ করে? ",
+        "options": [
+            "নারীশিক্ষা ",
+            "নারী শোষণ ",
+            "নারীভোগ ",
+            "নারীবাদী "
+        ],
+        "answer": "নারীশিক্ষা ",
+        "category": "Incidents"
+    },
+    {
+        "filename": "CHITTRON_6246.png",
+        "question": "ছবিতে দেখানো পানি জমে থাকার দৃশ্য কখন দেখা যায়? ",
+        "options": [
+            "বর্ষাকালে ",
+            "গ্রীষ্মকালে ",
+            "শীতকালে ",
+            "শরৎকালে "
+        ],
+        "answer": "বর্ষাকালে ",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_6247.png",
+        "question": "সুমদ্রের পাড়ের দৃশ্যটি কোন সময়ের? ",
+        "options": [
+            "সূর্যাস্ত ",
+            "সূর্যোদয় ",
+            "বিকাল ",
+            "রাত "
+        ],
+        "answer": "সূর্যাস্ত ",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_6248.png",
+        "question": "লোকটির পরিহিত ক্যাপটি কোন দেশের ক্রিকেট দলকে নির্দেশ করে? ",
+        "options": [
+            "বাংলাদেশ ",
+            "ভারত ",
+            "ঢাকা ",
+            "ইরান "
+        ],
+        "answer": "বাংলাদেশ ",
+        "category": "Sports"
+    },
+    {
+        "filename": "CHITTRON_625.png",
+        "question": "ছবিতে মেয়েরা কি খেলছে? ",
+        "options": [
+            "ভলিবল ",
+            "হ্যান্ডবল ",
+            "ক্রিকেট ",
+            "ফুটবল "
+        ],
+        "answer": "হ্যান্ডবল ",
+        "category": "Sports"
+    },
+    {
+        "filename": "CHITTRON_6250.png",
+        "question": "ছবিতে দৃশ্যমান জায়গাটি কোথায়? ",
+        "options": [
+            "জাফলং ",
+            "নেপাল ",
+            "চীন ",
+            "সিলেট "
+        ],
+        "answer": "জাফলং ",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_6251.png",
+        "question": "ছবিতে কৃষকেরা কোন সময়ে ক্ষেতে চাষ করতে যাচ্ছে? ",
+        "options": [
+            "ভোরবেলা ",
+            "রাতেরবেলা ",
+            "দুপুরবেলা ",
+            "বিকালবেলা "
+        ],
+        "answer": "ভোরবেলা ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_6253.png",
+        "question": "ছবিতে মানুষদের কি ফুল তুলতে দেখা যাচ্ছে? ",
+        "options": [
+            "শাপলা ",
+            "গোলাপ ",
+            "বেলি ",
+            "পদ্য "
+        ],
+        "answer": "পদ্য ",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_6254.png",
+        "question": "লোকটি এত ভিড়ে বাজারে কি বিক্রি করছে? ",
+        "options": [
+            "পান ",
+            "সুপারি ",
+            "পাখি ",
+            "লেবু "
+        ],
+        "answer": "পান ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_6256.png",
+        "question": "ছবিটি কোন সময়ে তুলা হয়েছে? ",
+        "options": [
+            "সকালে ",
+            "শীতকালে ",
+            "বিকালে ",
+            "বৃষ্টির দিনে "
+        ],
+        "answer": "শীতকালে ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_6257.png",
+        "question": "মেয়েরা এমন সেজেগুজে কখন ছবি তুলে ",
+        "options": [
+            "কেও মারা গেলে ",
+            "কোনও অনুষ্ঠানে ",
+            "প্রেমে পড়লে ",
+            "মন খারাপ থাকলে"
+        ],
+        "answer": "কোনও অনুষ্ঠানে ",
+        "category": "Incidents"
+    },
+    {
+        "filename": "CHITTRON_6263.png",
+        "question": "ছবিতে দেখানো জায়গাটি কোথায়? ",
+        "options": [
+            "নীলাচল ",
+            "সিলেট ",
+            "যশোর ",
+            "নাটর "
+        ],
+        "answer": "নীলাচল ",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_6265.png",
+        "question": "ছবিটি কী বোঝাচ্ছে?",
+        "options": [
+            "সূর্যোদয় এবং নৌকা",
+            "সূর্যাস্ত এবং নৌকা",
+            "ঝড়ের প্রস্তুতি",
+            "গভীর সমুদ্রের মাছ ধরা"
+        ],
+        "answer": "সূর্যাস্ত এবং নৌকা",
+        "category": "Food"
+    },
+    {
+        "filename": "CHITTRON_6267.png",
+        "question": "লোকেরা ট্রাকে কি উঠাচ্ছে? ",
+        "options": [
+            "আনারস ",
+            "আপেল ",
+            "পিয়ারা ",
+            "আম "
+        ],
+        "answer": "আনারস ",
+        "category": "Food"
+    },
+    {
+        "filename": "CHITTRON_6269.png",
+        "question": "ছেলেগুলো কোথায় ঘুমাচ্ছে ? ",
+        "options": [
+            "রাস্তায় ",
+            "ট্রেনে ",
+            "স্টেশনের ছাউনিতে ",
+            "আকাশে "
+        ],
+        "answer": "স্টেশনের ছাউনিতে ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_627.png",
+        "question": "ছবিতে আগুণ লাঠি দিয়ে কি করছে মানুষেরা? ",
+        "options": [
+            "হরতাল ",
+            "নাচ ",
+            "বসে আছে ",
+            "খাচ্ছে "
+        ],
+        "answer": "হরতাল ",
+        "category": "Incidents"
+    },
+    {
+        "filename": "CHITTRON_6271.png",
+        "question": "লোকটি পেরেক জালিয়ে কি বিক্রি করছে? ",
+        "options": [
+            "বাদাম ",
+            "সবজি ",
+            "ডাল ",
+            "আম "
+        ],
+        "answer": "বাদাম ",
+        "category": "Food"
+    },
+    {
+        "filename": "CHITTRON_6272.png",
+        "question": "ছবিতে কোন মৌসুমে তলা হয়েছে? ",
+        "options": [
+            "শীত ",
+            "গ্রীষ্ম ",
+            "শরৎ ",
+            "বর্ষা "
+        ],
+        "answer": "শীত ",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_6276.png",
+        "question": "ছেলেগুলো গাছ থেকে কোথায় লাফ দিচ্ছে? ",
+        "options": [
+            "পুকুরে ",
+            "নদীতে ",
+            "মাটিতে ",
+            "ঘাসে  "
+        ],
+        "answer": "পুকুরে ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_6277.png",
+        "question": "হাল চাষ করার এই যন্ত্রটির নাম কি? ",
+        "options": [
+            "ট্রাক্টর  ",
+            "পাওয়ার টিলার ",
+            "ভ্যান ",
+            "রিকশা "
+        ],
+        "answer": "পাওয়ার টিলার ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_6278.png",
+        "question": "পাখিটি কিসের উপরে বসে আছে? ",
+        "options": [
+            "ভ্যান ",
+            "পানির",
+            "গাড়ি ",
+            "বাঁশ "
+        ],
+        "answer": "বাঁশ ",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_6283.png",
+        "question": "ছবিতে নদীর কুলে কি ফুল দেখা যাচ্ছে? ",
+        "options": [
+            "কাশফুল ",
+            "রজনীগন্ধা ",
+            "গোলাপ ",
+            "বেলি "
+        ],
+        "answer": "কাশফুল ",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_6284.png",
+        "question": "আকাশে এমন মেঘ জমে থাকতে দেখা যায় কোন মাসে  ? ",
+        "options": [
+            "আষাঢ়",
+            "শ্রাবণ ",
+            "ভাদ্র ",
+            "আশ্বিন"
+        ],
+        "answer": "আষাঢ়",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_6286.png",
+        "question": "কুমোর মাটি দিয়ে কি বানাচ্ছে? ",
+        "options": [
+            "কলসি ",
+            "পাতিল ",
+            "হাড়ি ",
+            "নক্ষত্র "
+        ],
+        "answer": "কলসি ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_6287.png",
+        "question": "কৃষকের মুখে হাঁসি ফুটেছে কেন? ",
+        "options": [
+            "নতুন ধান পেয়ে",
+            "তার বিয়ে ঠিক হয়েছে ",
+            "তার বাবা মারা গেছে ",
+            "মন খারাপের জন্য "
+        ],
+        "answer": "নতুন ধান পেয়ে",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_6288.png",
+        "question": "বাচ্চাটির গলায় ঝুলানো বাংলাদেশের জাতীয় ফুলের নাম কি? ",
+        "options": [
+            "শাপলা ",
+            "বেলি ",
+            "পদ্য ",
+            "গোলাপ "
+        ],
+        "answer": "শাপলা ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_6298.png",
+        "question": "ভাসমান বাজারটি কোথায়? ",
+        "options": [
+            "ঢাকা ",
+            "খুলনা ",
+            "বরিশাল ",
+            "বগুড়া "
+        ],
+        "answer": "বরিশাল ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_6301.png",
+        "question": "ছবিতে জায়গাটি কোথায়? ",
+        "options": [
+            "সুন্দরবন ",
+            "ঢাকা ",
+            "সিলেট ",
+            "নারায়ণগঞ্জ "
+        ],
+        "answer": "সুন্দরবন ",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_6302.png",
+        "question": "উপরের ছবিতে হাতিটির কী কাজ করা হচ্ছে?",
+        "options": [
+            "হাতিটিকে জঙ্গলে ছেড়ে দেওয়া হচ্ছে।",
+            "হাতিটিকে জাহাজে তোলা হচ্ছে।",
+            "হাতিটিকে চিকিৎসার জন্য নিয়ে যাওয়া হচ্ছে।",
+            "হাতিটিকে প্রশিক্ষণ দেওয়া হচ্ছে।"
+        ],
+        "answer": "হাতিটিকে জাহাজে তোলা হচ্ছে।",
+        "category": "Incidents"
+    },
+    {
+        "filename": "CHITTRON_6304.png",
+        "question": "বয়স্ক লোকটি কাঁধে চাদর আর মাথায় টুপি পড়ে কোথায় যাচ্ছে? ",
+        "options": [
+            "মসজিদে ",
+            "মন্দিরে ",
+            "মাঠে ",
+            "হাটে "
+        ],
+        "answer": "মসজিদে ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_6313.png",
+        "question": "বোরকা কোন ধর্মের মেয়েরা পড়ে?",
+        "options": [
+            "ইসলাম ",
+            "হিন্দু ",
+            "খ্রিস্টান ",
+            "বদ্ধ "
+        ],
+        "answer": "ইসলাম ",
+        "category": "Clothing & Fashion"
+    },
+    {
+        "filename": "CHITTRON_632.png",
+        "question": "লাল নলকূপ দিয়ে কি বুঝায়? ",
+        "options": [
+            "আর্সেনিকযুক্ত ",
+            "আর্সেনিকমুক্ত",
+            "বিসুদ্ধ ",
+            "অশুদ্ধ "
+        ],
+        "answer": "আর্সেনিকযুক্ত ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_6320.png",
+        "question": "ছবিতে  মহিলারা কিসের স্থুপে দেখা যাচ্ছে? ",
+        "options": [
+            "বোতল ",
+            "কাপ ",
+            "লাঠি ",
+            "হাড়ি "
+        ],
+        "answer": "বোতল ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_6325.png",
+        "question": "ছবিতে জায়গাটি কোথায়? ",
+        "options": [
+            "জাফলং",
+            "বরিশাল ",
+            "ঢাকা ",
+            "বান্দারবান "
+        ],
+        "answer": "জাফলং",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_6329.png",
+        "question": "ছেলেগুলো খালার মাঠে কি খলেছে? ",
+        "options": [
+            "ফুটবল ",
+            "ক্রিকেট ",
+            "হকি ",
+            "হাডুডু "
+        ],
+        "answer": "ফুটবল ",
+        "category": "Sports"
+    },
+    {
+        "filename": "CHITTRON_6338.png",
+        "question": "ভাসমান পিয়রা বাজার কোথায় অবস্থিত? ",
+        "options": [
+            "ঝালকাঠি ",
+            "গাইবান্ধা ",
+            "কুমিল্লা ",
+            "ফেনি "
+        ],
+        "answer": "ঝালকাঠি ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_634.png",
+        "question": "বয়স্ক মহিলা কি পোশাক পড়ে আছে? ",
+        "options": [
+            "শাড়ি ",
+            "ত্রী পিছ ",
+            "গাউন ",
+            "মেক্সি "
+        ],
+        "answer": "শাড়ি ",
+        "category": "Clothing & Fashion"
+    },
+    {
+        "filename": "CHITTRON_6340.png",
+        "question": "ছেলেটি কি খেলছে? ",
+        "options": [
+            "ক্রিকেট ",
+            "ফুটবল ",
+            "ব্যাডমিন্টন ",
+            "হকি "
+        ],
+        "answer": "ক্রিকেট ",
+        "category": "Sports"
+    },
+    {
+        "filename": "CHITTRON_6363.png",
+        "question": "নৌকায় সবুজ-হলুদ রঙের কি ফলদ দেখা যাচ্ছে ? ",
+        "options": [
+            "আপেল ",
+            "পিয়ারা ",
+            "আমড়া",
+            "কাঁঠাল "
+        ],
+        "answer": "পিয়ারা ",
+        "category": "Food"
+    },
+    {
+        "filename": "CHITTRON_6365.png",
+        "question": "সমুদ্রের পাড়ে ছেলেরা কি করছে? ",
+        "options": [
+            "ঘুরছে ",
+            "খেলছে ",
+            "গান ",
+            "মারামারি "
+        ],
+        "answer": "ঘুরছে ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_6367.png",
+        "question": "বাচ্চারা লাটাই হাতে আকাশে কি উরাচ্ছে? ",
+        "options": [
+            "ঘুড়ি ",
+            "কাগজ ",
+            "পলিথিন ",
+            "পাখি "
+        ],
+        "answer": "ঘুড়ি ",
+        "category": "Sports"
+    },
+    {
+        "filename": "CHITTRON_6369.png",
+        "question": "সমুদ্রের ধারে ছেলেগুলো কি খেলছে? ",
+        "options": [
+            "ফুটবল ",
+            "ক্রিকেট ",
+            "হকি ",
+            "কাবাডি "
+        ],
+        "answer": "ফুটবল ",
+        "category": "Sports"
+    },
+    {
+        "filename": "CHITTRON_637.png",
+        "question": "ছবিতে রমজান উপলক্ষে কি দেওয়া হচ্ছে? ",
+        "options": [
+            "রিলিফ ",
+            "টাকা ",
+            "সম্পদ ",
+            "বাড়ি "
+        ],
+        "answer": "রিলিফ ",
+        "category": "Incidents"
+    },
+    {
+        "filename": "CHITTRON_6370.png",
+        "question": "লোকটির পিছের ফুলের বাগানটি কোন ফুলের? ",
+        "options": [
+            "গোলাপ ",
+            "বেলি ",
+            "রজনীগন্ধা ",
+            "শাপলা "
+        ],
+        "answer": "গোলাপ ",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_6373.png",
+        "question": "লোকটি যেই বাগানে দাড়িয়ে আছে সেটি কিসের বাগান? ",
+        "options": [
+            "চা ",
+            "পিয়ারা ",
+            "লিচু ",
+            "বড়ই "
+        ],
+        "answer": "চা ",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_6376.png",
+        "question": "মানুষেরা কোন ক্ষেতের মদ্ধে ছবি তুলছে?",
+        "options": [
+            "সরিষা ",
+            "গম ",
+            "ধান ",
+            "ভুট্টা "
+        ],
+        "answer": "সরিষা ",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_6377.png",
+        "question": "ছবিতে কিসের ক্ষেত দেখতে পাওয়া যাচ্ছে? ",
+        "options": [
+            "সরিষা ",
+            "গম ",
+            "ভুট্টা ",
+            "আলু "
+        ],
+        "answer": "সরিষা ",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_6380.png",
+        "question": "ছবিতে কোন দেবীর মূর্তি দেখা যাচ্ছে? ",
+        "options": [
+            "দুর্গা ",
+            "কালী ",
+            "শিব ",
+            "সরস্বতী"
+        ],
+        "answer": "দুর্গা ",
+        "category": "Religious Events"
+    },
+    {
+        "filename": "CHITTRON_6381.png",
+        "question": "ছবিতে  মানুষের  পোড়ানো  কাগজগুলো কিসের? ",
+        "options": [
+            "খবরের কাগজ ",
+            "বই ",
+            "নোট ",
+            "ফেলনা কাগজ "
+        ],
+        "answer": "খবরের কাগজ ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_6393.png",
+        "question": "ছবির চিত্রা হরিণগুলো বাংলাদেশের কোন অঞ্চলে দেখা যায়?",
+        "options": [
+            "সুন্দরবন ",
+            "বান্দরবান ",
+            "সিলেট ",
+            "খুলনা "
+        ],
+        "answer": "সুন্দরবন ",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_6395.png",
+        "question": "ছবিতে পানিতে লাল  কি ফুল দেখা যাচ্ছে? ",
+        "options": [
+            "পদ্মফুল ",
+            "শাপলা ",
+            "বেলি ",
+            "গোলাপ "
+        ],
+        "answer": "পদ্মফুল ",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_6398.png",
+        "question": "ছবিতে প্রদর্শিত জলাধারটি কোথায় অবস্থিত? ",
+        "options": [
+            "রাঙ্গামাটি ",
+            "বান্দরবান ",
+            "সিলেট  ",
+            "খাগড়াছড়ি"
+        ],
+        "answer": "রাঙ্গামাটি ",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_640.png",
+        "question": "কোন সময়ে এতো মানুষ ট্রেইন এর ছাদে করে বাসায় যায়?",
+        "options": [
+            "বড় সরকারি ছুটি",
+            "রবিবার",
+            "অফিস চলাকালীন",
+            "শীতকাল"
+        ],
+        "answer": "বড় সরকারি ছুটি",
+        "category": "Incidents"
+    },
+    {
+        "filename": "CHITTRON_6400.png",
+        "question": "ছবিতে বাংলাদেশের কোন প্রত্নতাত্ত্বিক এলাকা দেখা যাচ্ছে?",
+        "options": [
+            "পানাম নগর ",
+            "ময়নামতি বৌদ্ধ বিহার",
+            "সংসদ ভবন",
+            "আহসান মঞ্জিল"
+        ],
+        "answer": "পানাম নগর ",
+        "category": "Arts & History"
+    },
+    {
+        "filename": "CHITTRON_6406.png",
+        "question": "লোকেরা নৌকা নিয়ে কি করছে? ",
+        "options": [
+            "মাছ ধরছে ",
+            "পানি খাচ্ছে ",
+            "মারামারি করছে ",
+            "ভাত খাচ্ছে "
+        ],
+        "answer": "মাছ ধরছে ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_641.png",
+        "question": "ছবিতে বাংলাদেশের জাতীয় ফুল দেখা যাচ্ছে, ফুলের নাম কি? ",
+        "options": [
+            "শাপলা ",
+            "পদ্য ",
+            "গোলাপ ",
+            "বেলি "
+        ],
+        "answer": "শাপলা ",
+        "category": "Arts & History"
+    }
+]

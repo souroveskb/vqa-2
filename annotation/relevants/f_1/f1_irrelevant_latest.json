@@ -1,0 +1,434 @@
+[
+    {
+        "filename": "CHITTRON_3957.png",
+        "question": "উপর্যুক্ত ছবিটি কীসের ?",
+        "options": [
+            "ব্রেসলেট",
+            "চুড়ি",
+            "খেলনা",
+            "ফিতা"
+        ],
+        "answer": "চুড়ি",
+        "category": "Clothing & Fashion"
+    },
+    {
+        "filename": "CHITTRON_3972.png",
+        "question": "নৌকায় বসা মানুষেরা -",
+        "options": [
+            "মাঝি",
+            "জেলে",
+            "বেঁদে",
+            "পর্যটক"
+        ],
+        "answer": "পর্যটক",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_3984.png",
+        "question": "লোকটি কী দেখছে ?",
+        "options": [
+            "পোস্টার",
+            "পত্রিকা",
+            "ছবি",
+            "নাটক"
+        ],
+        "answer": "পত্রিকা",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_3994.png",
+        "question": "লোকগুলো কীসে ব্যস্ত ?",
+        "options": [
+            "কৃষিকাজ",
+            "নির্মাণকাজ",
+            "খেলায়",
+            "কোনোটি সঠিক নয়"
+        ],
+        "answer": "কৃষিকাজ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_4011.png",
+        "question": "কশাই কি কাটছে ?",
+        "options": [
+            "মাংস",
+            "মাছ",
+            "সবজি",
+            "কচ্ছপ"
+        ],
+        "answer": "কচ্ছপ",
+        "category": "Food"
+    },
+    {
+        "filename": "CHITTRON_4035.png",
+        "question": "বইটির নাম",
+        "options": [
+            "বাইবেল",
+            "গীতাঞ্জলি",
+            "তাওরাত",
+            "কোরআন"
+        ],
+        "answer": "কোরআন",
+        "category": "Religious Events"
+    },
+    {
+        "filename": "CHITTRON_4042.png",
+        "question": "............... এর মাংস রান্না করা হচ্ছে ।",
+        "options": [
+            "কবুতর",
+            "হাঁস",
+            "মুরগি",
+            "কোয়েল"
+        ],
+        "answer": "মুরগি",
+        "category": "Food"
+    },
+    {
+        "filename": "CHITTRON_4044.png",
+        "question": "নৌকার নাম কী ?",
+        "options": [
+            "সাম্পান",
+            "বজরা",
+            "ডিঙ্গি",
+            "কোষা"
+        ],
+        "answer": "সাম্পান",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_4068.png",
+        "question": "জলাশয়টি -",
+        "options": [
+            "পুকুর",
+            "খাল",
+            "সমুদ্র",
+            "মহাসাগর"
+        ],
+        "answer": "সমুদ্র",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_4078.png",
+        "question": "লোকটি একজন -",
+        "options": [
+            "১। মুটে",
+            "২। চামার",
+            "৩। মুচি",
+            "৪। ৩ ও ২"
+        ],
+        "answer": "৪। ৩ ও ২",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_4098.png",
+        "question": "পাখিটির নাম -",
+        "options": [
+            "হাঁস",
+            "কোকিল",
+            "কুরচি বক",
+            "সাদা খঞ্জন"
+        ],
+        "answer": "কুরচি বক",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_4105.png",
+        "question": "হরিণটি কোন প্রজাতির ?",
+        "options": [
+            "সাম্বার হরিণ",
+            "মায়া হরিণ",
+            "চিত্রা হরিণ",
+            "বল্গা হরিণ"
+        ],
+        "answer": "চিত্রা হরিণ",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_4150.png",
+        "question": "বৃদ্ধা কী খাচ্ছে ?",
+        "options": [
+            "মাছ",
+            "মাংস",
+            "সিঙ্গারা",
+            "মিষ্টি"
+        ],
+        "answer": "সিঙ্গারা",
+        "category": "Food"
+    },
+    {
+        "filename": "CHITTRON_4178.png",
+        "question": "ছবিতে দুইজন নারী -",
+        "options": [
+            "বাংলাদেশি অভিনেত্রী",
+            "সাধারণ মানুষ",
+            "রাজনৈতিক",
+            "গায়িকা"
+        ],
+        "answer": "বাংলাদেশি অভিনেত্রী",
+        "category": "Arts & History"
+    },
+    {
+        "filename": "CHITTRON_419.png",
+        "question": "নৌকাগুলো কোন প্রকারের ?",
+        "options": [
+            "সাম্পান",
+            "বজরা",
+            "ডিঙ্গি নৌকা",
+            "বালাম"
+        ],
+        "answer": "ডিঙ্গি নৌকা",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_4207.png",
+        "question": "কৃষক কী করছে ?",
+        "options": [
+            "ধান ভানছে",
+            "ধান বস্তায় ধুকাচ্ছে",
+            "ধান মাথায় উঠাচ্ছে",
+            "খেলা করছে"
+        ],
+        "answer": "ধান ভানছে",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_423.png",
+        "question": "লোকের পেশা কী ?",
+        "options": [
+            "কক্সবাজারের বিক্রেতা",
+            "কুলি",
+            "মুচি",
+            "মিস্ত্রি"
+        ],
+        "answer": "কক্সবাজারের বিক্রেতা",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_4232.png",
+        "question": "লোকটির হাতে কি ?",
+        "options": [
+            "খাবার",
+            "কাপড়",
+            "অরিগামি",
+            "গয়না"
+        ],
+        "answer": "অরিগামি",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_4237.png",
+        "question": "মানুষটি কি করছে ?",
+        "options": [
+            "খাচ্ছে",
+            "বাঁশি বাজাচ্ছে",
+            "শঙ্খ বাজাচ্ছে",
+            "চিল্লাচ্ছে"
+        ],
+        "answer": "শঙ্খ বাজাচ্ছে",
+        "category": "Religious Events"
+    },
+    {
+        "filename": "CHITTRON_4244.png",
+        "question": "মহিলাটি কি করছে  ?",
+        "options": [
+            "রান্না করছে",
+            "সবজি কাটছে",
+            "বাজারে বিক্রি করছে",
+            "কিছুই করছে না"
+        ],
+        "answer": "বাজারে বিক্রি করছে",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_4255.png",
+        "question": "হরিণগুলো কোথায় আছে ?",
+        "options": [
+            "বনে",
+            "চিড়িয়াখানায়",
+            "মাঠে",
+            "বাসায়"
+        ],
+        "answer": "বনে",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_4309.png",
+        "question": "জায়গাটি কোথায় ?",
+        "options": [
+            "ইনানী বিচ",
+            "সেন্টমার্টিন দ্বীপ",
+            "শ্রীমঙ্গল",
+            "কুয়াকাটা"
+        ],
+        "answer": "ইনানী বিচ",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_4315.png",
+        "question": "কৃষকের কাঁধে কী ?",
+        "options": [
+            "লাঠি",
+            "লাঙ্গল",
+            "মোড়া",
+            "কুলা"
+        ],
+        "answer": "লাঙ্গল",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_433.png",
+        "question": "ফুলের নাম -",
+        "options": [
+            "শাপলা",
+            "পদ্ম",
+            "গোলাপ",
+            "গাঁদা"
+        ],
+        "answer": "পদ্ম",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_4334.png",
+        "question": "তাদের পেশা কি ?",
+        "options": [
+            "কুলি",
+            "মুটে",
+            "মালি",
+            "শ্রমিক"
+        ],
+        "answer": "শ্রমিক",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_4347.png",
+        "question": "লাল ফুলের নাম -",
+        "options": [
+            "কৃষ্ণচূড়া",
+            "গোলাপ",
+            "ডালিয়া",
+            "বেলি"
+        ],
+        "answer": "গোলাপ",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_4383.png",
+        "question": "স্থাপত্যের নাম কি ?",
+        "options": [
+            "শহীদ মিনার",
+            "স্মৃতিসৌধ",
+            "আহসান মঞ্জিল",
+            "অপরাজেয় বাংলা"
+        ],
+        "answer": "স্মৃতিসৌধ",
+        "category": "Arts & History"
+    },
+    {
+        "filename": "CHITTRON_4417.png",
+        "question": "তারা কী করছে ?",
+        "options": [
+            "কাপড় বানাচ্ছে",
+            "জাল মেরামত করছে",
+            "কাপড় রোদে দিচ্ছে",
+            "কিছুই করছে না"
+        ],
+        "answer": "জাল মেরামত করছে",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_4043.png",
+        "question": "মুভির চরিত্রের নাম -",
+        "options": [
+            "ইথান হান্ট",
+            "জনি ইংলিশ",
+            "জেম্‌স বন্ড",
+            "অস্টিন পাওয়ারস"
+        ],
+        "answer": "জেম্‌স বন্ড",
+        "category": "Arts & History"
+    },
+    {
+        "filename": "CHITTRON_4209.png",
+        "question": "শিশুটি কী পরেছে ?",
+        "options": [
+            "ঈদের পাঞ্জাবি",
+            "গেঞ্জি",
+            "ফোতুয়া",
+            "বৈশাখের নকশা করা পাঞ্জাবি"
+        ],
+        "answer": "বৈশাখের নকশা করা পাঞ্জাবি",
+        "category": "Clothing & Fashion"
+    },
+    {
+        "filename": "CHITTRON_4233.png",
+        "question": "ছবির আবহাওয়া কেমন ?",
+        "options": [
+            "বাদলা",
+            "রোদেলা",
+            "ঠান্ডা",
+            "ফ্যাকাশে"
+        ],
+        "answer": "বাদলা",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_4262.png",
+        "question": "জায়গাটা কোথায় ?",
+        "options": [
+            "ঢাকা মেডিকেল কলেজ গেটের কাছে",
+            "লালবাগ",
+            "মতিঝিল",
+            "কলাবাগান"
+        ],
+        "answer": "ঢাকা মেডিকেল কলেজ গেটের কাছে",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_4312.png",
+        "question": "ফুলের নাম -",
+        "options": [
+            "কাঁশ",
+            "বেলি",
+            "গাঁদা",
+            "কৃষ্ণচূড়া"
+        ],
+        "answer": "গাঁদা",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_4344.png",
+        "question": "কৃষকের হাতে কী ?",
+        "options": [
+            "ছুরি",
+            "হাতুড়ি",
+            "বটি",
+            "কাস্তে"
+        ],
+        "answer": "কাস্তে",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_4422.png",
+        "question": "তাদের হাতে কী ?",
+        "options": [
+            "লাঙ্গল",
+            "পাটি",
+            "কোদাল",
+            "গাঁদা"
+        ],
+        "answer": "লাঙ্গল",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_4325.png",
+        "question": "পাখির নাম -",
+        "options": [
+            "দোয়েল",
+            "কোকিল",
+            "ময়না",
+            "কাক"
+        ],
+        "answer": "কাক",
+        "category": "Nature"
+    }
+]

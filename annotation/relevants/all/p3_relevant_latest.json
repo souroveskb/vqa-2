@@ -1,0 +1,1982 @@
+[
+    {
+        "filename": "BNATURE_1001.jpg",
+        "question": "চিত্রের বালকরা কি করছে?",
+        "options": [
+            "মাছ ধরছে",
+            "খেলা করছে",
+            "মারামারি করছে",
+            "বিশ্রাম নিচ্ছে"
+        ],
+        "answer": "খেলা করছে",
+        "category": "Sports"
+    },
+    {
+        "filename": "BNATURE_1002.jpg",
+        "question": "লোকটি কি করছে?",
+        "options": [
+            "খেলাধুলা",
+            "সেলাই",
+            "পড়াশুনা",
+            "সাঁতারকাটা"
+        ],
+        "answer": "সেলাই",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BNATURE_1003.jpg",
+        "question": "মেয়েটি কি করছে?",
+        "options": [
+            "খেলাধুলা",
+            "পড়ালেখা",
+            "মারামারি",
+            "বিশ্রাম"
+        ],
+        "answer": "পড়ালেখা",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BNATURE_1004.jpg",
+        "question": "লোকদের কি অবস্থা?",
+        "options": [
+            "আনন্দিত",
+            "তাড়াহুড়া",
+            "চিন্তিত",
+            "শান্ত"
+        ],
+        "answer": "তাড়াহুড়া",
+        "category": "Incidents"
+    },
+    {
+        "filename": "BNATURE_1005.jpg",
+        "question": "লোকজন কি করছে?",
+        "options": [
+            "খেলাধুলা",
+            "ছবি তোলা",
+            "মারামারি",
+            "খাবার খাওয়া"
+        ],
+        "answer": "ছবি তোলা",
+        "category": "Cultural Festivals"
+    },
+    {
+        "filename": "BNATURE_1006.jpg",
+        "question": "চিত্রটি কি নির্দেশ করছে?",
+        "options": [
+            "কষ্ট",
+            "সুখ",
+            "মারামারি",
+            "শান্ত"
+        ],
+        "answer": "কষ্ট",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BNATURE_1007.jpg",
+        "question": "শিশু কিশোরেরা কি করছে?",
+        "options": [
+            "মারামারি",
+            "খেলাধুলা",
+            "স্কুলে যাচ্ছে",
+            "বসে আসে"
+        ],
+        "answer": "স্কুলে যাচ্ছে",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BNATURE_1008.jpg",
+        "question": "লোকেরা কি করছে?",
+        "options": [
+            "মারামারি",
+            "খেলাধুলা",
+            "কিছুই না",
+            "টিকাদান"
+        ],
+        "answer": "টিকাদান",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BNATURE_1009.jpg",
+        "question": "বাচ্চারা কি করছে?",
+        "options": [
+            "আনন্দ",
+            "মারামারি",
+            "খেলাধুলা",
+            "খাওয়া দাওয়া"
+        ],
+        "answer": "খেলাধুলা",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BNATURE_101.jpg",
+        "question": "ছবিটি কি নির্দেশ করছে?",
+        "options": [
+            "শহুরে জীবন",
+            "গ্রামীণ জীবন",
+            "শপিংমল",
+            "বিন্ডিং"
+        ],
+        "answer": "গ্রামীণ জীবন",
+        "category": "Nature"
+    },
+    {
+        "filename": "BNATURE_1010.jpg",
+        "question": "ছবিটিতে লোকের অবস্থা কেমন?",
+        "options": [
+            "খাবার খাচ্ছে",
+            "খেলাধুলা করছে",
+            "শুয়ে আছে",
+            "পড়াশুনা করছে"
+        ],
+        "answer": "শুয়ে আছে",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BNATURE_1011.jpg",
+        "question": "বাচ্চাগুলো কি করছে?",
+        "options": [
+            "খেলাধুলা",
+            "মারামারি",
+            "ঘরের কাজ",
+            "পড়াশুনা"
+        ],
+        "answer": "ঘরের কাজ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BNATURE_1012.jpg",
+        "question": "মেয়েগুলো কি করছে?",
+        "options": [
+            "পড়াশুনা",
+            "খাবার খাচ্ছে",
+            "মারামারি",
+            "শুয়ে আছে"
+        ],
+        "answer": "পড়াশুনা",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BNATURE_1013.jpg",
+        "question": "ছবিতে মেয়েদের অবস্থা কেমন?",
+        "options": [
+            "খুশি",
+            "রাগান্বিত",
+            "উগ্র",
+            "শুয়ে আছে"
+        ],
+        "answer": "খুশি",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BNATURE_1014.jpg",
+        "question": "লোকের অবস্থা দেখে কি মনে হচ্ছে?",
+        "options": [
+            "খুশি",
+            "কষ্টরত",
+            "খেলাধুলা করছে",
+            "শুয়ে আছে"
+        ],
+        "answer": "কষ্টরত",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BNATURE_1015.jpg",
+        "question": "লোকজনের অবস্থা কেমন?",
+        "options": [
+            "আনন্দিত",
+            "বন্যা কবলিত",
+            "ক্রীড়ারত",
+            "রাগান্বিত"
+        ],
+        "answer": "বন্যা কবলিত",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BNATURE_1016.jpg",
+        "question": "পথের শিশুদের কি অবস্থা?",
+        "options": [
+            "খেলাধুলা করছে",
+            "মারামারি করছে",
+            "শুয়ে আছে",
+            "আনন্দিত"
+        ],
+        "answer": "শুয়ে আছে",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BNATURE_1017.jpg",
+        "question": "ছবির লোকটি কি করছে?",
+        "options": [
+            "আন্দোলন করছে",
+            "খেলাধুলা করছে",
+            "ভাষন দিচ্ছে",
+            "শুয়ে আছে"
+        ],
+        "answer": "ভাষন দিচ্ছে",
+        "category": "Incidents"
+    },
+    {
+        "filename": "BNATURE_1018.jpg",
+        "question": "চিত্রে কি দেখা যাচ্ছে?",
+        "options": [
+            "বাচ্চারা আনন্দ করছে",
+            "বাচ্চারা রাগান্বিত",
+            "বাচ্চারা পড়াশুনা করছে",
+            "বাচ্চারা শুয়ে আছে"
+        ],
+        "answer": "বাচ্চারা আনন্দ করছে",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BNATURE_1019.jpg",
+        "question": "ছবির মেয়েটি কি করছে?",
+        "options": [
+            "শাপলা তুলছে",
+            "গোলাপ তুলছে",
+            "শিউলী ফুল তুলছে",
+            "বসে আছে"
+        ],
+        "answer": "শাপলা তুলছে",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BNATURE_102.jpg",
+        "question": "ছবিতে কি দেখা যাচ্ছে?",
+        "options": [
+            "লোকজন বাজারে আছে",
+            "লোকজন মাঠে গাছ লাগাচ্ছে",
+            "লোকজন প্রতিযোগিতা করছে",
+            "লোকজন মারামারি করছে"
+        ],
+        "answer": "লোকজন বাজারে আছে",
+        "category": "Cultural Festivals"
+    },
+    {
+        "filename": "BNATURE_1021.jpg",
+        "question": "ছবিতে লোকজন কি করছে?",
+        "options": [
+            "খেলাধুলা",
+            "অনুষ্ঠান",
+            "খাবার খাওয়া",
+            "শুয়ে থাকা"
+        ],
+        "answer": "অনুষ্ঠান",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BNATURE_1022.jpg",
+        "question": "ছবিতে যাদের দেখা যাচ্ছে তাদের পরিচয় কি?",
+        "options": [
+            "খেলোয়াড়",
+            "শিক্ষক",
+            "পালোয়ান",
+            "গ্রফিক্স ডিজাইনার"
+        ],
+        "answer": "খেলোয়াড়",
+        "category": "Sports"
+    },
+    {
+        "filename": "BNATURE_1023.jpg",
+        "question": "মহিলাটি কোথায় আছে?",
+        "options": [
+            "বাসায়",
+            "ফার্মাসিতে",
+            "মাঠে",
+            "স্কুলে"
+        ],
+        "answer": "ফার্মাসিতে",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BNATURE_1024.jpg",
+        "question": "মেয়েটি কি করছে?",
+        "options": [
+            "মারামারি",
+            "খেলাধুলা",
+            "পড়াশুনা",
+            "শ্রদ্ধা নিবেদন"
+        ],
+        "answer": "শ্রদ্ধা নিবেদন",
+        "category": "Incidents"
+    },
+    {
+        "filename": "BNATURE_1025.jpg",
+        "question": "লোকটি কি তৈরি করছে?",
+        "options": [
+            "কাঠের নৌকা",
+            "বাসের ঠোঙ্গা",
+            "বাসের শিল্প",
+            "তাতের শোষাক"
+        ],
+        "answer": "বাসের শিল্প",
+        "category": "Arts & History"
+    },
+    {
+        "filename": "BNATURE_1026.jpg",
+        "question": "মহিলাটি কি নিয়ে যাচ্ছে?",
+        "options": [
+            "মুরগী",
+            "হাঁস",
+            "কলস",
+            "ঠোঙ্গা"
+        ],
+        "answer": "কলস",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BNATURE_1027.jpg",
+        "question": "বৃদ্ধ মহিলাকে কি দেওয়া হচ্ছে?",
+        "options": [
+            "খেলনা",
+            "বই",
+            "সাহায্য",
+            "পানি"
+        ],
+        "answer": "সাহায্য",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BNATURE_1029.jpg",
+        "question": "চিত্রে ছেলেরা কি করছে?",
+        "options": [
+            "খেলাধুলা",
+            "গোসল",
+            "মারামারি",
+            "পড়াশুনা"
+        ],
+        "answer": "গোসল",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BNATURE_103.jpg",
+        "question": "চিত্রে মাঠে কি রয়েছে?",
+        "options": [
+            "গোলাপ",
+            "সরিষা",
+            "আলু",
+            "বেগুন"
+        ],
+        "answer": "সরিষা",
+        "category": "Nature"
+    },
+    {
+        "filename": "BNATURE_1031.jpg",
+        "question": "মেয়েরা কি করছে?",
+        "options": [
+            "মারামারি",
+            "খেলাধুলা",
+            "বনে ঘুরে বেড়ানো",
+            "শুয়ে থাকা"
+        ],
+        "answer": "বনে ঘুরে বেড়ানো",
+        "category": "Nature"
+    },
+    {
+        "filename": "BNATURE_1032.jpg",
+        "question": "লোকটি কি নিয়ে যাচ্ছে?",
+        "options": [
+            "খেলনা",
+            "বাজার",
+            "টাকা",
+            "বেতন"
+        ],
+        "answer": "বাজার",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BNATURE_1033.jpg",
+        "question": "লোকটি মেয়েটিকে কি দিচ্ছে?",
+        "options": [
+            "খাবার",
+            "বাহবা",
+            "সান্ত্বনা",
+            "টাকা"
+        ],
+        "answer": "সান্ত্বনা",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BNATURE_1034.jpg",
+        "question": "চিত্রে কি দেখা যাচ্ছে?",
+        "options": [
+            "মায়ের ভালোবাসা",
+            "খেলাধুলা",
+            "মারামারি",
+            "গোসল"
+        ],
+        "answer": "মায়ের ভালোবাসা",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BNATURE_1036.jpg",
+        "question": "ছবিতে লোকদের কাদের সাথে দেখা যাচ্ছে?",
+        "options": [
+            "ডিবি",
+            "পুলিশ",
+            "র‍্যাব",
+            "সেনাবাহিনী"
+        ],
+        "answer": "পুলিশ",
+        "category": "Incidents"
+    },
+    {
+        "filename": "BNATURE_1037.jpg",
+        "question": "ছেলেরা রাস্তায় কি করছে?",
+        "options": [
+            "খেলাধুলা",
+            "পড়াশুনা",
+            "মারামারি",
+            "বিক্রি"
+        ],
+        "answer": "বিক্রি",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BNATURE_1038.jpg",
+        "question": "চিত্রে কোন সমাজের ছবি দেখা যাচ্ছে?",
+        "options": [
+            "উচ্চবিত্ত",
+            "মধ্যবিত্ত",
+            "নিম্নবিত্ত",
+            "বিদেশী"
+        ],
+        "answer": "নিম্নবিত্ত",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BNATURE_1039.jpg",
+        "question": "চিত্রে লোকজন কেনো জড়ো হয়েছে?",
+        "options": [
+            "অনুষ্ঠানে অংশগ্রহণ",
+            "খেলাধুলায় অংশগ্রহণ",
+            "আশ্রয় নিতে",
+            "মারামারি করতে"
+        ],
+        "answer": "আশ্রয় নিতে",
+        "category": "Incidents"
+    },
+    {
+        "filename": "BNATURE_104.jpg",
+        "question": "লোকজন কাজ শেষে কি করছে?",
+        "options": [
+            "খেলাধুলা",
+            "পড়াশুনা",
+            "বিশ্রাম",
+            "মারামারি"
+        ],
+        "answer": "বিশ্রাম",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BNATURE_1040.jpg",
+        "question": "বাচ্চারা কি করছে?",
+        "options": [
+            "মারামারি",
+            "খেলাধুলা",
+            "পড়াশুনা",
+            "কিছুই না"
+        ],
+        "answer": "পড়াশুনা",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BNATURE_1041.jpg",
+        "question": "চিত্রে কোন জিনিস ফুটে উঠেছে?",
+        "options": [
+            "বাচ্চাদের চ্যাঁচামেচি",
+            "বাচ্চাদের মারামারি",
+            "বাচ্চাদের শৈশব",
+            "বাচ্চাদের কষ্ট"
+        ],
+        "answer": "বাচ্চাদের শৈশব",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BNATURE_1042.jpg",
+        "question": "চিত্রে মায়েরা কোথায় আছে?",
+        "options": [
+            "আশ্রয় কেন্দ্রে",
+            "মাঠে",
+            "ঘরে",
+            "স্কুলে"
+        ],
+        "answer": "স্কুলে",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BNATURE_1043.jpg",
+        "question": "চিত্রে পুলিশ কি করছে?",
+        "options": [
+            "লাঠিচার্জ",
+            "টীয়ারশেল লিক্ষেপ",
+            "যুদ্ধ",
+            "আসামী বহন"
+        ],
+        "answer": "আসামী বহন",
+        "category": "Incidents"
+    },
+    {
+        "filename": "BNATURE_1044.jpg",
+        "question": "লোকজন কি করছে?",
+        "options": [
+            "জড়ো হয়ে আছে",
+            "মারামারি করছে",
+            "পড়াশুনা করছে",
+            "ঘুমাচ্ছে"
+        ],
+        "answer": "জড়ো হয়ে আছে",
+        "category": "Incidents"
+    },
+    {
+        "filename": "BNATURE_1045.jpg",
+        "question": "লোকটি কি করছে?",
+        "options": [
+            "ভিক্ষা",
+            "কাজ",
+            "পড়াশুনা",
+            "খেলাধুলা"
+        ],
+        "answer": "ভিক্ষা",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BNATURE_1046.jpg",
+        "question": "অনুষ্ঠানটিতে কি হচ্ছে?",
+        "options": [
+            "মারামারি",
+            "পড়াশুনা",
+            "রঙ মাখামাখি",
+            "হইচই"
+        ],
+        "answer": "রঙ মাখামাখি",
+        "category": "Cultural Festivals"
+    },
+    {
+        "filename": "BNATURE_1047.jpg",
+        "question": "কিসের অনুষ্ঠান হচ্ছে?",
+        "options": [
+            "পুনোর্মিলোনী",
+            "মারামারি",
+            "প্রতিযোগিতা",
+            "উদ্বোধনী"
+        ],
+        "answer": "উদ্বোধনী",
+        "category": "Cultural Festivals"
+    },
+    {
+        "filename": "BNATURE_1048.jpg",
+        "question": "মেয়েটি কি ড্রেস পড়েছে?",
+        "options": [
+            "শাড়ী",
+            "বোরকা",
+            "স্কুল ড্রেস",
+            "স্কার্ট"
+        ],
+        "answer": "স্কুল ড্রেস",
+        "category": "Clothing & Fashion"
+    },
+    {
+        "filename": "BNATURE_1049.jpg",
+        "question": "মহিলাটির হাতে কি রয়েছে?",
+        "options": [
+            "কলস",
+            "ঠোঙ্গা",
+            "শিশু",
+            "চা"
+        ],
+        "answer": "শিশু",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BNATURE_105.jpg",
+        "question": "ছবিতে লোকের পিছনে কি রয়েছে?",
+        "options": [
+            "ধান ক্ষেত",
+            "গ্রামীণ মাঠ",
+            "সবুজ সমারোহ",
+            "কাশফুল"
+        ],
+        "answer": "সবুজ সমারোহ",
+        "category": "Nature"
+    },
+    {
+        "filename": "BNATURE_1050.jpg",
+        "question": "মেয়েরা কি করছে?",
+        "options": [
+            "খেলাধুলা",
+            "নাচ অনুশীলন",
+            "মারামারি",
+            "শুয়ে আছে"
+        ],
+        "answer": "নাচ অনুশীলন",
+        "category": "Arts & History"
+    },
+    {
+        "filename": "BNATURE_1051.jpg",
+        "question": "লোকজন কি দেখছে?",
+        "options": [
+            "হকার",
+            "শিক্ষক",
+            "ভিক্ষুক",
+            "বিদেশী"
+        ],
+        "answer": "বিদেশী",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BNATURE_1052.jpg",
+        "question": "লোকজন কেনো জড়ো হয়েছে?",
+        "options": [
+            "অনুষ্ঠান হচ্ছে",
+            "মারামারি হচ্ছে",
+            "খেলাধুলা চলছে",
+            "পিকনিক হচ্ছে"
+        ],
+        "answer": "অনুষ্ঠান হচ্ছে",
+        "category": "Cultural Festivals"
+    },
+    {
+        "filename": "BNATURE_1053.jpg",
+        "question": "কলম হাতে নেওয়া বাচ্চাটির জামার রঙ কি?",
+        "options": [
+            "লাল",
+            "বেগুলি",
+            "নীল",
+            "আসমানী"
+        ],
+        "answer": "আসমানী",
+        "category": "Clothing & Fashion"
+    },
+    {
+        "filename": "BNATURE_1054.jpg",
+        "question": "দুইটি বাচ্চা কি করছে?",
+        "options": [
+            "খাচ্ছে",
+            "মারামারি করছে",
+            "দোল খাচ্ছে",
+            "পড়াশুনা করছে"
+        ],
+        "answer": "দোল খাচ্ছে",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BNATURE_1055.jpg",
+        "question": "লোকগুলি কোথায় আছে?",
+        "options": [
+            "মাঠে",
+            "স্কুলে",
+            "নৌকায়",
+            "নদীর পাড়ে"
+        ],
+        "answer": "নদীর পাড়ে",
+        "category": "Nature"
+    },
+    {
+        "filename": "BNATURE_1056.jpg",
+        "question": "ছেলে মেয়ে কি করছে?",
+        "options": [
+            "মারামারি",
+            "পড়াশুনা",
+            "ভাব বিনিময়",
+            "খেলাধুলা"
+        ],
+        "answer": "ভাব বিনিময়",
+        "category": "Religious Events"
+    },
+    {
+        "filename": "BNATURE_1057.jpg",
+        "question": "ছবিতে কোন শ্রেণির লোক দেখা যাচ্ছে?",
+        "options": [
+            "ধনী",
+            "গরিব",
+            "মধ্যবিত্ত",
+            "বিদেশী"
+        ],
+        "answer": "গরিব",
+        "category": "Clothing & Fashion"
+    },
+    {
+        "filename": "BNATURE_1058.jpg",
+        "question": "শিশুটি কি দেখছে?",
+        "options": [
+            "হাতি",
+            "গরু",
+            "বোতল",
+            "মাদক"
+        ],
+        "answer": "বোতল",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BNATURE_1059.jpg",
+        "question": "ছবিটির সময়কাল কেমন?",
+        "options": [
+            "ভোর",
+            "সকাল",
+            "দুপুর",
+            "বিকাল"
+        ],
+        "answer": "বিকাল",
+        "category": "Nature"
+    },
+    {
+        "filename": "BNATURE_106.jpg",
+        "question": "ছবিতে লোক কি করছে?",
+        "options": [
+            "ধান লাগাচ্ছে",
+            "ধান ফলাচ্ছে",
+            "ধান মাড়াই করছে",
+            "ধান কাটছে"
+        ],
+        "answer": "ধান মাড়াই করছে",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BNATURE_1060.jpg",
+        "question": "বাজারে কি দেখা যাচ্ছে?",
+        "options": [
+            "ফল",
+            "সবজি",
+            "রঙ",
+            "পশু"
+        ],
+        "answer": "সবজি",
+        "category": "Food"
+    },
+    {
+        "filename": "BNATURE_1061.jpg",
+        "question": "ছবিতে মহিলারা কি পড়ে আছে?",
+        "options": [
+            "স্কার্ট",
+            "লেহেঙ্গা",
+            "সেলোয়ার",
+            "শাড়ি"
+        ],
+        "answer": "শাড়ি",
+        "category": "Clothing & Fashion"
+    },
+    {
+        "filename": "BNATURE_1062.jpg",
+        "question": "ছেলেটির হাতে কি রয়েছে?",
+        "options": [
+            "কলম",
+            "খাতা",
+            "মোবাইল",
+            "ফুল"
+        ],
+        "answer": "খাতা",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BNATURE_1063.jpg",
+        "question": "মেয়েটি কি খাচ্ছে?",
+        "options": [
+            "চা",
+            "মুড়ি",
+            "বিস্কুট",
+            "চিড়া"
+        ],
+        "answer": "বিস্কুট",
+        "category": "Food"
+    },
+    {
+        "filename": "BNATURE_1064.jpg",
+        "question": "মহিলাটির মানসিক অবস্থা কেমন?",
+        "options": [
+            "সুখী",
+            "বেদনাগ্রস্থ",
+            "হতাশ",
+            "আনন্দিত"
+        ],
+        "answer": "বেদনাগ্রস্থ",
+        "category": "Incidents"
+    },
+    {
+        "filename": "BNATURE_1065.jpg",
+        "question": "চিত্রে কেমন পরিবার দেখা যাচ্ছে?",
+        "options": [
+            "ছোট",
+            "বড়",
+            "মধ্যম",
+            "যুক্ত"
+        ],
+        "answer": "মধ্যম",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BNATURE_1066.jpg",
+        "question": "ছেলেরা কোথায় আছে?",
+        "options": [
+            "নদীতে",
+            "রিকশায়",
+            "মাঠে",
+            "ট্রাকে"
+        ],
+        "answer": "মাঠে",
+        "category": "Nature"
+    },
+    {
+        "filename": "BNATURE_1067.jpg",
+        "question": "মেয়েটি কোথায় আছে?",
+        "options": [
+            "সংসদ ভবনে",
+            "শহিদ মিনারে",
+            "শহরে",
+            "গ্রামে"
+        ],
+        "answer": "শহিদ মিনারে",
+        "category": "Cultural Festivals"
+    },
+    {
+        "filename": "BNATURE_1068.jpg",
+        "question": "মেয়েটি কি করছে?",
+        "options": [
+            "মারামারি",
+            "পড়াশুনা",
+            "খেলাধুলা",
+            "সাঁতার কাটা"
+        ],
+        "answer": "খেলাধুলা",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BNATURE_1069.jpg",
+        "question": "মেয়েটি কি পড়ে আছে?",
+        "options": [
+            "বোরকা",
+            "স্কার্ট",
+            "শাড়ি",
+            "মর্ডান ড্রেস"
+        ],
+        "answer": "বোরকা",
+        "category": "Clothing & Fashion"
+    },
+    {
+        "filename": "BNATURE_107.jpg",
+        "question": "ছেলেটি কি করছে?",
+        "options": [
+            "পড়াশুনা",
+            "গোসল",
+            "মাছধরা",
+            "কোডিং"
+        ],
+        "answer": "গোসল",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BNATURE_1070.jpg",
+        "question": "শিশুরা এখানে কি করছে?",
+        "options": [
+            "গাড়ী চালাচ্ছে",
+            "পড়াশুনা করছে",
+            "হাঁটাহাঁটি করছে",
+            "মারামারি করছে"
+        ],
+        "answer": "গাড়ী চালাচ্ছে",
+        "category": "Arts & History"
+    },
+    {
+        "filename": "BNATURE_1071.jpg",
+        "question": "বাংলাদেশ পুলিশ কি বিতরণ করছে?",
+        "options": [
+            "গুলি",
+            "পোশাক",
+            "খাবার",
+            "বই"
+        ],
+        "answer": "খাবার",
+        "category": "Incidents"
+    },
+    {
+        "filename": "BNATURE_1072.jpg",
+        "question": "চিত্রে মেয়েটির হাতে কি দেখা যাচ্ছে?",
+        "options": [
+            "কলম",
+            "খাতা",
+            "বই",
+            "গুলি"
+        ],
+        "answer": "বই",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BNATURE_1074.jpg",
+        "question": "চিত্রে কোন সমাজের লোক দেখা যাচ্ছে?",
+        "options": [
+            "ধনী",
+            "মধ্যবিত্ত",
+            "গরীব",
+            "বিদেশি"
+        ],
+        "answer": "গরীব",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BNATURE_1075.jpg",
+        "question": "মেয়েটি দোকানে বসে কি করছে?",
+        "options": [
+            "চা খাচ্ছে",
+            "বিস্কুট খাচ্ছে",
+            "ছবি তুলছে",
+            "পড়াশুনা করছে"
+        ],
+        "answer": "ছবি তুলছে",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BNATURE_1077.jpg",
+        "question": "ছবিটি কোন সমাজের চিত্র আলোকপাত করে?",
+        "options": [
+            "ধনী",
+            "গরিব",
+            "মধ্যবিত্ত",
+            "বিদেশী"
+        ],
+        "answer": "গরিব",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BNATURE_1078.jpg",
+        "question": "বাংলাদেশ সেনাবাহিনী কি করছে?",
+        "options": [
+            "গোলাগুলি",
+            "খেলাধুলা",
+            "সাক্ষাৎকার",
+            "গোলাগুলি"
+        ],
+        "answer": "সাক্ষাৎকার",
+        "category": "Incidents"
+    },
+    {
+        "filename": "BNATURE_108.jpg",
+        "question": "চিত্রে বালকদের অবস্থা কি ইঙ্গিত করে?",
+        "options": [
+            "ছোটবেলা",
+            "যৌবন",
+            "মধ্যবয়স",
+            "কিছুই না"
+        ],
+        "answer": "ছোটবেলা",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BNATURE_1080.jpg",
+        "question": "চিত্রে লোকেরা কি জন্য জড়ো হয়েছে?",
+        "options": [
+            "সেমিনার করছে",
+            "খেলাধুলা করছে",
+            "শুয়ে আছে",
+            "মারামারি করছে"
+        ],
+        "answer": "সেমিনার করছে",
+        "category": "Incidents"
+    },
+    {
+        "filename": "BNATURE_1084.jpg",
+        "question": "ছবিতে কোন শরবতের জুস দেখা যাচ্ছে?",
+        "options": [
+            "পেঁপে",
+            "লেমন",
+            "তরমুজ",
+            "মাল্টা"
+        ],
+        "answer": "তরমুজ",
+        "category": "Food"
+    },
+    {
+        "filename": "BNATURE_1085.jpg",
+        "question": "লোকটির গালে চিত্র আঁকাকে কি বলে?",
+        "options": [
+            "গ্রাফিটি",
+            "দেয়াললিখন",
+            "পোষ্টারিং",
+            "চিত্রকর্ম"
+        ],
+        "answer": "চিত্রকর্ম",
+        "category": "Arts & History"
+    },
+    {
+        "filename": "BNATURE_1086.jpg",
+        "question": "বাচ্চাগুলোর মাস্কটি কি নির্দেশ করে?",
+        "options": [
+            "সিংহ",
+            "বাঘ",
+            "হরিণ",
+            "ভেড়া"
+        ],
+        "answer": "বাঘ",
+        "category": "Arts & History"
+    },
+    {
+        "filename": "BNATURE_1087.jpg",
+        "question": "চিত্রের শিশুদের শৈশবের কোন অবস্থা ফুটে উঠেছে?",
+        "options": [
+            "বিনোদন",
+            "দুঃখ",
+            "হতাশা",
+            "অভাব"
+        ],
+        "answer": "বিনোদন",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BNATURE_1088.jpg",
+        "question": "চিত্রে গ্রামের কোন পরিবেশ পরিলক্ষিত হয়?",
+        "options": [
+            "কুটিরশিল্প",
+            "সেলাই ট্রেনিং",
+            "চাষবাস",
+            "কাজকর্ম"
+        ],
+        "answer": "সেলাই ট্রেনিং",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BNATURE_1089.jpg",
+        "question": "চিত্রে স্কুল ড্রেস পরা ছেলেরা কি করছে?",
+        "options": [
+            "পড়াশুনা",
+            "মারামারি",
+            "খেলাধুলা",
+            "নির্মান কাজ"
+        ],
+        "answer": "নির্মান কাজ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BNATURE_1090.jpg",
+        "question": "চিত্রের বস্ত্রগুলো কি প্রতিনিধিত্ব করে?",
+        "options": [
+            "শীতলপাটি",
+            "কারুশিল্প",
+            "নকশীকাঁথা",
+            "আসবাবপত্র"
+        ],
+        "answer": "নকশীকাঁথা",
+        "category": "Clothing & Fashion"
+    },
+    {
+        "filename": "BNATURE_1091.jpg",
+        "question": "চিত্রের ছবিটিতে কি দেখা যাচ্ছে?",
+        "options": [
+            "নির্মান কাজ",
+            "বাড়িঘর তৈরি",
+            "পুকুর নির্মান",
+            "জানালা তৈরি"
+        ],
+        "answer": "নির্মান কাজ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BNATURE_1092.jpg",
+        "question": "উপজাতি মেয়েরা কাঁধে কি নিয়ে যাচ্ছে?",
+        "options": [
+            "ঠোঙ্গা",
+            "কলস",
+            "ঝুড়ি",
+            "ব্যাগ"
+        ],
+        "answer": "ঝুড়ি",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BNATURE_1093.jpg",
+        "question": "চিত্রের সময়টি কোন দিবসকে প্রতিনিধিত্ব করে?",
+        "options": [
+            "জুলাই বিপ্লব",
+            "আগস্ট মাস",
+            "বিজয় দিবস",
+            "স্বাধীনতা দিবস"
+        ],
+        "answer": "বিজয় দিবস",
+        "category": "Arts & History"
+    },
+    {
+        "filename": "BNATURE_1095.jpg",
+        "question": "চিত্রের প্রদর্শিত বাহনটিকে কি বলে?",
+        "options": [
+            "গাড়ি",
+            "বাস",
+            "লঞ্চ",
+            "স্টিমার"
+        ],
+        "answer": "লঞ্চ",
+        "category": "Nature"
+    },
+    {
+        "filename": "BNATURE_1097.jpg",
+        "question": "চিত্রটিতে দেশের কোন অবস্থা পরিলক্ষিত হচ্ছে?",
+        "options": [
+            "শহুরে জীবন",
+            "গ্রমীন জীবন",
+            "বিদেশের জীবন",
+            "কিছুই না"
+        ],
+        "answer": "গ্রমীন জীবন",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BNATURE_1098.jpg",
+        "question": "ছবিতে লোকটা কিভাবে নারিকেলের রস বের করছে বলে মনে হচ্ছে?",
+        "options": [
+            "হাত দিয়ে",
+            "একটি যন্ত্র দিয়ে",
+            "দা দিয়ে",
+            "লাঠি দিয়ে"
+        ],
+        "answer": "একটি যন্ত্র দিয়ে",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BNATURE_1099.jpg",
+        "question": "ছবিতে প্রধানত কি দেখা যাচ্ছে?",
+        "options": [
+            "ধানক্ষেত ও একটি তাল গাছ",
+            "ইটের ভাটা ও ধোঁয়া",
+            "একটি গ্রাম্য রাস্তা",
+            "কিছু ঘরবাড়ি"
+        ],
+        "answer": "ইটের ভাটা ও ধোঁয়া",
+        "category": "Nature"
+    },
+    {
+        "filename": "BNATURE_11.jpg",
+        "question": "ছবিতে প্রদর্শিত পাতা সবজিটির নাম কি?",
+        "options": [
+            "পালং শাক",
+            "কলমি শাক",
+            "মেথি শাক",
+            "রকেট/আরুগুলা"
+        ],
+        "answer": "রকেট/আরুগুলা",
+        "category": "Food"
+    },
+    {
+        "filename": "BNATURE_110.jpg",
+        "question": "ছবিতে কি দেখা যাচ্ছে?",
+        "options": [
+            "একটি পুকুর ও কুঁড়েঘর",
+            "একটি তাল গাছ",
+            "সূর্যোদয়",
+            "কিছু পাখি"
+        ],
+        "answer": "একটি পুকুর ও কুঁড়েঘর",
+        "category": "Nature"
+    },
+    {
+        "filename": "BNATURE_1100.jpg",
+        "question": "গ্রামের ছবিতে কি দেখা যাচ্ছে?",
+        "options": [
+            "একটি নদী ও চর",
+            "একটি সেতু",
+            "দূরের গ্রাম",
+            "সবুজ মাঠ"
+        ],
+        "answer": "একটি নদী ও চর",
+        "category": "Nature"
+    },
+    {
+        "filename": "BNATURE_1101.jpg",
+        "question": "ছবিতে দোকানে কি ধরনের তথ্য দেখা যাচ্ছে?",
+        "options": [
+            "পণ্যের দাম বা অফার",
+            "সময়",
+            "ঠিকানা",
+            "ওজন"
+        ],
+        "answer": "পণ্যের দাম বা অফার",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BNATURE_1102.jpg",
+        "question": "চিত্রের দৃশ্যটি কি আলোকপাত করছে?",
+        "options": [
+            "নদী ও নৌকা",
+            "একটি সেতু",
+            "কিছু ঘরবাড়ি",
+            "দূরের পাহাড়"
+        ],
+        "answer": "নদী ও নৌকা",
+        "category": "Nature"
+    },
+    {
+        "filename": "BNATURE_1103.jpg",
+        "question": "ছবিতে কি দেখা যাচ্ছে?",
+        "options": [
+            "নদী ও মানুষ",
+            "একটি সেতু",
+            "বালুচর",
+            "দূরের গ্রাম"
+        ],
+        "answer": "নদী ও মানুষ",
+        "category": "Nature"
+    },
+    {
+        "filename": "BNATURE_1104.jpg",
+        "question": "লোকটি যে বাহনে বসে আছে তার নাম কি?",
+        "options": [
+            "বাস",
+            "ট্রাক",
+            "নৌকা",
+            "লঞ্চ"
+        ],
+        "answer": "নৌকা",
+        "category": "Nature"
+    },
+    {
+        "filename": "BNATURE_1105.jpg",
+        "question": "ছবিতে কি ধরণের প্রাকৃতিক দৃশ্য দেখা যাচ্ছে?",
+        "options": [
+            "জলাভূমি ও সবুজ মাঠ",
+            "নদী ও চর",
+            "পাহাড় ও বন",
+            "সমুদ্র সৈকত"
+        ],
+        "answer": "জলাভূমি ও সবুজ মাঠ",
+        "category": "Nature"
+    },
+    {
+        "filename": "BNATURE_1106.jpg",
+        "question": "বাসের ড্রাইভার কি করছে?",
+        "options": [
+            "চাকায় হাওয়া দিচ্ছে",
+            "বাস চালাচ্ছে",
+            "ঘুমিয়ে আছে",
+            "শুয়ে আছে"
+        ],
+        "answer": "চাকায় হাওয়া দিচ্ছে",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BNATURE_1107.jpg",
+        "question": "ছবিতে কি ধরনের দৃশ্য দেখা যাচ্ছে?",
+        "options": [
+            "একটি গ্রামীণ দোকানের দৃশ্য",
+            "একটি ব্যস্ত শহরের দৃশ্য",
+            "একটি প্রাকৃতিক দৃশ্য",
+            "একটি ঐতিহাসিক স্থানের দৃশ্য"
+        ],
+        "answer": "একটি গ্রামীণ দোকানের দৃশ্য",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BNATURE_1109.jpg",
+        "question": "ছবিতে কোন শিল্পী/ব্যক্তিকে দেখা যাচ্ছে?",
+        "options": [
+            "উস্তাদ আলাউদ্দিন খাঁ",
+            "বাবা আলাউদ্দিন খান",
+            "উস্তাদ রাজু মুরলী কাওয়াল",
+            "নুসরাত ফতেহ আলী খান"
+        ],
+        "answer": "উস্তাদ রাজু মুরলী কাওয়াল",
+        "category": "Arts & History"
+    },
+    {
+        "filename": "BNATURE_111.jpg",
+        "question": "ছবিতে কোন গাছটি প্রধান্য পেয়েছে?",
+        "options": [
+            "নারিকেল গাছ",
+            "খেজুর গাছ",
+            "তাল গাছ",
+            "আম গাছ"
+        ],
+        "answer": "খেজুর গাছ",
+        "category": "Nature"
+    },
+    {
+        "filename": "BNATURE_1110.jpg",
+        "question": "ছবিতে কি ধরণের বন দেখা যাচ্ছে?",
+        "options": [
+            "ঘন সবুজ বন",
+            "শুষ্ক ও ফাঁকা বন",
+            "বাঁশ বাগান",
+            "ম্যানগ্রোভ বন"
+        ],
+        "answer": "ঘন সবুজ বন",
+        "category": "Nature"
+    },
+    {
+        "filename": "BNATURE_1112.jpg",
+        "question": "উল্লেখিত ছবিটি কোন ঋতুতে নেওয়া?",
+        "options": [
+            "গ্রীষ্ম",
+            "বর্ষা",
+            "শরৎ",
+            "হেমন্ত"
+        ],
+        "answer": "বর্ষা",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BNATURE_1113.jpg",
+        "question": "চিত্রের লোক বাজারে কি করছে?",
+        "options": [
+            "কেনাকাটা",
+            "খেলাধুলা",
+            "মারামারি",
+            "পড়াশুনা"
+        ],
+        "answer": "কেনাকাটা",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BNATURE_1114.jpg",
+        "question": "মেয়েটি কি পড়ে আছে?",
+        "options": [
+            "বোরকা",
+            "লেহেঙ্গা",
+            "স্কার্ট",
+            "ফ্রক"
+        ],
+        "answer": "ফ্রক",
+        "category": "Clothing & Fashion"
+    },
+    {
+        "filename": "BNATURE_1115.jpg",
+        "question": "ছবিতে কি খাবার দেখা যাচ্ছে?",
+        "options": [
+            "ভাত ও মাছ",
+            "খিচুড়ি ও সবজি",
+            "বিরিয়ানি ও মাংস",
+            "ফ্রাইড রাইস ও তরকারি"
+        ],
+        "answer": "ফ্রাইড রাইস ও তরকারি",
+        "category": "Food"
+    },
+    {
+        "filename": "BNATURE_1116.jpg",
+        "question": "ছবিতে কি ধরণের খাবার দেখা যাচ্ছে?",
+        "options": [
+            "মিষ্টি",
+            "ফল",
+            "বিরিয়ানি",
+            "পোলাও"
+        ],
+        "answer": "মিষ্টি",
+        "category": "Food"
+    },
+    {
+        "filename": "BNATURE_1117.jpg",
+        "question": "শিক্ষক ক্লাসে  কি করছে?",
+        "options": [
+            "পড়াচ্ছে",
+            "খাচ্ছে",
+            "গল্প করছে",
+            "শুয়ে আছে"
+        ],
+        "answer": "পড়াচ্ছে",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BNATURE_1118.jpg",
+        "question": "চিত্রে মা ও বাচ্চার ভিতর কি দেখা যাচ্ছে?",
+        "options": [
+            "ভালোবাসা",
+            "ঝগড়া",
+            "বিবাদ",
+            "সংঘাত"
+        ],
+        "answer": "ভালোবাসা",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BNATURE_1119.jpg",
+        "question": "ছেলেগুলো কোথায় কাজ করছে?",
+        "options": [
+            "মাঠে",
+            "ঘাটে",
+            "দোকানে",
+            "স্কুলে"
+        ],
+        "answer": "দোকানে",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BNATURE_1120.jpg",
+        "question": "চিত্রে বাঙ্গালি কোন বিষয় ফুটে উঠেছে?",
+        "options": [
+            "মায়ের ভালোবাসা",
+            "মায়ের দুঃখ",
+            "বাবার ভালোবাসা",
+            "বাবার দুঃখ"
+        ],
+        "answer": "মায়ের ভালোবাসা",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BNATURE_1121.jpg",
+        "question": "ছবিতে গ্রাম বাংলার কি দেখানো হয়েছে?",
+        "options": [
+            "একটি ধানক্ষেত",
+            "একটি নদী",
+            "একটি গ্রাম",
+            "একটি রাস্তা"
+        ],
+        "answer": "একটি ধানক্ষেত",
+        "category": "Nature"
+    },
+    {
+        "filename": "BNATURE_1122.jpg",
+        "question": "ছবিতে কোন ফুলটি প্রধান্য পেয়েছে?",
+        "options": [
+            "গোলাপ ফুল",
+            "পদ্ম ফুল",
+            "সূর্যমুখী ফুল",
+            "সরিষা ফুল"
+        ],
+        "answer": "সরিষা ফুল",
+        "category": "Nature"
+    },
+    {
+        "filename": "BNATURE_1123.jpg",
+        "question": "চিত্রের মানচিত্রে কোন দেশ দেখা যাচ্ছে?",
+        "options": [
+            "ভারত",
+            "ভুটান",
+            "থাইল্যান্ড",
+            "বাংলাদেশ"
+        ],
+        "answer": "বাংলাদেশ",
+        "category": "Arts & History"
+    },
+    {
+        "filename": "BNATURE_1124.jpg",
+        "question": "গ্রামের ছবিটিতে কি দেখা যাচ্ছে?",
+        "options": [
+            "একটি নদীর দৃশ্য ও একটি লঞ্চ",
+            "একটি সমুদ্র সৈকত",
+            "একটি গ্রামের দৃশ্য",
+            "একটি বনের দৃশ্য"
+        ],
+        "answer": "একটি নদীর দৃশ্য ও একটি লঞ্চ",
+        "category": "Nature"
+    },
+    {
+        "filename": "BNATURE_1125.jpg",
+        "question": "ছবিতে প্রকৃতির কি ভিন্ন রূপ দেখা যাচ্ছে?",
+        "options": [
+            "একটি মৃত গাছের কাঠামো ও জলমগ্ন ভূমি",
+            "একটি সবুজ বন",
+            "একটি শুকনো মরুভূমি",
+            "একটি বরফে ঢাকা অঞ্চল"
+        ],
+        "answer": "একটি মৃত গাছের কাঠামো ও জলমগ্ন ভূমি",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_7560.png",
+        "question": "লোকটি কিসের ধারে দাড়িয়ে আছে?",
+        "options": [
+            "নদী",
+            "পুকুর",
+            "খাল",
+            "বিল"
+        ],
+        "answer": "পুকুর",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_7561.png",
+        "question": "চিত্রের বস্তুটি কোন কাজে ব্যবহৃত হয়?",
+        "options": [
+            "সেচকাজে",
+            "মাছধরায়",
+            "পড়ালেখায়",
+            "খেলাধুলায়"
+        ],
+        "answer": "মাছধরায়",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_7562.png",
+        "question": "মেয়েটি কি বিক্রি করছে?",
+        "options": [
+            "গাছ",
+            "ফুল",
+            "মালা",
+            "হাঁড়ী"
+        ],
+        "answer": "মালা",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_7563.png",
+        "question": "উল্লেখিত ব্যক্তিবর্গের পরিচয় কি?",
+        "options": [
+            "মা ও শিশু",
+            "মা ও বাবা",
+            "ভাই ও বোন",
+            "খালা ও ফুফু"
+        ],
+        "answer": "মা ও শিশু",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_7564.png",
+        "question": "চিত্রের প্রদর্শিত প্রাণীটি কি?",
+        "options": [
+            "গরু",
+            "ছাগল",
+            "বিড়াল",
+            "হাস"
+        ],
+        "answer": "বিড়াল",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_7565.png",
+        "question": "উল্লেখিত ছবিতে কি ধরনের বাজার দেখানো হয়েছে?",
+        "options": [
+            "সবজির বাজার",
+            "মাছের বাজার",
+            "ফলের বাজার",
+            "চালের বাজার"
+        ],
+        "answer": "সবজির বাজার",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_7567.png",
+        "question": "ছবিটির পটভূমিতে প্রধানত কি দেখানো হয়েছে?",
+        "options": [
+            "একটি বাইসাইকেল ও সরিষা ফুলের ক্ষেত",
+            "একটি তাল গাছ ও ধানের জমি",
+            "একটি নদীর দৃশ্য ও নৌকা",
+            "একটি পুরাতন বাড়ির ধ্বংসাবশেষ"
+        ],
+        "answer": "একটি বাইসাইকেল ও সরিষা ফুলের ক্ষেত",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_7568.png",
+        "question": "লোকটি বাঁশ দিয়ে কি তৈরি করছে?",
+        "options": [
+            "মাচা",
+            "পাতিল",
+            "চাটাই",
+            "পাটি"
+        ],
+        "answer": "চাটাই",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_7569.png",
+        "question": "ছবিটিতে কি প্রকাশিত হয়েছে?",
+        "options": [
+            "দারুশিল্প",
+            "কারুশিল্প",
+            "হস্তশিল্প",
+            "রন্ধনশিল্প"
+        ],
+        "answer": "দারুশিল্প",
+        "category": "Arts & History"
+    },
+    {
+        "filename": "CHITTRON_757.png",
+        "question": "মহিলাটি হাতে কি বহন করছে?",
+        "options": [
+            "গামলা",
+            "হাড়ি",
+            "কলস",
+            "পাতিল"
+        ],
+        "answer": "কলস",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_7570.png",
+        "question": "চিত্রে বাবা ও ছেলে কি পড়ে আছে?",
+        "options": [
+            "লুঙ্গি",
+            "শার্ট",
+            "পাঞ্জাবি",
+            "কোর্ট"
+        ],
+        "answer": "পাঞ্জাবি",
+        "category": "Clothing & Fashion"
+    },
+    {
+        "filename": "CHITTRON_7571.png",
+        "question": "পরিবারটি কেমন সময় কাটাচ্ছে?",
+        "options": [
+            "হাসিখুশি",
+            "দুঃখকষ্ট",
+            "হতাশা",
+            "প্রাণবন্ত"
+        ],
+        "answer": "প্রাণবন্ত",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_7573.png",
+        "question": "লোকটি পানিতে কি ধৌত করছে?",
+        "options": [
+            "পাটের আঁশ",
+            "রশি",
+            "প্লাস্টিক",
+            "রঙ"
+        ],
+        "answer": "পাটের আঁশ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_7574.png",
+        "question": "ছবিটি প্রামীন কোন সমাজের প্রতিনিধিত্ব করে?",
+        "options": [
+            "ভোগবিলাস",
+            "খেটেখাওয়া মানুষ",
+            "উচ্চবিত্ত",
+            "সাধারণ মানুষ"
+        ],
+        "answer": "খেটেখাওয়া মানুষ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_7575.png",
+        "question": "চিত্রের লোকগুলির পোশাক কি নির্দেশ করছে?",
+        "options": [
+            "হেমন্ত শুভেচ্ছা",
+            "শরৎশুভ্রম",
+            "পহেলা বৈশাক",
+            "বর্ষাশুভেচ্ছা"
+        ],
+        "answer": "পহেলা বৈশাক",
+        "category": "Clothing & Fashion"
+    },
+    {
+        "filename": "CHITTRON_7576.png",
+        "question": "ছবিতে  গ্রামীণ কোন দৃশ্য ফুটে উঠেছে?",
+        "options": [
+            "নদী ও পশুপাখি",
+            "একটি সেতু",
+            "ঘরবাড়ি",
+            "দূরের আকাশ"
+        ],
+        "answer": "নদী ও পশুপাখি",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_7577.png",
+        "question": "ছবির লোকটিকে দেখে কি মনে হচ্ছে?",
+        "options": [
+            "ক্রেতা",
+            "বিক্রেতা",
+            "মজুতদার",
+            "আড়ৎদার"
+        ],
+        "answer": "বিক্রেতা",
+        "category": "Food"
+    },
+    {
+        "filename": "CHITTRON_7578.png",
+        "question": "চিত্রে লোকটি কোথায় দাড়িয়ে আছে?",
+        "options": [
+            "খেতের পাশে",
+            "পুকুরের পাশে",
+            "রেললাইনের উপর",
+            "বাজারে"
+        ],
+        "answer": "রেললাইনের উপর",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_7579.png",
+        "question": "যে নৌকায় লোকজন পার হচ্ছে তাকে কি বলে?",
+        "options": [
+            "নৌকা",
+            "ডিঙ্গি",
+            "ট্রলার",
+            "ফেরী"
+        ],
+        "answer": "ট্রলার",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_7581.png",
+        "question": "লোকটি কোথায় দাড়িয়ে সুর্যউদয় দেখছে?",
+        "options": [
+            "নদীতে",
+            "খেতে",
+            "পাহাড়ে",
+            "দুর্গে"
+        ],
+        "answer": "পাহাড়ে",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_7582.png",
+        "question": "চিত্রের স্থানটি কোন জেলা?",
+        "options": [
+            "রাজশাহী",
+            "ঢাকা",
+            "বরিশাল",
+            "সিলেট"
+        ],
+        "answer": "ঢাকা",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_7583.png",
+        "question": "বিস্তীর্ণ জলরাশিতে কি শান্ত দৃশ্য তৈরি হয়েছে?",
+        "options": [
+            "একটি লঞ্চের ছবি",
+            "একটি পালতোলা নৌকার ছবি",
+            "একটি মাছ ধরার ট্রলারের ছবি",
+            "একটি নদীর শান্ত দৃশ্য"
+        ],
+        "answer": "একটি নদীর শান্ত দৃশ্য",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_7584.png",
+        "question": "বাচ্চাটিকে দেখে কোন সময়ের কথা মনে পড়ছে?",
+        "options": [
+            "কৈশোর",
+            "শৈশব",
+            "বার্ধক্য",
+            "শিশু"
+        ],
+        "answer": "শৈশব",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_7585.png",
+        "question": "ছবিতে গ্রামীণ জীবনের কোন দিকটি ফুটিয়ে তোলা হয়েছে?",
+        "options": [
+            "দৈনন্দিন পরিশ্রম ও জীবিকা নির্বাহ",
+            "উৎসব ও উদযাপন",
+            "প্রাকৃতিক দুর্যোগ ও মোকাবিলা",
+            "ঐতিহ্য ও সংস্কৃতি"
+        ],
+        "answer": "দৈনন্দিন পরিশ্রম ও জীবিকা নির্বাহ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_7586.png",
+        "question": "ব্যস্ত চিত্রটি কিসে তোলা?",
+        "options": [
+            "বাসে",
+            "ট্রেনে",
+            "জাহাজে",
+            "ট্রাকে"
+        ],
+        "answer": "ট্রেনে",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_7587.png",
+        "question": "বাচ্চারা কোথায় খেলা করছে?",
+        "options": [
+            "পার্কে",
+            "মাঠে",
+            "ঘাটে",
+            "বনে"
+        ],
+        "answer": "পার্কে",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_7588.png",
+        "question": "ছেলেরা কিসের পাশে ক্রিকেট খেলছে?",
+        "options": [
+            "নদী",
+            "পুকুর",
+            "রেললাইন",
+            "বিল"
+        ],
+        "answer": "রেললাইন",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_7589.png",
+        "question": "লোকটি পানিতে কি করছে?",
+        "options": [
+            "গোসল",
+            "মাছ ধরছে",
+            "সেচ দিচ্ছে",
+            "পান করছে"
+        ],
+        "answer": "মাছ ধরছে",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_759.png",
+        "question": "নৌকাটির পিছেনে কি ভেসে উঠেছে?",
+        "options": [
+            "নালা",
+            "পাহাড়",
+            "বিল্ডিং",
+            "চর"
+        ],
+        "answer": "পাহাড়",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_7590.png",
+        "question": "ছেলেটি কোরআন পড়ছে, এটি কোন সমাজের প্রতিনিধিত্ব করে?",
+        "options": [
+            "মুসলিম সমাজ",
+            "সাধারণ সমাজ",
+            "আধুনিক সমাজ",
+            "মধ্যযুগীয় সমাজ"
+        ],
+        "answer": "মুসলিম সমাজ",
+        "category": "Religious Events"
+    },
+    {
+        "filename": "CHITTRON_7591.png",
+        "question": "বিক্রেতা তার দোকানে কি বিক্রি করছে?",
+        "options": [
+            "হাড়ি",
+            "কলস",
+            "প্রসাধনী",
+            "টুপি"
+        ],
+        "answer": "টুপি",
+        "category": "Clothing & Fashion"
+    },
+    {
+        "filename": "CHITTRON_7592.png",
+        "question": "মেয়েটি যেই নৌকায় বসে আছে তাকে কি বলে?",
+        "options": [
+            "ট্রলার",
+            "ডিঙ্গি",
+            "সাম্পান",
+            "ময়ূরপঙ্খি"
+        ],
+        "answer": "ডিঙ্গি",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_7593.png",
+        "question": "ছেলেটি সাইকেল নিয়ে কেমন রাস্তায় চলছে?",
+        "options": [
+            "শুকনা",
+            "সবুজ",
+            "নিমজ্জিত",
+            "কালো"
+        ],
+        "answer": "নিমজ্জিত",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_7594.png",
+        "question": "মহিলাটি কিসে উঠতে তাড়াহুড়া করছে?",
+        "options": [
+            "বাসে",
+            "নৌকায়",
+            "ট্রেনে",
+            "ট্রাকে"
+        ],
+        "answer": "ট্রেনে",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_7595.png",
+        "question": "ছবিটি কোন বাজারকে প্রতিনিধিত্ব করে?",
+        "options": [
+            "মাটির শিল্প",
+            "কাঁচাবাজার",
+            "হাঠবাজার",
+            "মাঠঘাট"
+        ],
+        "answer": "কাঁচাবাজার",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_7596.png",
+        "question": "লোকটি যা দিয়ে কাপড় তৈরি করছে তাকে কি বলে?",
+        "options": [
+            "বাঁশ",
+            "কাঠ",
+            "তাঁত",
+            "মাকু"
+        ],
+        "answer": "তাঁত",
+        "category": "Clothing & Fashion"
+    },
+    {
+        "filename": "CHITTRON_7597.png",
+        "question": "গ্রামীণ লোকটি মাথায় কি নিয়ে দাড়িয়ে আছে?",
+        "options": [
+            "ফ্রিজ",
+            "লাঠি",
+            "টীভি",
+            "মোবাইল"
+        ],
+        "answer": "টীভি",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_7598.png",
+        "question": "চিত্রের স্টেশনটি কোন জায়গার প্রতিনিধিত্ব করছে?",
+        "options": [
+            "রংপুর",
+            "বরিশাল",
+            "কমলাপুর",
+            "সায়দাবাদ"
+        ],
+        "answer": "কমলাপুর",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_7599.png",
+        "question": "ছবিতে লোকটির হাতে কি ধরণের বাদ্যযন্ত্র দেখা যাচ্ছে?",
+        "options": [
+            "একটি সেতার",
+            "একটি তানপুরা",
+            "একটি দোতারা",
+            "একটি বেহালা"
+        ],
+        "answer": "একটি দোতারা",
+        "category": "Arts & History"
+    },
+    {
+        "filename": "CHITTRON_76.png",
+        "question": "লোকটি বস্তার উপর বসে কি করছে?",
+        "options": [
+            "পড়ালেখা",
+            "ধূমপান",
+            "লেখালেখি",
+            "খাওয়া"
+        ],
+        "answer": "ধূমপান",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_760.png",
+        "question": "চিত্রে কি ধরনের দোকান দেখা যাচ্ছে?",
+        "options": [
+            "শপিংমল",
+            "শপিংমার্ট",
+            "ছোট দোকান",
+            "মুদি দোকান"
+        ],
+        "answer": "মুদি দোকান",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_7600.png",
+        "question": "লোকটি এক লঞ্চ থেকে আরেক লঞ্চে যাচ্ছে এটি কিসের অভাব নির্দেশ করে?",
+        "options": [
+            "সচেতনতা",
+            "খাবার",
+            "পড়ালেখা",
+            "ইচ্ছা"
+        ],
+        "answer": "সচেতনতা",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_7601.png",
+        "question": "ছবিতে ধান খেতের পাশে কি রয়েছে?",
+        "options": [
+            "নদী",
+            "পুকুর",
+            "ডোবা",
+            "নালা"
+        ],
+        "answer": "নালা",
+        "category": "Social Life"
+    }
+]

@@ -1,0 +1,326 @@
+[
+    {
+        "filename": "BNATURE_1002.jpg",
+        "question": "লোকটি কি করছে?",
+        "options": [
+            "খেলাধুলা",
+            "সেলাই",
+            "পড়াশুনা",
+            "সাঁতারকাটা"
+        ],
+        "answer": "সেলাই",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BNATURE_1004.jpg",
+        "question": "লোকদের কি অবস্থা?",
+        "options": [
+            "আনন্দিত",
+            "তাড়াহুড়া",
+            "চিন্তিত",
+            "শান্ত"
+        ],
+        "answer": "তাড়াহুড়া",
+        "category": "Incidents"
+    },
+    {
+        "filename": "BNATURE_1008.jpg",
+        "question": "লোকেরা কি করছে?",
+        "options": [
+            "মারামারি",
+            "খেলাধুলা",
+            "কিছুই না",
+            "টিকাদান"
+        ],
+        "answer": "টিকাদান",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BNATURE_1011.jpg",
+        "question": "বাচ্চাগুলো কি করছে?",
+        "options": [
+            "খেলাধুলা",
+            "মারামারি",
+            "ঘরের কাজ",
+            "পড়াশুনা"
+        ],
+        "answer": "ঘরের কাজ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BNATURE_1015.jpg",
+        "question": "লোকজনের অবস্থা কেমন?",
+        "options": [
+            "আনন্দিত",
+            "বন্যা কবলিত",
+            "ক্রীড়ারত",
+            "রাগান্বিত"
+        ],
+        "answer": "বন্যা কবলিত",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BNATURE_1023.jpg",
+        "question": "মহিলাটি কোথায় আছে?",
+        "options": [
+            "বাসায়",
+            "ফার্মাসিতে",
+            "মাঠে",
+            "স্কুলে"
+        ],
+        "answer": "ফার্মাসিতে",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BNATURE_1031.jpg",
+        "question": "মেয়েরা কি করছে?",
+        "options": [
+            "মারামারি",
+            "খেলাধুলা",
+            "বনে ঘুরে বেড়ানো",
+            "শুয়ে থাকা"
+        ],
+        "answer": "বনে ঘুরে বেড়ানো",
+        "category": "Nature"
+    },
+    {
+        "filename": "BNATURE_1040.jpg",
+        "question": "বাচ্চারা কি করছে?",
+        "options": [
+            "মারামারি",
+            "খেলাধুলা",
+            "পড়াশুনা",
+            "কিছুই না"
+        ],
+        "answer": "পড়াশুনা",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BNATURE_1044.jpg",
+        "question": "লোকজন কি করছে?",
+        "options": [
+            "জড়ো হয়ে আছে",
+            "মারামারি করছে",
+            "পড়াশুনা করছে",
+            "ঘুমাচ্ছে"
+        ],
+        "answer": "জড়ো হয়ে আছে",
+        "category": "Incidents"
+    },
+    {
+        "filename": "BNATURE_1046.jpg",
+        "question": "অনুষ্ঠানটিতে কি হচ্ছে?",
+        "options": [
+            "মারামারি",
+            "পড়াশুনা",
+            "রঙ মাখামাখি",
+            "হইচই"
+        ],
+        "answer": "রঙ মাখামাখি",
+        "category": "Cultural Festivals"
+    },
+    {
+        "filename": "BNATURE_1050.jpg",
+        "question": "মেয়েরা কি করছে?",
+        "options": [
+            "খেলাধুলা",
+            "নাচ অনুশীলন",
+            "মারামারি",
+            "শুয়ে আছে"
+        ],
+        "answer": "নাচ অনুশীলন",
+        "category": "Arts & History"
+    },
+    {
+        "filename": "BNATURE_1055.jpg",
+        "question": "লোকগুলি কোথায় আছে?",
+        "options": [
+            "মাঠে",
+            "স্কুলে",
+            "নৌকায়",
+            "নদীর পাড়ে"
+        ],
+        "answer": "নদীর পাড়ে",
+        "category": "Nature"
+    },
+    {
+        "filename": "BNATURE_1058.jpg",
+        "question": "শিশুটি কি দেখছে?",
+        "options": [
+            "হাতি",
+            "গরু",
+            "বোতল",
+            "মাদক"
+        ],
+        "answer": "বোতল",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BNATURE_1063.jpg",
+        "question": "মেয়েটি কি খাচ্ছে?",
+        "options": [
+            "চা",
+            "মুড়ি",
+            "বিস্কুট",
+            "চিড়া"
+        ],
+        "answer": "বিস্কুট",
+        "category": "Food"
+    },
+    {
+        "filename": "BNATURE_1066.jpg",
+        "question": "ছেলেরা কোথায় আছে?",
+        "options": [
+            "নদীতে",
+            "রিকশায়",
+            "মাঠে",
+            "ট্রাকে"
+        ],
+        "answer": "মাঠে",
+        "category": "Nature"
+    },
+    {
+        "filename": "BNATURE_1068.jpg",
+        "question": "মেয়েটি কি করছে?",
+        "options": [
+            "মারামারি",
+            "পড়াশুনা",
+            "খেলাধুলা",
+            "সাঁতার কাটা"
+        ],
+        "answer": "খেলাধুলা",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BNATURE_107.jpg",
+        "question": "ছেলেটি কি করছে?",
+        "options": [
+            "পড়াশুনা",
+            "গোসল",
+            "মাছধরা",
+            "কোডিং"
+        ],
+        "answer": "গোসল",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BNATURE_1003.jpg",
+        "question": "মেয়েটি কি করছে?",
+        "options": [
+            "খেলাধুলা",
+            "পড়ালেখা",
+            "মারামারি",
+            "বিশ্রাম"
+        ],
+        "answer": "পড়ালেখা",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BNATURE_1009.jpg",
+        "question": "বাচ্চারা কি করছে?",
+        "options": [
+            "আনন্দ",
+            "মারামারি",
+            "খেলাধুলা",
+            "খাওয়া দাওয়া"
+        ],
+        "answer": "খেলাধুলা",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BNATURE_1012.jpg",
+        "question": "মেয়েগুলো কি করছে?",
+        "options": [
+            "পড়াশুনা",
+            "খাবার খাচ্ছে",
+            "মারামারি",
+            "শুয়ে আছে"
+        ],
+        "answer": "পড়াশুনা",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BNATURE_1024.jpg",
+        "question": "মেয়েটি কি করছে?",
+        "options": [
+            "মারামারি",
+            "খেলাধুলা",
+            "পড়াশুনা",
+            "শ্রদ্ধা নিবেদন"
+        ],
+        "answer": "শ্রদ্ধা নিবেদন",
+        "category": "Incidents"
+    },
+    {
+        "filename": "BNATURE_1045.jpg",
+        "question": "লোকটি কি করছে?",
+        "options": [
+            "ভিক্ষা",
+            "কাজ",
+            "পড়াশুনা",
+            "খেলাধুলা"
+        ],
+        "answer": "ভিক্ষা",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BNATURE_1051.jpg",
+        "question": "লোকজন কি দেখছে?",
+        "options": [
+            "হকার",
+            "শিক্ষক",
+            "ভিক্ষুক",
+            "বিদেশী"
+        ],
+        "answer": "বিদেশী",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BNATURE_1059.jpg",
+        "question": "ছবিটির সময়কাল কেমন?",
+        "options": [
+            "ভোর",
+            "সকাল",
+            "দুপুর",
+            "বিকাল"
+        ],
+        "answer": "বিকাল",
+        "category": "Nature"
+    },
+    {
+        "filename": "BNATURE_1067.jpg",
+        "question": "মেয়েটি কোথায় আছে?",
+        "options": [
+            "সংসদ ভবনে",
+            "শহিদ মিনারে",
+            "শহরে",
+            "গ্রামে"
+        ],
+        "answer": "শহিদ মিনারে",
+        "category": "Cultural Festivals"
+    },
+    {
+        "filename": "BNATURE_1005.jpg",
+        "question": "লোকজন কি করছে?",
+        "options": [
+            "খেলাধুলা",
+            "ছবি তোলা",
+            "মারামারি",
+            "খাবার খাওয়া"
+        ],
+        "answer": "ছবি তোলা",
+        "category": "Cultural Festivals"
+    },
+    {
+        "filename": "BNATURE_1047.jpg",
+        "question": "কিসের অনুষ্ঠান হচ্ছে?",
+        "options": [
+            "পুনোর্মিলোনী",
+            "মারামারি",
+            "প্রতিযোগিতা",
+            "উদ্বোধনী"
+        ],
+        "answer": "উদ্বোধনী",
+        "category": "Cultural Festivals"
+    }
+]

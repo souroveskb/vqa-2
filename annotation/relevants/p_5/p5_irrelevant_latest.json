@@ -1,0 +1,446 @@
+[
+    {
+        "filename": "BNATURE_2927.jpg",
+        "question": "এই অনুষ্ঠানটি কী?",
+        "options": [
+            "দিওয়ালি",
+            "ঈদ",
+            "হোলি",
+            "বড়দিন"
+        ],
+        "answer": "হোলি",
+        "category": "Religious Events"
+    },
+    {
+        "filename": "BNATURE_2934.jpg",
+        "question": "এই অনুষ্ঠানটি কোনটি?",
+        "options": [
+            "বিজয় দিবস",
+            "নবান্ন উৎসব",
+            "নববর্ষ",
+            "ঈদ"
+        ],
+        "answer": "বিজয় দিবস",
+        "category": "Cultural Festivals"
+    },
+    {
+        "filename": "BNATURE_2962.jpg",
+        "question": "টি কোন ধরনের কৃষিকাজ বোঝায়?",
+        "options": [
+            "আধুনিক কৃষি প্রযুক্তি",
+            "জৈব কৃষি",
+            "পুরনো পদ্ধতির কৃষিকাজ",
+            "কৃষি যান্ত্রিকীকরণ"
+        ],
+        "answer": "পুরনো পদ্ধতির কৃষিকাজ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BNATURE_3072.jpg",
+        "question": "নৌকাটি কী চালাচ্ছে?",
+        "options": [
+            "নাবিক",
+            "মাঝি",
+            "পাইলট",
+            "মেশিন"
+        ],
+        "answer": "মাঝি",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BNATURE_3083.jpg",
+        "question": "এই উপলক্ষটি কী?",
+        "options": [
+            "মহান শহীদ দিবস",
+            "স্বাধীনতা দিবস",
+            "নবান্ন উৎসব",
+            "পহেলা বৈশাখ"
+        ],
+        "answer": "মহান শহীদ দিবস",
+        "category": "Cultural Festivals"
+    },
+    {
+        "filename": "BNATURE_312.jpg",
+        "question": "ফটোটি কী দেখাচ্ছে?",
+        "options": [
+            "অতিরিক্ত নদী দুষণ",
+            "বনভূমি ধ্বংস",
+            "শহরের যানজট",
+            "কৃষি জমির ক্ষতি"
+        ],
+        "answer": "অতিরিক্ত নদী দুষণ",
+        "category": "Nature"
+    },
+    {
+        "filename": "BNATURE_3152.jpg",
+        "question": "এটি কার সমাধি?",
+        "options": [
+            "শিপাহী মোস্তফা কামাল",
+            "বীর উত্তম শহীদ আহসান উল্লাহ",
+            "রুহুল আমিন",
+            "শহীদ দিপু"
+        ],
+        "answer": "শিপাহী মোস্তফা কামাল",
+        "category": "Arts & History"
+    },
+    {
+        "filename": "BNATURE_3176.jpg",
+        "question": "এটি কী উৎসব?",
+        "options": [
+            "পহেলা বৈশাখ উৎসব (রামনা বটমূলে)",
+            "ঈদুল ফিতর",
+            "দুর্গাপূজা",
+            "স্বাধীনতা দিবস উদযাপন"
+        ],
+        "answer": "পহেলা বৈশাখ উৎসব (রামনা বটমূলে)",
+        "category": "Cultural Festivals"
+    },
+    {
+        "filename": "BNATURE_3215.jpg",
+        "question": "তারা কী খেলছে?",
+        "options": [
+            "ফুটবল",
+            "ক্রিকেট",
+            "ব্যাডমিন্টন",
+            "ভলিবল"
+        ],
+        "answer": "ফুটবল",
+        "category": "Sports"
+    },
+    {
+        "filename": "BNATURE_3220.jpg",
+        "question": "শিশুরা কী করছে?",
+        "options": [
+            "রাস্তায় বৃষ্টি উপভোগ করছে",
+            "স্কুলে যাচ্ছে",
+            "খেলার মাঠে খেলছে",
+            "নদীতে সাঁতার কাটছে"
+        ],
+        "answer": "রাস্তায় বৃষ্টি উপভোগ করছে",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BNATURE_3222.jpg",
+        "question": "স্টেশনটি কোথায় অবস্থিত?",
+        "options": [
+            "সিলেট",
+            "কমলাপুর, ঢাকা",
+            "চট্টগ্রাম",
+            "রাজশাহী"
+        ],
+        "answer": "কমলাপুর, ঢাকা",
+        "category": "Arts & History"
+    },
+    {
+        "filename": "BNATURE_323.jpg",
+        "question": "লঞ্চটির রুট কী?",
+        "options": [
+            "ঢাকা-চাঁদপুর",
+            "ঢাকা-বরিশাল",
+            "চট্টগ্রাম-সিলেট",
+            "খুলনা-রংপুর"
+        ],
+        "answer": "ঢাকা-চাঁদপুর",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BNATURE_3236.jpg",
+        "question": "ছবিটি কী দেখাচ্ছে?",
+        "options": [
+            "একজন গ্রাম্য মানুষ মাছ ধরছে",
+            "একজন গ্রাম্য মানুষ ধান কাটছে",
+            "একজন গ্রাম্য মানুষ হাঁস পালছে",
+            "একজন গ্রাম্য মানুষ গাছ লাগাচ্ছে"
+        ],
+        "answer": "একজন গ্রাম্য মানুষ মাছ ধরছে",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BNATURE_3257.jpg",
+        "question": "শিশুরা কী খেলছে?",
+        "options": [
+            "ক্রিকেট",
+            "ফুটবল",
+            "ব্যাডমিন্টন",
+            "ভলিবল"
+        ],
+        "answer": "ক্রিকেট",
+        "category": "Sports"
+    },
+    {
+        "filename": "BNATURE_3262.jpg",
+        "question": "এটি কী উৎসব?",
+        "options": [
+            "বিজয় দিবস",
+            "পূজা",
+            "ঈদুল ফিতর",
+            "পহেলা বৈশাখ"
+        ],
+        "answer": "পূজা",
+        "category": "Religious Events"
+    },
+    {
+        "filename": "BNATURE_334.jpg",
+        "question": "প্রতিবাদকারীদের পেশা কী?",
+        "options": [
+            "শিক্ষক",
+            "ছাত্র",
+            "ব্যবসায়ী",
+            "ডাক্তার"
+        ],
+        "answer": "ছাত্র",
+        "category": "Incidents"
+    },
+    {
+        "filename": "BNATURE_3410.jpg",
+        "question": "শিশুর কান্নার সম্ভবত কী কারণ হতে পারে?",
+        "options": [
+            "ভয়",
+            "ক্ষুধা",
+            "তৃষ্ণা",
+            "অবহেলা"
+        ],
+        "answer": "ক্ষুধা",
+        "category": "Incidents"
+    },
+    {
+        "filename": "BNATURE_3412.jpg",
+        "question": "এই ছবি কোন আন্দোলনের সাথে সম্পর্কিত?",
+        "options": [
+            "ভাষা আন্দোলন",
+            "জুলাই আন্দোলন",
+            "স্বাধিকার আন্দোলন",
+            "গণঅভ্যুত্থান"
+        ],
+        "answer": "জুলাই আন্দোলন",
+        "category": "Incidents"
+    },
+    {
+        "filename": "BNATURE_3420.jpg",
+        "question": "শিশুরা কী খেলছে?",
+        "options": [
+            "ক্রিকেট",
+            "ফুটবল",
+            "লুকোচুরি",
+            "ব্যাডমিন্টন"
+        ],
+        "answer": "ফুটবল",
+        "category": "Sports"
+    },
+    {
+        "filename": "BNATURE_3502.jpg",
+        "question": "শিশুরা কী করছে?",
+        "options": [
+            "আঁকাআঁকি করছে",
+            "খেলা করছে",
+            "গান গাচ্ছে",
+            "বই পড়ছে"
+        ],
+        "answer": "আঁকাআঁকি করছে",
+        "category": "Cultural Festivals"
+    },
+    {
+        "filename": "BNATURE_3504.jpg",
+        "question": "এটি কোথায় অবস্থিত?",
+        "options": [
+            "সাজেক",
+            "কক্সবাজার",
+            "সিলেট",
+            "চট্টগ্রাম"
+        ],
+        "answer": "সাজেক",
+        "category": "Nature"
+    },
+    {
+        "filename": "BNATURE_3510.jpg",
+        "question": "শিশুরা কোথায় ঘুমাচ্ছে?",
+        "options": [
+            "স্টেশনের ছাদে",
+            "স্কুলে",
+            "রাস্তায়",
+            "বাসার বারান্দায়"
+        ],
+        "answer": "স্টেশনের ছাদে",
+        "category": "Incidents"
+    },
+    {
+        "filename": "BNATURE_3522.jpg",
+        "question": "এটি কী অনুষ্ঠান?",
+        "options": [
+            "হলি উৎসব",
+            "দুর্গাপূজা",
+            "ঈদ উল ফিতর",
+            "বৌভাত"
+        ],
+        "answer": "হলি উৎসব",
+        "category": "Religious Events"
+    },
+    {
+        "filename": "BNATURE_3570.jpg",
+        "question": "শিশুরা কী খেলছে?",
+        "options": [
+            "ফুটবল",
+            "ক্রিকেট",
+            "ব্যাডমিন্টন",
+            "হকি"
+        ],
+        "answer": "ফুটবল",
+        "category": "Sports"
+    },
+    {
+        "filename": "BNATURE_3608.jpg",
+        "question": "শিশুরা কী উড়াচ্ছে?",
+        "options": [
+            "ঘুড়ি",
+            "হেলিকপ্টার",
+            "বেলুন",
+            "বিমান"
+        ],
+        "answer": "ঘুড়ি",
+        "category": "Sports"
+    },
+    {
+        "filename": "BNATURE_3621.jpg",
+        "question": "এটি কোন উৎসব?",
+        "options": [
+            "দুর্গাপূজা",
+            "ঈদ",
+            "পহেলা বৈশাখ",
+            "বড়দিন"
+        ],
+        "answer": "দুর্গাপূজা",
+        "category": "Religious Events"
+    },
+    {
+        "filename": "BNATURE_3940.jpg",
+        "question": "তারা ডিঙ্গি নৌকা ব্যবহার করে কী বহন করছে?  Options:",
+        "options": [
+            "মাছ",
+            "ফল",
+            "কাঠ",
+            "ধান"
+        ],
+        "answer": "মাছ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BNATURE_4080.jpg",
+        "question": "তারা নৌকার সামনের দিকে কোন সিনেমার দৃশ্য নকল করছে?",
+        "options": [
+            "হ্যারি পটার",
+            "টাইটানিক",
+            "কিং কং",
+            "অ্যাভেঞ্জার্স"
+        ],
+        "answer": "টাইটানিক",
+        "category": "Arts & History"
+    },
+    {
+        "filename": "BNATURE_4180.jpg",
+        "question": "মহিলাটি বসে থাকার সময় এমনভাবে পোজ দিতে তার কারণ কী?",
+        "options": [
+            "মডেলিং",
+            "আরাম করতে",
+            "ছবি তোলার জন্য",
+            "ঘুমানোর জন্য"
+        ],
+        "answer": "মডেলিং",
+        "category": "Arts & History"
+    },
+    {
+        "filename": "BNATURE_4625.jpg",
+        "question": "এই ছবি কোন আন্দোলনের ইঙ্গিত দিচ্ছে?",
+        "options": [
+            "জুলাই আন্দোলন ২০২৪",
+            "ভাষা আন্দোলন",
+            "মুক্তিযুদ্ধ",
+            "সাতই নভেম্বর আন্দোলন"
+        ],
+        "answer": "জুলাই আন্দোলন ২০২৪",
+        "category": "Incidents"
+    },
+    {
+        "filename": "BNATURE_2963.jpg",
+        "question": "টি কোন পেশার ইঙ্গিত দেয়?",
+        "options": [
+            "কৃষক",
+            "ব্যবসায়ী",
+            "শিক্ষক",
+            "ভিখারি"
+        ],
+        "answer": "ভিখারি",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BNATURE_3180.jpg",
+        "question": "এটি কী?",
+        "options": [
+            "জলপ্রপাত",
+            "পাহাড়",
+            "নদী",
+            "হ্রদ"
+        ],
+        "answer": "জলপ্রপাত",
+        "category": "Nature"
+    },
+    {
+        "filename": "BNATURE_3221.jpg",
+        "question": "লোকটি কী করছে?",
+        "options": [
+            "প্রার্থনা করছে",
+            "খাওয়া দাওয়া করছে",
+            "বিশ্রাম নিচ্ছে",
+            "পড়াশোনা করছে"
+        ],
+        "answer": "প্রার্থনা করছে",
+        "category": "Religious Events"
+    },
+    {
+        "filename": "BNATURE_3258.jpg",
+        "question": "ফটোটি কী দেখাচ্ছে?",
+        "options": [
+            "সূর্যাস্ত",
+            "সূর্যোদয়",
+            "বৃষ্টি",
+            "বরফপাত"
+        ],
+        "answer": "সূর্যাস্ত",
+        "category": "Nature"
+    },
+    {
+        "filename": "BNATURE_3268.jpg",
+        "question": "এটি কোথায় অবস্থিত?",
+        "options": [
+            "তামাবিল, সিলেট",
+            "কক্সবাজার",
+            "চট্টগ্রাম",
+            "রংপুর"
+        ],
+        "answer": "তামাবিল, সিলেট",
+        "category": "Nature"
+    },
+    {
+        "filename": "BNATURE_3421.jpg",
+        "question": "এই পাখিটি কোনটি?",
+        "options": [
+            "বক",
+            "শালিক",
+            "চিল",
+            "দোয়েল"
+        ],
+        "answer": "বক",
+        "category": "Nature"
+    },
+    {
+        "filename": "BNATURE_3503.jpg",
+        "question": "অনুষ্ঠান কোন সম্পর্কে?",
+        "options": [
+            "বিদায় অনুষ্ঠান",
+            "বিয়ে অনুষ্ঠান",
+            "জন্মদিনের অনুষ্ঠান",
+            "নববর্ষ অনুষ্ঠান"
+        ],
+        "answer": "বিদায় অনুষ্ঠান",
+        "category": "Cultural Festivals"
+    }
+]

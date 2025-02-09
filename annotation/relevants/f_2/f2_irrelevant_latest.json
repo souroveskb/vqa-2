@@ -1,0 +1,134 @@
+[
+    {
+        "filename": "CHITTRON_5790.png",
+        "question": "ছবিটি কোথাকার?",
+        "options": [
+            "সুন্দরবন",
+            "রাতারগুল জলাবন",
+            "কাপ্তাই জাতীয় উদ্যান",
+            "লাউয়াছড়া জাতীয় উদ্যান"
+        ],
+        "answer": "রাতারগুল জলাবন",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_5931.png",
+        "question": "ছবিতে ছেলেটির পাশে কী দেখা যাচ্ছে?",
+        "options": [
+            "সবুজ ফ্যান",
+            "লাল বালতি",
+            "খেলনা",
+            "মোবাইল"
+        ],
+        "answer": "সবুজ ফ্যান",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5970.png",
+        "question": "ছবিতে কোন খেলাটি দেখা যায়?",
+        "options": [
+            "বিচ ভলিবল",
+            "বিচ ফুটবল",
+            "ক্রিকেট",
+            "হ্যান্ডবল"
+        ],
+        "answer": "বিচ ভলিবল",
+        "category": "Sports"
+    },
+    {
+        "filename": "CHITTRON_60.png",
+        "question": "লোকটি কী করছে?",
+        "options": [
+            "খবরের কাগজ পড়ছে",
+            "গান গাচ্ছে",
+            "মাছ ধরছে",
+            "বই পড়ছে"
+        ],
+        "answer": "খবরের কাগজ পড়ছে",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_6014.png",
+        "question": "এটি কী পাখি?",
+        "options": [
+            "দোয়েল",
+            "কাক",
+            "মাছরাঙা",
+            "কবুতর"
+        ],
+        "answer": "মাছরাঙা",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_6017.png",
+        "question": "দৃশ্যটি কোথাকার?",
+        "options": [
+            "গাছের নিচে",
+            "নদীর তীরে",
+            "সমুদ্র সৈকত",
+            "বনের মাঝে"
+        ],
+        "answer": "সমুদ্র সৈকত",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_6046.png",
+        "question": "এখানে কয়টি শিশু দেখা যাচ্ছে?",
+        "options": [
+            "২",
+            "১",
+            "৩",
+            "৫"
+        ],
+        "answer": "২",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_6049.png",
+        "question": "ছবিতে কয়টি নৌকা দেখা যাচ্ছে?",
+        "options": [
+            "২",
+            "১",
+            "৪",
+            "৬"
+        ],
+        "answer": "৪",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_6054.png",
+        "question": "শিশুরা কি করছে?",
+        "options": [
+            "হাঁটছে",
+            "দোল খাচ্ছে",
+            "বসে  আছে",
+            "দৌড়াচ্ছে"
+        ],
+        "answer": "দোল খাচ্ছে",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_6074.png",
+        "question": "শিশুরা কি খেলছে?",
+        "options": [
+            "ক্রিকেট",
+            "ভলিবল",
+            "বিচ ফুটবল",
+            "বাস্কেটবল"
+        ],
+        "answer": "বিচ ফুটবল",
+        "category": "Sports"
+    },
+    {
+        "filename": "CHITTRON_6085.png",
+        "question": "দৃশটি কোথাকার?",
+        "options": [
+            "বাস স্টপ",
+            "নৌকা ঘাট",
+            "রেল স্টেশন",
+            "জাহাজ বন্দর"
+        ],
+        "answer": "রেল স্টেশন",
+        "category": "Social Life"
+    }
+]

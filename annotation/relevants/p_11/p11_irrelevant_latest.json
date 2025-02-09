@@ -1,0 +1,50 @@
+[
+    {
+        "filename": "BORNON_1145.jpg",
+        "question": "ছবিতে মোট কতো  ছাগল মাঠে বাধা ছিল?",
+        "options": [
+            "১",
+            "২",
+            "৩",
+            "৪"
+        ],
+        "answer": "২",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_1793.jpg",
+        "question": "নদীর তীরে কি ?",
+        "options": [
+            "কচুরিপানা",
+            "পাথর",
+            "গাছ",
+            "নৌকা"
+        ],
+        "answer": "নৌকা",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_1837.jpg",
+        "question": "মেহগনি গাছটি কোথায় ?",
+        "options": [
+            "পাহাড়ে",
+            "সমুদ্র উপকূলে",
+            "পার্কে",
+            "গ্রামে"
+        ],
+        "answer": "গ্রামে",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_116.jpg",
+        "question": "কতজন বাংলাদেশি পুলিশ দেখা যাচ্ছে?",
+        "options": [
+            "১",
+            "২",
+            "৩",
+            "৪"
+        ],
+        "answer": "১",
+        "category": "Social Life"
+    }
+]

@@ -1,0 +1,218 @@
+[
+    {
+        "filename": "BORNON_1384.jpg",
+        "question": "এই কুকুরটির জাত কী?",
+        "options": [
+            "জার্মান শেফার্ড",
+            "পপ্পি",
+            "বিগল",
+            "বুলডগ"
+        ],
+        "answer": "জার্মান শেফার্ড",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_1498.jpg",
+        "question": "এই পোকাটির প্রাথমিক জীবন পর্যায়কে কী বলা হয়?",
+        "options": [
+            "ক্যাটারপিলার",
+            "বেবি বাগ",
+            "টিকটিকি",
+            "লার্ভা"
+        ],
+        "answer": "ক্যাটারপিলার",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_2066.jpg",
+        "question": "ছবিতে থাকা ফুলটির নাম কী?",
+        "options": [
+            "গোলাপফুল (গোলাপি)",
+            "লাল পদ্ম",
+            "জবা ফুল",
+            "শাপলা"
+        ],
+        "answer": "গোলাপফুল (গোলাপি)",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_1497.jpg",
+        "question": "এই গাড়ির লোগোর কোম্পানির নাম কী?",
+        "options": [
+            "মার্সিডিজ বেঞ্জ",
+            "হুন্ডাই",
+            "টয়োটা",
+            "বিএমডব্লিউ"
+        ],
+        "answer": "মার্সিডিজ বেঞ্জ",
+        "category": "Incidents"
+    },
+    {
+        "filename": "BORNON_19.jpg",
+        "question": "ছাতার আড়ালে বেঞ্চে কতজন মানুষ বসে আছেন?",
+        "options": [
+            "১",
+            "২",
+            "৩",
+            "৪"
+        ],
+        "answer": "২",
+        "category": "Incidents"
+    },
+    {
+        "filename": "BORNON_1941.jpg",
+        "question": "ফুলটির নাম কী?",
+        "options": [
+            "গাঁদা ফুল",
+            "গোলাপ",
+            "বেলী",
+            "চন্দ্রমল্লিকা"
+        ],
+        "answer": "গাঁদা ফুল",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_2252.jpg",
+        "question": "ছবিটি কোন প্রাকৃতিক দুর্যোগকে নির্দেশ করছে?",
+        "options": [
+            "নদী ভাঙ্গন",
+            "বন্যা",
+            "ভূমিকম্প",
+            "সাইক্লোন"
+        ],
+        "answer": "নদী ভাঙ্গন",
+        "category": "Incidents"
+    },
+    {
+        "filename": "BORNON_2435.jpg",
+        "question": "পুরুষটি ল্যাপটপে যে টিভি শোটি দেখছে, তার নাম কী?",
+        "options": [
+            "হাউ আই মেট ইওর মাদার",
+            "ফ্রেন্ডস",
+            "গেম অফ থ্রোনস",
+            "বিগ ব্যাং থিওরি"
+        ],
+        "answer": "হাউ আই মেট ইওর মাদার",
+        "category": "Arts & History"
+    },
+    {
+        "filename": "BORNON_2747.jpg",
+        "question": "এই ঘরোয়া পশুটির নাম কী?",
+        "options": [
+            "বিড়াল",
+            "খরগোশ",
+            "কুকুর",
+            "মুরগি"
+        ],
+        "answer": "বিড়াল",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BORNON_2922.jpg",
+        "question": "এই দৃশ্যটি কোন বিখ্যাত মার্ভেল হিরোকে প্রতিনিধিত্ব করে?",
+        "options": [
+            "থর",
+            "আইরন ম্যান",
+            "ক্যাপ্টেন আমেরিকা",
+            "হক আই"
+        ],
+        "answer": "থর",
+        "category": "Arts & History"
+    },
+    {
+        "filename": "BORNON_3093.jpg",
+        "question": "এই পাখিটির নাম কী?",
+        "options": [
+            "টিয়াপাখি",
+            "কাক",
+            "ময়না",
+            "কবুতর"
+        ],
+        "answer": "টিয়াপাখি",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_3117.jpg",
+        "question": "ছবিতে কুকুরটির রঙ কী?",
+        "options": [
+            "বাদামী",
+            "সাদা",
+            "কালো",
+            "হলুদ"
+        ],
+        "answer": "সাদা",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_3280.jpg",
+        "question": "ছবির এই কুকুরটির জাত কি?",
+        "options": [
+            "বুলডগ",
+            "পগ",
+            "দালমেশিয়ান",
+            "জার্মান শেফার্ড"
+        ],
+        "answer": "বুলডগ",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_517.jpg",
+        "question": "তারা কী উড়াচ্ছে?",
+        "options": [
+            "ফানুস",
+            "পতাকা",
+            "বাতি",
+            "পাখি"
+        ],
+        "answer": "ফানুস",
+        "category": "Cultural Festivals"
+    },
+    {
+        "filename": "BORNON_780.jpg",
+        "question": "এই পাখিটির নাম কি?",
+        "options": [
+            "টিয়া",
+            "কাক",
+            "দোয়েল",
+            "চড়ুই"
+        ],
+        "answer": "টিয়া",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_1928.jpg",
+        "question": "ফুলটির নাম কী?",
+        "options": [
+            "চন্দ্রমল্লিকা",
+            "গাঁদা ফুল",
+            "গোলাপ",
+            "বেলী"
+        ],
+        "answer": "গাঁদা ফুল",
+        "category": "Nature"
+    },
+    {
+        "filename": "BORNON_2752.jpg",
+        "question": "ছবিতে বিড়ালের শরীরের রং কী?",
+        "options": [
+            "কালো",
+            "বাদামী",
+            "সোনালী",
+            "সাদা"
+        ],
+        "answer": "কালো",
+        "category": "Social Life"
+    },
+    {
+        "filename": "BORNON_788.jpg",
+        "question": "এই পাখিটির নাম কি?",
+        "options": [
+            "টিয়া",
+            "কাক",
+            "চড়ুই",
+            "দোয়েল"
+        ],
+        "answer": "টিয়া",
+        "category": "Nature"
+    }
+]

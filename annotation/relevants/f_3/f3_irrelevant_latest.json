@@ -1,0 +1,26 @@
+[
+    {
+        "filename": "CHITTRON_7564.png",
+        "question": "ছেলেটি কিসের ছবি তুলছে?",
+        "options": [
+            "পাখি",
+            "বাঘ",
+            "বিড়াল",
+            "খরগোশ"
+        ],
+        "answer": "বিড়াল",
+        "category": "Arts & History"
+    },
+    {
+        "filename": "CHITTRON_767.png",
+        "question": "ছবির নারী কিসে তার শ্রম দিচ্ছেন?",
+        "options": [
+            "তাঁত",
+            "চা",
+            "ধান",
+            "সবজি"
+        ],
+        "answer": "চা",
+        "category": "Social Life"
+    }
+]

@@ -4,3 +4,15 @@ dataset/
 
 __pycache__/
 */__pycache__/
+
+
+*/outputs
+
+.env
+*/.env
+
+*/.ipynb_checkpoints
+
+*/.vscode
+
+*/.pytest

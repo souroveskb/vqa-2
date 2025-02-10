@@ -6,10 +6,11 @@
             "সমুদ্র",
             "নদী",
             "লেক",
-            " সুইমিং পুল"
+            "সুইমিং পুল"
         ],
         "answer": "নদী",
-        "category": "Nature"
+        "category": "Nature",
+        "id": "P4BN1126"
     },
     {
         "filename": "BNATURE_1127.jpg",
@@ -21,7 +22,8 @@
             "নুডলস"
         ],
         "answer": "মুড়ি মাখা",
-        "category": "Food"
+        "category": "Food",
+        "id": "P4BN1127"
     },
     {
         "filename": "BNATURE_1128.jpg",
@@ -33,7 +35,8 @@
             "পর্যটন কেন্দ্র"
         ],
         "answer": "বস্তি",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1128"
     },
     {
         "filename": "BNATURE_1129.jpg",
@@ -45,19 +48,21 @@
             "পর্যটন কেন্দ্র"
         ],
         "answer": "বস্তি",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1129"
     },
     {
         "filename": "BNATURE_113.jpg",
         "question": "ছবিতে কোন ধরণের পরিবহন দেখানো হয়েছে?",
         "options": [
-            "রিকশা ",
-            "টেম্পো ",
+            "রিকশা",
+            "টেম্পো",
             "ট্রাক্টর",
-            "মোটরসাইকেল "
+            "মোটরসাইকেল"
         ],
         "answer": "ট্রাক্টর",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN113"
     },
     {
         "filename": "BNATURE_1131.jpg",
@@ -69,19 +74,21 @@
             "মালবাহী ট্রাক চালানো"
         ],
         "answer": "শহরের ভেতরে স্বল্প দূরত্বে যাত্রী পরিবহন করা",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1131"
     },
     {
         "filename": "BNATURE_1132.jpg",
         "question": "ছবিতে কোন ধরনের স্থাপত্য শৈলী দেখা যায়?",
         "options": [
-            "আধুনিক স্থাপত্য ",
+            "আধুনিক স্থাপত্য",
             "ঔপনিবেশিক স্থাপত্য",
             "ঐতিহ্যবাহী বাংলা স্থাপত্য",
-            "মুঘল স্থাপত্য "
+            "মুঘল স্থাপত্য"
         ],
         "answer": "ঐতিহ্যবাহী বাংলা স্থাপত্য",
-        "category": "Arts & History"
+        "category": "Arts & History",
+        "id": "P4BN1132"
     },
     {
         "filename": "BNATURE_1133.jpg",
@@ -93,19 +100,21 @@
             "একটি খেলা খেলছে"
         ],
         "answer": "একটি খাবার খাচ্ছে",
-        "category": "Food"
+        "category": "Food",
+        "id": "P4BN1133"
     },
     {
         "filename": "BNATURE_1134.jpg",
         "question": "ছবিতে কোন ধরনের জীবনযাত্রা প্রধানত ফুটিয়ে তোলা হয়েছে?",
         "options": [
-            "শহুরে, আধুনিক জীবন ",
-            "গ্রামীণ, কৃষিভিত্তিক জীবন ",
+            "শহুরে, আধুনিক জীবন",
+            "গ্রামীণ, কৃষিভিত্তিক জীবন",
             "শিল্প ও বাণিজ্য নির্ভর জীবন",
             "পেশাজীবী জীবন"
         ],
         "answer": "গ্রামীণ, কৃষিভিত্তিক জীবন",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1134"
     },
     {
         "filename": "BNATURE_1135.jpg",
@@ -113,11 +122,12 @@
         "options": [
             "ইমারত ভাঙা",
             "ইমারত তৈরি",
-            "রাস্তা তৈরি ",
-            "সেতু নির্মাণ "
+            "রাস্তা তৈরি",
+            "সেতু নির্মাণ"
         ],
         "answer": "ইমারত তৈরি",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1135"
     },
     {
         "filename": "BNATURE_1136.jpg",
@@ -129,7 +139,8 @@
             "পাথর ভেঙে"
         ],
         "answer": "পাথর তুলে",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1136"
     },
     {
         "filename": "BNATURE_1137.jpg",
@@ -141,7 +152,8 @@
             "কাপড় সেলাই করছেন"
         ],
         "answer": "পাথর তুলছেন",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1137"
     },
     {
         "filename": "BNATURE_1138.jpg",
@@ -153,31 +165,34 @@
             "কাপড় সেলাই করছেন"
         ],
         "answer": "পাথর তুলছেন",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1138"
     },
     {
         "filename": "BNATURE_114.jpg",
         "question": "ছবিতে মেয়েটি কী করছে?",
         "options": [
-            "মাছ ধরছে ",
+            "মাছ ধরছে",
             "নৌকা চালাচ্ছে",
             "শাপলা তুলছে",
             "গান গাইছে"
         ],
         "answer": "শাপলা তুলছে",
-        "category": "Nature"
+        "category": "Nature",
+        "id": "P4BN114"
     },
     {
         "filename": "BNATURE_1140.jpg",
         "question": "ছবিতে কী ধরনের অনুষ্ঠান হচ্ছে বলে মনে হয়?",
         "options": [
-            "একটি আন্তর্জাতিক লোকসংগীত উৎসব ",
-            "একটি কূটনৈতিক বৈঠক বা চুক্তি স্বাক্ষর অনুষ্ঠান ",
+            "একটি আন্তর্জাতিক লোকসংগীত উৎসব",
+            "একটি কূটনৈতিক বৈঠক বা চুক্তি স্বাক্ষর অনুষ্ঠান",
             "একটি ঐতিহ্যবাহী কারুশিল্প প্রদর্শনী",
             "একটি জাতীয় সাংস্কৃতিক অনুষ্ঠান"
         ],
         "answer": "একটি কূটনৈতিক বৈঠক বা চুক্তি স্বাক্ষর অনুষ্ঠান",
-        "category": "Incidents"
+        "category": "Incidents",
+        "id": "P4BN1140"
     },
     {
         "filename": "BNATURE_1141.jpg",
@@ -189,7 +204,8 @@
             "ভয়"
         ],
         "answer": "হাসি",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1141"
     },
     {
         "filename": "BNATURE_1143.jpg",
@@ -198,22 +214,24 @@
             "বাংলাদেশ সেনাবাহিনী",
             "বাংলাদেশ বিমান বাহিনী",
             "বাংলাদেশ নৌবাহিনী",
-            "বাংলাদেশ কোস্ট গার্ড "
+            "বাংলাদেশ কোস্ট গার্ড"
         ],
         "answer": "বাংলাদেশ নৌবাহিনী",
-        "category": "Incidents"
+        "category": "Incidents",
+        "id": "P4BN1143"
     },
     {
         "filename": "BNATURE_1144.jpg",
         "question": "কাপ্তাই হ্রদ কোথায় অবস্থিত?",
         "options": [
-            "ঢাকা জেলায় ",
-            "রাঙ্গামাটি জেলায় ",
-            "খুলনা জেলায় ",
+            "ঢাকা জেলায়",
+            "রাঙ্গামাটি জেলায়",
+            "খুলনা জেলায়",
             "সিলেট জেলায়"
         ],
         "answer": "রাঙ্গামাটি জেলায়",
-        "category": "Nature"
+        "category": "Nature",
+        "id": "P4BN1144"
     },
     {
         "filename": "BNATURE_1145.jpg",
@@ -222,10 +240,11 @@
             "একটি ব্যস্ত শহর",
             "একটি শান্তিপূর্ণ নদী বা জলাশয়",
             "একটি ঐতিহাসিক দুর্গ",
-            "একটি জনাকীর্ণ বাজার "
+            "একটি জনাকীর্ণ বাজার"
         ],
         "answer": "একটি শান্তিপূর্ণ নদী বা জলাশয়",
-        "category": "Nature"
+        "category": "Nature",
+        "id": "P4BN1145"
     },
     {
         "filename": "BNATURE_1146.jpg",
@@ -237,7 +256,8 @@
             "তারা মসজিদ"
         ],
         "answer": "বায়তুল মোকাররম জাতীয় মসজিদ",
-        "category": "Religious Events"
+        "category": "Religious Events",
+        "id": "P4BN1146"
     },
     {
         "filename": "BNATURE_1147.jpg",
@@ -249,7 +269,8 @@
             "পেঁপে"
         ],
         "answer": "কাঁঠাল",
-        "category": "Food"
+        "category": "Food",
+        "id": "P4BN1147"
     },
     {
         "filename": "BNATURE_1148.jpg",
@@ -261,43 +282,47 @@
             "ডাহুক"
         ],
         "answer": "কালপেট্টি গাংচিল",
-        "category": "Nature"
+        "category": "Nature",
+        "id": "P4BN1148"
     },
     {
         "filename": "BNATURE_1149.jpg",
         "question": "ছবিতে কোন ধরনের ঘর দেখানো হয়েছে?",
         "options": [
-            "ইটের ঘর ",
-            "টিনের ঘর ",
+            "ইটের ঘর",
+            "টিনের ঘর",
             "বাঁশের ঘর",
-            "মাটির ঘর "
+            "মাটির ঘর"
         ],
         "answer": "টিনের ঘর",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1149"
     },
     {
         "filename": "BNATURE_115.jpg",
         "question": "ছবিতে কী দেখানো হয়েছে?",
         "options": [
-            "একটি চা বাগান ",
+            "একটি চা বাগান",
             "একটি ধান ক্ষেত",
-            "একটি পাট ক্ষেত ",
+            "একটি পাট ক্ষেত",
             "একটি সবজির বাগান"
         ],
         "answer": "একটি ধান ক্ষেত",
-        "category": "Nature"
+        "category": "Nature",
+        "id": "P4BN115"
     },
     {
         "filename": "BNATURE_1150.jpg",
         "question": "ছবিতে কোন ধরনের পাখির সমাগম দেখা যাচ্ছে?",
         "options": [
-            "বালিহাঁস ",
+            "বালিহাঁস",
             "বক",
             "চিল",
             "পান কৌড়ি"
         ],
         "answer": "বক",
-        "category": "Nature"
+        "category": "Nature",
+        "id": "P4BN1150"
     },
     {
         "filename": "BNATURE_1151.jpg",
@@ -309,7 +334,8 @@
             "একটি যাযাবর জীবন"
         ],
         "answer": "একটি দরিদ্র গ্রামীণ জীবন",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1151"
     },
     {
         "filename": "BNATURE_1152.jpg",
@@ -321,19 +347,21 @@
             "উপরের সবগুলোই"
         ],
         "answer": "উপরের সবগুলোই",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1152"
     },
     {
         "filename": "BNATURE_1153.jpg",
         "question": "ছবিতে কোন গাছটি দেখা যাচ্ছে?",
         "options": [
             "আম গাছ",
-            "কাঁঠাল গাছ ",
-            "শিমুল গাছ ",
+            "কাঁঠাল গাছ",
+            "শিমুল গাছ",
             "নারকেল গাছ"
         ],
         "answer": "শিমুল গাছ",
-        "category": "Nature"
+        "category": "Nature",
+        "id": "P4BN1153"
     },
     {
         "filename": "BNATURE_1154.jpg",
@@ -342,34 +370,37 @@
             "একটি ফেরি",
             "একটি লঞ্চ",
             "একটি মালবাহী নৌকা",
-            "একটি স্পিডবোট "
+            "একটি স্পিডবোট"
         ],
         "answer": "একটি মালবাহী নৌকা",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1154"
     },
     {
         "filename": "BNATURE_1155.jpg",
         "question": "ছবিতে কোন ধরনের নৌযান ব্যবহার করা হয়েছে?",
         "options": [
-            "একটি লঞ্চ ",
-            "একটি ফেরি ",
-            "একটি জাহাজ ",
+            "একটি লঞ্চ",
+            "একটি ফেরি",
+            "একটি জাহাজ",
             "কটি স্পিডবোট"
         ],
         "answer": "একটি ফেরি",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1155"
     },
     {
         "filename": "BNATURE_1157.jpg",
         "question": "ছবিটি কোন ধরনের জীবনযাত্রার প্রতিচ্ছবি?",
         "options": [
-            "শহুরে জীবন ",
+            "শহুরে জীবন",
             "গ্রামীণ জীবন",
-            "আধুনিক জীবন ",
-            "বিত্তশালী জীবন "
+            "আধুনিক জীবন",
+            "বিত্তশালী জীবন"
         ],
         "answer": "গ্রামীণ জীবন",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1157"
     },
     {
         "filename": "BNATURE_1158.jpg",
@@ -381,19 +412,21 @@
             "একটি মাইক্রোবাস"
         ],
         "answer": "একটি বাস",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1158"
     },
     {
         "filename": "BNATURE_116.jpg",
         "question": "ছবিতে কী কী প্রাকৃতিক বৈশিষ্ট্য দেখা যাচ্ছে?",
         "options": [
-            "নদী, পাহাড়, মেঘ ",
+            "নদী, পাহাড়, মেঘ",
             "সমুদ্র, সৈকত, সূর্য",
             "মরুভূমি, টিলা, পাথর",
-            "বন, হ্রদ, প্রাণী "
+            "বন, হ্রদ, প্রাণী"
         ],
         "answer": "নদী, পাহাড়, মেঘ",
-        "category": "Nature"
+        "category": "Nature",
+        "id": "P4BN116"
     },
     {
         "filename": "BNATURE_1160.jpg",
@@ -402,10 +435,11 @@
             "একটি ফেরি",
             "একটি লঞ্চ",
             "একটি ট্রলার",
-            "একটি বজরা "
+            "একটি বজরা"
         ],
         "answer": "একটি ট্রলার",
-        "category": "Nature"
+        "category": "Nature",
+        "id": "P4BN1160"
     },
     {
         "filename": "BNATURE_1161.jpg",
@@ -417,7 +451,8 @@
             "সুপ্রিম কোর্ট ভবন"
         ],
         "answer": "জাতীয় সংসদ ভবন",
-        "category": "Arts & History"
+        "category": "Arts & History",
+        "id": "P4BN1161"
     },
     {
         "filename": "BNATURE_1162.jpg",
@@ -425,23 +460,25 @@
         "options": [
             "মা ও মেয়ে",
             "দাদী ও নাতনী",
-            "নানী ও নাতনী ",
-            "বোন ও বোন "
+            "নানী ও নাতনী",
+            "বোন ও বোন"
         ],
         "answer": "দাদী ও নাতনী",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1162"
     },
     {
         "filename": "BNATURE_1163.jpg",
         "question": "বাংলাদেশের ক্ষুদ্র নৃগোষ্ঠীর ঐতিহ্যবাহী পোশাক সম্পর্কে কোনটি সত্য?",
         "options": [
-            "সব নৃগোষ্ঠীর পোশাক একই রকম ",
-            "পোশাকগুলি আধুনিক এবং পশ্চিমা ধাঁচের ",
-            "বিভিন্ন নৃগোষ্ঠীর পোশাক ভিন্ন এবং ঐতিহ্যবাহী ",
-            "পোশাকগুলি সাধারণত সিনথেটিক কাপড় দিয়ে তৈরি "
+            "সব নৃগোষ্ঠীর পোশাক একই রকম",
+            "পোশাকগুলি আধুনিক এবং পশ্চিমা ধাঁচের",
+            "বিভিন্ন নৃগোষ্ঠীর পোশাক ভিন্ন এবং ঐতিহ্যবাহী",
+            "পোশাকগুলি সাধারণত সিনথেটিক কাপড় দিয়ে তৈরি"
         ],
         "answer": "বিভিন্ন নৃগোষ্ঠীর পোশাক ভিন্ন এবং ঐতিহ্যবাহী",
-        "category": "Clothing & Fashion"
+        "category": "Clothing & Fashion",
+        "id": "P4BN1163"
     },
     {
         "filename": "BNATURE_1166.jpg",
@@ -453,7 +490,8 @@
             "পোশাক"
         ],
         "answer": "শাকসবজি",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1166"
     },
     {
         "filename": "BNATURE_1167.jpg",
@@ -461,11 +499,12 @@
         "options": [
             "শাড়ি",
             "লেহেঙ্গা",
-            "সালওয়ার কামিজ ",
+            "সালওয়ার কামিজ",
             "স্কার্ট"
         ],
         "answer": "সালওয়ার কামিজ",
-        "category": "Clothing & Fashion"
+        "category": "Clothing & Fashion",
+        "id": "P4BN1167"
     },
     {
         "filename": "BNATURE_1169.jpg",
@@ -477,19 +516,21 @@
             "বন্দরে"
         ],
         "answer": "গ্রামে",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1169"
     },
     {
         "filename": "BNATURE_117.jpg",
         "question": "ছবিটি কোন প্রাকৃতিক দুর্যোগের প্রতিচ্ছবি?",
         "options": [
-            "নদী ভাঙন ",
+            "নদী ভাঙন",
             "বজ্রপাত",
             "বন্যা",
             "সাইক্লোন"
         ],
         "answer": "বন্যা",
-        "category": "Nature"
+        "category": "Nature",
+        "id": "P4BN117"
     },
     {
         "filename": "BNATURE_1173.jpg",
@@ -497,23 +538,25 @@
         "options": [
             "মুড়ি",
             "বাদাম",
-            "ছোলা বুট ",
+            "ছোলা বুট",
             "ফল"
         ],
         "answer": "ছোলা বুট",
-        "category": "Food"
+        "category": "Food",
+        "id": "P4BN1173"
     },
     {
         "filename": "BNATURE_1174.jpg",
         "question": "ছবিতে কী দেখা যাচ্ছে?",
         "options": [
-            "একটি কারখানা ",
+            "একটি কারখানা",
             "একটি ইটভাটা",
             "একটি বিদ্যুৎ কেন্দ্র",
             "একটি কৃষি খামার"
         ],
         "answer": "একটি ইটভাটা",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1174"
     },
     {
         "filename": "BNATURE_1175.jpg",
@@ -525,7 +568,8 @@
             "কক্সবাজার"
         ],
         "answer": "জাফলং",
-        "category": "Nature"
+        "category": "Nature",
+        "id": "P4BN1175"
     },
     {
         "filename": "BNATURE_1176.jpg",
@@ -537,7 +581,8 @@
             "একটি শিশু"
         ],
         "answer": "একজন বৃদ্ধ",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1176"
     },
     {
         "filename": "BNATURE_1178.jpg",
@@ -549,7 +594,8 @@
             "নৌকা"
         ],
         "answer": "ট্রেন",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1178"
     },
     {
         "filename": "BNATURE_1179.jpg",
@@ -558,34 +604,37 @@
             "শিক্ষাদান",
             "আলোচনা",
             "প্রদর্শন",
-            "উপরের সবগুলোই "
+            "উপরের সবগুলোই"
         ],
         "answer": "উপরের সবগুলোই",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1179"
     },
     {
         "filename": "BNATURE_118.jpg",
         "question": "ছবিতে কী দেখা যাচ্ছে?",
         "options": [
-            "একটি টিলা ",
+            "একটি টিলা",
             "একটি খেলার মাঠ",
-            "একটি সবুজ মাঠ ",
+            "একটি সবুজ মাঠ",
             "একটি পার্ক"
         ],
         "answer": "একটি টিলা",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN118"
     },
     {
         "filename": "BNATURE_1181.jpg",
         "question": "ছবির প্রধান বৈশিষ্ট্য কী?",
         "options": [
             "বহু গাছ",
-            "সবুজ মাঠ ",
+            "সবুজ মাঠ",
             "মেঘলা আকাশ",
-            "উপরের সবগুলোই "
+            "উপরের সবগুলোই"
         ],
         "answer": "উপরের সবগুলোই",
-        "category": "Nature"
+        "category": "Nature",
+        "id": "P4BN1181"
     },
     {
         "filename": "BNATURE_1182.jpg",
@@ -597,7 +646,8 @@
             "ঢাকা"
         ],
         "answer": "চট্টগ্রাম",
-        "category": "Arts & History"
+        "category": "Arts & History",
+        "id": "P4BN1182"
     },
     {
         "filename": "BNATURE_1183.jpg",
@@ -609,7 +659,8 @@
             "নদী এবং নৌকা"
         ],
         "answer": "কিছু আধুনিক বহুতল ভবন",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1183"
     },
     {
         "filename": "BNATURE_119.jpg",
@@ -621,7 +672,8 @@
             "ছনের তৈরি বাড়ি"
         ],
         "answer": "ছনের তৈরি বাড়ি",
-        "category": "Nature"
+        "category": "Nature",
+        "id": "P4BN119"
     },
     {
         "filename": "BNATURE_1192.jpg",
@@ -633,7 +685,8 @@
             "কলা"
         ],
         "answer": "পেয়ারা",
-        "category": "Food"
+        "category": "Food",
+        "id": "P4BN1192"
     },
     {
         "filename": "BNATURE_1194.jpg",
@@ -645,7 +698,8 @@
             "রাজশাহী"
         ],
         "answer": "সিলেট",
-        "category": "Nature"
+        "category": "Nature",
+        "id": "P4BN1194"
     },
     {
         "filename": "BNATURE_1197.jpg",
@@ -657,19 +711,21 @@
             "শিশির"
         ],
         "answer": "বৃষ্টি",
-        "category": "Nature"
+        "category": "Nature",
+        "id": "P4BN1197"
     },
     {
         "filename": "BNATURE_1198.jpg",
         "question": "ছবিতে কি ধরণের দৃশ্য দেখা যাচ্ছে?",
         "options": [
             "একটি সমুদ্র সৈকত",
-            " একটি নদীর দৃশ্য ",
+            "একটি নদীর দৃশ্য",
             "একটি হ্রদের দৃশ্য",
             "একটি জলপ্রপাত"
         ],
         "answer": "একটি নদীর দৃশ্য",
-        "category": "Nature"
+        "category": "Nature",
+        "id": "P4BN1198"
     },
     {
         "filename": "BNATURE_1199.jpg",
@@ -681,19 +737,21 @@
             "সিলেট"
         ],
         "answer": "ঢাকা",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1199"
     },
     {
         "filename": "BNATURE_12.jpg",
         "question": "জুলাই মাসে বাংলাদেশে ছাত্র আন্দোলনের মূল কারণ কি ছিল?",
         "options": [
-            "শিক্ষাব্যবস্থার পরিবর্তন ",
-            "সরকারি চাকরিতে কোটা সংস্কারের দাবি ",
+            "শিক্ষাব্যবস্থার পরিবর্তন",
+            "সরকারি চাকরিতে কোটা সংস্কারের দাবি",
             "পরিবহন শ্রমিকদের ধর্মঘট",
             "দ্রব্যমূল্যের ঊর্ধ্বগতি"
         ],
         "answer": "সরকারি চাকরিতে কোটা সংস্কারের দাবি",
-        "category": "Incidents"
+        "category": "Incidents",
+        "id": "P4BN12"
     },
     {
         "filename": "BNATURE_120.jpg",
@@ -705,19 +763,21 @@
             "চা"
         ],
         "answer": "সরিষা",
-        "category": "Nature"
+        "category": "Nature",
+        "id": "P4BN120"
     },
     {
         "filename": "BNATURE_1200.jpg",
         "question": "লোকটি কি নিয়ে বসে আছে?",
         "options": [
-            "মাছ ",
+            "মাছ",
             "সবজি",
             "ফল",
             "পোশাক"
         ],
         "answer": "মাছ",
-        "category": "Food"
+        "category": "Food",
+        "id": "P4BN1200"
     },
     {
         "filename": "BNATURE_1201.jpg",
@@ -725,11 +785,12 @@
         "options": [
             "সুন্দরবন",
             "সিলেট",
-            "চট্টগ্রাম পার্বত্য অঞ্চল ",
-            "রাজশাহী অঞ্চল "
+            "চট্টগ্রাম পার্বত্য অঞ্চল",
+            "রাজশাহী অঞ্চল"
         ],
         "answer": "সুন্দরবন",
-        "category": "Nature"
+        "category": "Nature",
+        "id": "P4BN1201"
     },
     {
         "filename": "BNATURE_1202.jpg",
@@ -741,7 +802,8 @@
             "রাজশাহী"
         ],
         "answer": "সুন্দরবন",
-        "category": "Nature"
+        "category": "Nature",
+        "id": "P4BN1202"
     },
     {
         "filename": "BNATURE_1205.jpg",
@@ -753,7 +815,8 @@
             "সূর্যমুখী"
         ],
         "answer": "শাপলা",
-        "category": "Nature"
+        "category": "Nature",
+        "id": "P4BN1205"
     },
     {
         "filename": "BNATURE_1207.jpg",
@@ -765,55 +828,60 @@
             "হলুদ"
         ],
         "answer": "কালো জিরা",
-        "category": "Food"
+        "category": "Food",
+        "id": "P4BN1207"
     },
     {
         "filename": "BNATURE_1208.jpg",
         "question": "ছবিতে কি করা হচ্ছে বলে মনে হয়?",
         "options": [
-            "ধান কাটা হচ্ছে ",
-            "ধান লাগানো হচ্ছে ",
-            "জমিতে সার দেওয়া হচ্ছে ",
-            "জমি তৈরি করা হচ্ছে "
+            "ধান কাটা হচ্ছে",
+            "ধান লাগানো হচ্ছে",
+            "জমিতে সার দেওয়া হচ্ছে",
+            "জমি তৈরি করা হচ্ছে"
         ],
         "answer": "ধান লাগানো হচ্ছে",
-        "category": "Nature"
+        "category": "Nature",
+        "id": "P4BN1208"
     },
     {
         "filename": "BNATURE_1209.jpg",
         "question": "ছবিতে কি দেখা যাচ্ছে?",
         "options": [
-            " একজন গ্রামীণ বধূ",
-            " একটি গ্রামীণ উৎসব",
-            " একটি গ্রামীণ বাজার ",
-            "একটি গ্রামীণ দৃশ্য "
+            "একজন গ্রামীণ বধূ",
+            "একটি গ্রামীণ উৎসব",
+            "একটি গ্রামীণ বাজার",
+            "একটি গ্রামীণ দৃশ্য"
         ],
         "answer": "একজন গ্রামীণ বধূ",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1209"
     },
     {
         "filename": "BNATURE_121.jpg",
         "question": "ছবিতে শিশুটি কি করছে?",
         "options": [
-            "মাছ ধরছে ",
-            "শাপলা তুলছে ",
+            "মাছ ধরছে",
+            "শাপলা তুলছে",
             "সাঁতার কাটছে",
             "খেলছে"
         ],
         "answer": "শাপলা তুলছে",
-        "category": "Nature"
+        "category": "Nature",
+        "id": "P4BN121"
     },
     {
         "filename": "BNATURE_1210.jpg",
         "question": "ছবিতে কি দেখা যাচ্ছে?",
         "options": [
             "একজন গ্রামীণ বৃদ্ধা মহিলা",
-            "একটি গ্রামীণ বাজার ",
-            "একটি গ্রামীণ দৃশ্য ",
-            "একজন গ্রামীণ শিশু "
+            "একটি গ্রামীণ বাজার",
+            "একটি গ্রামীণ দৃশ্য",
+            "একজন গ্রামীণ শিশু"
         ],
         "answer": "একজন গ্রামীণ বৃদ্ধা মহিলা",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1210"
     },
     {
         "filename": "BNATURE_1216.jpg",
@@ -822,10 +890,11 @@
             "হ্যাঁ, অবশ্যই",
             "সম্ভবত",
             "খুব কম সম্ভাবনা",
-            "না, একেবারেই না "
+            "না, একেবারেই না"
         ],
         "answer": "সম্ভবত",
-        "category": "Nature"
+        "category": "Nature",
+        "id": "P4BN1216"
     },
     {
         "filename": "BNATURE_1218.jpg",
@@ -837,7 +906,8 @@
             "ঘুমাচ্ছে"
         ],
         "answer": "খেলছে",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1218"
     },
     {
         "filename": "BNATURE_1219.jpg",
@@ -849,19 +919,21 @@
             "একটি লোকসংগীত অনুষ্ঠান"
         ],
         "answer": "একটি পিঠা উৎসব",
-        "category": "Cultural Festivals"
+        "category": "Cultural Festivals",
+        "id": "P4BN1219"
     },
     {
         "filename": "BNATURE_122.jpg",
         "question": "ছবিতে কি দেখা যাচ্ছে?",
         "options": [
-            "একজন লোক নৌকায় করে মাছ ধরছে ",
-            "একজন লোক নদীতে সাঁতার কাটছে ",
-            " একজন লোক নদীর ধারে বসে আছে",
-            " একজন লোক নৌকা চালাচ্ছে "
+            "একজন লোক নৌকায় করে মাছ ধরছে",
+            "একজন লোক নদীতে সাঁতার কাটছে",
+            "একজন লোক নদীর ধারে বসে আছে",
+            "একজন লোক নৌকা চালাচ্ছে"
         ],
         "answer": "একজন লোক নৌকায় করে মাছ ধরছে",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN122"
     },
     {
         "filename": "BNATURE_1220.jpg",
@@ -873,19 +945,21 @@
             "সাধারণ কাপড়"
         ],
         "answer": "রঙবেরঙের ঐতিহ্যবাহী পোশাক",
-        "category": "Clothing & Fashion"
+        "category": "Clothing & Fashion",
+        "id": "P4BN1220"
     },
     {
         "filename": "BNATURE_1223.jpg",
         "question": "ছবিতে শিশুরা কী করছে?",
         "options": [
-            "নতুন বই পেয়ে খুশি হচ্ছে ",
+            "নতুন বই পেয়ে খুশি হচ্ছে",
             "খেলাধুলা করছে",
-            "গান গাইছে ",
-            " ঘুমাচ্ছে"
+            "গান গাইছে",
+            "ঘুমাচ্ছে"
         ],
         "answer": "নতুন বই পেয়ে খুশি হচ্ছে",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1223"
     },
     {
         "filename": "BNATURE_1224.jpg",
@@ -897,7 +971,8 @@
             "সাংবাদিকরা"
         ],
         "answer": "বিসিবির সদস্যরা",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1224"
     },
     {
         "filename": "BNATURE_1225.jpg",
@@ -906,46 +981,50 @@
             "একটি মুরগী তার ছোট্ট বাচ্চাদের সাথে",
             "একটি গরু ঘাস খাচ্ছে",
             "একটি শিশু খেলছে",
-            "একটি নৌকা নদীতে ভাসছে "
+            "একটি নৌকা নদীতে ভাসছে"
         ],
         "answer": "একটি মুরগী তার ছোট্ট বাচ্চাদের সাথে",
-        "category": "Nature"
+        "category": "Nature",
+        "id": "P4BN1225"
     },
     {
         "filename": "BNATURE_1226.jpg",
         "question": "ছবিতে কাদের দেখা যাচ্ছে?",
         "options": [
-            "দুইজন বাংলাদেশী রাজনীতিবিদ ",
-            "দুইজন ভারতীয় রাজনীতিবিদ ",
-            " একজন বাংলাদেশী এবং একজন ভারতীয় রাজনীতিবিদ",
-            " একজন বাংলাদেশী রাজনীতিবিদ এবং একজন ভারতীয় প্রাক্তন প্রধানমন্ত্রী "
+            "দুইজন বাংলাদেশী রাজনীতিবিদ",
+            "দুইজন ভারতীয় রাজনীতিবিদ",
+            "একজন বাংলাদেশী এবং একজন ভারতীয় রাজনীতিবিদ",
+            "একজন বাংলাদেশী রাজনীতিবিদ এবং একজন ভারতীয় প্রাক্তন প্রধানমন্ত্রী"
         ],
         "answer": "একজন বাংলাদেশী এবং একজন ভারতীয় রাজনীতিবিদ",
-        "category": "Incidents"
+        "category": "Incidents",
+        "id": "P4BN1226"
     },
     {
         "filename": "BNATURE_1227.jpg",
         "question": "ছবিতে কোন দিনটির উদযাপন সম্পর্কিত তথ্য দেখা যাচ্ছে?",
         "options": [
-            "স্বাধীনতা দিবস ",
+            "স্বাধীনতা দিবস",
             "বিজয় দিবস",
             "বিশ্ব দূর্যোগ প্রশমন দিবস",
-            " পহেলা বৈশাখ "
+            "পহেলা বৈশাখ"
         ],
         "answer": "বিশ্ব দূর্যোগ প্রশমন দিবস",
-        "category": "Incidents"
+        "category": "Incidents",
+        "id": "P4BN1227"
     },
     {
         "filename": "BNATURE_1229.jpg",
         "question": "ছবিতে কী দেখা যাচ্ছে?",
         "options": [
             "দুইজন ব্যক্তি বাজারে যাচ্ছে",
-            "একটি পরিবার খেলাধুলা করছে ",
+            "একটি পরিবার খেলাধুলা করছে",
             "একজন মা ও তার ছেলে প্লাস্টিক সংগ্রহ করছে",
             "একটি পরিবার খাবার খাচ্ছে"
         ],
         "answer": "একজন মা ও তার ছেলে প্লাস্টিক সংগ্রহ করছে",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1229"
     },
     {
         "filename": "BNATURE_123.jpg",
@@ -953,11 +1032,12 @@
         "options": [
             "মাছ ধরছে",
             "শাপলা তুলছে",
-            " পাতা তুলছে ",
-            "ফুলের মালা গাঁথছে "
+            "পাতা তুলছে",
+            "ফুলের মালা গাঁথছে"
         ],
         "answer": "শাপলা তুলছে",
-        "category": "Nature"
+        "category": "Nature",
+        "id": "P4BN123"
     },
     {
         "filename": "BNATURE_1230.jpg",
@@ -969,19 +1049,21 @@
             "দুইজন কৃষক"
         ],
         "answer": "দুইজন ভিক্ষুক",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1230"
     },
     {
         "filename": "BNATURE_1234.jpg",
         "question": "What event is shown in the picture?",
         "options": [
-            " একটি রাজনৈতিক সমাবেশ",
+            "একটি রাজনৈতিক সমাবেশ",
             "একটি সাংস্কৃতিক অনুষ্ঠান",
-            " একটি অলিম্পিক দলের সমর্থন সমাবেশ",
+            "একটি অলিম্পিক দলের সমর্থন সমাবেশ",
             "একটি ধর্মীয় সমাবেশ"
         ],
         "answer": "একটি অলিম্পিক দলের সমর্থন সমাবেশ",
-        "category": "Incidents"
+        "category": "Incidents",
+        "id": "P4BN1234"
     },
     {
         "filename": "BNATURE_1236.jpg",
@@ -990,34 +1072,37 @@
             "একটি গ্রামীণ এলাকায় বৃষ্টি",
             "একটি শহরে বৃষ্টি",
             "একটি গ্রামীণ এলাকায় শুষ্কাল",
-            " একটি শহরে ভূমিকম্প"
+            "একটি শহরে ভূমিকম্প"
         ],
         "answer": "একটি গ্রামীণ এলাকায় বৃষ্টি",
-        "category": "Nature"
+        "category": "Nature",
+        "id": "P4BN1236"
     },
     {
         "filename": "BNATURE_1239.jpg",
         "question": "ছবিতে কী দেখানো হচ্ছে?",
         "options": [
-            " শিশুদের একটি শ্রেণীকক্ষ",
+            "শিশুদের একটি শ্রেণীকক্ষ",
             "প্রাপ্তবয়স্কদের একটি শিক্ষা কার্যক্রম",
             "একটি বিশ্ববিদ্যালয়ের ক্যাম্পাস",
-            " একটি প্রাথমিক বিদ্যালয় ("
+            "একটি প্রাথমিক বিদ্যালয় ("
         ],
         "answer": "প্রাপ্তবয়স্কদের একটি শিক্ষা কার্যক্রম",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1239"
     },
     {
         "filename": "BNATURE_1243.jpg",
         "question": "ছবিতে কী দেখা যাচ্ছে?",
         "options": [
-            "একজন মা তার সন্তানের সাথে খেলা করছে ",
+            "একজন মা তার সন্তানের সাথে খেলা করছে",
             "একজন মা তার সন্তানের সাথে বাজারে যাচ্ছে",
-            "একজন মা তার অসুস্থ সন্তানকে নিয়ে হাঁটছে ",
-            "একজন মা তার অসুস্থ সন্তানকে নিয়ে ভিক্ষা করছে "
+            "একজন মা তার অসুস্থ সন্তানকে নিয়ে হাঁটছে",
+            "একজন মা তার অসুস্থ সন্তানকে নিয়ে ভিক্ষা করছে"
         ],
         "answer": "একজন মা তার অসুস্থ সন্তানকে নিয়ে হাঁটছে",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1243"
     },
     {
         "filename": "BNATURE_1245.jpg",
@@ -1025,11 +1110,12 @@
         "options": [
             "একটি গরু",
             "একটি ঘোড়া",
-            "একটি হাতি ",
-            "একটি ভেড়া "
+            "একটি হাতি",
+            "একটি ভেড়া"
         ],
         "answer": "একটি গরু",
-        "category": "Nature"
+        "category": "Nature",
+        "id": "P4BN1245"
     },
     {
         "filename": "BNATURE_1246.jpg",
@@ -1038,34 +1124,37 @@
             "খেলাধুলা করছে",
             "ঘুমাচ্ছে",
             "মনোযোগ সহকারে কিছু দেখছে",
-            "খাবার খাচ্ছে "
+            "খাবার খাচ্ছে"
         ],
         "answer": "মনোযোগ সহকারে কিছু দেখছে",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1246"
     },
     {
         "filename": "BNATURE_1247.jpg",
         "question": "ছবিতে কে দেখা যাচ্ছে?",
         "options": [
             "একজন ফল বিক্রেতা",
-            "একজন শিক্ষক ",
-            " একজন চিকিৎসক",
-            "একজন কৃষক "
+            "একজন শিক্ষক",
+            "একজন চিকিৎসক",
+            "একজন কৃষক"
         ],
         "answer": "একজন ফল বিক্রেতা",
-        "category": "Food"
+        "category": "Food",
+        "id": "P4BN1247"
     },
     {
         "filename": "BNATURE_1248.jpg",
         "question": "What is seen in the picture?",
         "options": [
-            "শিশুরা খেলাধুলা করছে ",
+            "শিশুরা খেলাধুলা করছে",
             "ছাত্রীরা পাঠে মনোযোগ দিচ্ছে",
-            "শিক্ষকরা শিক্ষা দিচ্ছেন ",
+            "শিক্ষকরা শিক্ষা দিচ্ছেন",
             "শিশুরা খাবার খাচ্ছে"
         ],
         "answer": "ছাত্রীরা পাঠে মনোযোগ দিচ্ছে",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1248"
     },
     {
         "filename": "BNATURE_125.jpg",
@@ -1073,11 +1162,12 @@
         "options": [
             "ধানক্ষেত",
             "পাটক্ষেত",
-            "সরিষা ক্ষেত ",
-            "সবজি বাগান "
+            "সরিষা ক্ষেত",
+            "সবজি বাগান"
         ],
         "answer": "সরিষা ক্ষেত",
-        "category": "Nature"
+        "category": "Nature",
+        "id": "P4BN125"
     },
     {
         "filename": "BNATURE_1250.jpg",
@@ -1089,55 +1179,60 @@
             "বুরকা"
         ],
         "answer": "বুরকা",
-        "category": "Clothing & Fashion"
+        "category": "Clothing & Fashion",
+        "id": "P4BN1250"
     },
     {
         "filename": "BNATURE_1252.jpg",
         "question": "ছবিতে মহিলাটি কী করছে?",
         "options": [
             "মাছ ধরছে",
-            "ফুল তুলছে ",
+            "ফুল তুলছে",
             "শাক সবজি চাষ করছে",
-            "ফসল কাটছে "
+            "ফসল কাটছে"
         ],
         "answer": "ফসল কাটছে",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1252"
     },
     {
         "filename": "BNATURE_1256.jpg",
         "question": "ছবিতে মেয়েটি কী পরে আছে?",
         "options": [
             "শাড়ি",
-            " সালোয়ার কামিজ ",
+            "সালোয়ার কামিজ",
             "জিন্স প্যান্ট",
             "গাউন"
         ],
         "answer": "সালোয়ার কামিজ",
-        "category": "Clothing & Fashion"
+        "category": "Clothing & Fashion",
+        "id": "P4BN1256"
     },
     {
         "filename": "BNATURE_1257.jpg",
         "question": "ছবিতে কী দেখা যাচ্ছে?",
         "options": [
-            "একটি গ্রামীণ এলাকা ",
-            " একটি শহরের রেলপথের পাশে বসতি",
-            "একটি শান্ত পার্ক ",
+            "একটি গ্রামীণ এলাকা",
+            "একটি শহরের রেলপথের পাশে বসতি",
+            "একটি শান্ত পার্ক",
             "একটি দূরবর্তী গ্রাম"
         ],
         "answer": "একটি শহরের রেলপথের পাশে বসতি",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1257"
     },
     {
         "filename": "BNATURE_1258.jpg",
         "question": "ছবিটিতে কী ঘটনা ঘটছে?",
         "options": [
             "আন্দোলনের দৃশ্য দেখানো হয়েছে",
-            " একটি সাংস্কৃতিক অনুষ্ঠান চলছে।",
-            " একটি ধর্মীয় অনুষ্ঠান চলছে।",
+            "একটি সাংস্কৃতিক অনুষ্ঠান চলছে।",
+            "একটি ধর্মীয় অনুষ্ঠান চলছে।",
             "সব সঠিক।"
         ],
         "answer": "আন্দোলনের দৃশ্য দেখানো হয়েছে",
-        "category": "Incidents"
+        "category": "Incidents",
+        "id": "P4BN1258"
     },
     {
         "filename": "BNATURE_1259.jpg",
@@ -1146,10 +1241,11 @@
             "হাসছে",
             "কাঁদছে",
             "গান গাইছে",
-            "নাচছে "
+            "নাচছে"
         ],
         "answer": "কাঁদছে",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1259"
     },
     {
         "filename": "BNATURE_1260.jpg",
@@ -1161,7 +1257,8 @@
             "সিলেট"
         ],
         "answer": "কুয়াকাটা",
-        "category": "Nature"
+        "category": "Nature",
+        "id": "P4BN1260"
     },
     {
         "filename": "BNATURE_1261.jpg",
@@ -1173,31 +1270,34 @@
             "ভেড়া"
         ],
         "answer": "গরু",
-        "category": "Nature"
+        "category": "Nature",
+        "id": "P4BN1261"
     },
     {
         "filename": "BNATURE_1262.jpg",
         "question": "ছবিটি কিসের প্রতিচ্ছবি বলে মনে হয়?",
         "options": [
-            "বিজয় দিবস উদযাপন ",
-            " ভাষা আন্দোলন",
-            "ছাত্র আন্দোলন ",
+            "বিজয় দিবস উদযাপন",
+            "ভাষা আন্দোলন",
+            "ছাত্র আন্দোলন",
             "ঈদ উদযাপন"
         ],
         "answer": "ছাত্র আন্দোলন",
-        "category": "Incidents"
+        "category": "Incidents",
+        "id": "P4BN1262"
     },
     {
         "filename": "BNATURE_1263.jpg",
         "question": "ছবিটিতে কোন ধরনের পরিস্থিতি ফুটে উঠেছে বলে মনে হয়?",
         "options": [
-            "আনন্দ ও উৎসব ",
+            "আনন্দ ও উৎসব",
             "দারিদ্র্য ও অসহায়ত্ব",
             "সংগ্রাম ও প্রতিবাদ",
-            "সাফল্য ও অর্জন "
+            "সাফল্য ও অর্জন"
         ],
         "answer": "দারিদ্র্য ও অসহায়ত্ব",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1263"
     },
     {
         "filename": "BNATURE_1264.jpg",
@@ -1209,19 +1309,21 @@
             "ঐতিহ্য"
         ],
         "answer": "শিক্ষা",
-        "category": "Arts & History"
+        "category": "Arts & History",
+        "id": "P4BN1264"
     },
     {
         "filename": "BNATURE_1265.jpg",
         "question": "ছবিটি কোন বিষয়ের উপর আলোকপাত করেছে?",
         "options": [
-            "শারীরিক প্রতিবন্ধকতাকে জয় করে শিক্ষার পথে অগ্রসর হওয়া ",
-            "বিদ্যালয়ে শিশুদের আনন্দঘন মুহূর্ত ",
-            " বাংলাদেশের গ্রামীণ জীবন ",
-            " ঐতিহ্যবাহী পোশাক"
+            "শারীরিক প্রতিবন্ধকতাকে জয় করে শিক্ষার পথে অগ্রসর হওয়া",
+            "বিদ্যালয়ে শিশুদের আনন্দঘন মুহূর্ত",
+            "বাংলাদেশের গ্রামীণ জীবন",
+            "ঐতিহ্যবাহী পোশাক"
         ],
         "answer": "শারীরিক প্রতিবন্ধকতাকে জয় করে শিক্ষার পথে অগ্রসর হওয়া",
-        "category": "Incidents"
+        "category": "Incidents",
+        "id": "P4BN1265"
     },
     {
         "filename": "BNATURE_1267.jpg",
@@ -1230,22 +1332,24 @@
             "বাংলাদেশের ঐতিহ্যবাহী শিল্পকলা",
             "বাংলাদেশের স্বাস্থ্যসেবা ব্যবস্থা",
             "বাংলাদেশের গ্রামীণ জীবন",
-            " বাংলাদেশের পোশাক শিল্প "
+            "বাংলাদেশের পোশাক শিল্প"
         ],
         "answer": "বাংলাদেশের ঐতিহ্যবাহী শিল্পকলা",
-        "category": "Arts & History"
+        "category": "Arts & History",
+        "id": "P4BN1267"
     },
     {
         "filename": "BNATURE_1268.jpg",
         "question": "ছবিটি কোন খেলা এবং কোন দেশের প্রতিনিধিত্ব করে?",
         "options": [
-            " ফুটবল, ভারত ",
+            "ফুটবল, ভারত",
             "ক্রিকেট, বাংলাদেশ",
-            " হকি, পাকিস্তান ",
+            "হকি, পাকিস্তান",
             "ব্যাডমিন্টন, শ্রীলঙ্কা"
         ],
         "answer": "ক্রিকেট, বাংলাদেশ",
-        "category": "Sports"
+        "category": "Sports",
+        "id": "P4BN1268"
     },
     {
         "filename": "BNATURE_127.jpg",
@@ -1253,11 +1357,12 @@
         "options": [
             "বড়শি দিয়ে মাছ ধরা",
             "জাল দিয়ে মাছ ধরা",
-            "  ঠেলা জাল",
-            "ধরম জাল "
+            "ঠেলা জাল",
+            "ধরম জাল"
         ],
         "answer": "ধরম জাল",
-        "category": "Nature"
+        "category": "Nature",
+        "id": "P4BN127"
     },
     {
         "filename": "BNATURE_1273.jpg",
@@ -1269,43 +1374,47 @@
             "শিক্ষা"
         ],
         "answer": "পরিষ্কার",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1273"
     },
     {
         "filename": "BNATURE_1278.jpg",
         "question": "শিশুদের মারাত্মক রোগ থেকে বাঁচাতে কোন প্রক্রিয়াটি সবচেয়ে গুরুত্বপূর্ণ?",
         "options": [
-            "নিয়মিত খেলাধুলা  ",
-            "সঠিক খাদ্যাভ্যাস ",
+            "নিয়মিত খেলাধুলা",
+            "সঠিক খাদ্যাভ্যাস",
             "সময়মত টিকা প্রদান",
             "পর্যাপ্ত ঘুম"
         ],
         "answer": "সময়মত টিকা প্রদান",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1278"
     },
     {
         "filename": "BNATURE_1279.jpg",
         "question": "ছবিতে কোন ঐতিহ্যবাহী কার্যকলাপ দেখানো হয়েছে?",
         "options": [
-            " লাঠি খেলা",
+            "লাঠি খেলা",
             "ঘুড়ি উড়ানো",
             "সাপ খেলা",
             "নৌকা বাইচ"
         ],
         "answer": "সাপ খেলা",
-        "category": "Cultural Festivals"
+        "category": "Cultural Festivals",
+        "id": "P4BN1279"
     },
     {
         "filename": "BNATURE_128.jpg",
         "question": "বাংলাদেশের গ্রামীণ জীবনে কোন পশুটি বিশেষভাবে গুরুত্বপূর্ণ?",
         "options": [
-            "ঘোড়া ",
+            "ঘোড়া",
             "মহিষ",
             "ছাগল",
             "ভেড়া"
         ],
         "answer": "মহিষ",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN128"
     },
     {
         "filename": "BNATURE_1281.jpg",
@@ -1317,7 +1426,8 @@
             "বিলাসিতা"
         ],
         "answer": "দারিদ্র্য",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1281"
     },
     {
         "filename": "BNATURE_1282.jpg",
@@ -1325,23 +1435,25 @@
         "options": [
             "শাড়ি",
             "স্কার্ট",
-            "সালওয়ার কামিজ ",
+            "সালওয়ার কামিজ",
             "জিন্স"
         ],
         "answer": "সালওয়ার কামিজ",
-        "category": "Clothing & Fashion"
+        "category": "Clothing & Fashion",
+        "id": "P4BN1282"
     },
     {
         "filename": "BNATURE_1283.jpg",
         "question": "ছবিতে মায়ের প্রধান উদ্দেশ্য কী?",
         "options": [
-            "  শিশুকে খেলাধুলা করানো ",
+            "শিশুকে খেলাধুলা করানো",
             "শিশুকে খাইয়ে বাঁচানো",
-            " শিশুকে স্কুলে পাঠানো",
+            "শিশুকে স্কুলে পাঠানো",
             "শিশুকে আদর করা"
         ],
         "answer": "শিশুকে খাইয়ে বাঁচানো",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1283"
     },
     {
         "filename": "BNATURE_1284.jpg",
@@ -1353,31 +1465,34 @@
             "ফ্রক"
         ],
         "answer": "শাড়ি",
-        "category": "Clothing & Fashion"
+        "category": "Clothing & Fashion",
+        "id": "P4BN1284"
     },
     {
         "filename": "BNATURE_1285.jpg",
         "question": "নববর্ষ উৎসবে বাংলাদেশে কোনটি বিশেষভাবে আয়োজন করা হয়?",
         "options": [
             "দুর্গাপূজা",
-            " বৈশাখী মেলা ",
+            "বৈশাখী মেলা",
             "ঈদ উদযাপন",
             "বড়দিন"
         ],
         "answer": "বৈশাখী মেলা",
-        "category": "Cultural Festivals"
+        "category": "Cultural Festivals",
+        "id": "P4BN1285"
     },
     {
         "filename": "BNATURE_1287.jpg",
         "question": "পহেলা বৈশাখে বাঙালি নারীরা সাধারণত কেমন পোশাকে সেজে থাকেন?",
         "options": [
-            " জিন্স এবং টি-শার্ট",
+            "জিন্স এবং টি-শার্ট",
             "শাড়ি এবং গহনা",
-            "  স্কার্ট এবং টপস ",
+            "স্কার্ট এবং টপস",
             "কামিজ এবং পায়জামা"
         ],
         "answer": "শাড়ি এবং গহনা",
-        "category": "Clothing & Fashion"
+        "category": "Clothing & Fashion",
+        "id": "P4BN1287"
     },
     {
         "filename": "BNATURE_1288.jpg",
@@ -1389,7 +1504,8 @@
             "গান গাইছে"
         ],
         "answer": "লিখছে ও আঁকছে",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1288"
     },
     {
         "filename": "BNATURE_129.jpg",
@@ -1401,7 +1517,8 @@
             "পাহাড়ি বসতি"
         ],
         "answer": "পাহাড়ি বসতি",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN129"
     },
     {
         "filename": "BNATURE_1290.jpg",
@@ -1413,7 +1530,8 @@
             "স্কুলে যাচ্ছে"
         ],
         "answer": "পরিবারের জন্য অর্থ উপার্জন করছে",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1290"
     },
     {
         "filename": "BNATURE_1291.jpg",
@@ -1425,7 +1543,8 @@
             "সুশী"
         ],
         "answer": "বিরিয়ানি",
-        "category": "Food"
+        "category": "Food",
+        "id": "P4BN1291"
     },
     {
         "filename": "BNATURE_1293.jpg",
@@ -1437,7 +1556,8 @@
             "অশুভ শক্তির প্রতীক"
         ],
         "answer": "বার্তাবহের প্রতীক",
-        "category": "Arts & History"
+        "category": "Arts & History",
+        "id": "P4BN1293"
     },
     {
         "filename": "BNATURE_1294.jpg",
@@ -1449,7 +1569,8 @@
             "উপরের সবগুলি"
         ],
         "answer": "উপরের সবগুলি",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1294"
     },
     {
         "filename": "BNATURE_1295.jpg",
@@ -1461,7 +1582,8 @@
             "শাড়ি এবং ব্লাউজ"
         ],
         "answer": "সালোয়ার কামিজ এবং ওড়না",
-        "category": "Clothing & Fashion"
+        "category": "Clothing & Fashion",
+        "id": "P4BN1295"
     },
     {
         "filename": "BNATURE_1296.jpg",
@@ -1473,7 +1595,8 @@
             "ক্রিসমাস"
         ],
         "answer": "দুর্গাপূজা",
-        "category": "Clothing & Fashion"
+        "category": "Clothing & Fashion",
+        "id": "P4BN1296"
     },
     {
         "filename": "BNATURE_1298.jpg",
@@ -1485,79 +1608,86 @@
             "শুধুমাত্র কবিতা লেখা"
         ],
         "answer": "আঁকা-আঁকি, গান, নাচ এবং হস্তশিল্প",
-        "category": "Arts & History"
+        "category": "Arts & History",
+        "id": "P4BN1298"
     },
     {
         "filename": "BNATURE_1299.jpg",
         "question": "বাংলাদেশে দারিদ্র্যের মূল কারণগুলি কী কী?",
         "options": [
             "শুধুমাত্র বেকারত্ব",
-            " শুধুমাত্র কৃষি উৎপাদনের অভাব",
-            " বেকারত্ব, কৃষি উৎপাদনের অভাব, অস্বাস্থ্যকর পরিবেশ, এবং সীমিত শিক্ষা",
+            "শুধুমাত্র কৃষি উৎপাদনের অভাব",
+            "বেকারত্ব, কৃষি উৎপাদনের অভাব, অস্বাস্থ্যকর পরিবেশ, এবং সীমিত শিক্ষা",
             "শুধুমাত্র সরকারি নীতির ব্যর্থতা"
         ],
         "answer": "বেকারত্ব, কৃষি উৎপাদনের অভাব, অস্বাস্থ্যকর পরিবেশ, এবং সীমিত শিক্ষা",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1299"
     },
     {
         "filename": "BNATURE_130.jpg",
         "question": "\"গরুর গাড়ি\" বাংলাদেশের কোন অঞ্চলে এবং কীভাবে ব্যবহৃত হতো?",
         "options": [
             "শুধুমাত্র শহরে যাতায়াতের জন্য",
-            " গ্রামীণ অঞ্চলে পরিবহন এবং কৃষি কাজে",
+            "গ্রামীণ অঞ্চলে পরিবহন এবং কৃষি কাজে",
             "শুধুমাত্র পণ্য পরিবহনের জন্য",
             "শুধুমাত্র উৎসব উপলক্ষে"
         ],
         "answer": "গ্রামীণ অঞ্চলে পরিবহন এবং কৃষি কাজে",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN130"
     },
     {
         "filename": "BNATURE_1300.jpg",
         "question": "বাংলাদেশের গ্রামীণ অঞ্চলে শিক্ষার হার বৃদ্ধিতে কী ধরনের চ্যালেঞ্জ রয়েছে?",
         "options": [
             "শুধুমাত্র স্কুলের অভাব",
-            " শুধুমাত্র শিক্ষকের অভাব",
+            "শুধুমাত্র শিক্ষকের অভাব",
             "স্কুলের অভাব, শিক্ষকের অভাব, দারিদ্র্য, এবং সামাজিক বাধা",
             "শুধুমাত্র দূরবর্তী এলাকায় স্কুল না থাকা"
         ],
         "answer": "স্কুলের অভাব, শিক্ষকের অভাব, দারিদ্র্য, এবং সামাজিক বাধা",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1300"
     },
     {
         "filename": "BNATURE_1301.jpg",
         "question": "বাংলাদেশের কোন কোন শিল্পকলায় ফুলের ব্যবহার লক্ষ্য করা যায়?",
         "options": [
             "শুধুমাত্র পিত্তলের কাজে",
-            " শুধুমাত্র কাঠের কাজে",
-            " পিত্তলের কাজ, কাঠের কাজ, সুতার কাজ এবং চিত্রকলায়",
-            " শুধুমাত্র চিত্রকলায়"
+            "শুধুমাত্র কাঠের কাজে",
+            "পিত্তলের কাজ, কাঠের কাজ, সুতার কাজ এবং চিত্রকলায়",
+            "শুধুমাত্র চিত্রকলায়"
         ],
         "answer": "পিত্তলের কাজ, কাঠের কাজ, সুতার কাজ এবং চিত্রকলায়",
-        "category": "Arts & History"
+        "category": "Arts & History",
+        "id": "P4BN1301"
     },
     {
         "filename": "BNATURE_1302.jpg",
         "question": "বাংলাদেশের হিন্দু সম্প্রদায়ের মহিলারা কোন কোন ধর্মীয় অনুষ্ঠানে মন্দিরে গিয়ে প্রার্থনা করেন?",
         "options": [
             "শুধুমাত্র দুর্গাপূজায়",
-            " দুর্গাপূজা, কালীপূজা, লক্ষ্মীপূজা এবং অন্যান্য ধর্মীয় উৎসবে",
-            " শুধুমাত্র বিবাহ অনুষ্ঠানে",
+            "দুর্গাপূজা, কালীপূজা, লক্ষ্মীপূজা এবং অন্যান্য ধর্মীয় উৎসবে",
+            "শুধুমাত্র বিবাহ অনুষ্ঠানে",
             "শুধুমাত্র শনিবার ও মঙ্গলবার"
         ],
         "answer": "দুর্গাপূজা, কালীপূজা, লক্ষ্মীপূজা এবং অন্যান্য ধর্মীয় উৎসবে",
-        "category": "Religious Events"
+        "category": "Religious Events",
+        "id": "P4BN1302"
     },
     {
         "filename": "BNATURE_1304.jpg",
         "question": "বাংলাদেশে ডাকাতি ও চুরির মতো অপরাধ প্রতিরোধে কী ধরনের পদক্ষেপ গ্রহণ করা উচিত?",
         "options": [
             "শুধুমাত্র পুলিশ বাহিনীকে শক্তিশালী করা",
-            "শিক্ষা, কর্মসংস্থান এবং সামাজিক নিরাপত্তা ব্যবস্থা উন্নত করা ",
-            " কঠোর শাস্তির ব্যবস্থা করা",
+            "শিক্ষা, কর্মসংস্থান এবং সামাজিক নিরাপত্তা ব্যবস্থা উন্নত করা",
+            "কঠোর শাস্তির ব্যবস্থা করা",
             "কোনো পদক্ষেপ নেওয়া প্রয়োজন নেই"
         ],
         "answer": "শিক্ষা, কর্মসংস্থান এবং সামাজিক নিরাপত্তা ব্যবস্থা উন্নত করা",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1304"
     },
     {
         "filename": "BNATURE_1305.jpg",
@@ -1565,11 +1695,12 @@
         "options": [
             "জানুয়ারী মাসে",
             "ফেব্রুয়ারী মাসে",
-            " মার্চ মাসে",
+            "মার্চ মাসে",
             "এপ্রিল মাসে"
         ],
         "answer": "ফেব্রুয়ারী মাসে",
-        "category": "Cultural Festivals"
+        "category": "Cultural Festivals",
+        "id": "P4BN1305"
     },
     {
         "filename": "BNATURE_1307.jpg",
@@ -1581,31 +1712,34 @@
             ") কোনো গুরুত্বপূর্ণ ভূমিকা পালন করে না"
         ],
         "answer": "সামাজিক যোগাযোগের কেন্দ্রবিন্দু হিসাবে",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1307"
     },
     {
         "filename": "BNATURE_1308.jpg",
         "question": "বাংলাদেশের সমুদ্র সৈকতগুলোর পরিবেশগত সমস্যা কী কী?",
         "options": [
-            " শুধুমাত্র বালি উড়ে যাওয়া",
+            "শুধুমাত্র বালি উড়ে যাওয়া",
             "প্লাস্টিক দূষণ এবং জলোচ্ছ্বাস",
             "শুধুমাত্র প্লাস্টিক দূষণ",
-            " কোনো পরিবেশগত সমস্যা নেই"
+            "কোনো পরিবেশগত সমস্যা নেই"
         ],
         "answer": "প্লাস্টিক দূষণ এবং জলোচ্ছ্বাস",
-        "category": "Nature"
+        "category": "Nature",
+        "id": "P4BN1308"
     },
     {
         "filename": "BNATURE_1309.jpg",
         "question": "বাংলাদেশে দারিদ্র্য বিমোচনের জন্য সরকারি উদ্যোগ ছাড়াও সমাজের অন্যান্য স্তরের কী ধরনের ভূমিকা থাকতে পারে?",
         "options": [
-            " কোনো ভূমিকা নেই",
+            "কোনো ভূমিকা নেই",
             "স্বেচ্ছাসেবী সংস্থাগুলোর সহায়তা প্রদান",
             "ধনী ব্যক্তিদের দান-সদকা দেওয়া",
             "শুধুমাত্র সরকারের ওপর নির্ভর করা"
         ],
         "answer": "স্বেচ্ছাসেবী সংস্থাগুলোর সহায়তা প্রদান",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1309"
     },
     {
         "filename": "BNATURE_132.jpg",
@@ -1617,7 +1751,8 @@
             "শুধুমাত্র পশুপালন"
         ],
         "answer": "কৃষি, পশুপালন এবং হস্তশিল্প",
-        "category": "Nature"
+        "category": "Nature",
+        "id": "P4BN132"
     },
     {
         "filename": "BNATURE_1322.jpg",
@@ -1629,7 +1764,8 @@
             "শীত"
         ],
         "answer": "বসন্ত",
-        "category": "Cultural Festivals"
+        "category": "Cultural Festivals",
+        "id": "P4BN1322"
     },
     {
         "filename": "BNATURE_1323.jpg",
@@ -1641,7 +1777,8 @@
             "কোনো চ্যালেঞ্জ নেই"
         ],
         "answer": "স্বাস্থ্যকেন্দ্রের অভাব, দূরবর্তী এলাকায় অবস্থান, সামাজিক বাধা এবং অর্থনৈতিক সমস্যা",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1323"
     },
     {
         "filename": "BNATURE_1326.jpg",
@@ -1653,31 +1790,34 @@
             "বিমান বাহিনী"
         ],
         "answer": "বর্ডার গার্ড",
-        "category": "Incidents"
+        "category": "Incidents",
+        "id": "P4BN1326"
     },
     {
         "filename": "BNATURE_1327.jpg",
         "question": "বাংলাদেশের গ্রামাঞ্চলে বন্যার পর সাধারণত মানুষ কীভাবে ঘর মেরামত করে?",
         "options": [
-            " ইট ও কংক্রিট দিয়ে ঘর তৈরি করে",
+            "ইট ও কংক্রিট দিয়ে ঘর তৈরি করে",
             "বাঁশ, কাদা ও টিন দিয়ে ঘর মেরামত করে",
             "কাঠ ও গ্লাস দিয়ে নতুন ঘর তৈরি করে",
             "পুরনো ঘর ফেলে দিয়ে নতুন ভবন তৈরি করে"
         ],
         "answer": "বাঁশ, কাদা ও টিন দিয়ে ঘর মেরামত করে",
-        "category": "Incidents"
+        "category": "Incidents",
+        "id": "P4BN1327"
     },
     {
         "filename": "BNATURE_1328.jpg",
         "question": "বাংলাদেশে ছাত্র আন্দোলনের সময় পুলিশ সাধারণত কী ভূমিকা পালন করে?",
         "options": [
-            " আন্দোলনকারীদের সহায়তা করে",
+            "আন্দোলনকারীদের সহায়তা করে",
             "আন্দোলন দমন ও নিরাপত্তা নিশ্চিত করার চেষ্টা করে",
             "শুধুমাত্র দর্শকের ভূমিকা পালন করে",
-            " আন্দোলনের নেতৃত্ব দেয়"
+            "আন্দোলনের নেতৃত্ব দেয়"
         ],
         "answer": "আন্দোলন দমন ও নিরাপত্তা নিশ্চিত করার চেষ্টা করে",
-        "category": "Incidents"
+        "category": "Incidents",
+        "id": "P4BN1328"
     },
     {
         "filename": "BNATURE_1329.jpg",
@@ -1689,7 +1829,8 @@
             "শুধুমাত্র ফ্রিজিং ট্রলারে পরিবহন করা হয়"
         ],
         "answer": "কোলা বা কলসিতে পানি সহ বহন করে",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1329"
     },
     {
         "filename": "BNATURE_133.jpg",
@@ -1701,19 +1842,21 @@
             "রাজনৈতিক দলের সভার জন্য"
         ],
         "answer": "সামাজিক সমস্যা সমাধান ও উন্নয়নমূলক কার্যক্রমের জন্য",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN133"
     },
     {
         "filename": "BNATURE_1330.jpg",
         "question": "বাংলাদেশের শহরগুলোতে রিকশা সাধারণত কোন কাজে বেশি ব্যবহৃত হয়?",
         "options": [
-            " মালামাল পরিবহনের জন্য",
+            "মালামাল পরিবহনের জন্য",
             "অফিসগামী ও সাধারণ যাত্রী পরিবহনের জন্য",
             "শুধুমাত্র পর্যটকদের জন্য",
-            " শুধুমাত্র স্কুল শিক্ষার্থীদের জন্য"
+            "শুধুমাত্র স্কুল শিক্ষার্থীদের জন্য"
         ],
         "answer": "অফিসগামী ও সাধারণ যাত্রী পরিবহনের জন্য",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1330"
     },
     {
         "filename": "BNATURE_1331.jpg",
@@ -1725,31 +1868,34 @@
             "শুধুমাত্র ধর্মীয় কাজে ব্যবহারের জন্য"
         ],
         "answer": "দুধ ও কৃষিকাজের জন্য",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1331"
     },
     {
         "filename": "BNATURE_1332.jpg",
         "question": "বাংলাদেশে রোহিঙ্গা শরণার্থীদের প্রধান ক্যাম্প কোথায় অবস্থিত?",
         "options": [
-            " ঢাকার উপকণ্ঠে",
+            "ঢাকার উপকণ্ঠে",
             "কক্সবাজারের উখিয়া ও টেকনাফে",
             "চট্টগ্রামের পাহাড়ি এলাকায়",
-            " রাজশাহীর সীমান্ত অঞ্চলে"
+            "রাজশাহীর সীমান্ত অঞ্চলে"
         ],
         "answer": "কক্সবাজারের উখিয়া ও টেকনাফে",
-        "category": "Incidents"
+        "category": "Incidents",
+        "id": "P4BN1332"
     },
     {
         "filename": "BNATURE_1333.jpg",
         "question": "বাংলাদেশে স্কুল ছুটির পর সাধারণত শিশুরা কী করে?",
         "options": [
             "খেলার মাঠে দৌড়ায় এবং বন্ধুদের সঙ্গে সময় কাটায়",
-            " সরাসরি বাড়ি ফিরে যায় এবং পড়াশোনা শুরু করে",
+            "সরাসরি বাড়ি ফিরে যায় এবং পড়াশোনা শুরু করে",
             "শুধু বাজারে গিয়ে কেনাকাটা করে",
             "স্কুলের ভেতরেই থেকে যায়"
         ],
         "answer": "খেলার মাঠে দৌড়ায় এবং বন্ধুদের সঙ্গে সময় কাটায়",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1333"
     },
     {
         "filename": "BNATURE_1334.jpg",
@@ -1761,55 +1907,60 @@
             "শুধু বড় শহরগুলোর জন্য এটি প্রয়োজনীয়"
         ],
         "answer": "গ্রামে বিদ্যুতের অভাব বা অনিয়মিত সরবরাহের কারণে",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1334"
     },
     {
         "filename": "BNATURE_1335.jpg",
         "question": "বাংলাদেশের গ্রামীণ বিদ্যালয়গুলোতে শিক্ষার্থীদের জন্য কী ধরনের শিক্ষা উপকরণ বেশি ব্যবহৃত হয়?",
         "options": [
             "ডিজিটাল ট্যাব ও স্মার্টবোর্ড",
-            " স্লেট, খাতা ও বই",
+            "স্লেট, খাতা ও বই",
             "শুধুমাত্র অনলাইন ক্লাস",
-            " শুধু ছবি ও পোস্টার"
+            "শুধু ছবি ও পোস্টার"
         ],
         "answer": "স্লেট, খাতা ও বই",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1335"
     },
     {
         "filename": "BNATURE_1336.jpg",
         "question": "বাংলাদেশে মহিলা পুলিশদের প্রশিক্ষণ কোথায় দেওয়া হয়?",
         "options": [
-            " রাজশাহী বিশ্ববিদ্যালয়ে",
+            "রাজশাহী বিশ্ববিদ্যালয়ে",
             "বাংলাদেশ পুলিশ একাডেমি, সারদা",
             "শুধুমাত্র ঢাকায় পুলিশ সদর দফতরে",
             "ব্যক্তিগত প্রশিক্ষণ কেন্দ্রগুলোতে"
         ],
         "answer": "বাংলাদেশ পুলিশ একাডেমি, সারদা",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1336"
     },
     {
         "filename": "BNATURE_1337.jpg",
         "question": "বাংলাদেশের গ্রামাঞ্চলে জন্মনিয়ন্ত্রণ কর্মীরা সাধারণত কীভাবে সচেতনতা বৃদ্ধি করেন?",
         "options": [
             "বাড়ি বাড়ি গিয়ে পরামর্শ দেন",
-            " শুধু হাসপাতালে সেবা দেন",
+            "শুধু হাসপাতালে সেবা দেন",
             "শুধুমাত্র বিজ্ঞাপন ও পোস্টার ব্যবহার করেন",
             "শুধু ওষুধ বিতরণ করেন"
         ],
         "answer": "বাড়ি বাড়ি গিয়ে পরামর্শ দেন",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1337"
     },
     {
         "filename": "BNATURE_1338.jpg",
         "question": "নামাজ শেষে মুসল্লিরা সাধারণত আল্লাহর কাছে কী প্রার্থনা করেন?",
         "options": [
             "পার্থিব সাফল্য ও আখিরাতের কল্যাণের জন্য",
-            " শুধু ব্যক্তিগত সম্পদের জন্য",
+            "শুধু ব্যক্তিগত সম্পদের জন্য",
             "শুধুমাত্র রাজনৈতিক সাফল্যের জন্য",
             "শুধুমাত্র রমজানের সময়"
         ],
         "answer": "পার্থিব সাফল্য ও আখিরাতের কল্যাণের জন্য",
-        "category": "Religious Events"
+        "category": "Religious Events",
+        "id": "P4BN1338"
     },
     {
         "filename": "BNATURE_1339.jpg",
@@ -1821,7 +1972,8 @@
             "শুধুমাত্র শপিং মলে"
         ],
         "answer": "হাট-বাজার ও রাস্তার পাশে",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1339"
     },
     {
         "filename": "BNATURE_134.jpg",
@@ -1833,7 +1985,8 @@
             "সমুদ্রতীরে আধুনিক রিসোর্ট"
         ],
         "answer": "খোলা মাঠ, নদী, গরু-ছাগল চরানো এবং মাটির রাস্তা",
-        "category": "Nature"
+        "category": "Nature",
+        "id": "P4BN134"
     },
     {
         "filename": "BNATURE_1340.jpg",
@@ -1845,19 +1998,21 @@
             "শুধুমাত্র দাতব্য সংস্থার মাধ্যমে সাহায্য করে"
         ],
         "answer": "স্বেচ্ছাসেবীভাবে শিক্ষা প্রদান করে",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1340"
     },
     {
         "filename": "BNATURE_1341.jpg",
         "question": "বাংলাদেশের শিশুরা সাধারণত নতুন পোশাক পেয়ে কখন সবচেয়ে বেশি আনন্দিত হয়?",
         "options": [
-            " শুধুমাত্র স্কুলে ভর্তি হওয়ার সময়",
-            " ঈদ, পূজা বা বিশেষ উৎসবের সময়",
+            "শুধুমাত্র স্কুলে ভর্তি হওয়ার সময়",
+            "ঈদ, পূজা বা বিশেষ উৎসবের সময়",
             "শুধু শীতের সময়",
             "শুধুমাত্র জন্মদিনে"
         ],
         "answer": "ঈদ, পূজা বা বিশেষ উৎসবের সময়",
-        "category": "Clothing & Fashion"
+        "category": "Clothing & Fashion",
+        "id": "P4BN1341"
     },
     {
         "filename": "BNATURE_1343.jpg",
@@ -1869,7 +2024,8 @@
             "ধর্মীয় অনুশাসন"
         ],
         "answer": "সমাজের পরিবর্তনশীল মূল্যবোধ",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1343"
     },
     {
         "filename": "BNATURE_1345.jpg",
@@ -1881,7 +2037,8 @@
             "রাজশাহী"
         ],
         "answer": "সোনারগাঁও",
-        "category": "Arts & History"
+        "category": "Arts & History",
+        "id": "P4BN1345"
     },
     {
         "filename": "BNATURE_1347.jpg",
@@ -1893,7 +2050,8 @@
             "বিজয় দিবস"
         ],
         "answer": "বিজয় দিবস",
-        "category": "Cultural Festivals"
+        "category": "Cultural Festivals",
+        "id": "P4BN1347"
     },
     {
         "filename": "BNATURE_1349.jpg",
@@ -1905,7 +2063,8 @@
             "খেলাধুলা"
         ],
         "answer": "যৌথ শিক্ষণ",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1349"
     },
     {
         "filename": "BNATURE_135.jpg",
@@ -1917,7 +2076,8 @@
             "শবে বরাতের নামাজ"
         ],
         "answer": "ঈদুল ফিতরের নামাজ",
-        "category": "Religious Events"
+        "category": "Religious Events",
+        "id": "P4BN135"
     },
     {
         "filename": "BNATURE_1350.jpg",
@@ -1929,7 +2089,8 @@
             "ফলের চাষ"
         ],
         "answer": "প্রথাগত রবিশস্য চাষ",
-        "category": "Nature"
+        "category": "Nature",
+        "id": "P4BN1350"
     },
     {
         "filename": "BNATURE_1352.jpg",
@@ -1941,7 +2102,8 @@
             "সাংস্কৃতিক অনুষ্ঠান"
         ],
         "answer": "দুর্যোগকালীন ত্রাণ বিতরণ",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1352"
     },
     {
         "filename": "BNATURE_1353.jpg",
@@ -1953,7 +2115,8 @@
             "নাটকীয় প্রদর্শনী"
         ],
         "answer": "সিনেমার প্রচারণা",
-        "category": "Arts & History"
+        "category": "Arts & History",
+        "id": "P4BN1353"
     },
     {
         "filename": "BNATURE_1354.jpg",
@@ -1965,7 +2128,8 @@
             "সাহিত্য সম্মেলন"
         ],
         "answer": "সংগীত অনুষ্ঠান",
-        "category": "Arts & History"
+        "category": "Arts & History",
+        "id": "P4BN1354"
     },
     {
         "filename": "BNATURE_1355.jpg",
@@ -1977,7 +2141,8 @@
             "বইয়ের কভার"
         ],
         "answer": "বইয়ের স্থায়িত্ব",
-        "category": "Arts & History"
+        "category": "Arts & History",
+        "id": "P4BN1355"
     },
     {
         "filename": "BNATURE_1356.jpg",
@@ -1989,7 +2154,8 @@
             "সৃজনশীলতার বিকাশ"
         ],
         "answer": "জীবিকার উৎস এবং উদ্যোক্তা তৈরি",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1356"
     },
     {
         "filename": "BNATURE_1358.jpg",
@@ -2001,7 +2167,8 @@
             "কৃষকদের জীবিকার উন্নয়ন"
         ],
         "answer": "প্রবীণদের কৃষি কাজে যুক্ত থাকার বাস্তবতা",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1358"
     },
     {
         "filename": "BNATURE_1359.jpg",
@@ -2013,7 +2180,8 @@
             "পরিবারের অর্থনৈতিক অবস্থা"
         ],
         "answer": "মা ও সন্তানের মধ্যে গভীর সম্পর্ক",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1359"
     },
     {
         "filename": "BNATURE_1363.jpg",
@@ -2025,7 +2193,8 @@
             "সমাজের উন্নতি নির্দেশ করে"
         ],
         "answer": "সামাজিক মর্যাদা ও শ্রদ্ধার প্রতীক",
-        "category": "Arts & History"
+        "category": "Arts & History",
+        "id": "P4BN1363"
     },
     {
         "filename": "BNATURE_1368.jpg",
@@ -2037,7 +2206,8 @@
             "ঈদুল ফিতর"
         ],
         "answer": "স্বাধীনতা দিবস",
-        "category": "Cultural Festivals"
+        "category": "Cultural Festivals",
+        "id": "P4BN1368"
     },
     {
         "filename": "BNATURE_1369.jpg",
@@ -2049,7 +2219,8 @@
             "শরৎকাল"
         ],
         "answer": "শীতকাল",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1369"
     },
     {
         "filename": "BNATURE_138.jpg",
@@ -2061,7 +2232,8 @@
             "মালভূমি"
         ],
         "answer": "নদী ও খাল",
-        "category": "Nature"
+        "category": "Nature",
+        "id": "P4BN138"
     },
     {
         "filename": "BNATURE_1380.jpg",
@@ -2073,7 +2245,8 @@
             "গ্রামে কর্মসংস্থান"
         ],
         "answer": "শিশুশ্রম",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1380"
     },
     {
         "filename": "BNATURE_1381.jpg",
@@ -2085,7 +2258,8 @@
             "প্রযুক্তি উন্নয়ন"
         ],
         "answer": "স্বাস্থ্য ও পারিবারিক আলোচনা",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1381"
     },
     {
         "filename": "BNATURE_1382.jpg",
@@ -2097,7 +2271,8 @@
             "বসন্তকাল"
         ],
         "answer": "শীতকাল",
-        "category": "Nature"
+        "category": "Nature",
+        "id": "P4BN1382"
     },
     {
         "filename": "BNATURE_1383.jpg",
@@ -2109,7 +2284,8 @@
             "পর্যটনের জন্য"
         ],
         "answer": "কৃষিকাজ ও যাতায়াতের জন্য",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1383"
     },
     {
         "filename": "BNATURE_1384.jpg",
@@ -2121,7 +2297,8 @@
             "নিরাপত্তা ও আবাসন"
         ],
         "answer": "নিরাপত্তা ও আবাসন",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1384"
     },
     {
         "filename": "BNATURE_1385.jpg",
@@ -2133,7 +2310,8 @@
             "খাদ্য সহায়তা প্রদান"
         ],
         "answer": "শিক্ষার অধিকার নিশ্চিতকরণ",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1385"
     },
     {
         "filename": "BNATURE_1386.jpg",
@@ -2145,7 +2323,8 @@
             "স্কুলের প্রোগ্রাম"
         ],
         "answer": "সামাজিক উৎসব",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1386"
     },
     {
         "filename": "BNATURE_1388.jpg",
@@ -2157,7 +2336,8 @@
             "বিবাহের অনুষ্ঠান"
         ],
         "answer": "মায়ের স্বাস্থ্য সেবা",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1388"
     },
     {
         "filename": "BNATURE_1389.jpg",
@@ -2169,7 +2349,8 @@
             "ব্যবসায়িক কর্মকাণ্ড"
         ],
         "answer": "রিকশা চালকের জীবনযাপন",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1389"
     },
     {
         "filename": "BNATURE_139.jpg",
@@ -2181,7 +2362,8 @@
             "বনভূমি"
         ],
         "answer": "গ্রামাঞ্চলের প্রাকৃতিক দৃশ্য",
-        "category": "Nature"
+        "category": "Nature",
+        "id": "P4BN139"
     },
     {
         "filename": "BNATURE_1390.jpg",
@@ -2193,7 +2375,8 @@
             "পূজা"
         ],
         "answer": "বইমেলা",
-        "category": "Cultural Festivals"
+        "category": "Cultural Festivals",
+        "id": "P4BN1390"
     },
     {
         "filename": "BNATURE_1391.jpg",
@@ -2205,7 +2388,8 @@
             "ভূমি সেচ এবং কৃষি সমস্যা"
         ],
         "answer": "নদীভাঙন এবং জলবায়ু পরিবর্তনের প্রভাব",
-        "category": "Nature"
+        "category": "Nature",
+        "id": "P4BN1391"
     },
     {
         "filename": "BNATURE_1392.jpg",
@@ -2217,7 +2401,8 @@
             "খাদ্য সহায়তা কর্মসূচী"
         ],
         "answer": "প্রাথমিক শিক্ষা ও শিশুশিক্ষা",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1392"
     },
     {
         "filename": "BNATURE_1395.jpg",
@@ -2229,7 +2414,8 @@
             "বিজয় দিবস"
         ],
         "answer": "পহেলা বৈশাখ",
-        "category": "Cultural Festivals"
+        "category": "Cultural Festivals",
+        "id": "P4BN1395"
     },
     {
         "filename": "BNATURE_1396.jpg",
@@ -2241,7 +2427,8 @@
             "সামাজিক সেবা প্রদান"
         ],
         "answer": "রাস্তার খাবার বিক্রয়",
-        "category": "Food"
+        "category": "Food",
+        "id": "P4BN1396"
     },
     {
         "filename": "BNATURE_1397.jpg",
@@ -2253,7 +2440,8 @@
             "জলজ পরিবেশ"
         ],
         "answer": "খামার বা পশুপালন",
-        "category": "Nature"
+        "category": "Nature",
+        "id": "P4BN1397"
     },
     {
         "filename": "BNATURE_1398.jpg",
@@ -2265,7 +2453,8 @@
             "পরিবেশ সংরক্ষণ"
         ],
         "answer": "শিশুশ্রম",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1398"
     },
     {
         "filename": "BNATURE_1399.jpg",
@@ -2277,7 +2466,8 @@
             "রাজনৈতিক আন্দোলন"
         ],
         "answer": "সরকারি চুক্তি স্বাক্ষর",
-        "category": "Incidents"
+        "category": "Incidents",
+        "id": "P4BN1399"
     },
     {
         "filename": "BNATURE_140.jpg",
@@ -2289,7 +2479,8 @@
             "সেচ ব্যবস্থাপনা"
         ],
         "answer": "নৌকা দিয়ে জল পরিবহন",
-        "category": "Nature"
+        "category": "Nature",
+        "id": "P4BN140"
     },
     {
         "filename": "BNATURE_1406.jpg",
@@ -2301,7 +2492,8 @@
             "পাসপোর্ট বা অন্যান্য সরকারি ডকুমেন্ট সংগ্রহ"
         ],
         "answer": "সরকারী সাহায্য বা ত্রাণ বিতরণ",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1406"
     },
     {
         "filename": "BNATURE_1407.jpg",
@@ -2313,7 +2505,8 @@
             "বাসে কমিউটার পরিবহন"
         ],
         "answer": "রিকশায় পরিবারের যাতায়াত",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1407"
     },
     {
         "filename": "BNATURE_142.jpg",
@@ -2325,7 +2518,8 @@
             "গাছের ফল সংগ্রহ"
         ],
         "answer": "পুকুর বা জলাশয়ে মাছ ধরার প্রথা",
-        "category": "Nature"
+        "category": "Nature",
+        "id": "P4BN142"
     },
     {
         "filename": "BNATURE_1433.jpg",
@@ -2337,7 +2531,8 @@
             "নগর উন্নয়ন প্রকল্প"
         ],
         "answer": "শ্রমজীবী মানুষের দৈনন্দিন সংগ্রাম",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1433"
     },
     {
         "filename": "BNATURE_1485.jpg",
@@ -2349,7 +2544,8 @@
             "শোক সভা"
         ],
         "answer": "রাস্তার পাশে ফেরিওয়ালা পণ্য বিক্রি করা",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1485"
     },
     {
         "filename": "BNATURE_1486.jpg",
@@ -2361,7 +2557,8 @@
             "স্কুলের রান্নাঘর"
         ],
         "answer": "রাস্তার খাবার বিক্রেতার কাজ",
-        "category": "Food"
+        "category": "Food",
+        "id": "P4BN1486"
     },
     {
         "filename": "BNATURE_1488.jpg",
@@ -2373,7 +2570,8 @@
             "শহরে সেমিনার আয়োজন করে প্রশিক্ষণ প্রদান"
         ],
         "answer": "নদী এবং জলযানের উন্নতি করে জীবনযাত্রার মান উন্নয়ন",
-        "category": "Nature"
+        "category": "Nature",
+        "id": "P4BN1488"
     },
     {
         "filename": "BNATURE_1489.jpg",
@@ -2385,7 +2583,8 @@
             "শুধুমাত্র বাচ্চাদের খেলা এবং আনন্দের উপলক্ষ্য"
         ],
         "answer": "পারিবারিক বন্ধন দৃঢ়করণ এবং সামাজিক সংহতি বৃদ্ধি",
-        "category": "Religious Events"
+        "category": "Religious Events",
+        "id": "P4BN1489"
     },
     {
         "filename": "BNATURE_1490.jpg",
@@ -2397,7 +2596,8 @@
             "শুধুমাত্র জল সংগ্রহের দৈনন্দিন কাজ বাড়ানো"
         ],
         "answer": "সমাজে মহিলাদের কাজের প্রতি সম্মান বৃদ্ধি",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1490"
     },
     {
         "filename": "BNATURE_1491.jpg",
@@ -2409,7 +2609,8 @@
             "সামাজিক অবস্থান"
         ],
         "answer": "জাতীয় ঐক্যের প্রতীক",
-        "category": "Cultural Festivals"
+        "category": "Cultural Festivals",
+        "id": "P4BN1491"
     },
     {
         "filename": "BNATURE_1495.jpg",
@@ -2421,7 +2622,8 @@
             "শৃঙ্খলার উন্নতি"
         ],
         "answer": "সম্পর্কের গভীরতা বৃদ্ধি",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1495"
     },
     {
         "filename": "BNATURE_1497.jpg",
@@ -2433,7 +2635,8 @@
             "অর্থনৈতিক সমৃদ্ধি"
         ],
         "answer": "পরিবেশ সচেতনতা বৃদ্ধি",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1497"
     },
     {
         "filename": "BNATURE_15.jpg",
@@ -2445,7 +2648,8 @@
             "স্বাধীনতা স্মৃতিসৌধ"
         ],
         "answer": "লালবাগ কেল্লা",
-        "category": "Arts & History"
+        "category": "Arts & History",
+        "id": "P4BN15"
     },
     {
         "filename": "BNATURE_1503.jpg",
@@ -2457,7 +2661,8 @@
             "বিনামূল্যে বই বিতরণ"
         ],
         "answer": "স্বাস্থ্য পরামর্শ প্রদান",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1503"
     },
     {
         "filename": "BNATURE_1507.jpg",
@@ -2469,7 +2674,8 @@
             "মোটরবোট"
         ],
         "answer": "নৌকা",
-        "category": "Nature"
+        "category": "Nature",
+        "id": "P4BN1507"
     },
     {
         "filename": "BNATURE_1508.jpg",
@@ -2481,7 +2687,8 @@
             "বিশ্ব শিক্ষা দিবস"
         ],
         "answer": "কন্যাশিশু দিবস",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1508"
     },
     {
         "filename": "BNATURE_1511.jpg",
@@ -2493,7 +2700,8 @@
             "কর্মজীবী মহিলা"
         ],
         "answer": "পরিবারের আন্তরিকতা",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1511"
     },
     {
         "filename": "BNATURE_1513.jpg",
@@ -2505,7 +2713,8 @@
             "জলসেচন কাজ"
         ],
         "answer": "শস্য চাষ",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1513"
     },
     {
         "filename": "BNATURE_1514.jpg",
@@ -2517,7 +2726,8 @@
             "বাড়ি ফিরছে"
         ],
         "answer": "সাহায্য প্রার্থনা করছে",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1514"
     },
     {
         "filename": "BNATURE_1515.jpg",
@@ -2529,7 +2739,8 @@
             "পাহাড়"
         ],
         "answer": "গ্রামের বাড়ি",
-        "category": "Nature"
+        "category": "Nature",
+        "id": "P4BN1515"
     },
     {
         "filename": "BNATURE_1516.jpg",
@@ -2541,7 +2752,8 @@
             "উপহাস"
         ],
         "answer": "সহানুভূতি",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1516"
     },
     {
         "filename": "BNATURE_1517.jpg",
@@ -2553,7 +2765,8 @@
             "শ্রীলঙ্কা"
         ],
         "answer": "বাংলাদেশ",
-        "category": "Sports"
+        "category": "Sports",
+        "id": "P4BN1517"
     },
     {
         "filename": "BNATURE_1518.jpg",
@@ -2565,7 +2778,8 @@
             "খরা"
         ],
         "answer": "বন্যা",
-        "category": "Incidents"
+        "category": "Incidents",
+        "id": "P4BN1518"
     },
     {
         "filename": "BNATURE_1525.jpg",
@@ -2577,7 +2791,8 @@
             "শিশুদের খেলার সময়ের অভাব"
         ],
         "answer": "দরিদ্রতা এবং ক্ষুধা",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1525"
     },
     {
         "filename": "BNATURE_1529.jpg",
@@ -2589,7 +2804,8 @@
             "সবকিছু"
         ],
         "answer": "সবকিছু",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1529"
     },
     {
         "filename": "BNATURE_1533.jpg",
@@ -2601,7 +2817,8 @@
             "প্রাকৃতিক দুর্যোগ"
         ],
         "answer": "সমাজের অস্বচ্ছলতা",
-        "category": "Incidents"
+        "category": "Incidents",
+        "id": "P4BN1533"
     },
     {
         "filename": "BNATURE_1534.jpg",
@@ -2613,7 +2830,8 @@
             "প্রযুক্তি উন্নয়ন"
         ],
         "answer": "কর্মসংস্থানের সুযোগ সৃষ্টি",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1534"
     },
     {
         "filename": "BNATURE_1535.jpg",
@@ -2625,7 +2843,8 @@
             "শহুরে পার্ক"
         ],
         "answer": "গ্রামীণ কৃষি ক্ষেত্র",
-        "category": "Nature"
+        "category": "Nature",
+        "id": "P4BN1535"
     },
     {
         "filename": "BNATURE_1536.jpg",
@@ -2637,7 +2856,8 @@
             "ব্রিজ"
         ],
         "answer": "বাঁশের সাঁকো",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1536"
     },
     {
         "filename": "BNATURE_1538.jpg",
@@ -2649,7 +2869,8 @@
             "বাজার"
         ],
         "answer": "হাসপাতাল",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1538"
     },
     {
         "filename": "BNATURE_1539.jpg",
@@ -2661,7 +2882,8 @@
             "ট্রাক"
         ],
         "answer": "রিকশা",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1539"
     },
     {
         "filename": "BNATURE_1540.jpg",
@@ -2673,7 +2895,8 @@
             "সমন্বিত পরিবার"
         ],
         "answer": "যৌথ পরিবার",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1540"
     },
     {
         "filename": "BNATURE_1543.jpg",
@@ -2685,7 +2908,8 @@
             "মিষ্টি"
         ],
         "answer": "ফুল",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1543"
     },
     {
         "filename": "BNATURE_1545.jpg",
@@ -2697,7 +2921,8 @@
             "বৌদ্ধ"
         ],
         "answer": "ইসলাম",
-        "category": "Religious Events"
+        "category": "Religious Events",
+        "id": "P4BN1545"
     },
     {
         "filename": "BNATURE_1548.jpg",
@@ -2709,7 +2934,8 @@
             "রাস্তার পাশে গাছের চারা বিক্রি"
         ],
         "answer": "রাস্তায় খাবার বিক্রি করা",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1548"
     },
     {
         "filename": "BNATURE_1551.jpg",
@@ -2721,7 +2947,8 @@
             "সভা আয়োজন করা"
         ],
         "answer": "জন নিরাপত্তা নিশ্চিত করা",
-        "category": "Incidents"
+        "category": "Incidents",
+        "id": "P4BN1551"
     },
     {
         "filename": "BNATURE_1553.jpg",
@@ -2733,7 +2960,8 @@
             "অবসরযাপন সুবিধা"
         ],
         "answer": "শিক্ষা ও স্বাস্থ্য সুবিধা প্রদান",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1553"
     },
     {
         "filename": "BNATURE_1555.jpg",
@@ -2745,7 +2973,8 @@
             "ব্যক্তিগত সুবিধা"
         ],
         "answer": "সামাজিক সচেতনতা বৃদ্ধি",
-        "category": "Incidents"
+        "category": "Incidents",
+        "id": "P4BN1555"
     },
     {
         "filename": "BNATURE_1556.jpg",
@@ -2757,7 +2986,8 @@
             "ত্রাণ বিতরণ"
         ],
         "answer": "রাজনৈতিক সংঘর্ষ",
-        "category": "Incidents"
+        "category": "Incidents",
+        "id": "P4BN1556"
     },
     {
         "filename": "BNATURE_1557.jpg",
@@ -2769,7 +2999,8 @@
             "বই পড়ছে"
         ],
         "answer": "লেখালেখি করছে",
-        "category": "Arts & History"
+        "category": "Arts & History",
+        "id": "P4BN1557"
     },
     {
         "filename": "BNATURE_1562.jpg",
@@ -2781,7 +3012,8 @@
             "ফ্যাশনেবল পোশাক"
         ],
         "answer": "শাড়ি",
-        "category": "Clothing & Fashion"
+        "category": "Clothing & Fashion",
+        "id": "P4BN1562"
     },
     {
         "filename": "BNATURE_1563.jpg",
@@ -2793,7 +3025,8 @@
             "জলবায়ু পরিবর্তন"
         ],
         "answer": "পরিবেশ দূষণ",
-        "category": "Nature"
+        "category": "Nature",
+        "id": "P4BN1563"
     },
     {
         "filename": "BNATURE_1564.jpg",
@@ -2805,7 +3038,8 @@
             "পূজা"
         ],
         "answer": "পহেলা বৈশাখ",
-        "category": "Cultural Festivals"
+        "category": "Cultural Festivals",
+        "id": "P4BN1564"
     },
     {
         "filename": "BNATURE_1566.jpg",
@@ -2817,7 +3051,8 @@
             "সমুদ্র সৈকত"
         ],
         "answer": "নদী ও হাওড়",
-        "category": "Nature"
+        "category": "Nature",
+        "id": "P4BN1566"
     },
     {
         "filename": "BNATURE_1567.jpg",
@@ -2829,7 +3064,8 @@
             "মিষ্টি"
         ],
         "answer": "শাকসবজি",
-        "category": "Food"
+        "category": "Food",
+        "id": "P4BN1567"
     },
     {
         "filename": "BNATURE_1569.jpg",
@@ -2841,7 +3077,8 @@
             "সাংস্কৃতিক অনুষ্ঠান"
         ],
         "answer": "কৃষি আলোচনা",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1569"
     },
     {
         "filename": "BNATURE_157.jpg",
@@ -2853,7 +3090,8 @@
             "বসন্ত"
         ],
         "answer": "বসন্ত",
-        "category": "Nature"
+        "category": "Nature",
+        "id": "P4BN157"
     },
     {
         "filename": "BNATURE_1572.jpg",
@@ -2865,7 +3103,8 @@
             "হকি"
         ],
         "answer": "গোল্ফ",
-        "category": "Sports"
+        "category": "Sports",
+        "id": "P4BN1572"
     },
     {
         "filename": "BNATURE_1573.jpg",
@@ -2877,7 +3116,8 @@
             "খোলা মাঠ"
         ],
         "answer": "শহরের বাজার",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1573"
     },
     {
         "filename": "BNATURE_1574.jpg",
@@ -2889,7 +3129,8 @@
             "পানি সংকট"
         ],
         "answer": "শিক্ষার অভাব",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1574"
     },
     {
         "filename": "BNATURE_1576.jpg",
@@ -2901,7 +3142,8 @@
             "পরিবেশ দূষণ"
         ],
         "answer": "দারিদ্র্য",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1576"
     },
     {
         "filename": "BNATURE_1577.jpg",
@@ -2913,7 +3155,8 @@
             "বিশ্ববিদ্যালয়ে"
         ],
         "answer": "বস্তিতে পরিচালিত বিদ্যালয়ে",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1577"
     },
     {
         "filename": "BNATURE_1579.jpg",
@@ -2925,7 +3168,8 @@
             "পর্যটকদের ভ্রমণ"
         ],
         "answer": "অর্থনৈতিক সংকট",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1579"
     },
     {
         "filename": "BNATURE_1581.jpg",
@@ -2937,7 +3181,8 @@
             "বাজারে যাচ্ছে"
         ],
         "answer": "ঘর নির্মাণ",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1581"
     },
     {
         "filename": "BNATURE_1584.jpg",
@@ -2949,7 +3194,8 @@
             "ঢাকা চিড়িয়াখানা"
         ],
         "answer": "ঢাকা চিড়িয়াখানা",
-        "category": "Nature"
+        "category": "Nature",
+        "id": "P4BN1584"
     },
     {
         "filename": "BNATURE_1587.jpg",
@@ -2961,7 +3207,8 @@
             "কক্সবাজার"
         ],
         "answer": "গ্রামাঞ্চল",
-        "category": "Food"
+        "category": "Food",
+        "id": "P4BN1587"
     },
     {
         "filename": "BNATURE_1588.jpg",
@@ -2973,7 +3220,8 @@
             "শহরের আধুনিক জীবন"
         ],
         "answer": "বস্তি এলাকার জীবন",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1588"
     },
     {
         "filename": "BNATURE_1589.jpg",
@@ -2985,7 +3233,8 @@
             "ব্যাডমিন্টন"
         ],
         "answer": "ফুটবল",
-        "category": "Sports"
+        "category": "Sports",
+        "id": "P4BN1589"
     },
     {
         "filename": "BNATURE_1596.jpg",
@@ -2997,7 +3246,8 @@
             "পহেলা বৈশাখ"
         ],
         "answer": "নির্বাচনী প্রচারণা",
-        "category": "Cultural Festivals"
+        "category": "Cultural Festivals",
+        "id": "P4BN1596"
     },
     {
         "filename": "BNATURE_1599.jpg",
@@ -3009,7 +3259,8 @@
             "নৃত্য প্রতিযোগিতা"
         ],
         "answer": "নৃত্য প্রতিযোগিতা",
-        "category": "Cultural Festivals"
+        "category": "Cultural Festivals",
+        "id": "P4BN1599"
     },
     {
         "filename": "BNATURE_16.jpg",
@@ -3021,7 +3272,8 @@
             "চট্টগ্রাম"
         ],
         "answer": "বানারীপাড়া",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN16"
     },
     {
         "filename": "BNATURE_1600.jpg",
@@ -3033,7 +3285,8 @@
             "বরিশাল"
         ],
         "answer": "বরিশাল",
-        "category": "Nature"
+        "category": "Nature",
+        "id": "P4BN1600"
     },
     {
         "filename": "BNATURE_1601.jpg",
@@ -3045,7 +3298,8 @@
             "জিন্স এবং টি-শার্ট"
         ],
         "answer": "শাড়ি এবং সালওয়ার কামিজ",
-        "category": "Clothing & Fashion"
+        "category": "Clothing & Fashion",
+        "id": "P4BN1601"
     },
     {
         "filename": "BNATURE_1602.jpg",
@@ -3057,7 +3311,8 @@
             "জন্মাষ্টমী"
         ],
         "answer": "পহেলা বৈশাখ",
-        "category": "Cultural Festivals"
+        "category": "Cultural Festivals",
+        "id": "P4BN1602"
     },
     {
         "filename": "BNATURE_1604.jpg",
@@ -3069,7 +3324,8 @@
             "শ্রীলঙ্কা"
         ],
         "answer": "বাংলাদেশ",
-        "category": "Sports"
+        "category": "Sports",
+        "id": "P4BN1604"
     },
     {
         "filename": "BNATURE_1608.jpg",
@@ -3081,7 +3337,8 @@
             "দৌড়াচ্ছে"
         ],
         "answer": "লিখছে",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1608"
     },
     {
         "filename": "BNATURE_1614.jpg",
@@ -3093,7 +3350,8 @@
             "টাকা পেয়েছে"
         ],
         "answer": "পেনসিল পেয়েছে",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1614"
     },
     {
         "filename": "BNATURE_1616.jpg",
@@ -3105,7 +3363,8 @@
             "গণমিছিল"
         ],
         "answer": "সরকারি বৈঠক",
-        "category": "Incidents"
+        "category": "Incidents",
+        "id": "P4BN1616"
     },
     {
         "filename": "BNATURE_1622.jpg",
@@ -3117,7 +3376,8 @@
             "বন্ধুত্ব"
         ],
         "answer": "পারিবারিক সম্পর্ক",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1622"
     },
     {
         "filename": "BNATURE_1624.jpg",
@@ -3129,7 +3389,8 @@
             "বসন্ত"
         ],
         "answer": "শীত",
-        "category": "Nature"
+        "category": "Nature",
+        "id": "P4BN1624"
     },
     {
         "filename": "BNATURE_1626.jpg",
@@ -3141,7 +3402,8 @@
             "আবাসন সংকট"
         ],
         "answer": "আর্থিক সংকট",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1626"
     },
     {
         "filename": "BNATURE_1627.jpg",
@@ -3153,7 +3415,8 @@
             "চিত্রপ্রদর্শনী"
         ],
         "answer": "সঙ্গীতানুষ্ঠান",
-        "category": "Cultural Festivals"
+        "category": "Cultural Festivals",
+        "id": "P4BN1627"
     },
     {
         "filename": "BNATURE_1628.jpg",
@@ -3165,7 +3428,8 @@
             "লেহেঙ্গা"
         ],
         "answer": "শাড়ি",
-        "category": "Clothing & Fashion"
+        "category": "Clothing & Fashion",
+        "id": "P4BN1628"
     },
     {
         "filename": "BNATURE_1629.jpg",
@@ -3177,7 +3441,8 @@
             "কালো"
         ],
         "answer": "লাল",
-        "category": "Clothing & Fashion"
+        "category": "Clothing & Fashion",
+        "id": "P4BN1629"
     },
     {
         "filename": "BNATURE_1631.jpg",
@@ -3189,7 +3454,8 @@
             "রাত"
         ],
         "answer": "রাত",
-        "category": "Nature"
+        "category": "Nature",
+        "id": "P4BN1631"
     },
     {
         "filename": "BNATURE_1632.jpg",
@@ -3201,7 +3467,8 @@
             "রাস্তার পাশে"
         ],
         "answer": "পার্কে",
-        "category": "Sports"
+        "category": "Sports",
+        "id": "P4BN1632"
     },
     {
         "filename": "BNATURE_1633.jpg",
@@ -3213,7 +3480,8 @@
             "বন"
         ],
         "answer": "গ্রামীণ",
-        "category": "Nature"
+        "category": "Nature",
+        "id": "P4BN1633"
     },
     {
         "filename": "BNATURE_1634.jpg",
@@ -3225,7 +3493,8 @@
             "চা বাগান"
         ],
         "answer": "ফলের বাগান",
-        "category": "Nature"
+        "category": "Nature",
+        "id": "P4BN1634"
     },
     {
         "filename": "BNATURE_1636.jpg",
@@ -3237,7 +3506,8 @@
             "ঈদ"
         ],
         "answer": "হলি",
-        "category": "Cultural Festivals"
+        "category": "Cultural Festivals",
+        "id": "P4BN1636"
     },
     {
         "filename": "BNATURE_1638.jpg",
@@ -3249,7 +3519,8 @@
             "বন"
         ],
         "answer": "নদী",
-        "category": "Nature"
+        "category": "Nature",
+        "id": "P4BN1638"
     },
     {
         "filename": "BNATURE_1640.jpg",
@@ -3261,7 +3532,8 @@
             "সমুদ্র"
         ],
         "answer": "পুকুর",
-        "category": "Nature"
+        "category": "Nature",
+        "id": "P4BN1640"
     },
     {
         "filename": "BNATURE_1642.jpg",
@@ -3273,7 +3545,8 @@
             "নির্মাণ সামগ্রী বহন করছেন"
         ],
         "answer": "নির্মাণ সামগ্রী বহন করছেন",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1642"
     },
     {
         "filename": "BNATURE_1646.jpg",
@@ -3285,7 +3558,8 @@
             "পাহাড়ে"
         ],
         "answer": "রেলপথে",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1646"
     },
     {
         "filename": "BNATURE_1651.jpg",
@@ -3297,7 +3571,8 @@
             "বানর ক্যামেরার লেন্স চুরি করছে"
         ],
         "answer": "বানর ক্যামেরা দেখছে",
-        "category": "Nature"
+        "category": "Nature",
+        "id": "P4BN1651"
     },
     {
         "filename": "BNATURE_1656.jpg",
@@ -3309,7 +3584,8 @@
             "গৃহস্থালি কাজ।"
         ],
         "answer": "প্রাচীন জলচর প্রযুক্তি।",
-        "category": "Nature"
+        "category": "Nature",
+        "id": "P4BN1656"
     },
     {
         "filename": "BNATURE_1659.jpg",
@@ -3321,7 +3597,8 @@
             "বৌদ্ধ ধর্মে"
         ],
         "answer": "মুসলিম ধর্মে",
-        "category": "Religious Events"
+        "category": "Religious Events",
+        "id": "P4BN1659"
     },
     {
         "filename": "BNATURE_1665.jpg",
@@ -3333,7 +3610,8 @@
             "লাঙল"
         ],
         "answer": "লাঙল",
-        "category": "Nature"
+        "category": "Nature",
+        "id": "P4BN1665"
     },
     {
         "filename": "BNATURE_1667.jpg",
@@ -3345,7 +3623,8 @@
             "সমুদ্র"
         ],
         "answer": "নদী",
-        "category": "Nature"
+        "category": "Nature",
+        "id": "P4BN1667"
     },
     {
         "filename": "BNATURE_1679.jpg",
@@ -3357,7 +3636,8 @@
             "মাজার"
         ],
         "answer": "সোহরাওয়ার্দী উদ্যান",
-        "category": "Arts & History"
+        "category": "Arts & History",
+        "id": "P4BN1679"
     },
     {
         "filename": "BNATURE_1683.jpg",
@@ -3369,7 +3649,8 @@
             "বৌদ্ধ"
         ],
         "answer": "ইসলাম",
-        "category": "Religious Events"
+        "category": "Religious Events",
+        "id": "P4BN1683"
     },
     {
         "filename": "BNATURE_1686.jpg",
@@ -3381,7 +3662,8 @@
             "কুয়াকাটা"
         ],
         "answer": "কুয়াকাটা",
-        "category": "Nature"
+        "category": "Nature",
+        "id": "P4BN1686"
     },
     {
         "filename": "BNATURE_1692.jpg",
@@ -3393,7 +3675,8 @@
             "স্বাধীনতা দিবস"
         ],
         "answer": "বাংলা নববর্ষ",
-        "category": "Cultural Festivals"
+        "category": "Cultural Festivals",
+        "id": "P4BN1692"
     },
     {
         "filename": "BNATURE_1693.jpg",
@@ -3405,7 +3688,8 @@
             "মাছ-মাংস বাজার"
         ],
         "answer": "শাকসবজি বাজার",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1693"
     },
     {
         "filename": "BNATURE_1697.jpg",
@@ -3417,7 +3701,8 @@
             "ময়মনসিংহ"
         ],
         "answer": "ময়মনসিংহ",
-        "category": "Nature"
+        "category": "Nature",
+        "id": "P4BN1697"
     },
     {
         "filename": "BNATURE_1699.jpg",
@@ -3429,7 +3714,8 @@
             "ভাদ্র পূর্ণিমা"
         ],
         "answer": "পূজা",
-        "category": "Religious Events"
+        "category": "Religious Events",
+        "id": "P4BN1699"
     },
     {
         "filename": "BNATURE_1701.jpg",
@@ -3441,7 +3727,8 @@
             "শরতের দিন"
         ],
         "answer": "গরমের দিন",
-        "category": "Sports"
+        "category": "Sports",
+        "id": "P4BN1701"
     },
     {
         "filename": "BNATURE_1705.jpg",
@@ -3453,7 +3740,8 @@
             "চট্টগ্রাম"
         ],
         "answer": "যশোর",
-        "category": "Arts & History"
+        "category": "Arts & History",
+        "id": "P4BN1705"
     },
     {
         "filename": "BNATURE_1708.jpg",
@@ -3465,7 +3753,8 @@
             "গঙ্গা"
         ],
         "answer": "মেঘনা",
-        "category": "Nature"
+        "category": "Nature",
+        "id": "P4BN1708"
     },
     {
         "filename": "BNATURE_1709.jpg",
@@ -3477,7 +3766,8 @@
             "রাজশাহী"
         ],
         "answer": "বরিশাল",
-        "category": "Nature"
+        "category": "Nature",
+        "id": "P4BN1709"
     },
     {
         "filename": "BNATURE_1710.jpg",
@@ -3489,7 +3779,8 @@
             "ট্রাক চালানো"
         ],
         "answer": "মাছ ধরা",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1710"
     },
     {
         "filename": "BNATURE_1712.jpg",
@@ -3501,7 +3792,8 @@
             "গাছ লাগানো"
         ],
         "answer": "পেইন্টিং",
-        "category": "Arts & History"
+        "category": "Arts & History",
+        "id": "P4BN1712"
     },
     {
         "filename": "BNATURE_1716.jpg",
@@ -3513,7 +3805,8 @@
             "বই পড়ছেন"
         ],
         "answer": "জাল ফেলার প্রস্তুতি নিচ্ছেন",
-        "category": "Nature"
+        "category": "Nature",
+        "id": "P4BN1716"
     },
     {
         "filename": "BNATURE_1719.jpg",
@@ -3525,7 +3818,8 @@
             "কাপড় বুনছেন"
         ],
         "answer": "কাপড় বুনছেন",
-        "category": "Arts & History"
+        "category": "Arts & History",
+        "id": "P4BN1719"
     },
     {
         "filename": "BNATURE_1720.jpg",
@@ -3537,7 +3831,8 @@
             "কাজ করছে"
         ],
         "answer": "পোজ দিচ্ছে",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1720"
     },
     {
         "filename": "BNATURE_1721.jpg",
@@ -3549,7 +3844,8 @@
             "মাছ ধরছে"
         ],
         "answer": "বস্তা বহন করা",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1721"
     },
     {
         "filename": "BNATURE_1722.jpg",
@@ -3561,7 +3857,8 @@
             "ঈদ"
         ],
         "answer": "পহেলা বৈশাখ",
-        "category": "Cultural Festivals"
+        "category": "Cultural Festivals",
+        "id": "P4BN1722"
     },
     {
         "filename": "BNATURE_1725.jpg",
@@ -3573,7 +3870,8 @@
             "সাদা-বেগুনি"
         ],
         "answer": "লাল-সবুজ",
-        "category": "Cultural Festivals"
+        "category": "Cultural Festivals",
+        "id": "P4BN1725"
     },
     {
         "filename": "BNATURE_1726.jpg",
@@ -3585,7 +3883,8 @@
             "রাজশাহী"
         ],
         "answer": "বরিশাল",
-        "category": "Nature"
+        "category": "Nature",
+        "id": "P4BN1726"
     },
     {
         "filename": "BNATURE_1727.jpg",
@@ -3597,7 +3896,8 @@
             "বুদ্ধ পূর্ণিমা"
         ],
         "answer": "পূজা",
-        "category": "Religious Events"
+        "category": "Religious Events",
+        "id": "P4BN1727"
     },
     {
         "filename": "BNATURE_1737.jpg",
@@ -3609,7 +3909,8 @@
             "নির্মাণ"
         ],
         "answer": "শিল্পকলা",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1737"
     },
     {
         "filename": "BNATURE_1745.jpg",
@@ -3621,7 +3922,8 @@
             "বাগেরহাট উদ্যান"
         ],
         "answer": "সুন্দরবন",
-        "category": "Nature"
+        "category": "Nature",
+        "id": "P4BN1745"
     },
     {
         "filename": "BNATURE_1752.jpg",
@@ -3633,7 +3935,8 @@
             "পহেলা বৈশাখ"
         ],
         "answer": "মহান একুশে ফেব্রুয়ারি",
-        "category": "Cultural Festivals"
+        "category": "Cultural Festivals",
+        "id": "P4BN1752"
     },
     {
         "filename": "BNATURE_1765.jpg",
@@ -3645,7 +3948,8 @@
             "জেলখানা স্মৃতিস্তম্ভ"
         ],
         "answer": "শহীদ মিনার",
-        "category": "Arts & History"
+        "category": "Arts & History",
+        "id": "P4BN1765"
     },
     {
         "filename": "BNATURE_1772.jpg",
@@ -3657,7 +3961,8 @@
             "বিজয় দিবস"
         ],
         "answer": "পহেলা বৈশাখ",
-        "category": "Cultural Festivals"
+        "category": "Cultural Festivals",
+        "id": "P4BN1772"
     },
     {
         "filename": "BNATURE_1774.jpg",
@@ -3669,7 +3974,8 @@
             "কবিতা উৎসব"
         ],
         "answer": "একুশে বইমেলা",
-        "category": "Arts & History"
+        "category": "Arts & History",
+        "id": "P4BN1774"
     },
     {
         "filename": "BNATURE_1780.jpg",
@@ -3681,19 +3987,21 @@
             "নীলক্ষেত"
         ],
         "answer": "কেন্দ্রীয় শহীদ মিনার",
-        "category": "Arts & History"
+        "category": "Arts & History",
+        "id": "P4BN1780"
     },
     {
         "filename": "BNATURE_1802.jpg",
         "question": "কোথায় ফুল দিয়ে শ্রদ্ধা জানানো হচ্ছে?",
         "options": [
             "জাতীয় সংসদ ভবন",
-            " বঙ্গবন্ধু স্মৃতি জাদুঘর",
+            "বঙ্গবন্ধু স্মৃতি জাদুঘর",
             "কেন্দ্রীয় শহীদ মিনার",
-            " সোহরাওয়ার্দী উদ্যান"
+            "সোহরাওয়ার্দী উদ্যান"
         ],
         "answer": "কেন্দ্রীয় শহীদ মিনার",
-        "category": "Cultural Festivals"
+        "category": "Cultural Festivals",
+        "id": "P4BN1802"
     },
     {
         "filename": "BNATURE_1805.jpg",
@@ -3701,35 +4009,38 @@
         "options": [
             "ধান কাটছেন",
             "জমি প্রস্তুত করছেন",
-            " মাছ ধরছেন",
-            " গাছ লাগাচ্ছেন"
+            "মাছ ধরছেন",
+            "গাছ লাগাচ্ছেন"
         ],
         "answer": "জমি প্রস্তুত করছেন",
-        "category": "Nature"
+        "category": "Nature",
+        "id": "P4BN1805"
     },
     {
         "filename": "BNATURE_1812.jpg",
         "question": "এই ছবিতে কি ধরনের গাড়ি দেখা যাচ্ছে?",
         "options": [
             "ঘোড়ার গাড়ি",
-            " সিএনজি",
+            "সিএনজি",
             "বাস",
             "রিকশা"
         ],
         "answer": "ঘোড়ার গাড়ি",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1812"
     },
     {
         "filename": "BNATURE_1819.jpg",
         "question": "কেন্দ্রীয় শহীদ মিনারটি কোথায় অবস্থিত এবং এটি কেন গুরুত্বপূর্ণ?",
         "options": [
-            " ঢাকায়, ভাষা আন্দোলনের স্মৃতিচিহ্ন",
+            "ঢাকায়, ভাষা আন্দোলনের স্মৃতিচিহ্ন",
             "চট্টগ্রামে, মুক্তিযুদ্ধের স্মৃতিচিহ্ন",
-            " রাজশাহীতে, ১৯৭১ সালের মুক্তিযুদ্ধের স্মৃতিচিহ্ন",
+            "রাজশাহীতে, ১৯৭১ সালের মুক্তিযুদ্ধের স্মৃতিচিহ্ন",
             "খুলনায়, জাতীয় স্বাধীনতা দিবসের স্মৃতিচিহ্ন"
         ],
         "answer": "ঢাকায়, ভাষা আন্দোলনের স্মৃতিচিহ্ন",
-        "category": "Arts & History"
+        "category": "Arts & History",
+        "id": "P4BN1819"
     },
     {
         "filename": "BNATURE_182.jpg",
@@ -3738,10 +4049,11 @@
             "মাছ বাজার",
             "ফলমূল বাজার",
             "সবজি বাজার",
-            " পোশাক বাজার"
+            "পোশাক বাজার"
         ],
         "answer": "সবজি বাজার",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN182"
     },
     {
         "filename": "BNATURE_1824.jpg",
@@ -3749,11 +4061,12 @@
         "options": [
             "ইট ভাঙ্গা",
             "ইট তৈরি করা",
-            " ইট পরিবহন করা",
+            "ইট পরিবহন করা",
             "ইট মজুদ করা"
         ],
         "answer": "ইট পরিবহন করা",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1824"
     },
     {
         "filename": "BNATURE_1825.jpg",
@@ -3765,7 +4078,8 @@
             "শুকর"
         ],
         "answer": "হরিণ",
-        "category": "Nature"
+        "category": "Nature",
+        "id": "P4BN1825"
     },
     {
         "filename": "BNATURE_1846.jpg",
@@ -3777,7 +4091,8 @@
             "মাছ ধরার জন্য"
         ],
         "answer": "ব্রিক ফিল্ডে ইট প্রস্তুতি",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1846"
     },
     {
         "filename": "BNATURE_1849.jpg",
@@ -3789,7 +4104,8 @@
             "কাবাডি"
         ],
         "answer": "ঘুড়ি উড়ানো",
-        "category": "Arts & History"
+        "category": "Arts & History",
+        "id": "P4BN1849"
     },
     {
         "filename": "BNATURE_1855.jpg",
@@ -3801,7 +4117,8 @@
             "কবুতর"
         ],
         "answer": "হাঁস",
-        "category": "Nature"
+        "category": "Nature",
+        "id": "P4BN1855"
     },
     {
         "filename": "BNATURE_1865.jpg",
@@ -3813,7 +4130,8 @@
             "শাহ আবদুল করিম"
         ],
         "answer": "আবুল ফজল",
-        "category": "Arts & History"
+        "category": "Arts & History",
+        "id": "P4BN1865"
     },
     {
         "filename": "BNATURE_1866.jpg",
@@ -3825,7 +4143,8 @@
             "ধান শুকাচ্ছেন"
         ],
         "answer": "ধান মাড়াই করছেন",
-        "category": "Arts & History"
+        "category": "Arts & History",
+        "id": "P4BN1866"
     },
     {
         "filename": "BNATURE_1869.jpg",
@@ -3833,23 +4152,25 @@
         "options": [
             "নেট জাল",
             "ঝাকি জাল",
-            " শুঁটকি জাল",
-            " মৎস্য পোষাক"
+            "শুঁটকি জাল",
+            "মৎস্য পোষাক"
         ],
         "answer": "ঝাকি জাল",
-        "category": "Nature"
+        "category": "Nature",
+        "id": "P4BN1869"
     },
     {
         "filename": "BNATURE_1872.jpg",
         "question": "ছাগল চরানো হচ্ছে। গ্রামে এ ধরনের কাজ শিশুদের জন্য কতটা সাধারণ?",
         "options": [
-            " খুব সাধারণ",
+            "খুব সাধারণ",
             "কম দেখা যায়",
             "শহরে প্রচলিত",
             "বিশেষ কিছু নয়"
         ],
         "answer": "খুব সাধারণ",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1872"
     },
     {
         "filename": "BNATURE_1873.jpg",
@@ -3857,23 +4178,25 @@
         "options": [
             "চট্টগ্রাম",
             "সাভার",
-            " কুমিল্লা",
+            "কুমিল্লা",
             "রাজশাহী"
         ],
         "answer": "সাভার",
-        "category": "Arts & History"
+        "category": "Arts & History",
+        "id": "P4BN1873"
     },
     {
         "filename": "BNATURE_1888.jpg",
         "question": "২১শে ফেব্রুয়ারি বাংলাদেশের স্বাধীনতা সংগ্রামে অবদান রাখার জন্য বিশ্বব্যাপী কোথায় দিবসটি পালিত হয়?",
         "options": [
             "জাতীয় স্মৃতিসৌধ",
-            " শহীদ মিনার",
+            "শহীদ মিনার",
             "বঙ্গবন্ধু স্টেডিয়াম",
-            " সোহরাওয়ার্দী উদ্যান"
+            "সোহরাওয়ার্দী উদ্যান"
         ],
         "answer": "শহীদ মিনার",
-        "category": "Cultural Festivals"
+        "category": "Cultural Festivals",
+        "id": "P4BN1888"
     },
     {
         "filename": "BNATURE_1897.jpg",
@@ -3885,19 +4208,21 @@
             "জামদানি শাড়ি তৈরি"
         ],
         "answer": "ধাতব কাজ",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1897"
     },
     {
         "filename": "BNATURE_1899.jpg",
         "question": "কোন কারিগরি কাজ করা হচ্ছে?",
         "options": [
             "কাঠ খোদাই",
-            " হস্তশিল্প",
+            "হস্তশিল্প",
             "পাথর কাটার কাজ",
-            " রং করার কাজ"
+            "রং করার কাজ"
         ],
         "answer": "হস্তশিল্প",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1899"
     },
     {
         "filename": "BNATURE_1989.jpg",
@@ -3909,7 +4234,8 @@
             "ধান মাড়াই"
         ],
         "answer": "মাটির কলস তৈরি",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1989"
     },
     {
         "filename": "BNATURE_1994.jpg",
@@ -3921,7 +4247,8 @@
             "ঢাকা রেলওয়ে স্টেশন"
         ],
         "answer": "কমলাপুর রেলওয়ে স্টেশন",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN1994"
     },
     {
         "filename": "BNATURE_1995.jpg",
@@ -3933,7 +4260,8 @@
             "ফসল কাটছেন"
         ],
         "answer": "ধান তোলার জন্য প্রস্তুতি নিচ্ছেন",
-        "category": "Nature"
+        "category": "Nature",
+        "id": "P4BN1995"
     },
     {
         "filename": "BNATURE_20.jpg",
@@ -3945,7 +4273,8 @@
             "ঢাকার রিফিউজি ক্যাম্প"
         ],
         "answer": "কক্সবাজার রিফিউজি ক্যাম্প",
-        "category": "Incidents"
+        "category": "Incidents",
+        "id": "P4BN20"
     },
     {
         "filename": "BNATURE_2005.jpg",
@@ -3957,7 +4286,8 @@
             "কাঠের পণ্য"
         ],
         "answer": "মাটির পণ্য",
-        "category": "Arts & History"
+        "category": "Arts & History",
+        "id": "P4BN2005"
     },
     {
         "filename": "BNATURE_2006.jpg",
@@ -3969,7 +4299,8 @@
             "গাছ লাগানো"
         ],
         "answer": "ইট বহন",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN2006"
     },
     {
         "filename": "BNATURE_2007.jpg",
@@ -3981,7 +4312,8 @@
             "হার"
         ],
         "answer": "কানের দুল",
-        "category": "Clothing & Fashion"
+        "category": "Clothing & Fashion",
+        "id": "P4BN2007"
     },
     {
         "filename": "BNATURE_2015.jpg",
@@ -3993,7 +4325,8 @@
             "রিং"
         ],
         "answer": "চুড়ি",
-        "category": "Clothing & Fashion"
+        "category": "Clothing & Fashion",
+        "id": "P4BN2015"
     },
     {
         "filename": "BNATURE_2017.jpg",
@@ -4005,7 +4338,8 @@
             "পপসিকল"
         ],
         "answer": "আইসক্রিম",
-        "category": "Food"
+        "category": "Food",
+        "id": "P4BN2017"
     },
     {
         "filename": "BNATURE_2030.jpg",
@@ -4017,7 +4351,8 @@
             "দৌড়ানো"
         ],
         "answer": "সাঁতার",
-        "category": "Nature"
+        "category": "Nature",
+        "id": "P4BN2030"
     },
     {
         "filename": "BNATURE_2032.jpg",
@@ -4029,7 +4364,8 @@
             "জলসেচন কাজ"
         ],
         "answer": "গরু চড়িয়ে আনা",
-        "category": "Nature"
+        "category": "Nature",
+        "id": "P4BN2032"
     },
     {
         "filename": "BNATURE_2038.jpg",
@@ -4041,7 +4377,8 @@
             "মাঠে পানি দেওয়া"
         ],
         "answer": "গরু চরানো",
-        "category": "Nature"
+        "category": "Nature",
+        "id": "P4BN2038"
     },
     {
         "filename": "BNATURE_2040.jpg",
@@ -4053,7 +4390,8 @@
             "সস"
         ],
         "answer": "মুরগী",
-        "category": "Nature"
+        "category": "Nature",
+        "id": "P4BN2040"
     },
     {
         "filename": "BNATURE_2041.jpg",
@@ -4065,7 +4403,8 @@
             "শ্রীলঙ্কা"
         ],
         "answer": "বাংলাদেশ",
-        "category": "Sports"
+        "category": "Sports",
+        "id": "P4BN2041"
     },
     {
         "filename": "BNATURE_2044.jpg",
@@ -4077,7 +4416,8 @@
             "আনসার বাহিনী"
         ],
         "answer": "সেনাবাহিনী",
-        "category": "Incidents"
+        "category": "Incidents",
+        "id": "P4BN2044"
     },
     {
         "filename": "BNATURE_2045.jpg",
@@ -4089,7 +4429,8 @@
             "বেল গাছ"
         ],
         "answer": "নারিকেল গাছ",
-        "category": "Nature"
+        "category": "Nature",
+        "id": "P4BN2045"
     },
     {
         "filename": "BNATURE_2048.jpg",
@@ -4101,7 +4442,8 @@
             "মাটির পাত্র"
         ],
         "answer": "কাচের চুড়ি",
-        "category": "Clothing & Fashion"
+        "category": "Clothing & Fashion",
+        "id": "P4BN2048"
     },
     {
         "filename": "BNATURE_2052.jpg",
@@ -4113,7 +4455,8 @@
             "একত্রিত হয়ে হোয়াটসঅ্যাপ গ্রুপ তৈরি করছে"
         ],
         "answer": "খেলার সময়",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN2052"
     },
     {
         "filename": "BNATURE_2056.jpg",
@@ -4125,7 +4468,8 @@
             "এটি বিশেষত উচ্চশিক্ষিত শিশুদের মধ্যে জনপ্রিয়"
         ],
         "answer": "খেলাধুলার মাধ্যমে একে অপরের মধ্যে সমঝোতা এবং সহযোগিতার মনোভাব তৈরি হয়",
-        "category": "Sports"
+        "category": "Sports",
+        "id": "P4BN2056"
     },
     {
         "filename": "BNATURE_2059.jpg",
@@ -4137,7 +4481,8 @@
             "পুরুষরা কোর্ট পরেন, নারীরা স্কার্ট পরেন"
         ],
         "answer": "পুরুষরা ঐতিহ্যবাহী পোশাক যেমন পাঞ্জাবি ও টুপি পরেন, নারীরা শাড়ি ও গহনা পরেন",
-        "category": "Clothing & Fashion"
+        "category": "Clothing & Fashion",
+        "id": "P4BN2059"
     },
     {
         "filename": "BNATURE_2062.jpg",
@@ -4149,7 +4494,8 @@
             "মাছ ভাজা"
         ],
         "answer": "ফাস্ট ফুড (ফ্রেঞ্চ ফ্রাই, বার্গার)",
-        "category": "Food"
+        "category": "Food",
+        "id": "P4BN2062"
     },
     {
         "filename": "BNATURE_2066.jpg",
@@ -4161,7 +4507,8 @@
             "খুলনা"
         ],
         "answer": "মাদারীপুর",
-        "category": "Nature"
+        "category": "Nature",
+        "id": "P4BN2066"
     },
     {
         "filename": "BNATURE_2069.jpg",
@@ -4173,7 +4520,8 @@
             "খুলনা"
         ],
         "answer": "ঢাকা",
-        "category": "Nature"
+        "category": "Nature",
+        "id": "P4BN2069"
     },
     {
         "filename": "BNATURE_207.jpg",
@@ -4185,7 +4533,8 @@
             "ঐতিহ্যবাহী পোশাকের প্রদর্শনী"
         ],
         "answer": "গ্রামীণ জীবনের সাধারণ চিত্র",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN207"
     },
     {
         "filename": "BNATURE_2075.jpg",
@@ -4197,7 +4546,8 @@
             "রাজশাহী"
         ],
         "answer": "ময়মনসিংহ",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN2075"
     },
     {
         "filename": "BNATURE_2078.jpg",
@@ -4209,7 +4559,8 @@
             "গ্রামীণ বাজার"
         ],
         "answer": "মাটির পাত্র তৈরির কারখানা",
-        "category": "Arts & History"
+        "category": "Arts & History",
+        "id": "P4BN2078"
     },
     {
         "filename": "BNATURE_2083.jpg",
@@ -4221,7 +4572,8 @@
             "পুকুরের ধারে"
         ],
         "answer": "সমুদ্র সৈকত",
-        "category": "Nature"
+        "category": "Nature",
+        "id": "P4BN2083"
     },
     {
         "filename": "BNATURE_2089.jpg",
@@ -4233,7 +4585,8 @@
             "পুকুর পাড়"
         ],
         "answer": "নদী তীর",
-        "category": "Nature"
+        "category": "Nature",
+        "id": "P4BN2089"
     },
     {
         "filename": "BNATURE_2090.jpg",
@@ -4245,7 +4598,8 @@
             "ফুটবল খেলা"
         ],
         "answer": "ঘুড়ি উড়ানো",
-        "category": "Sports"
+        "category": "Sports",
+        "id": "P4BN2090"
     },
     {
         "filename": "BNATURE_2094.jpg",
@@ -4257,7 +4611,8 @@
             "সিলেট"
         ],
         "answer": "ঢাকা",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN2094"
     },
     {
         "filename": "BNATURE_2096.jpg",
@@ -4269,7 +4624,8 @@
             "সমুদ্র পেশা"
         ],
         "answer": "নদীভিত্তিক জীবন",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN2096"
     },
     {
         "filename": "BNATURE_2098.jpg",
@@ -4281,7 +4637,8 @@
             "আহলে হাদীস মসজিদ, ঢাকা"
         ],
         "answer": "শাহী মসজিদ, চট্টগ্রাম",
-        "category": "Religious Events"
+        "category": "Religious Events",
+        "id": "P4BN2098"
     },
     {
         "filename": "BNATURE_2099.jpg",
@@ -4293,7 +4650,8 @@
             "খ্রিস্টান বিবাহ"
         ],
         "answer": "হিন্দু বিবাহ",
-        "category": "Cultural Festivals"
+        "category": "Cultural Festivals",
+        "id": "P4BN2099"
     },
     {
         "filename": "BNATURE_2101.jpg",
@@ -4305,7 +4663,8 @@
             "শিব পুরাণ"
         ],
         "answer": "শিব পুরাণ",
-        "category": "Arts & History"
+        "category": "Arts & History",
+        "id": "P4BN2101"
     },
     {
         "filename": "BNATURE_2103.jpg",
@@ -4317,7 +4676,8 @@
             "পটুয়াখালী"
         ],
         "answer": "কক্সবাজার",
-        "category": "Nature"
+        "category": "Nature",
+        "id": "P4BN2103"
     },
     {
         "filename": "BNATURE_2105.jpg",
@@ -4329,7 +4689,8 @@
             "গঙ্গা"
         ],
         "answer": "পদ্মা",
-        "category": "Nature"
+        "category": "Nature",
+        "id": "P4BN2105"
     },
     {
         "filename": "BNATURE_2108.jpg",
@@ -4341,7 +4702,8 @@
             "মাংস উৎপাদন"
         ],
         "answer": "জমি চাষ",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN2108"
     },
     {
         "filename": "BNATURE_2114.jpg",
@@ -4353,7 +4715,8 @@
             "জুতা তৈরি করার দোকান"
         ],
         "answer": "বাইক এবং গাড়ির টায়ার সারানোর দোকান",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN2114"
     },
     {
         "filename": "BNATURE_2116.jpg",
@@ -4365,7 +4728,8 @@
             "শুধুমাত্র পুকুরে ব্যবহৃত"
         ],
         "answer": "বড় মাছ ধরার জন্য",
-        "category": "Nature"
+        "category": "Nature",
+        "id": "P4BN2116"
     },
     {
         "filename": "BNATURE_2117.jpg",
@@ -4377,7 +4741,8 @@
             "কেবল পাসিং দক্ষতা"
         ],
         "answer": "দ্রুত দৌড়ানো এবং শারীরিক শক্তি",
-        "category": "Sports"
+        "category": "Sports",
+        "id": "P4BN2117"
     },
     {
         "filename": "BNATURE_2118.jpg",
@@ -4389,7 +4754,8 @@
             "পানি সংগ্রহ করা"
         ],
         "answer": "মাছ ধরা",
-        "category": "Nature"
+        "category": "Nature",
+        "id": "P4BN2118"
     },
     {
         "filename": "BNATURE_2122.jpg",
@@ -4401,7 +4767,8 @@
             "ট্রাক"
         ],
         "answer": "রিকশা",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN2122"
     },
     {
         "filename": "BNATURE_2124.jpg",
@@ -4413,7 +4780,8 @@
             "মোটরবাইক"
         ],
         "answer": "নৌকা",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN2124"
     },
     {
         "filename": "BNATURE_2125.jpg",
@@ -4425,7 +4793,8 @@
             "মাছ ধরা"
         ],
         "answer": "সবজি পরিবহন",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN2125"
     },
     {
         "filename": "BNATURE_2130.jpg",
@@ -4437,7 +4806,8 @@
             "সূর্যাস্তের দৃশ্য"
         ],
         "answer": "নৌকা এবং পাহাড়",
-        "category": "Nature"
+        "category": "Nature",
+        "id": "P4BN2130"
     },
     {
         "filename": "BNATURE_2135.jpg",
@@ -4449,7 +4819,8 @@
             "রাজা রমেশ চন্দ্রের সময়ে"
         ],
         "answer": "মোগল আমলে",
-        "category": "Arts & History"
+        "category": "Arts & History",
+        "id": "P4BN2135"
     },
     {
         "filename": "BNATURE_2136.jpg",
@@ -4461,7 +4832,8 @@
             "পাহাড়ি অঞ্চলে"
         ],
         "answer": "পল্লী অঞ্চলে",
-        "category": "Nature"
+        "category": "Nature",
+        "id": "P4BN2136"
     },
     {
         "filename": "BNATURE_2142.jpg",
@@ -4473,7 +4845,8 @@
             "ভোগ উৎসব"
         ],
         "answer": "প্রতিমা দর্শন",
-        "category": "Religious Events"
+        "category": "Religious Events",
+        "id": "P4BN2142"
     },
     {
         "filename": "BNATURE_2148.jpg",
@@ -4485,7 +4858,8 @@
             "মাছ ধরার কাজ"
         ],
         "answer": "বালু বা পাথর বহন",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN2148"
     },
     {
         "filename": "BNATURE_2150.jpg",
@@ -4497,7 +4871,8 @@
             "নৌকা চালানোর প্রস্তুতি নেওয়া"
         ],
         "answer": "প্রাকৃতিক সৌন্দর্য উপভোগ করা",
-        "category": "Nature"
+        "category": "Nature",
+        "id": "P4BN2150"
     },
     {
         "filename": "BNATURE_2154.jpg",
@@ -4509,7 +4884,8 @@
             "তীর দিয়ে মাছ ধরা"
         ],
         "answer": "ঝাঁকি জল দিয়ে মাছ ধরা",
-        "category": "Nature"
+        "category": "Nature",
+        "id": "P4BN2154"
     },
     {
         "filename": "BNATURE_2155.jpg",
@@ -4521,7 +4897,8 @@
             "সিএনজি"
         ],
         "answer": "ট্রেন",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN2155"
     },
     {
         "filename": "BNATURE_2161.jpg",
@@ -4533,7 +4910,8 @@
             "শিল্প উন্নয়ন"
         ],
         "answer": "ঐতিহ্যবাহী জীবিকা",
-        "category": "Nature"
+        "category": "Nature",
+        "id": "P4BN2161"
     },
     {
         "filename": "BNATURE_2163.jpg",
@@ -4545,7 +4923,8 @@
             "শাস্তি"
         ],
         "answer": "ধর্মীয় প্রতীক",
-        "category": "Religious Events"
+        "category": "Religious Events",
+        "id": "P4BN2163"
     },
     {
         "filename": "BNATURE_2166.jpg",
@@ -4557,7 +4936,8 @@
             "উপেক্ষা"
         ],
         "answer": "সহানুভূতিপূর্ণ",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN2166"
     },
     {
         "filename": "BNATURE_2168.jpg",
@@ -4569,7 +4949,8 @@
             "রেশম শিল্প"
         ],
         "answer": "মাছ ধরা",
-        "category": "Nature"
+        "category": "Nature",
+        "id": "P4BN2168"
     },
     {
         "filename": "BNATURE_2169.jpg",
@@ -4581,7 +4962,8 @@
             "বসন্তকাল"
         ],
         "answer": "শীতকাল",
-        "category": "Nature"
+        "category": "Nature",
+        "id": "P4BN2169"
     },
     {
         "filename": "BNATURE_2172.jpg",
@@ -4593,7 +4975,8 @@
             "ঢাকা"
         ],
         "answer": "বরিশাল",
-        "category": "Nature"
+        "category": "Nature",
+        "id": "P4BN2172"
     },
     {
         "filename": "BNATURE_2173.jpg",
@@ -4605,7 +4988,8 @@
             "মাছ ধরা"
         ],
         "answer": "জমি চাষ করা",
-        "category": "Nature"
+        "category": "Nature",
+        "id": "P4BN2173"
     },
     {
         "filename": "BNATURE_2181.jpg",
@@ -4617,7 +5001,8 @@
             "বসন্তের সময়"
         ],
         "answer": "গরমের সময়",
-        "category": "Nature"
+        "category": "Nature",
+        "id": "P4BN2181"
     },
     {
         "filename": "BNATURE_2183.jpg",
@@ -4629,7 +5014,8 @@
             "খাদ্য উৎপাদন করা"
         ],
         "answer": "মাটি চাষ করা",
-        "category": "Nature"
+        "category": "Nature",
+        "id": "P4BN2183"
     },
     {
         "filename": "BNATURE_2184.jpg",
@@ -4641,7 +5027,8 @@
             "হকি"
         ],
         "answer": "ক্রিকেট",
-        "category": "Sports"
+        "category": "Sports",
+        "id": "P4BN2184"
     },
     {
         "filename": "BNATURE_2185.jpg",
@@ -4653,7 +5040,8 @@
             "আলু"
         ],
         "answer": "মরিচ",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN2185"
     },
     {
         "filename": "BNATURE_2186.jpg",
@@ -4665,7 +5053,8 @@
             "পাখি দিয়ে মাছ ধরা"
         ],
         "answer": "জাল ফেলা",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN2186"
     },
     {
         "filename": "BNATURE_2187.jpg",
@@ -4677,7 +5066,8 @@
             "সাইকেল দিয়ে"
         ],
         "answer": "নৌকা দিয়ে",
-        "category": "Nature"
+        "category": "Nature",
+        "id": "P4BN2187"
     },
     {
         "filename": "BNATURE_2188.jpg",
@@ -4689,7 +5079,8 @@
             "কাঠ খোদাই"
         ],
         "answer": "কাঠ খোদাই",
-        "category": "Arts & History"
+        "category": "Arts & History",
+        "id": "P4BN2188"
     },
     {
         "filename": "BNATURE_2189.jpg",
@@ -4701,7 +5092,8 @@
             "খাদ্য অভাব"
         ],
         "answer": "প্রাকৃতিক পরিবেশ",
-        "category": "Nature"
+        "category": "Nature",
+        "id": "P4BN2189"
     },
     {
         "filename": "BNATURE_219.jpg",
@@ -4713,7 +5105,8 @@
             "ঔষধি উদ্ভিদ"
         ],
         "answer": "জাতীয় ফুল",
-        "category": "Nature"
+        "category": "Nature",
+        "id": "P4BN219"
     },
     {
         "filename": "BNATURE_2192.jpg",
@@ -4725,7 +5118,8 @@
             "পর্যটন আকর্ষণ"
         ],
         "answer": "যোগাযোগের সহজ মাধ্যম",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN2192"
     },
     {
         "filename": "BNATURE_2194.jpg",
@@ -4737,7 +5131,8 @@
             "সামাজিক কাজ"
         ],
         "answer": "ধর্মীয় শিক্ষা",
-        "category": "Religious Events"
+        "category": "Religious Events",
+        "id": "P4BN2194"
     },
     {
         "filename": "BNATURE_2195.jpg",
@@ -4749,7 +5144,8 @@
             "শিক্ষকতা"
         ],
         "answer": "কৃষিকাজ",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN2195"
     },
     {
         "filename": "BNATURE_2196.jpg",
@@ -4761,7 +5157,8 @@
             "ঢাকার জাতীয় প্রতিবন্ধী উন্নয়ন প্রতিষ্ঠান"
         ],
         "answer": "ঢাকা প্রতিবন্ধী শিশু বিদ্যালয়",
-        "category": "Arts & History"
+        "category": "Arts & History",
+        "id": "P4BN2196"
     },
     {
         "filename": "BNATURE_2199.jpg",
@@ -4773,7 +5170,8 @@
             "১০ টাকা"
         ],
         "answer": "৫ টাকা",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN2199"
     },
     {
         "filename": "BNATURE_22.jpg",
@@ -4785,7 +5183,8 @@
             "কারাচি"
         ],
         "answer": "ঢাকা",
-        "category": "Sports"
+        "category": "Sports",
+        "id": "P4BN22"
     },
     {
         "filename": "BNATURE_2202.jpg",
@@ -4797,7 +5196,8 @@
             "প্রতিরক্ষা শক্তি বাড়িয়েছে"
         ],
         "answer": "শহর ও গ্রাম সংযোগে সুবিধা বাড়িয়েছে",
-        "category": "Nature"
+        "category": "Nature",
+        "id": "P4BN2202"
     },
     {
         "filename": "BNATURE_2205.jpg",
@@ -4809,7 +5209,8 @@
             "বরিশাল"
         ],
         "answer": "ময়মনসিংহ",
-        "category": "Nature"
+        "category": "Nature",
+        "id": "P4BN2205"
     },
     {
         "filename": "BNATURE_2212.jpg",
@@ -4821,7 +5222,8 @@
             "শুধুমাত্র সজ্জা শিল্পে ব্যবহৃত হয়েছে"
         ],
         "answer": "বিভিন্ন নির্মাণ ও যন্ত্রাংশ তৈরিতে ব্যবহৃত হয়",
-        "category": "Arts & History"
+        "category": "Arts & History",
+        "id": "P4BN2212"
     },
     {
         "filename": "BNATURE_2214.jpg",
@@ -4833,7 +5235,8 @@
             "প্রক্রিয়াজাত খাদ্য উৎপাদন"
         ],
         "answer": "কৃষিকাজ ও ফসল সংগ্রহ",
-        "category": "Social Life"
+        "category": "Social Life",
+        "id": "P4BN2214"
     },
     {
         "filename": "BNATURE_2309.jpg",
@@ -4845,6 +5248,7 @@
             "এটি পাহাড়ে বাস করে"
         ],
         "answer": "এটি প্রধানত পোকামাকড় খায়",
-        "category": "Nature"
+        "category": "Nature",
+        "id": "P4BN2309"
     }
 ]

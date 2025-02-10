@@ -1,0 +1,2090 @@
+[
+    {
+        "filename": "CHITTRON_4042.png",
+        "question": "............... এর মাংস রান্না করা হচ্ছে ।",
+        "options": [
+            "কবুতর",
+            "হাঁস",
+            "মুরগি",
+            "কোয়েল"
+        ],
+        "answer": "মুরগি",
+        "category": "Food"
+    },
+    {
+        "filename": "CHITTRON_3957.png",
+        "question": "উপর্যুক্ত ছবিটি কীসের ?",
+        "options": [
+            "ব্রেসলেট",
+            "চুড়ি",
+            "খেলনা",
+            "ফিতা"
+        ],
+        "answer": "চুড়ি",
+        "category": "Clothing & Fashion"
+    },
+    {
+        "filename": "CHITTRON_3972.png",
+        "question": "নৌকায় বসা মানুষেরা -",
+        "options": [
+            "মাঝি",
+            "জেলে",
+            "বেঁদে",
+            "পর্যটক"
+        ],
+        "answer": "পর্যটক",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_3984.png",
+        "question": "লোকটি কী দেখছে ?",
+        "options": [
+            "পোস্টার",
+            "পত্রিকা",
+            "ছবি",
+            "নাটক"
+        ],
+        "answer": "পত্রিকা",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_3994.png",
+        "question": "লোকগুলো কীসে ব্যস্ত ?",
+        "options": [
+            "কৃষিকাজ",
+            "নির্মাণকাজ",
+            "খেলায়",
+            "কোনোটি সঠিক নয়"
+        ],
+        "answer": "কৃষিকাজ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_4011.png",
+        "question": "কশাই কি কাটছে ?",
+        "options": [
+            "মাংস",
+            "মাছ",
+            "সবজি",
+            "কচ্ছপ"
+        ],
+        "answer": "কচ্ছপ",
+        "category": "Food"
+    },
+    {
+        "filename": "CHITTRON_4035.png",
+        "question": "বইটির নাম",
+        "options": [
+            "বাইবেল",
+            "গীতাঞ্জলি",
+            "তাওরাত",
+            "কোরআন"
+        ],
+        "answer": "কোরআন",
+        "category": "Religious Events"
+    },
+    {
+        "filename": "CHITTRON_4042.png",
+        "question": "............... এর মাংস রান্না করা হচ্ছে ।",
+        "options": [
+            "কবুতর",
+            "হাঁস",
+            "মুরগি",
+            "কোয়েল"
+        ],
+        "answer": "মুরগি",
+        "category": "Food"
+    },
+    {
+        "filename": "CHITTRON_4044.png",
+        "question": "নৌকার নাম কী ?",
+        "options": [
+            "সাম্পান",
+            "বজরা",
+            "ডিঙ্গি",
+            "কোষা"
+        ],
+        "answer": "সাম্পান",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_4068.png",
+        "question": "জলাশয়টি -",
+        "options": [
+            "পুকুর",
+            "খাল",
+            "সমুদ্র",
+            "মহাসাগর"
+        ],
+        "answer": "সমুদ্র",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_4078.png",
+        "question": "লোকটি একজন -",
+        "options": [
+            "১। মুটে",
+            "২। চামার",
+            "৩। মুচি",
+            "৪। ৩ ও ২"
+        ],
+        "answer": "৪। ৩ ও ২",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_4098.png",
+        "question": "পাখিটির নাম -",
+        "options": [
+            "হাঁস",
+            "কোকিল",
+            "কুরচি বক",
+            "সাদা খঞ্জন"
+        ],
+        "answer": "কুরচি বক",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_4105.png",
+        "question": "হরিণটি কোন প্রজাতির ?",
+        "options": [
+            "সাম্বার হরিণ",
+            "মায়া হরিণ",
+            "চিত্রা হরিণ",
+            "বল্গা হরিণ"
+        ],
+        "answer": "চিত্রা হরিণ",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_4143.png",
+        "question": "লাল এলাকা কি?",
+        "options": [
+            "ফুল",
+            "ফল",
+            "লাল মরিচ",
+            "রঙ"
+        ],
+        "answer": "লাল মরিচ",
+        "category": "Food"
+    },
+    {
+        "filename": "CHITTRON_4150.png",
+        "question": "বৃদ্ধা কী খাচ্ছে ?",
+        "options": [
+            "মাছ",
+            "মাংস",
+            "সিঙ্গারা",
+            "মিষ্টি"
+        ],
+        "answer": "সিঙ্গারা",
+        "category": "Food"
+    },
+    {
+        "filename": "CHITTRON_4178.png",
+        "question": "ছবিতে দুইজন নারী -",
+        "options": [
+            "বাংলাদেশি অভিনেত্রী",
+            "সাধারণ মানুষ",
+            "রাজনৈতিক",
+            "গায়িকা"
+        ],
+        "answer": "বাংলাদেশি অভিনেত্রী",
+        "category": "Arts & History"
+    },
+    {
+        "filename": "CHITTRON_419.png",
+        "question": "নৌকাগুলো কোন প্রকারের ?",
+        "options": [
+            "সাম্পান",
+            "বজরা",
+            "ডিঙ্গি নৌকা",
+            "বালাম"
+        ],
+        "answer": "ডিঙ্গি নৌকা",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_4207.png",
+        "question": "কৃষক কী করছে ?",
+        "options": [
+            "ধান ভানছে",
+            "ধান বস্তায় ধুকাচ্ছে",
+            "ধান মাথায় উঠাচ্ছে",
+            "খেলা করছে"
+        ],
+        "answer": "ধান ভানছে",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_4229.png",
+        "question": "মহিলাটি -",
+        "options": [
+            "তাঁতের কাজ করছে",
+            "নকশার কাজ করছে",
+            "সুতার কাজ করছে",
+            "রান্না করছে"
+        ],
+        "answer": "তাঁতের কাজ করছে",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_4232.png",
+        "question": "লোকটির হাতে কি ?",
+        "options": [
+            "খাবার",
+            "কাপড়",
+            "অরিগামি",
+            "গয়না"
+        ],
+        "answer": "অরিগামি",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_4237.png",
+        "question": "মানুষটি কি করছে ?",
+        "options": [
+            "খাচ্ছে",
+            "বাঁশি বাজাচ্ছে",
+            "শঙ্খ বাজাচ্ছে",
+            "চিল্লাচ্ছে"
+        ],
+        "answer": "শঙ্খ বাজাচ্ছে",
+        "category": "Religious Events"
+    },
+    {
+        "filename": "CHITTRON_4244.png",
+        "question": "মহিলাটি কি করছে  ?",
+        "options": [
+            "রান্না করছে",
+            "সবজি কাটছে",
+            "বাজারে বিক্রি করছে",
+            "কিছুই করছে না"
+        ],
+        "answer": "বাজারে বিক্রি করছে",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_4255.png",
+        "question": "হরিণগুলো কোথায় আছে ?",
+        "options": [
+            "বনে",
+            "চিড়িয়াখানায়",
+            "মাঠে",
+            "বাসায়"
+        ],
+        "answer": "বনে",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_4309.png",
+        "question": "জায়গাটি কোথায় ?",
+        "options": [
+            "ইনানী বিচ",
+            "সেন্টমার্টিন দ্বীপ",
+            "শ্রীমঙ্গল",
+            "কুয়াকাটা"
+        ],
+        "answer": "ইনানী বিচ",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_4315.png",
+        "question": "কৃষকের কাঁধে কী ?",
+        "options": [
+            "লাঠি",
+            "লাঙ্গল",
+            "মোড়া",
+            "কুলা"
+        ],
+        "answer": "লাঙ্গল",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_433.png",
+        "question": "ফুলের নাম -",
+        "options": [
+            "শাপলা",
+            "পদ্ম",
+            "গোলাপ",
+            "গাঁদা"
+        ],
+        "answer": "পদ্ম",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_4334.png",
+        "question": "তাদের পেশা কি ?",
+        "options": [
+            "কুলি",
+            "মুটে",
+            "মালি",
+            "শ্রমিক"
+        ],
+        "answer": "শ্রমিক",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_4347.png",
+        "question": "লাল ফুলের নাম -",
+        "options": [
+            "কৃষ্ণচূড়া",
+            "গোলাপ",
+            "ডালিয়া",
+            "বেলি"
+        ],
+        "answer": "গোলাপ",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_4383.png",
+        "question": "স্থাপত্যের নাম কি ?",
+        "options": [
+            "শহীদ মিনার",
+            "স্মৃতিসৌধ",
+            "আহসান মঞ্জিল",
+            "অপরাজেয় বাংলা"
+        ],
+        "answer": "স্মৃতিসৌধ",
+        "category": "Arts & History"
+    },
+    {
+        "filename": "CHITTRON_4417.png",
+        "question": "তারা কী করছে ?",
+        "options": [
+            "কাপড় বানাচ্ছে",
+            "জাল মেরামত করছে",
+            "কাপড় রোদে দিচ্ছে",
+            "কিছুই করছে না"
+        ],
+        "answer": "জাল মেরামত করছে",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_443.png",
+        "question": "লোক্টি একজন -",
+        "options": [
+            "কৃষিজীবী",
+            "আইনজীবী",
+            "দমকলকর্মী",
+            "কিছুই না"
+        ],
+        "answer": "দমকলকর্মী",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_444.png",
+        "question": "তারা কী করছে ?",
+        "options": [
+            "মঙ্গল শোভাযাত্রা",
+            "নৃত্য",
+            "হলি করছে",
+            "কিছুই না"
+        ],
+        "answer": "মঙ্গল শোভাযাত্রা",
+        "category": "Cultural Festivals"
+    },
+    {
+        "filename": "CHITTRON_4465.png",
+        "question": "মহিলা কি ছড়াচ্ছে?",
+        "options": [
+            "বালু",
+            "ধান",
+            "মরিচ",
+            "পাট"
+        ],
+        "answer": "ধান",
+        "category": "Food"
+    },
+    {
+        "filename": "CHITTRON_448.png",
+        "question": "ছবিটা কী বিষয়ক ?",
+        "options": [
+            "মানুষের চলার",
+            "আন্দোলনের",
+            "মায়ানমার থেকে আসা শরণার্থীদের",
+            "মানুষের কাজে যাওয়ার"
+        ],
+        "answer": "মায়ানমার থেকে আসা শরণার্থীদের",
+        "category": "Incidents"
+    },
+    {
+        "filename": "CHITTRON_4491.png",
+        "question": "কৃষক কি করছে ?",
+        "options": [
+            "মাছ ধরছে",
+            "ক্ষেতে  সেচ",
+            "খেলা",
+            "পানি সরাচ্ছে"
+        ],
+        "answer": "ক্ষেতে  সেচ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_4533.png",
+        "question": "নৌকাটি কি প্রকার",
+        "options": [
+            "বজ্রা",
+            "ডিঙি",
+            "পান্সি",
+            "সাম্পান"
+        ],
+        "answer": "ডিঙি",
+        "category": "Arts & History"
+    },
+    {
+        "filename": "CHITTRON_4624.png",
+        "question": "ছবিটি কোথায় তোলা?",
+        "options": [
+            "বিমানের ভেতর",
+            "ট্রেনের ভেতর",
+            "বাসের ভেতর",
+            "বজ্রা নৌকার ভেতর"
+        ],
+        "answer": "বাসের ভেতর",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_47.png",
+        "question": "বালিকাটি কোথায় যাচ্ছে?",
+        "options": [
+            "খেলার মাঠে",
+            "বিদ্যালয়",
+            "প্রশিক্ষণ কেন্দ্রে",
+            "বাড়িতে"
+        ],
+        "answer": "বিদ্যালয়",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_4731.png",
+        "question": "মসজিদটির স্থাপত্যশৈলী কেমন?",
+        "options": [
+            "আধুনিক",
+            "প্রাচীন",
+            "রোমান",
+            "প্রত্নতাত্ত্বিক"
+        ],
+        "answer": "প্রত্নতাত্ত্বিক",
+        "category": "Arts & History"
+    },
+    {
+        "filename": "CHITTRON_4766.png",
+        "question": "ছবিটি কোথায় তোলা?",
+        "options": [
+            "বাংলাদেশ-মিয়ানমার সীমান্তে",
+            "বাংলাদেশ-ভারত সীমান্তে",
+            "বাংলাদেশ-নেপাল সীমান্তে",
+            "বাংলাদেশ-ভুটান সীমান্তে"
+        ],
+        "answer": "বাংলাদেশ-ভারত সীমান্তে",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_4805.png",
+        "question": "ছবিটি কোথায় তোলা?",
+        "options": [
+            "বাসের ভেতর",
+            "আন্তঃনগর ট্রেনের ভেতর",
+            "কমিউটার ট্রেনের ভেতর",
+            "লঞ্চের ভেতর"
+        ],
+        "answer": "কমিউটার ট্রেনের ভেতর",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_4825.png",
+        "question": "ছবিটি কোথায় তোলা ?",
+        "options": [
+            "বিমানবন্দরে",
+            "সমুদ্রবন্দরে",
+            "লঞ্চ ঘাটে",
+            "রেল স্টেশনে"
+        ],
+        "answer": "লঞ্চ ঘাটে",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_4937.png",
+        "question": "নৌকাটি কোন ধরনের",
+        "options": [
+            "ডিঙ্গি",
+            "পানসী",
+            "গাছী",
+            "বজরা"
+        ],
+        "answer": "ডিঙ্গি",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_4953.png",
+        "question": "ছবিটি কোথায় তোলা?",
+        "options": [
+            "কাঁচা বাজার",
+            "মেলা",
+            "প্রদর্শনী অনুষ্ঠান",
+            "ঘাট"
+        ],
+        "answer": "কাঁচা বাজার",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_4955.png",
+        "question": "মসজিদটির নাম কি?",
+        "options": [
+            "তারা মসজিদ",
+            "ষাট গম্বুজ  মসজিদ",
+            "জাতীয় মসজিদ",
+            "আরিফুল মসজিদ"
+        ],
+        "answer": "আরিফুল মসজিদ",
+        "category": "Arts & History"
+    },
+    {
+        "filename": "CHITTRON_4957.png",
+        "question": "স্থাপনাটি মূলত কিসের?",
+        "options": [
+            "মসজিদ",
+            "কালী মন্দির",
+            "গির্জা",
+            "প্যাগোডা"
+        ],
+        "answer": "কালী মন্দির",
+        "category": "Arts & History"
+    },
+    {
+        "filename": "CHITTRON_4964.png",
+        "question": "এটি কোন পাখি?",
+        "options": [
+            "কবুতর",
+            "টিয়া",
+            "দোয়েল",
+            "কাক"
+        ],
+        "answer": "দোয়েল",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_4972.png",
+        "question": "লোকগুলো কি করছে?",
+        "options": [
+            "নদীর তীরে চলছে",
+            "পাহাড়ে চড়ছে",
+            "সমুদ্রে সাঁতার কাটছে",
+            "বনের ভিতর চলছে"
+        ],
+        "answer": "পাহাড়ে চড়ছে",
+        "category": "Incidents"
+    },
+    {
+        "filename": "CHITTRON_4984.png",
+        "question": "ছবিটি কোথায় তোলা?",
+        "options": [
+            "নদীর তীর",
+            "সমুদ্রের পাড়ে",
+            "পুকুর পাড়ে",
+            "খাল পাড়ে"
+        ],
+        "answer": "নদীর তীর",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_4987.png",
+        "question": "ছবিটি কোথায় তোলা?",
+        "options": [
+            "রমনা পার্ক",
+            "বোটানিকাল গার্ডেন",
+            "উত্তরা পার্ক",
+            "গাজীপুর উদ্যান"
+        ],
+        "answer": "বোটানিকাল গার্ডেন",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_4992.png",
+        "question": "এটি কোন স্হাপনা?",
+        "options": [
+            "শাহিদ মিনার",
+            "শিখা অনির্বাণ",
+            "জাতীয় স্মৃতি সৌধের রেপ্লিকা",
+            "ফ্ল্যাগ পোল"
+        ],
+        "answer": "জাতীয় স্মৃতি সৌধের রেপ্লিকা",
+        "category": "Arts & History"
+    },
+    {
+        "filename": "CHITTRON_4997.png",
+        "question": "ছবিটি কোথায় তোলা?",
+        "options": [
+            "বান্দরবান",
+            "সুন্দরবন",
+            "সাজেক",
+            "চন্দ্রনাথ"
+        ],
+        "answer": "সাজেক",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_501.png",
+        "question": "মানুষগুলো কি করছে?",
+        "options": [
+            "নামাজ পড়ছে",
+            "পূজা করছে",
+            "ভ্রমণ করছে",
+            "শুয়ে আছে"
+        ],
+        "answer": "নামাজ পড়ছে",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5016.png",
+        "question": "ছবিটি কোথায় তোলা?",
+        "options": [
+            "লাল খাল",
+            "গুলিয়াখালি",
+            "রাতারগুল",
+            "জাফলং"
+        ],
+        "answer": "জাফলং",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_5020.png",
+        "question": "এটি কোন প্রতিষ্ঠান?",
+        "options": [
+            "আল-জামিয়া ইসলামিয়া ইউনুছিয়া",
+            "ইসলামী ফাউন্ডেশন",
+            "তারা মসজিদ",
+            "সোনা মসজিদ"
+        ],
+        "answer": "আল-জামিয়া ইসলামিয়া ইউনুছিয়া",
+        "category": "Arts & History"
+    },
+    {
+        "filename": "CHITTRON_5024.png",
+        "question": "লোকগুলো কোথায় উটছে?",
+        "options": [
+            "কোনো টিলা",
+            "কোনো বনে",
+            "কোনো স্টেশনে",
+            "কোনো স্ট্যান্ডে"
+        ],
+        "answer": "কোনো টিলা",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_503.png",
+        "question": "শিশুটির পেশা কি?",
+        "options": [
+            "চা বিক্রেতা",
+            "টোকাই",
+            "ঝাড়ুদার",
+            "মিস্ত্রী"
+        ],
+        "answer": "টোকাই",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5032.png",
+        "question": "ছবিটি কোথায় তোলা?",
+        "options": [
+            "বুদ্ধ ধাতু জাদি, বান্দরবান",
+            "চন্দ্রনাথ মন্দির",
+            "সাজেক",
+            "মিনি বান্দরবান"
+        ],
+        "answer": "বুদ্ধ ধাতু জাদি, বান্দরবান",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_5035.png",
+        "question": "এটি কোন ঝরণা?",
+        "options": [
+            "খৈয়াছড়া",
+            "রঙ্গামটির কোনো ঝর্ণা",
+            "রাতারগুল",
+            "শুভলং ঝর্ণা"
+        ],
+        "answer": "খৈয়াছড়া",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_5038.png",
+        "question": "দোকানটি কোন ধরনের?",
+        "options": [
+            "মুদি দোকান",
+            "টং দোকান",
+            "হোটেল",
+            "ফার্মেসি"
+        ],
+        "answer": "হোটেল",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5040.png",
+        "question": "এখন কোন সময়?",
+        "options": [
+            "সূর্যদয়",
+            "সন্ধা",
+            "রাত",
+            "সূর্যাস্ত"
+        ],
+        "answer": "সূর্যাস্ত",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_5042.png",
+        "question": "ছবিটি কোথায় তোলা?",
+        "options": [
+            "কোনো  স্কুলের করিডোর",
+            "কোনো মাদ্রাসা",
+            "কোনো বিষবিদ্যালয়",
+            "কোনো বাড়ি"
+        ],
+        "answer": "কোনো  স্কুলের করিডোর",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5045.png",
+        "question": "এটি কোন ঝরনা?",
+        "options": [
+            "শুভলং",
+            "মাধবকুণ্ড",
+            "বড় কমলন্দ",
+            "খৈয়াছড়া"
+        ],
+        "answer": "খৈয়াছড়া",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_5052.png",
+        "question": "শিশুরা কি দেখাচ্ছে?",
+        "options": [
+            "নিজেদের আকা ছবি",
+            "কাগজ",
+            "রং পেন্সিল",
+            "নৌকা"
+        ],
+        "answer": "নিজেদের আকা ছবি",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5056.png",
+        "question": "এটি কোন ফুল?",
+        "options": [
+            "জবা",
+            "কৃষ্ণচূড়া",
+            "রাজকীয় পয়েনশিয়া",
+            "গোলাপ"
+        ],
+        "answer": "রাজকীয় পয়েনশিয়া",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_5065.png",
+        "question": "শিশুরা কি খেলছে?",
+        "options": [
+            "ফুটবল",
+            "ক্রিকেট",
+            "ভলিবল",
+            "ব্যাডমিন্টন"
+        ],
+        "answer": "ক্রিকেট",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5069.png",
+        "question": "স্থাপনাটি কিসের?",
+        "options": [
+            "অয়েল ফিল্ড",
+            "গ্যাস ফিল্ড",
+            "গার্মনেটস",
+            "কারখানা"
+        ],
+        "answer": "গ্যাস ফিল্ড",
+        "category": "Incidents"
+    },
+    {
+        "filename": "CHITTRON_5070.png",
+        "question": "এগুলো কি খাবার?",
+        "options": [
+            "পিঠা",
+            "বাকরখানি",
+            "বিস্কিট",
+            "বড়া"
+        ],
+        "answer": "বাকরখানি",
+        "category": "Food"
+    },
+    {
+        "filename": "CHITTRON_5073.png",
+        "question": "এটি কোন নদী?",
+        "options": [
+            "পদ্মা",
+            "বুড়িগঙ্গা",
+            "গঙ্গা",
+            "কালীগঙ্গা"
+        ],
+        "answer": "কালীগঙ্গা",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_5075.png",
+        "question": "শিশুরা কি করছে?",
+        "options": [
+            "খেলা-ধুলা",
+            "নাচ-গান",
+            "চিত্রাঙ্কন",
+            "দৌড় প্রতিযোগিতা"
+        ],
+        "answer": "চিত্রাঙ্কন",
+        "category": "Cultural Festivals"
+    },
+    {
+        "filename": "CHITTRON_5077.png",
+        "question": "ছবিটি কোথায় তোলা?",
+        "options": [
+            "রাঙামাটি",
+            "গুলিয়াখালি",
+            "জাফলং",
+            "সীতাকুন্ডু"
+        ],
+        "answer": "সীতাকুন্ডু",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_5094.png",
+        "question": "রাস্তাটি কীভাবে তৈরি?",
+        "options": [
+            "মাটির তৈরি",
+            "পিচ ঢেলে তৈরি",
+            "ঢালাই দিয়ে বানানো",
+            "প্রাকৃতিক"
+        ],
+        "answer": "পিচ ঢেলে তৈরি",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_5097.png",
+        "question": "লোকগুলো কি করছে?",
+        "options": [
+            "হাইকিং",
+            "ট্রেকিং",
+            "সাঁতার",
+            "আন্দোলন"
+        ],
+        "answer": "ট্রেকিং",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_5114.png",
+        "question": "এটি কোন শহর?",
+        "options": [
+            "নোয়াখালী",
+            "কুমিল্লা",
+            "ব্রাহ্মনবাড়ীয়া",
+            "ঢাকা"
+        ],
+        "answer": "ব্রাহ্মনবাড়ীয়া",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5123.png",
+        "question": "ছবিটি কোথায় তোলা?",
+        "options": [
+            "টেঙ্কের পাড়",
+            "ভাষানটেক",
+            "ময়লার মোড়",
+            "সরাইল"
+        ],
+        "answer": "টেঙ্কের পাড়",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5126.png",
+        "question": "ঝর্ণাটির নাম কি?",
+        "options": [
+            "জাফলং",
+            "শুভলং",
+            "পাংথুমাই",
+            "সাতহদ্দি"
+        ],
+        "answer": "সাতহদ্দি",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_5128.png",
+        "question": "ব্রিজটি কোন জেলায়?",
+        "options": [
+            "রাজশাহী",
+            "চাঁপাই নওয়াবগঞ্জ",
+            "শেরপুর",
+            "খুলনা"
+        ],
+        "answer": "চাঁপাই নওয়াবগঞ্জ",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_5131.png",
+        "question": "এটি কিসের কারখানা?",
+        "options": [
+            "তেল শোধনাগার",
+            "তামাক শোধনাগার",
+            "সার কারখানা",
+            "গার্মেন্টস"
+        ],
+        "answer": "সার কারখানা",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5133.png",
+        "question": "এটি কি প্রতিষ্ঠান?",
+        "options": [
+            "কলেজ",
+            "বিশ্ববিদ্যালয়",
+            "স্কুল",
+            "কিন্ডারগার্টেন"
+        ],
+        "answer": "কিন্ডারগার্টেন",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5135.png",
+        "question": "যন্ত্রটির কাজ কি?",
+        "options": [
+            "ধান ঝাড়াই",
+            "ধান মাড়াই",
+            "ধান কাটা",
+            "ধানের চারা রোপণ"
+        ],
+        "answer": "ধানের চারা রোপণ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_514.png",
+        "question": "স্থাপনাটির নাম কি?",
+        "options": [
+            "স্মৃতি সৌধ",
+            "শাহিদ মিনার",
+            "শিখা অনির্বাণ",
+            "জাতীয় সংসদ ভবন"
+        ],
+        "answer": "জাতীয় সংসদ ভবন",
+        "category": "Arts & History"
+    },
+    {
+        "filename": "CHITTRON_5142.png",
+        "question": "এটি কোন স্হাপনা?",
+        "options": [
+            "শাহিদ মিনার",
+            "শাহ জালাল মাজার",
+            "স্মৃতি সৌধ",
+            "বীর শ্রেষ্ঠ মোস্তফা কামাল সমাধি"
+        ],
+        "answer": "বীর শ্রেষ্ঠ মোস্তফা কামাল সমাধি",
+        "category": "Arts & History"
+    },
+    {
+        "filename": "CHITTRON_5149.png",
+        "question": "মন্দিরটি কোথায় অবস্থিত?",
+        "options": [
+            "ব্রাহ্মনবাড়ীয়া",
+            "ঢাকা",
+            "গাজীপুর",
+            "নরসিংদি"
+        ],
+        "answer": "ব্রাহ্মনবাড়ীয়া",
+        "category": "Arts & History"
+    },
+    {
+        "filename": "CHITTRON_5151.png",
+        "question": "অনুষ্ঠানটি কি উপলক্ষে?",
+        "options": [
+            "পুরস্কার বিতরণী",
+            "কর্মী সভা",
+            "বই বিতরণী",
+            "বিয়ে"
+        ],
+        "answer": "কর্মী সভা",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_516.png",
+        "question": "লোকটি পেশায় কি?",
+        "options": [
+            "কৃষক",
+            "মুচি",
+            "কামার",
+            "শিল্পী"
+        ],
+        "answer": "শিল্পী",
+        "category": "Incidents"
+    },
+    {
+        "filename": "CHITTRON_5164.png",
+        "question": "ছবিতে কোন ঋতু?",
+        "options": [
+            "গ্রীষ্ম",
+            "বর্ষা",
+            "শীত",
+            "বসন্ত"
+        ],
+        "answer": "শীত",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5167.png",
+        "question": "লোকটি পেষায় কি?",
+        "options": [
+            "ফেরিওয়ালা",
+            "মুচি",
+            "কৃষক",
+            "কামার"
+        ],
+        "answer": "ফেরিওয়ালা",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5174.png",
+        "question": "এটি কোন প্রতিষ্ঠান?",
+        "options": [
+            "আর্মি ব্যারাক",
+            "পুলিশ সুপারের কার্যালয়",
+            "প্রাইমারি স্কুল",
+            "বিশ্ববিদ্যালয় হল"
+        ],
+        "answer": "পুলিশ সুপারের কার্যালয়",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_518.png",
+        "question": "ছবিটি কোথায় তোলা?",
+        "options": [
+            "গরুর হাট",
+            "বাজার",
+            "রেস্টুরেন্ট",
+            "মাঠ"
+        ],
+        "answer": "গরুর হাট",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5189.png",
+        "question": "এটি কোন মসজিদ?",
+        "options": [
+            "উলচাপাড়া শাহি মসজিদ",
+            "তারা মসজিদ",
+            "কালী মন্দির",
+            "সাগরদিঘি মসজিদ"
+        ],
+        "answer": "উলচাপাড়া শাহি মসজিদ",
+        "category": "Arts & History"
+    },
+    {
+        "filename": "CHITTRON_5201.png",
+        "question": "এটি কোন গাছ?",
+        "options": [
+            "নারিকেল",
+            "পাম",
+            "তাল",
+            "খেজুর"
+        ],
+        "answer": "তাল",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_5203.png",
+        "question": "ট্রেনটি কোন গেজের?",
+        "options": [
+            "ন্যারো গেজ",
+            "ব্রড গেজ",
+            "মিটার গেজ",
+            "ডুয়াল গেজ"
+        ],
+        "answer": "মিটার গেজ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5205.png",
+        "question": "নৌকাগুলো কোন ধরনের?",
+        "options": [
+            "সাম্পান",
+            "বজরা",
+            "সওদাগরি",
+            "বাচারি"
+        ],
+        "answer": "বজরা",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5208.png",
+        "question": "নৌকাটি কোন ধরনের?",
+        "options": [
+            "সাম্পান",
+            "ডিঙ্গি",
+            "বজরা",
+            "পানসি"
+        ],
+        "answer": "ডিঙ্গি",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_521.png",
+        "question": "কলসগুলো কীসের তৈরি?",
+        "options": [
+            "পিতল",
+            "কাসা",
+            "এলুমিনিয়াম",
+            "লোহা"
+        ],
+        "answer": "এলুমিনিয়াম",
+        "category": "Incidents"
+    },
+    {
+        "filename": "CHITTRON_5218.png",
+        "question": "নৌকাটি কোন ধরনের?",
+        "options": [
+            "বজরা",
+            "ডিঙ্গি",
+            "গয়না",
+            "লম্বা পদী"
+        ],
+        "answer": "বজরা",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_5222.png",
+        "question": "ব্রিজটির নাম কি?",
+        "options": [
+            "পদ্মা সেতু",
+            "যমুনা সেতু",
+            "লালন শাহ সেতু",
+            "ভৈরব রেলওয়ে সেতু"
+        ],
+        "answer": "ভৈরব রেলওয়ে সেতু",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5227.png",
+        "question": "এটি কিসের ক্ষেত?",
+        "options": [
+            "ধান",
+            "গম",
+            "সরিষা",
+            "ভুট্টো"
+        ],
+        "answer": "ধান",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_523.png",
+        "question": "বাসাটি কিসের তৈরি?",
+        "options": [
+            "শুকনো বাঁশ",
+            "কাঠ",
+            "পাতা",
+            "গ্রানাইট"
+        ],
+        "answer": "শুকনো বাঁশ",
+        "category": "Incidents"
+    },
+    {
+        "filename": "CHITTRON_5231.png",
+        "question": "স্কুলটি কোথায় অবস্থিত?",
+        "options": [
+            "নড়াইল",
+            "ঢাকা",
+            "ব্রাহ্মণবাড়িয়া",
+            "ভৈরব"
+        ],
+        "answer": "ব্রাহ্মণবাড়িয়া",
+        "category": "Sports"
+    },
+    {
+        "filename": "CHITTRON_5234.png",
+        "question": "ব্রিজটির নাম কি?",
+        "options": [
+            "ভৈরব সেতু",
+            "লালন শাহ সেতু",
+            "টঙ্গী সেতু",
+            "সায়েদ নজরুল ইসলাম ব্রিজ"
+        ],
+        "answer": "সায়েদ নজরুল ইসলাম ব্রিজ",
+        "category": "Arts & History"
+    },
+    {
+        "filename": "CHITTRON_5244.png",
+        "question": "নৌকাটি কোন ধরনের?",
+        "options": [
+            "বজরা",
+            "সাম্পান",
+            "ডিঙ্গি",
+            "পানসি"
+        ],
+        "answer": "ডিঙ্গি",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_5248.png",
+        "question": "এটি কোন মঠ?",
+        "options": [
+            "শ্যামসিদ্ধির মঠ",
+            "সিদ্ধেশ্বরী মঠ",
+            "কেষ্ট ক্ষ্যাপার মঠ",
+            "যাত্রা মুনির মঠ"
+        ],
+        "answer": "শ্যামসিদ্ধির মঠ",
+        "category": "Arts & History"
+    },
+    {
+        "filename": "CHITTRON_5250.png",
+        "question": "এটি কিসের অনুষ্ঠান?",
+        "options": [
+            "সাংস্কৃতিক",
+            "পুরস্কার বিতরণী",
+            "শীতবস্ত্র বিতরণী",
+            "বই বিতরণী"
+        ],
+        "answer": "সাংস্কৃতিক",
+        "category": "Cultural Festivals"
+    },
+    {
+        "filename": "CHITTRON_5258.png",
+        "question": "পিছনে কোন ক্ষেত?",
+        "options": [
+            "ধান",
+            "গম",
+            "পাট",
+            "আলু"
+        ],
+        "answer": "ধান",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_5260.png",
+        "question": "দোকানটি মূলত কিসের?",
+        "options": [
+            "সেলুন",
+            "মুদি দোকান",
+            "হোটেল",
+            "মাছ-মাংসের দোকান"
+        ],
+        "answer": "হোটেল",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5276.png",
+        "question": "বিশ্রামাগারটি কোথায় অবস্থিত?",
+        "options": [
+            "কুমিল্লা",
+            "ব্রাহ্মণবাড়িয়া",
+            "ঢাকা",
+            "রংপুর"
+        ],
+        "answer": "ব্রাহ্মণবাড়িয়া",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5284.png",
+        "question": "নৌকাটি কোন ধরনের?",
+        "options": [
+            "ডিঙ্গি",
+            "পানসি",
+            "কায়াক",
+            "সৌদাগরী"
+        ],
+        "answer": "কায়াক",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_5292.png",
+        "question": "এটি কিসের অনুষ্ঠান?",
+        "options": [
+            "বিজয় দিবস",
+            "শহীদ দিবস",
+            "পূজা",
+            "ঈদ"
+        ],
+        "answer": "শহীদ দিবস",
+        "category": "Cultural Festivals"
+    },
+    {
+        "filename": "CHITTRON_5295.png",
+        "question": "এটি কিসের ক্ষেত?",
+        "options": [
+            "গম",
+            "ঘাস",
+            "ধান",
+            "ডাল"
+        ],
+        "answer": "ধান",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_5303.png",
+        "question": "ঝাঁটাটি কীসের তৈরি?",
+        "options": [
+            "খড়",
+            "ধান",
+            "শলাকা",
+            "গ্লাস"
+        ],
+        "answer": "শলাকা",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5306.png",
+        "question": "দোকানটি কোথায়?",
+        "options": [
+            "খৈয়াছড়া",
+            "মহামায়া",
+            "চন্দ্রনাথ",
+            "সংগ্রামপুঞ্জি"
+        ],
+        "answer": "খৈয়াছড়া",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5311.png",
+        "question": "ঝরনাটির নাম কি?",
+        "options": [
+            "খৈয়াছড়া",
+            "সংগ্রামপুঞ্জি",
+            "হাম হাম",
+            "শুভলং ঝর্ণা"
+        ],
+        "answer": "খৈয়াছড়া",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_5315.png",
+        "question": "এটি কোন প্রতিষ্ঠান?",
+        "options": [
+            "স্বাস্থ কমপ্লেক্স",
+            "জজ আদালত",
+            "পৌরসভা",
+            "উপজেলা পরিষদ"
+        ],
+        "answer": "উপজেলা পরিষদ",
+        "category": "Arts & History"
+    },
+    {
+        "filename": "CHITTRON_5319.png",
+        "question": "এটি কিসের গেট?",
+        "options": [
+            "মন্দির",
+            "ঈদগাহ",
+            "মাজার",
+            "মসজিদ"
+        ],
+        "answer": "মাজার",
+        "category": "Arts & History"
+    },
+    {
+        "filename": "CHITTRON_5320.png",
+        "question": "এইগুলো কোন ফুল?",
+        "options": [
+            "রজনীগন্ধা",
+            "গোলাপ",
+            "গাদা",
+            "কৃষ্ণচূড়া"
+        ],
+        "answer": "গোলাপ",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_5322.png",
+        "question": "ছবিটি কোথায় তোলা?",
+        "options": [
+            "লালা খাল",
+            "জাফলং",
+            "রাঙামাটি",
+            "উত্তরা লেক"
+        ],
+        "answer": "জাফলং",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_533.png",
+        "question": "এটি কোন প্রাণী?",
+        "options": [
+            "সাপ",
+            "বিড়াল",
+            "কাঠবিড়ালি",
+            "বেজি"
+        ],
+        "answer": "বেজি",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5334.png",
+        "question": "এটি কোন ঝরনা?",
+        "options": [
+            "শুভলং",
+            "সংগ্রামপুঞ্জি",
+            "খৈয়াছড়া",
+            "হাম হাম"
+        ],
+        "answer": "খৈয়াছড়া",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_5336.png",
+        "question": "এটি কিসের পাড়?",
+        "options": [
+            "চলন বিল",
+            "জাফলং",
+            "ডিবির হাওর",
+            "মহামায়া লেক"
+        ],
+        "answer": "চলন বিল",
+        "category": "Food"
+    },
+    {
+        "filename": "CHITTRON_5341.png",
+        "question": "এটি কার মাজার?",
+        "options": [
+            "কাজী মাহমুদ শাহ",
+            "লালন শাহ",
+            "দেওয়ানবাগী",
+            "শাহ জালাল"
+        ],
+        "answer": "কাজী মাহমুদ শাহ",
+        "category": "Arts & History"
+    },
+    {
+        "filename": "CHITTRON_5345.png",
+        "question": "এটি কিসের অনুষ্ঠান?",
+        "options": [
+            "বিয়ে",
+            "পহেলা বৈশাখ",
+            "শহীদ দিবস",
+            "পূজা"
+        ],
+        "answer": "বিয়ে",
+        "category": "Cultural Festivals"
+    },
+    {
+        "filename": "CHITTRON_5349.png",
+        "question": "পুতুলগুলো কীসের তৈরি?",
+        "options": [
+            "মাটি",
+            "শিশা",
+            "গ্লাস",
+            "আলুমিনিয়াম"
+        ],
+        "answer": "মাটি",
+        "category": "Arts & History"
+    },
+    {
+        "filename": "CHITTRON_5353.png",
+        "question": "মসজিদটির নাম কি?",
+        "options": [
+            "জামিয়া ইসলামিয়া ইউনুসিয়া",
+            "সোনারগাঁও মসজিদ",
+            "তারা মসজিদ",
+            "জাতীয় মসজিদ"
+        ],
+        "answer": "জামিয়া ইসলামিয়া ইউনুসিয়া",
+        "category": "Arts & History"
+    },
+    {
+        "filename": "CHITTRON_5359.png",
+        "question": "এটি কিন ঝরনা?",
+        "options": [
+            "খৈয়াছড়া",
+            "হাম হাম",
+            "শুভলং",
+            "জাফলং"
+        ],
+        "answer": "খৈয়াছড়া",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_5361.png",
+        "question": "এটি কিসের কারখানা?",
+        "options": [
+            "গার্মেন্টস",
+            "ইট ভাটা",
+            "গ্যাস ফিল্ড",
+            "ইলেকট্রনিক্স কারখানা"
+        ],
+        "answer": "ইট ভাটা",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5367.png",
+        "question": "এটি কোন মসজিদ?",
+        "options": [
+            "ব্রাহ্মণবাড়িয়া জামে মসজিদ",
+            "ভাদুঘড় শাহি মসজিদ",
+            "লালন শাহ মাজার",
+            "জাতীয় মসজিদ"
+        ],
+        "answer": "ভাদুঘড় শাহি মসজিদ",
+        "category": "Arts & History"
+    },
+    {
+        "filename": "CHITTRON_404.png",
+        "question": "মসজিটির নাম -",
+        "options": [
+            "ষাট গম্বুজ মসজিদ",
+            "তারা মসজিদ",
+            "সাত গম্বুজ মসজিদ",
+            "ছোট কাটরা মসজিদ"
+        ],
+        "answer": "তারা মসজিদ",
+        "category": "Arts & History"
+    },
+    {
+        "filename": "CHITTRON_4209.png",
+        "question": "শিশুটি কী পরেছে ?",
+        "options": [
+            "ঈদের পাঞ্জাবি",
+            "গেঞ্জি",
+            "ফোতুয়া",
+            "বৈশাখের নকশা করা পাঞ্জাবি"
+        ],
+        "answer": "বৈশাখের নকশা করা পাঞ্জাবি",
+        "category": "Clothing & Fashion"
+    },
+    {
+        "filename": "CHITTRON_423.png",
+        "question": "লোকের পেশা কী ?",
+        "options": [
+            "কক্সবাজারের বিক্রেতা",
+            "কুলি",
+            "মুচি",
+            "মিস্ত্রি"
+        ],
+        "answer": "কক্সবাজারের বিক্রেতা",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_4233.png",
+        "question": "ছবির আবহাওয়া কেমন ?",
+        "options": [
+            "বাদলা",
+            "রোদেলা",
+            "ঠান্ডা",
+            "ফ্যাকাশে"
+        ],
+        "answer": "বাদলা",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_4262.png",
+        "question": "জায়গাটা কোথায় ?",
+        "options": [
+            "ঢাকা মেডিকেল কলেজ গেটের কাছে",
+            "লালবাগ",
+            "মতিঝিল",
+            "কলাবাগান"
+        ],
+        "answer": "ঢাকা মেডিকেল কলেজ গেটের কাছে",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_4312.png",
+        "question": "ফুলের নাম -",
+        "options": [
+            "কাঁশ",
+            "বেলি",
+            "গাঁদা",
+            "কৃষ্ণচূড়া"
+        ],
+        "answer": "গাঁদা",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_4344.png",
+        "question": "কৃষকের হাতে কী ?",
+        "options": [
+            "ছুরি",
+            "হাতুড়ি",
+            "বটি",
+            "কাস্তে"
+        ],
+        "answer": "কাস্তে",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_4422.png",
+        "question": "তাদের হাতে কী ?",
+        "options": [
+            "লাঙ্গল",
+            "পাটি",
+            "কোদাল",
+            "গাঁদা"
+        ],
+        "answer": "লাঙ্গল",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_4432.png",
+        "question": "লোকটির হাতে -",
+        "options": [
+            "পুঁই শাক",
+            "লাল শাক",
+            "ডাটা শাক",
+            "থানকুনি পাতা"
+        ],
+        "answer": "ডাটা শাক",
+        "category": "Food"
+    },
+    {
+        "filename": "CHITTRON_4442.png",
+        "question": "এটা কি এলাকা ?",
+        "options": [
+            "ফুল বাগান",
+            "ফল বাগান",
+            "চা বাগান",
+            "শাক বাগান"
+        ],
+        "answer": "চা বাগান",
+        "category": "Food"
+    },
+    {
+        "filename": "CHITTRON_4469.png",
+        "question": "কি ঝুলছে ?",
+        "options": [
+            "ঘড়ি",
+            "হারিকেন",
+            "পতাকা",
+            "ছুটির ঘণ্টা"
+        ],
+        "answer": "হারিকেন",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_496.png",
+        "question": "মহিলাটি কি করছে?",
+        "options": [
+            "কলসিতে পানি ভরার অপেক্ষায়",
+            "বসে আছে",
+            "ঘুমাচ্ছে",
+            "পাটি বুনছে"
+        ],
+        "answer": "কলসিতে পানি ভরার অপেক্ষায়",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_4998.png",
+        "question": "স্থাপনাটি কিসের",
+        "options": [
+            "ঢিবি",
+            "প্রবেশ পথ",
+            "মিনার",
+            "মুক্তমঞ্চ"
+        ],
+        "answer": "মুক্তমঞ্চ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5021.png",
+        "question": "ছবিটি কোথায় তোলা",
+        "options": [
+            "নদীর ধারে",
+            "সমুদ্রের পারে",
+            "ব্রিজের উপর",
+            "বনের মাঝে"
+        ],
+        "answer": "ব্রিজের উপর",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5036.png",
+        "question": "এটি কোন সেতু?",
+        "options": [
+            "লালন শাহ সেতু",
+            "হার্ডিং ব্রিজ",
+            "ভৈরব সেতু",
+            "টঙ্গী সেতু"
+        ],
+        "answer": "ভৈরব সেতু",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_5039.png",
+        "question": "ছবিটি কোথায় তোলা?",
+        "options": [
+            "সাজেক",
+            "মহামায়া",
+            "খাগড়াছড়ি",
+            "রাঙামাটি"
+        ],
+        "answer": "সাজেক",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_5041.png",
+        "question": "এটি কোন মসজিদ?",
+        "options": [
+            "ট্যাঙ্কার পার জমে মসজিদ",
+            "তারা মসজিদ",
+            "জাতীয় মসজিদ",
+            "ষাট গম্বুজ মসজিদ"
+        ],
+        "answer": "ট্যাঙ্কার পার জমে মসজিদ",
+        "category": "Arts & History"
+    },
+    {
+        "filename": "CHITTRON_5046.png",
+        "question": "মানুষগুলো কি করছে?",
+        "options": [
+            "মানব টাওয়ার তৈরি",
+            "আন্দোলন",
+            "পতাকা উত্তোলন",
+            "বসে আছে"
+        ],
+        "answer": "মানব টাওয়ার তৈরি",
+        "category": "Cultural Festivals"
+    },
+    {
+        "filename": "CHITTRON_5054.png",
+        "question": "বাসাটি কীসের সামনে?",
+        "options": [
+            "নদী",
+            "লেক",
+            "পুকুর",
+            "ডোবা"
+        ],
+        "answer": "পুকুর",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_507.png",
+        "question": "ছবিটি কোথায় তোলা?",
+        "options": [
+            "আর্ট গ্যালারি",
+            "মিউজিয়াম",
+            "শিল্পকলা",
+            "পলিটেকনিক"
+        ],
+        "answer": "আর্ট গ্যালারি",
+        "category": "Arts & History"
+    },
+    {
+        "filename": "CHITTRON_5115.png",
+        "question": "এটি কোন শহর?",
+        "options": [
+            "ঝালকাঠি",
+            "মোংলা",
+            "পটুয়াখালী",
+            "বরিশাল"
+        ],
+        "answer": "বরিশাল",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5127.png",
+        "question": "এটি কিসের ক্ষেত?",
+        "options": [
+            "ধান",
+            "গম",
+            "ডাল",
+            "ঘাস"
+        ],
+        "answer": "ধান",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_5134.png",
+        "question": "লোখুলো কি করছে?",
+        "options": [
+            "বাঞ্জি জাম্পিং",
+            "হাইকিং",
+            "সাইক্লিং",
+            "দৌড় প্রতিযোগিতা"
+        ],
+        "answer": "হাইকিং",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_5141.png",
+        "question": "ট্রেনটির নাম কি?",
+        "options": [
+            "চিত্র এক্সপ্রেস",
+            "মধুমতি এক্সপ্রেস",
+            "উদয়ন এক্সপ্রেস",
+            "সুন্দরবন এক্সপ্রেস"
+        ],
+        "answer": "উদয়ন এক্সপ্রেস",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5150.png",
+        "question": "ফুলের নাম কি?",
+        "options": [
+            "গোলাপ",
+            "ভোরের রানী",
+            "কৃষ্ণচূড়া",
+            "গাদা"
+        ],
+        "answer": "ভোরের রানী",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_5160.png",
+        "question": "এটি কোন জেলা?",
+        "options": [
+            "ঢাকা",
+            "গাজীপুর",
+            "কুমিল্লা",
+            "ব্রাহ্মণবাড়িয়া"
+        ],
+        "answer": "কুমিল্লা",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5168.png",
+        "question": "লোকটির নাম কি?",
+        "options": [
+            "মাইকেল মধুসূদন দত্ত",
+            "কাজী নজরুল ইসলাম",
+            "এ কে ফজলুল হক",
+            "ধীরেন্দ্রনাথ দত্ত"
+        ],
+        "answer": "ধীরেন্দ্রনাথ দত্ত",
+        "category": "Arts & History"
+    },
+    {
+        "filename": "CHITTRON_5190.png",
+        "question": "এটি কোন ঝরনা?",
+        "options": [
+            "পাংথুমাই",
+            "খৈয়াছড়া",
+            "হাম হাম",
+            "শুভলং"
+        ],
+        "answer": "খৈয়াছড়া",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_5202.png",
+        "question": "এটি কোন ঝরনা?",
+        "options": [
+            "খৈয়াছড়া",
+            "পাংথুমায়",
+            "হাম হাম",
+            "সংগ্রামপুঞ্জি"
+        ],
+        "answer": "খৈয়াছড়া",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_5209.png",
+        "question": "এইটিকোন ধরনের মিষ্টি?",
+        "options": [
+            "কাচা গোল্লা",
+            "রস মালাই",
+            "দই",
+            "কালো জাম"
+        ],
+        "answer": "রস মালাই",
+        "category": "Food"
+    },
+    {
+        "filename": "CHITTRON_5223.png",
+        "question": "পোলগুলোর কাজ কি?",
+        "options": [
+            "মোবাইল যোগাযোগ",
+            "বিদ্যুৎ পরিবহন",
+            "ইন্টারনেট যোগাযোগ",
+            "রেডিও যোগাযোগ"
+        ],
+        "answer": "বিদ্যুৎ পরিবহন",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_5249.png",
+        "question": "এটি কোন স্টেশন?",
+        "options": [
+            "বরিশাল",
+            "কুষ্টিয়া",
+            "ব্রাহ্মণবাড়িয়া",
+            "সিলেট"
+        ],
+        "answer": "ব্রাহ্মণবাড়িয়া",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_532.png",
+        "question": "গোলাকৃতির জিনিসগুলো কি?",
+        "options": [
+            "পাইপ",
+            "চাকা",
+            "রুলেট",
+            "কেবল"
+        ],
+        "answer": "পাইপ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5323.png",
+        "question": "লোকটি পেশায় কি?",
+        "options": [
+            "মুদি দোকানদার",
+            "মুচি",
+            "কৃষক",
+            "ফেরিওয়ালা"
+        ],
+        "answer": "ফেরিওয়ালা",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5332.png",
+        "question": "এটি কোথাকার ছবি?",
+        "options": [
+            "স্কুল",
+            "লাইব্রেরী",
+            "মাদ্রাসা",
+            "পূজা মণ্ডপ"
+        ],
+        "answer": "লাইব্রেরী",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5337.png",
+        "question": "এটি কিসের ক্ষেত?",
+        "options": [
+            "ধান",
+            "গম",
+            "শরিষা",
+            "পাট"
+        ],
+        "answer": "শরিষা",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_5343.png",
+        "question": "ছবিটি কোথায় তোলা?",
+        "options": [
+            "মাছ-মাংসের বাজার",
+            "কাচা বাজার",
+            "মোবাইল বাজার",
+            "বইয়ের বাজার"
+        ],
+        "answer": "কাচা বাজার",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5374.png",
+        "question": "এটি কোথায় অবস্থিত?",
+        "options": [
+            "বিসনাকান্দি",
+            "জাফলং",
+            "লাল খাল",
+            "গুলিয়াখালি"
+        ],
+        "answer": "বিসনাকান্দি",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_4043.png",
+        "question": "মুভির চরিত্রের নাম -",
+        "options": [
+            "ইথান হান্ট",
+            "জনি ইংলিশ",
+            "জেম্‌স বন্ড",
+            "অস্টিন পাওয়ারস"
+        ],
+        "answer": "জেম্‌স বন্ড",
+        "category": "Arts & History"
+    },
+    {
+        "filename": "CHITTRON_4325.png",
+        "question": "পাখির নাম -",
+        "options": [
+            "দোয়েল",
+            "কোকিল",
+            "ময়না",
+            "কাক"
+        ],
+        "answer": "কাক",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_4965.png",
+        "question": "ছবিতে বাহনটি কীসের?",
+        "options": [
+            "লন মোয়ার",
+            "টেম্পু",
+            "ট্রাক",
+            "ট্র্যাক্টর"
+        ],
+        "answer": "ট্র্যাক্টর",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5044.png",
+        "question": "এটি কোন মসজিদ?",
+        "options": [
+            "বিকাল বাজার মসজিদ",
+            "ট্যাঙ্কার পার",
+            "সোনা মসজিদ",
+            "রূপালী মসজিদ"
+        ],
+        "answer": "বিকাল বাজার মসজিদ",
+        "category": "Social Life"
+    },
+    {
+        "filename": "CHITTRON_5138.png",
+        "question": "ছবিটি কোথায় তোলা?",
+        "options": [
+            "টেঙ্কের পাড়",
+            "জাফলং",
+            "রাতারগুল",
+            "গুলিয়াখালি"
+        ],
+        "answer": "টেঙ্কের পাড়",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_5144.png",
+        "question": "ঝরনাটির নাম কি?",
+        "options": [
+            "খৈয়াছড়া",
+            "শুভলং",
+            "সংগ্রামপুঞ্জি",
+            "হাম হাম"
+        ],
+        "answer": "খৈয়াছড়া",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_5152.png",
+        "question": "খাবারের নাম কি?",
+        "options": [
+            "বার্গার",
+            "পিঠা",
+            "রুটি",
+            "বাকরখানি"
+        ],
+        "answer": "বাকরখানি",
+        "category": "Food"
+    },
+    {
+        "filename": "CHITTRON_5335.png",
+        "question": "এটি কোন ঝরনা?",
+        "options": [
+            "হাম হাম",
+            "জাফলং",
+            "খৈয়াছড়া",
+            "শুভলং"
+        ],
+        "answer": "খৈয়াছড়া",
+        "category": "Nature"
+    },
+    {
+        "filename": "CHITTRON_5347.png",
+        "question": "ছবিটি কোথায় তোলা?",
+        "options": [
+            "রাঙামাটি",
+            "সাজেক",
+            "ভোলা",
+            "ব্রাহ্মণবাড়ীয়া"
+        ],
+        "answer": "ব্রাহ্মণবাড়ীয়া",
+        "category": "Social Life"
+    }
+]

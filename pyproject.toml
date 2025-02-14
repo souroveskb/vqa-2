@@ -14,6 +14,10 @@ tqdm = "^4.67.1"
 openai = "^1.61.1"
 anthropic = "^0.45.2"
 google-generativeai = "^0.8.4"
+opencv-python = "^4.11.0.86"
+normalizer = {git = "https://github.com/csebuetnlp/normalizer"}
+wordcloud = {git = "https://github.com/amueller/word_cloud.git"}
+seaborn = "^0.13.2"
 
 
 [tool.poetry.group.dev.dependencies]
